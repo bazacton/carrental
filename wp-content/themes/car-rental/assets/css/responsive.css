@@ -1,0 +1,474 @@
+/* 1170px to 980px or 768px */
+
+@media screen and (max-width: 1170px) {
+.cs-caption { right: 20px; }
+.cs-caption h3,
+.cs-caption span { font-size: 35px; }
+.banner-search { bottom: 73px; }
+/*.apps a { width: 48%; }*/ 
+#footer .widget.widget_text img { width: 100%; }
+.booking-tabs li:last-child { width: 27%; }
+.booking-tabs li {
+	width: 34%;
+	margin-right: 15px;
+}
+.page-content .section-fullwidth .cs-listing.fancy-view.simple-view .listing-text, .page-content .section-fullwidth .fancy-btm{width:100%;}
+.main-section .fancy-btm{position:none;}
+.booking-heading { width: 70%; }
+ul.partner-list li { width: 49%; }
+.station-info { width: 20%; }
+.location-number { width: 27%; }
+.loaction-address-inner { width: 45%; }
+.location-number-inner { width: 29%; }
+.monthly-permotion-list li span {
+	float: none;
+	display: block;
+}
+ul.tab-list li a { padding: 7px 12px 5px 45px; }
+.date-holder .date input,
+.date-holder .time input { font-size: 12px; }
+.info-btn .book-btn { padding: 3px 10px 0; }
+.check-box label{font-size:10px;}
+.cs-blog .blog-silder .blog-text{top:15px;}
+.navigation > ul > li > a{padding: 12px 22px 16px;}
+.page-not-found figure, .page-not-found .cs-content404{position: relative; z-index: 99;}
+.main-section .fancy-btm{width: 100%; float: left; position: relative;}
+.main-section .page-sidebar ~ .page-content .cs-listing.simple-view .listing-text{width: 56%;}
+.main-section .info-btn a{font-size: 14px;}
+.main-section .cs-listing.fancy-view.simple-view .cs-media{float: left; width: 300px; margin-bottom: 10px;}
+.main-section .cs-listing .cs-media .user-dialog{width: 90%;}
+.main-section .cs-listing .cs-media .user-dialog .features-box, .main-section .cs-listing .cs-media .user-dialog .features-detail{width: 50%;}
+.main-section .cs-listing .cs-media .user-dialog .features-detail{float: left;}
+.main-section .loaction-address-inner i{margin-bottom: 8px;}
+.main-section .car-rental .slick-next, .main-section .car-rental .slick-prev{top: -38px;}
+.main-section .date-holder .date input, .main-section .date-holder .time input{padding: 40px 8px 0;}
+.main-section .fancy-btm{text-align: center;}
+.main-section ul.facility-list li, .main-section .email{float: none; display: inline-block;}
+.main-section .cs-counter article{padding: 35px 20px;}
+.our-deals .price-sec{top:-50px;}
+.cs-listing.fancy-view.simple-view .listing-text{width: 58%;}
+
+}
+
+@media screen and (max-width:1199px) {
+	.section-fullwidth .cs-listing.fancy-view.simple-view .listing-text, .section-fullwidth .fancy-btm {
+	    width: 67.7%;
+	}
+.rtl .cs-blog.blog-medium .blog-text { width: 54%; padding: 5px 0 0 0;}
+}
+
+/* 980px to 768px */
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.apps.col-md-4,
+	.footer-logo{ text-align: center; display: block; float: none; width: 100%;}
+	.apps.col-md-4a,
+	.footer-logo a{
+		display: inline-block;
+		vertical-align: middle;
+		
+	}
+	.lightbox img.alignnone{width:100%;}
+
+/* Responsive Menu */
+	.navigation>ul { display: none !important; }
+	.slicknav_menu { display: block !important; }
+	.navigation > ul > li > a{padding: 12px 22px 16px;}
+	.col-md-9,
+	.colmd-8,
+	.col-md-10,
+	.col-md-12,
+	.fields-area.col-md-12,
+	.page-sidebar,
+	.page-sidebar .page-content,
+	.page-content,
+	.section-sidebar,
+	.page-sidebar .page-content,
+	.page-sidebar ~ .page-content,
+	.page-content ~ .page-sidebar { width: 100%; }
+	.col-md-3,
+	.col-md-4,
+	.col-md-5,
+	.col-md-6 { width: 50%; }
+	.col-md-2,
+	.col-md-1 { width: 33%; }
+	.page-sidebar .widget {
+		display: inline-block;
+		float: none;
+		margin: 0 -4px 30px 10px;
+		width: 48%;
+		vertical-align: top;
+	}
+	/* Header */
+	#header .logo-area { text-align: center; }
+	.logo-area .logo,
+	.logo-area .header-right,
+	.logo-area ul.help-list,
+	.logo-area ul.help-list li {
+		display: inline-block;
+		float: none;
+	}
+	.logo-area ul.help-list { margin: 0px; }
+	.cs-caption,
+	ul.banner-list { display: none; }
+	.banner-search { bottom: 0; }
+	#footer .widget.widget_text img { width: auto; }
+	.our-deals figcaption p {font-size: 10px;line-height: 16px;}
+	.page-not-found figure, .page-not-found .cs-content404{position: relative; z-index: 99;}
+	.main-section .fancy-btm{width: 100%; float: left; position: relative;}
+	.main-section .cs-listing .cs-media .user-dialog{width: 90%;}
+	.main-section .cs-listing .cs-media .user-dialog .features-box, .main-section .cs-listing .cs-media .user-dialog .features-detail{width: 50%;}
+	.main-section .cs-listing .cs-media .user-dialog .features-detail{float: left;}
+	.main-section .loaction-address-inner i{margin-bottom: 8px;}
+	.main-section .car-rental .slick-next, .main-section .car-rental .slick-prev{top: -38px;}
+	.main-section .cs-counter article{padding: 35px 20px;}
+	.our-deals .price-sec{top:-50px;}
+	.cs-listing.fancy-view.simple-view .listing-text{width: 58%;}
+
+	.page-content .section-fullwidth .cs-listing.fancy-view.simple-view .listing-text, .page-content .section-fullwidth .fancy-btm,
+	.main-section .page-sidebar ~ .page-content .cs-listing.simple-view .listing-text,
+	.section-fullwidth .cs-listing.fancy-view.simple-view .cs-media{ width: 100%; }
+	.rtl .cs-blog.blog-medium .cs-media,
+	.rtl .cs-blog.blog-medium .blog-text{
+		width: 100%;
+	}
+	.cs-banner{ margin: 0 0 10px; }
+	.cs-banner ~ .page-section .col-md-12{ padding-bottom: 20px !important; }
+	.cs-banner ~ .page-section{ margin: 0 !important; }
+	.banner-search{ max-width: inherit; position: static; }
+}
+
+/* 767px to 480px */
+@media screen and (max-width: 767px) {
+	.cs-banner ~ .page-section .col-md-12{ padding: 0 15px !important; }
+     .apps.col-md-4,
+	.footer-logo{ text-align: center; display: block; float: none; width: 100%; }
+	.apps.col-md-4a,
+	.footer-logo a{
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.our-deals figure{overflow:hidden;}
+/* Responsive Menu */
+.navigation>ul { display: none; }
+.slicknav_menu { display: block; }
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-12,
+.element-size-50,
+.element-size-67,
+.element-size-75,
+.element-size-100,
+.element-size-50 .col-md-12,
+.element-size-67 .col-md-12,
+.element-size-75 .col-md-12,
+.element-size-100 .col-md-12,
+.element-size-33 .col-md-12,
+.element-size-25 .col-md-12,
+.page-sidebar,
+.page-sidebar .page-content,
+.page-content,
+.section-sidebar,
+.page-content .page-sidebar,
+.page-sidebar ~ .page-content,
+.page-content ~ .page-sidebar { width: 100%; }
+.col-md-1,
+.col-md-2,
+.element-size-33,
+.element-size-25 { width: 50%; }
+/* Header */
+#header .logo-area { text-align: center;padding: 15px 0 15px 0; }
+.logo-area .logo,
+.logo-area .header-right,
+.logo-area ul.help-list,
+.logo-area ul.help-list li {
+	display: inline-block;
+	float: none;
+}
+.main-section .cs-search-area form input{margin-bottom: 5px;}
+.page-not-found figure, .page-not-found .cs-content404{position: relative; z-index: 99;}
+.logo-area ul.help-list { margin: 0px; }
+.banner-search {
+	position: static;
+	margin: 20px auto 0;
+	display: block;
+}
+.cs-listing.simple-view .cs-media{width: 100%;}
+.cs-testimonials article:first-child{margin-bottom: 20px;}
+.main-section .cs-listing.fancy-view.simple-view .cs-media{width: 100%; margin-bottom: 0px;}
+.banner-search h3 { color: #555; }
+.cs-location-list.simple-list ul li { width: 100% }
+.cs-gallry figure img, .cs-team figure img{margin-bottom:0;}
+#footer .widget.widget_text img { width: auto; }
+/*.apps a { width: 30%; }*/
+/*.apps a:last-child { margin-right: 8px; }*/
+#footer .widget.widget_text .apps img { width: 100%; }
+.our-deals figure { float: none; }
+.our-deals figure img { width: 100%; }
+.page-section .our-deals figure img,
+.page-section .cs-services figure img { margin-bottom: 0; }
+.our-deals figcaption .caption-inner {
+	margin-top: 20%;
+	top: 0;
+}
+.cs-caption { display: none; }
+#googleMap { margin-bottom: 20px; }
+.cs-blog .blog-silder .blog-text { top: 0; }
+.cs-blog figure img {
+	width: 100%;
+	margin: 0;
+}
+.section-fullwidth .cs-listing.fancy-view.simple-view .listing-text, .section-fullwidth .fancy-btm,
+.cs-listing.fancy-view.simple-view .listing-text{width: 100% !important;}
+ul.booking-tabs li {
+	margin-bottom: 20px;
+	margin-right: 20px;
+	width: 46%;
+}
+.booking-heading { width: 90%; }
+.booking-peice {
+	float: left;
+	width: 100%;
+}
+.booking-peice span {
+	display: inline-block;
+	float: none;
+	margin-left: 20px;
+}
+.main-section .page-sidebar ~ .page-content .cs-listing.simple-view .listing-text { overflow: visible; width: 100%; }
+.main-section .fancy-btm {
+	float: left;
+	overflow: visible;
+	position: relative;
+}
+.main-section .loaction-address { min-width: 188px; width: auto; }
+.main-section .location-number { min-width: 188px; width: auto; }
+.main-section .station-info { width: 30%; }
+.main-section .monthly-permotion-list li span {
+	display: inline;
+	float: right;
+}
+.cs-default.simple .cs-button a,
+.page-not-found .cs-content404 .cs-button a {
+	position: relative;
+	z-index: 5;
+}
+.countdown-alt-2 .item { margin-right: 10px; }
+.location-list { width: 15%; margin-bottom: 10px; }
+.cs-blog figure figcaption { display: none; }
+.location-number {float: right; width: 32%;}
+.loaction-address { width: 70%;}
+.main-section .cs-classic-form .comment-respond p, .main-section #scroll-box .scroll-content, .main-section .modal-body ul.cs-checkbox li{width: 100%!important;}
+.main-section .promo-box.simple{background-size: cover!important;}
+.main-section .user-dialog{width: 90%;}
+.main-section .user-dialog .features-box, .main-section .cs-listing .cs-media .user-dialog .features-detail{width: 100%!important;}
+.main-section  .user-dialog .features-detail{float: left;}
+.main-section .user-dialog .features-box{margin-left: 0px;}
+.main-section .user-dialog .modal-body{padding-left: 0px !important;}
+.main-section .modal-body{height: 100%!important;}
+.main-section .widget-searchform .tab-area{margin-bottom: 30px;}
+.main-section .loaction-address-inner{width: 50%; float: none; display: inline-block;}
+.main-section .company-logo figure{display: inline-block; float: none; display: inline-block;}
+.main-section .company-logo{width: 100%;}
+.main-section .loaction-address-inner i{margin-bottom: 0px;}
+.main-section .location-detail{width: 100%; text-align: center;}
+.main-section .location-number-inner{width: 40%; float: none; display: inline-block;}
+.main-section .car-rental .slick-next, .main-section .car-rental .slick-prev{top: -38px;}
+
+.cs-testimonials article{ margin: 0 -4px 20px 0 !important; }
+.cs-banner{ margin: 0 0 10px; }
+.cs-banner ~ .page-section{ margin: 0 !important; }
+.rtl .cs-blog.blog-medium .cs-media,
+.rtl .cs-blog.blog-medium .blog-text{
+	width: 100%;
+}
+.banner-search{ max-width: inherit;}
+ul.booking-tabs li::after{ display: none; }
+}
+/* 480px to 320px */
+@media screen and (max-width: 590px) {
+body.has_sticky #main-content {
+    padding: 284px 0 0;
+}
+.element-size-25,
+.element-size-33 { width: 100%; }
+.cs-blog.blog-medium .cs-media {
+	float: none;
+	margin: 0;
+	width: 100%;
+}
+.cons-footer .cs-search-area form input{ width: 100%; }
+.search-submit.under-search{ width: 100%; }
+.main-section .loaction-address-inner, .main-section .location-number-inner{width: 52%; float: none; display: inline-block;}
+.main-section .user-dialog{width: 90%;}
+.main-section  .user-dialog .features-box, .main-section .user-dialog .features-detail, 
+.main-section .modal-body ul.cs-checkbox li{width: 100% !important;}
+.main-section .user-dialog .features-detail{float: left;}
+.main-section  .modal-body, .main-section .scroll-content{height: 100% !important;}
+.main-section .scroll-content{width: 100%; padding: 10px 0 0 20px;}
+.cs-blog.blog-medium .blog-text {overflow: visible; float: left; width: 100% !important;}
+.fancy-btm{text-align: center; width: 100%;}
+.fancy-btm ul.facility-list li, .fancy-btm .email, .fancy-btm ul.facility-list{display: inline-block; float: none;}
+.cs-listing .fancy-btm ul.facility-list li{padding-bottom: 0px;}
+.booking-heading { width: 85%; }
+ul.booking-tabs li,
+ul.booking-tabs li:last-child {
+	margin-right: 0;
+	width: 100%;
+}
+ul.partner-list li,
+.booking-left { width: 100%; }
+.cs-listing.simple-view .listing-text {
+	float: left;
+	overflow: visible;
+}
+.cs-listing.simple-view .cs-media,
+.cs-listing.fancy-view .cs-media {
+	float: none;
+	width: 100%;
+}
+.cs-listing figure img {
+	width: 100%;
+	margin: 0;
+}
+.main-section .fancy-right,
+.main-section .fancy-left { width: 100%; float: none; padding:0px; }
+.location-list { width: 25%; }
+.loaction-address { width: 65%; }
+.location-number {width: 35%;}
+.phone-number{width:auto;}
+.station-info { width: 40%; }
+.location-number-inner { width: 100%; }
+.loaction-address-inner { width: 100%; }
+.countdown-alt-2 .item {
+	margin-bottom: 15px;
+	margin-right: 10px;
+}
+.page-not-found { padding: 154px 10px 190px; }
+.page-not-found figure img { width: 100%; }
+.cons-footer .cs-search-area form input { margin-bottom: 5px; }
+ul.fliter-list { text-align: center; }
+ul.fliter-list li {
+	margin-bottom: 10px;
+	margin-left: 0;
+	padding: 0 10px 10px;
+}
+.main-section .location-detail{ text-align: center; width: 100%;}
+.main-section .company-logo, .main-section .loaction-address-inner{width: 55%;}
+.main-section .loaction-address-inner i{margin-bottom: 0px;}
+
+.cs-testimonials article{ margin: 0 -4px 20px 0 !important; }
+
+}
+/* 480px to 320px */
+
+@media screen and (max-width: 480px) {
+.element-size-33,
+.element-size-25,
+.element-size-50,
+.element-size-67,
+.element-size-75,
+.element-size-100,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-12,
+ .element-size-50 .col-md-12,
+.element-size-67 .col-md-12,
+.element-size-75 .col-md-12,
+.element-size-100 .col-md-12,
+.element-size-33 .col-md-12,
+.element-size-25 .col-md-12,
+.page-sidebar,
+.page-sidebar .page-content,
+.page-content,
+.section-sidebar,
+.page-content .page-sidebar,
+.page-sidebar ~ .page-content { width: 100%; }
+.cs-banner ~ .page-section .lightbox.col-md-12{padding-bottom:20px !important}
+.our-deals .price-sec {right: 10px;top: -38px;}
+.cs-section-title{margin:0 20px 20px 0;}
+.alignnone img{
+	width:100%;
+}
+
+/*.apps a { width: 47%; }*/
+.panel-group.cs-default.simple .panel-heading a { font-size: 13px; }
+ul.tab-list {
+	float: none;
+	overflow: hidden;
+	margin: 0;
+}
+.cs-listing.simple-view .modal-dialog{width: 100%;}
+.cs-listing.fancy-view.simple-view .listing-text{width: 100%;}
+.main-section .location-detail li{padding:16px 20px; }
+.main-section .loaction-address-inner i{margin-bottom: 0px;}
+.main-section .company-logo{ width: 50%; float: none; display: inline-block;}
+.main-section .loaction-address-inner, .main-section .location-number-inner{width: 52%; float: none; display: inline-block;}
+.profile-setting.tab-content { float: left; }
+ul.banner-list {float: none;padding: 0;}
+.fancy-btm {text-align: center; float: left; width: 100%;}
+.fancy-btm ul.facility-list li, .fancy-btm .email, .fancy-btm ul.facility-list{float: none !important; display: inline-block;}
+ul.banner-list li { width: 43%; font-size: 12px;}
+.cs-location-list.simple-list .location-number,
+.cs-location-list.simple-list .loaction-address {width: 100%;text-align: left;}
+.breadcrumbs{float:none;}
+.pagination ul li a{padding:16px 14px;}
+.pagination ul li:last-child a, .pagination ul li:first-child a{padding:14px 6px 13px;}
+.location-number { width: 50%; }
+#cs-comments .children{margin-left:0;}
+.blog-detail h1{font-size:20px;}
+.cs-tags ul li, .cs-tags i{margin-bottom:4px;}
+.price-box.pull-left, .info-btn.pull-right{width: 100%; float: none!important; text-align: center;}
+.main-section .info-btn a, .price-box.pull-left .current-price{display: inline-block; float: none;}
+
+}
+
+@media screen and (max-width: 599px) {
+	.rtl .location-number,
+	.rtl .loaction-address,
+	.rtl .location-list,
+	.location-number,
+	.loaction-address,
+	.location-list{
+		float: none;
+		display: block;
+		overflow: hidden;
+		width: 100%;
+		text-align: center;
+	}
+	.rtl .location-number i,
+	.location-number i{
+		float: none;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.rtl .location-number .phone-number,
+	.location-number .phone-number{
+		float: none;
+		display: inline-block;
+		vertical-align: top;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.location-list{ margin-bottom:10px;}
+	.location-number, .loaction-address, .station-info { width: 100%; float:none; }
+	.main-section .loaction-address-inner, .main-section .location-number-inner{width: 85%; float: none; display: inline-block;}
+	
+
+	
+}

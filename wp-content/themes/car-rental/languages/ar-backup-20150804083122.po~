@@ -1,0 +1,6051 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Luxury Hotel v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Tue Aug 04 2015 13:28:27 GMT+0500 (Pakistan Standard Time)\n"
+"Last-Translator: admin <test@gmail.com>\n"
+"Language-Team: \n"
+"Language: Arabic\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: U.A.E.\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: ar_AE"
+
+#: ../404.php:20
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr "نحن آسفون ، ولكن عدم وجود الصفحة التي كنت تبحث عنها."
+
+#: ../404.php:21
+msgid "Go to Homepage"
+msgstr "الذهاب إلى الصفحة الرئيسية"
+
+#: ../comments.php:19 ../comments.php:25
+msgid "Older Comments"
+msgstr "أقدم تعليقات"
+
+#: ../comments.php:20 ../comments.php:26
+msgid "Newer Comments"
+msgstr "أحدث تعليقات"
+
+#: ../comments.php:39
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"يمكنك استخدام هذه <ابر عنوان =  \"لغة توصيف النص التشعبي \"> HTML </ ابر> "
+"العلامات والصفات: %s"
+
+#: ../comments.php:40
+msgid "You must be  to post a comment."
+msgstr "يجب أن تكون مرحلة ما بعد تعليق."
+
+#: ../comments.php:41
+msgid "Log out"
+msgstr "خروج"
+
+#: ../comments.php:41
+msgid "Logged in as"
+msgstr "تسجيل الدخول ك"
+
+#: ../comments.php:42
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "الحقول الإلزامية مشار إليها %s"
+
+#: ../comments.php:52
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: ../comments.php:56
+msgid "Website"
+msgstr "الموقع"
+
+#: ../comments.php:59
+msgid "Enter Message"
+msgstr "اكتب رسالتك"
+
+#: ../comments.php:69 ../comments.php:70
+msgid "Leave us a comment"
+msgstr "ترك لنا تعليق"
+
+#: ../comments.php:71
+msgid "Cancel reply"
+msgstr "إلغاء الرد"
+
+#: ../comments.php:72 ../functions.php:2609 ../include/theme-components/cs-
+#: importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr "عرض"
+
+#: ../footer.php:36
+msgid "All rights reserved"
+msgstr "جميع الحقوق محفوظة"
+
+#: ../functions.php:2111
+msgid "WP Hotel Booking"
+msgstr "WP حجز الفنادق"
+
+#: ../functions.php:2121 ../include/metaboxes/general-settings.php:39 ..
+#: /include/theme-options/theme_options.php:181 ../include/theme-
+#: options/theme_options.php:650
+msgid "Revolution Slider"
+msgstr "الثورة المتزلج"
+
+#: ../functions.php:2131
+msgid "CS Framework"
+msgstr "الإطار CS"
+
+#: ../functions.php:2172 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:268
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: ../functions.php:2173 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:269
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#: ../functions.php:2174 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:270
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "تثبيت البرنامج المساعد: %s"
+
+#: ../functions.php:2175
+msgid "Something went wrong with the plugin API."
+msgstr "ذهب شيء خاطئ مع API المساعد."
+
+#: ../functions.php:2176 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:272
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "هذا موضوع يتطلب البرنامج المساعد التالية: %1$s ."
+msgstr[1] "هذا موضوع يتطلب البرنامج المساعد التالية: %1$s ."
+msgstr[2] "هذا موضوع يتطلب البرنامج المساعد التالية: %1$s ."
+msgstr[3] "هذا موضوع يتطلب البرنامج المساعد التالية: %1$s ."
+msgstr[4] "هذا موضوع يتطلب البرنامج المساعد التالية: %1$s ."
+msgstr[5] "هذا موضوع يتطلب البرنامج المساعد التالية: %1$s ."
+
+#: ../functions.php:2177 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:277
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "هذا الموضوع يوصي المساعد التالية: %1$s ."
+msgstr[1] "هذا الموضوع يوصي المساعد التالية: %1$s ."
+msgstr[2] "هذا الموضوع يوصي المساعد التالية: %1$s ."
+msgstr[3] "هذا الموضوع يوصي المساعد التالية: %1$s ."
+msgstr[4] "هذا الموضوع يوصي المساعد التالية: %1$s ."
+msgstr[5] "هذا الموضوع يوصي المساعد التالية: %1$s ."
+
+#: ../functions.php:2178
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد مثبتة."
+msgstr[1] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد مثبتة."
+msgstr[2] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد مثبتة."
+msgstr[3] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد مثبتة."
+msgstr[4] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد مثبتة."
+msgstr[5] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد مثبتة."
+
+#: ../functions.php:2179 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:287
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "البرنامج المساعد المطلوب التالية غير نشط حاليا: %1$s ."
+msgstr[1] "البرنامج المساعد المطلوب التالية غير نشط حاليا: %1$s ."
+msgstr[2] "البرنامج المساعد المطلوب التالية غير نشط حاليا: %1$s ."
+msgstr[3] "البرنامج المساعد المطلوب التالية غير نشط حاليا: %1$s ."
+msgstr[4] "البرنامج المساعد المطلوب التالية غير نشط حاليا: %1$s ."
+msgstr[5] "البرنامج المساعد المطلوب التالية غير نشط حاليا: %1$s ."
+
+#: ../functions.php:2180 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:292
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "البرنامج المساعد الموصى بها التالية غير نشط حاليا: %1$s ."
+msgstr[1] "البرنامج المساعد الموصى بها التالية غير نشط حاليا: %1$s ."
+msgstr[2] "البرنامج المساعد الموصى بها التالية غير نشط حاليا: %1$s ."
+msgstr[3] "البرنامج المساعد الموصى بها التالية غير نشط حاليا: %1$s ."
+msgstr[4] "البرنامج المساعد الموصى بها التالية غير نشط حاليا: %1$s ."
+msgstr[5] "البرنامج المساعد الموصى بها التالية غير نشط حاليا: %1$s ."
+
+#: ../functions.php:2181
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد تفعيلها."
+msgstr[1] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد تفعيلها."
+msgstr[2] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد تفعيلها."
+msgstr[3] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد تفعيلها."
+msgstr[4] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد تفعيلها."
+msgstr[5] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد تفعيلها."
+
+#: ../functions.php:2182 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:302
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"يحتاج البرنامج المساعد التالية ليتم تحديثه إلى الإصدار الأحدث لضمان أقصى قدر "
+"من التوافق مع هذا الموضوع: %1$s ."
+msgstr[1] ""
+"يحتاج البرنامج المساعد التالية ليتم تحديثه إلى الإصدار الأحدث لضمان أقصى قدر "
+"من التوافق مع هذا الموضوع: %1$s ."
+msgstr[2] ""
+"يحتاج البرنامج المساعد التالية ليتم تحديثه إلى الإصدار الأحدث لضمان أقصى قدر "
+"من التوافق مع هذا الموضوع: %1$s ."
+msgstr[3] ""
+"يحتاج البرنامج المساعد التالية ليتم تحديثه إلى الإصدار الأحدث لضمان أقصى قدر "
+"من التوافق مع هذا الموضوع: %1$s ."
+msgstr[4] ""
+"يحتاج البرنامج المساعد التالية ليتم تحديثه إلى الإصدار الأحدث لضمان أقصى قدر "
+"من التوافق مع هذا الموضوع: %1$s ."
+msgstr[5] ""
+"يحتاج البرنامج المساعد التالية ليتم تحديثه إلى الإصدار الأحدث لضمان أقصى قدر "
+"من التوافق مع هذا الموضوع: %1$s ."
+
+#: ../functions.php:2183
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد المحدثة."
+msgstr[1] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد المحدثة."
+msgstr[2] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد المحدثة."
+msgstr[3] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد المحدثة."
+msgstr[4] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد المحدثة."
+msgstr[5] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد المحدثة."
+
+#: ../functions.php:2184 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:312
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "بدء تثبيت البرنامج المساعد"
+msgstr[1] "بدء تثبيت البرنامج المساعد"
+msgstr[2] "بدء تثبيت البرنامج المساعد"
+msgstr[3] "بدء تثبيت البرنامج المساعد"
+msgstr[4] "بدء تثبيت البرنامج المساعد"
+msgstr[5] "بدء تثبيت البرنامج المساعد"
+
+#: ../functions.php:2185
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "تفعيل البرنامج المساعد مثبت"
+msgstr[1] "تفعيل البرنامج المساعد مثبت"
+msgstr[2] "تفعيل البرنامج المساعد مثبت"
+msgstr[3] "تفعيل البرنامج المساعد مثبت"
+msgstr[4] "تفعيل البرنامج المساعد مثبت"
+msgstr[5] "تفعيل البرنامج المساعد مثبت"
+
+#: ../functions.php:2186 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:322
+msgid "Return to Required Plugins Installer"
+msgstr "العودة إلى مطلوب الإضافات المثبت"
+
+#: ../functions.php:2187 ../include/theme-components/cs-activation-
+#: plugins/tgm_plugin_activation.php:324 ../include/theme-components/cs-
+#: activation-plugins/tgm_plugin_activation.php:2277
+msgid "Plugin activated successfully."
+msgstr "المساعد تفعيلها بنجاح."
+
+#: ../functions.php:2188
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "جميع الإضافات المثبتة وتفعيلها بنجاح. %s"
+
+#: ../functions.php:2430
+msgid "CS Theme Option"
+msgstr "CS موضوع الخيار"
+
+#: ../functions.php:2431 ../include/theme-components/cs-importer/theme_importer.
+#: php:149
+msgid "Import Demo Data"
+msgstr "استيراد تجريبي البيانات"
+
+#: ../functions.php:2608
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr "هذه الوظيفة هي كلمة السر المحمية. لمشاهدته الرجاء إدخال كلمة المرور أدناه:"
+
+#: ../functions.php:2672
+msgid "Featured"
+msgstr "ظهرت"
+
+#: ../functions.php:2689 ../include/shortcodes/admin_functions.php:265 ..
+#: /include/shortcodes/admin_functions.php:1805 ..
+#: /include/shortcodes/admin_functions.php:1895 ../include/shortcodes/admin/quote.
+#: php:82 ../include/shortcodes/admin/testimonial.php:147
+msgid "Author"
+msgstr "الكاتب"
+
+#: ../functions.php:2689 ../functions.php:2692 ../functions.php:2706
+msgid "Archives"
+msgstr "أرشيف"
+
+#: ../functions.php:2692 ../include/metaboxes/post_meta.php:270 ..
+#: /include/shortcodes/frontend/sitemap.php:72
+msgid "Tags"
+msgstr "الكلمات"
+
+#: ../functions.php:2694
+#, php-format
+msgid "Search Results : %s"
+msgstr "نتائج البحث: %s"
+
+#: ../functions.php:2696
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "الأرشيف اليومي: %s"
+
+#: ../functions.php:2698
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "الأرشيف الشهري: %s"
+
+#: ../functions.php:2698
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "السنة المالية"
+
+#: ../functions.php:2700
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "المحفوظات السنوية: %s"
+
+#: ../functions.php:2700
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../functions.php:2702
+msgid "Error 404"
+msgstr "خطأ 404"
+
+#: ../functions.php:2704
+msgid "Home"
+msgstr "منزل"
+
+#: ../functions.php:2724
+msgid "No results found."
+msgstr "لا توجد نتائج."
+
+#: ../functions.php:2730
+#, php-format
+msgid "<p>Ready to publish your first post? <a href=\"%1$s\">Get Started Here</a>.</p>"
+msgstr "<p> وعلى استعداد لنشر أول وظيفة؟ <a href=\" %1$s \"> تبدأ هنا </A>. </ P>"
+
+#: ../functions.php:2740
+msgid "Suggestions:"
+msgstr "الاقتراحات:"
+
+#: ../functions.php:2744
+msgid "Make sure all words are spelled correctly"
+msgstr "تأكد من كتابة الكلمات بشكل صحيح"
+
+#: ../functions.php:2747
+msgid "Wildcard searches (using the asterisk *) are not supported"
+msgstr "غير معتمدة البحث البدل (استخدام علامة النجمة *)"
+
+#: ../functions.php:2750
+msgid "Try more general keywords, especially if you are attempting a name"
+msgstr "استخدم كلمات عامة، وخاصة إذا كنت تحاول اسم"
+
+#: ../functions.php:2756
+msgid ""
+"It seems we can&quote find what you&rsquo;re looking for Perhaps searching "
+"can help"
+msgstr ""
+"يبدو أننا يمكن الاقتباس وتجد ما و[رسقوو]؛ اعادة النظر للبحث ربما يمكن أن "
+"تساعد"
+
+#: ../functions.php:2821
+msgid "Prev"
+msgstr "السابق"
+
+#: ../functions.php:2828
+msgid "Next"
+msgstr "التالى"
+
+#: ../functions.php:2909 ../include/theme-options/theme_options.php:1179
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: ../functions.php:3027
+msgid "Like This"
+msgstr "مثله"
+
+#: ../functions.php:3201 ../page_contact_submit.php:27
+msgid "Name:"
+msgstr "الاسم:"
+
+#: ../functions.php:3205 ../page_contact_submit.php:31
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#: ../functions.php:3213 ../page_contact_submit.php:39
+msgid "Message:"
+msgstr "رسالة:"
+
+#: ../functions.php:3766
+msgid "This widget will be displayed on right/left side of the page."
+msgstr "سيتم عرض هذه القطعة على الجانب الأيمن / الأيسر من الصفحة."
+
+#: ../functions.php:3777
+msgid "Primary Sidebar"
+msgstr "الشريط الجانبي الرئيسي"
+
+#: ../functions.php:3779
+msgid "Main sidebar that appears on the right."
+msgstr "الشريط الجانبي الرئيسي الذي يظهر على اليمين."
+
+#: ../functions.php:3793
+msgid "This Widget Show the Content in Footer Area."
+msgstr "هذه القطعة عرض المحتوى في تذييل المنطقة."
+
+#: ../functions.php:3838 ../include/shortcodes/admin_functions.php:310
+msgid "Edit"
+msgstr "تحرير"
+
+#: ../functions.php:3875 ../functions.php:3876 ../functions.php:3877 ../functions.
+#: php:3910 ../functions.php:3911 ../functions.php:3912 ../include/theme-
+#: components/cs-mailchimp/mailchimp_functions.php:24 ../include/theme-
+#: components/cs-mailchimp/mailchimp_functions.php:24 ../include/theme-
+#: components/cs-mailchimp/mailchimp_functions.php:24
+msgid "Your Email"
+msgstr "بريدك الالكتروني"
+
+#: ../functions.php:3881 ../functions.php:3916 ../include/theme-components/cs-
+#: mailchimp/mailchimp_functions.php:25
+msgid "SUBSCRIBE NOW"
+msgstr "اشترك الان"
+
+#: ../functions.php:4010
+msgid "Sorry, We are down for maintenance"
+msgstr "آسف، نحن أسفل للصيانة"
+
+#: ../functions.php:4107
+msgid "Current Page"
+msgstr "الصفحة الحالية"
+
+#: ../page_contact_submit.php:43
+msgid "IP Address:"
+msgstr "IP العنوان:"
+
+#: ../search.php:44 ../include/shortcodes/admin/price-table.php:183
+msgid "Featured:"
+msgstr "المميز:"
+
+#: ../searchform.php:9
+msgid "Enter your search"
+msgstr "أدخل بحثك"
+
+#: ../searchform.php:11 ../include/admin_functions.php:226 ..
+#: /include/shortcodes/admin_functions.php:1372
+msgid "Search"
+msgstr "بحث"
+
+#: ../single.php:81
+msgid "Share Post"
+msgstr "حصة المشاركة"
+
+#: ../single.php:91 ../include/metaboxes/post_meta.php:280
+msgid "Related Posts"
+msgstr "الوظائف ذات الصلة"
+
+#: ../cs-templates/blog-styles/blog-grid-plain.php:50 ../cs-templates/blog-
+#: styles/blog-masonry.php:50
+msgid "by"
+msgstr "بواسطة"
+
+#: ../cs-templates/blog-styles/blog-grid-plain.php:51 ../cs-templates/blog-
+#: styles/blog-masonry.php:51
+msgid "Comments"
+msgstr "تعليقات"
+
+#: ../cs-templates/blog-styles/blog-grid-plain.php:54 ../cs-templates/blog-
+#: styles/blog-masonry.php:54
+msgid "1"
+msgstr "1"
+
+#: ../cs-templates/blog-styles/blog-grid-plain.php:54 ../cs-templates/blog-
+#: styles/blog-masonry.php:54
+msgid "%"
+msgstr "٪"
+
+#: ../cs-templates/blog-styles/blog_element.php:52
+msgid "Edit Blog Options"
+msgstr "خيارات تحرير المدونة"
+
+#: ../cs-templates/blog-styles/blog_element.php:60 ..
+#: /include/shortcodes/admin/accordion.php:82 ../include/shortcodes/admin/call-to-
+#: action.php:83 ../include/shortcodes/admin/clients.php:77 ..
+#: /include/shortcodes/admin/contactus.php:69 ..
+#: /include/shortcodes/admin/facilities.php:69 ../include/shortcodes/admin/faq.
+#: php:81 ../include/shortcodes/admin/flex-column.php:131 ..
+#: /include/shortcodes/admin/image-frame.php:77 ..
+#: /include/shortcodes/admin/infobox.php:77 ../include/shortcodes/admin/list.php:
+#: 78 ../include/shortcodes/admin/mailchimp.php:78 ..
+#: /include/shortcodes/admin/map.php:82 ../include/shortcodes/admin/multi-deals.
+#: php:68 ../include/shortcodes/admin/multi-services.php:68 ..
+#: /include/shortcodes/admin/promobox.php:79 ../include/shortcodes/admin/quote.
+#: php:73 ../include/shortcodes/admin/sitemap.php:55 ..
+#: /include/shortcodes/admin/slider.php:92 ../include/shortcodes/admin/table.php:
+#: 101 ../include/shortcodes/admin/tabs.php:76 ../include/shortcodes/admin/team.
+#: php:69 ../include/shortcodes/admin/testimonial.php:69 ..
+#: /include/shortcodes/admin/video.php:67
+msgid "Section Title"
+msgstr "القسم عنوان"
+
+#: ../cs-templates/blog-styles/blog_element.php:67
+msgid "Choose Category"
+msgstr "اختر الفئة"
+
+#: ../cs-templates/blog-styles/blog_element.php:73
+msgid "-- Select Category --"
+msgstr "- اختر القسم -"
+
+#: ../cs-templates/blog-styles/blog_element.php:79
+msgid ""
+"Please select category to show posts. If you dont select category it will "
+"display all posts."
+msgstr ""
+"الرجاء تحديد الفئة لإظهار وظيفة. إذا كنت لا اختيار فئة أنه سيتم عرض جميع "
+"المشاركات."
+
+#: ../cs-templates/blog-styles/blog_element.php:85
+msgid "Blog Design Views"
+msgstr "بلوق التصميم المشاهدات"
+
+#: ../cs-templates/blog-styles/blog_element.php:91
+msgid "Blog Listing"
+msgstr "بلوق قائمة"
+
+#: ../cs-templates/blog-styles/blog_element.php:92
+msgid "Blog Large"
+msgstr "بلوق كبيرة"
+
+#: ../cs-templates/blog-styles/blog_element.php:93
+msgid "Blog Slider"
+msgstr "بلوق المتزلج"
+
+#: ../cs-templates/blog-styles/blog_element.php:98
+msgid "Please select blog view."
+msgstr "يرجى تحديد عرض بلوق."
+
+#: ../cs-templates/blog-styles/blog_element.php:105
+msgid "Post Order"
+msgstr "مشاركة ترتيب"
+
+#: ../cs-templates/blog-styles/blog_element.php:111
+msgid "Asc"
+msgstr "تصاعدي"
+
+#: ../cs-templates/blog-styles/blog_element.php:112
+msgid "DESC"
+msgstr "تنازلي"
+
+#: ../cs-templates/blog-styles/blog_element.php:120
+msgid "Post Description"
+msgstr "آخر الوصف"
+
+#: ../cs-templates/blog-styles/blog_element.php:126 ../include/admin_functions.
+#: php:462 ../include/admin_functions.php:477 ../include/admin_functions.php:494 .
+#: ./include/shortcodes/admin_functions.php:1618 ..
+#: /include/shortcodes/admin_functions.php:1635 ..
+#: /include/shortcodes/admin_functions.php:1691 ..
+#: /include/shortcodes/admin_functions.php:1747 ..
+#: /include/shortcodes/admin_functions.php:1839 ..
+#: /include/shortcodes/admin/accordion.php:179 ../include/shortcodes/admin/button.
+#: php:104 ../include/shortcodes/admin/clients.php:89 ..
+#: /include/shortcodes/admin/clients.php:100 ../include/shortcodes/admin/counters.
+#: php:233 ../include/shortcodes/admin/divider.php:90 ..
+#: /include/shortcodes/admin/faq.php:131 ../include/shortcodes/admin/list.php:109 
+#: ../include/shortcodes/admin/map.php:249 ../include/shortcodes/admin/price-
+#: table.php:188 ../include/shortcodes/admin/promobox.php:117 ..
+#: /include/shortcodes/admin/tabs.php:131
+msgid "Yes"
+msgstr "نعم"
+
+#: ../cs-templates/blog-styles/blog_element.php:127 ../include/admin_functions.
+#: php:463 ../include/admin_functions.php:478 ../include/admin_functions.php:493 .
+#: ./include/shortcodes/admin_functions.php:1619 ..
+#: /include/shortcodes/admin_functions.php:1636 ..
+#: /include/shortcodes/admin_functions.php:1691 ..
+#: /include/shortcodes/admin_functions.php:1747 ..
+#: /include/shortcodes/admin_functions.php:1838 ..
+#: /include/shortcodes/admin/accordion.php:178 ../include/shortcodes/admin/button.
+#: php:105 ../include/shortcodes/admin/clients.php:90 ..
+#: /include/shortcodes/admin/counters.php:234 ../include/shortcodes/admin/divider.
+#: php:91 ../include/shortcodes/admin/faq.php:130 ..
+#: /include/shortcodes/admin/list.php:110 ../include/shortcodes/admin/map.php:250 
+#: ../include/shortcodes/admin/promobox.php:118 ../include/shortcodes/admin/tabs.
+#: php:130
+msgid "No"
+msgstr "لا"
+
+#: ../cs-templates/blog-styles/blog_element.php:136
+msgid "Length of Excerpt"
+msgstr "طول مقتطف"
+
+#: ../cs-templates/blog-styles/blog_element.php:143
+msgid "Enter number of character for short description text."
+msgstr "إدخال عدد من الأحرف لوصف النص القصير."
+
+#: ../cs-templates/blog-styles/blog_element.php:150
+msgid "No. of Post Per Page"
+msgstr "رقم البريد لكل صفحة"
+
+#: ../cs-templates/blog-styles/blog_element.php:157
+msgid "To display all the records, leave this field blank."
+msgstr "لعرض كافة السجلات، وترك هذا الحقل فارغا."
+
+#: ../cs-templates/blog-styles/blog_element.php:163
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: ../cs-templates/blog-styles/blog_element.php:167
+msgid "Show Pagination"
+msgstr "مشاهدة ترقيم الصفحات"
+
+#: ../cs-templates/blog-styles/blog_element.php:168
+msgid "Single Page"
+msgstr "صفحة واحدة"
+
+#: ../cs-templates/blog-styles/blog_element.php:175 ..
+#: /include/shortcodes/admin/accordion.php:241 ../include/shortcodes/admin/button.
+#: php:183 ../include/shortcodes/admin/call-to-action.php:182 ..
+#: /include/shortcodes/admin/clients.php:210 ..
+#: /include/shortcodes/admin/contactus.php:129 ..
+#: /include/shortcodes/admin/counters.php:254 ../include/shortcodes/admin/deals.
+#: php:184 ../include/shortcodes/admin/divider.php:130 ..
+#: /include/shortcodes/admin/facilities.php:171 ../include/shortcodes/admin/faq.
+#: php:181 ../include/shortcodes/admin/flex-column.php:152 ..
+#: /include/shortcodes/admin/heading.php:200 ../include/shortcodes/admin/image-
+#: frame.php:146 ../include/shortcodes/admin/infobox.php:201 ..
+#: /include/shortcodes/admin/list.php:174 ../include/shortcodes/admin/mailchimp.
+#: php:129 ../include/shortcodes/admin/map.php:272 ..
+#: /include/shortcodes/admin/multi-deals.php:203 ..
+#: /include/shortcodes/admin/multi-services.php:308 ..
+#: /include/shortcodes/admin/price-table.php:288 ..
+#: /include/shortcodes/admin/progressbar.php:156 ..
+#: /include/shortcodes/admin/promobox.php:203 ../include/shortcodes/admin/quote.
+#: php:136 ../include/shortcodes/admin/revolution-slider.php:115 ..
+#: /include/shortcodes/admin/services.php:281 ../include/shortcodes/admin/sitemap.
+#: php:64 ../include/shortcodes/admin/slider.php:198 ..
+#: /include/shortcodes/admin/spacer.php:65 ../include/shortcodes/admin/table.php:
+#: 137 ../include/shortcodes/admin/tabs.php:190 ../include/shortcodes/admin/team.
+#: php:174 ../include/shortcodes/admin/testimonial.php:207 ..
+#: /include/shortcodes/admin/tweets.php:86 ../include/shortcodes/admin/video.php:
+#: 115
+msgid "Insert"
+msgstr "إدراج"
+
+#: ../cs-templates/blog-styles/blog_element.php:183 ../include/admin_functions.
+#: php:685 ../include/shortcodes/admin/accordion.php:249 ..
+#: /include/shortcodes/admin/button.php:191 ../include/shortcodes/admin/call-to-
+#: action.php:190 ../include/shortcodes/admin/clients.php:218 ..
+#: /include/shortcodes/admin/contactus.php:137 ..
+#: /include/shortcodes/admin/counters.php:262 ../include/shortcodes/admin/deals.
+#: php:192 ../include/shortcodes/admin/divider.php:138 ..
+#: /include/shortcodes/admin/facilities.php:179 ../include/shortcodes/admin/faq.
+#: php:189 ../include/shortcodes/admin/flex-column.php:161 ..
+#: /include/shortcodes/admin/heading.php:208 ../include/shortcodes/admin/image-
+#: frame.php:154 ../include/shortcodes/admin/infobox.php:209 ..
+#: /include/shortcodes/admin/list.php:183 ../include/shortcodes/admin/mailchimp.
+#: php:137 ../include/shortcodes/admin/map.php:280 ..
+#: /include/shortcodes/admin/multi-deals.php:211 ..
+#: /include/shortcodes/admin/multi-services.php:316 ..
+#: /include/shortcodes/admin/price-table.php:296 ..
+#: /include/shortcodes/admin/progressbar.php:164 ..
+#: /include/shortcodes/admin/promobox.php:211 ../include/shortcodes/admin/quote.
+#: php:144 ../include/shortcodes/admin/revolution-slider.php:123 ..
+#: /include/shortcodes/admin/services.php:289 ../include/shortcodes/admin/sitemap.
+#: php:72 ../include/shortcodes/admin/slider.php:207 ..
+#: /include/shortcodes/admin/spacer.php:73 ../include/shortcodes/admin/table.php:
+#: 145 ../include/shortcodes/admin/tabs.php:198 ../include/shortcodes/admin/team.
+#: php:183 ../include/shortcodes/admin/testimonial.php:215 ..
+#: /include/shortcodes/admin/tweets.php:95
+msgid "Save"
+msgstr "حفظ"
+
+#: ../cs-templates/blog-styles/blog_functions.php:240
+msgid "Likes"
+msgstr "أمثال"
+
+#: ../include/admin_functions.php:81
+msgid "Typography"
+msgstr "طباعة"
+
+#: ../include/admin_functions.php:81
+msgid "Common Elements"
+msgstr "عناصر مشتركة"
+
+#: ../include/admin_functions.php:81
+msgid "Media Element"
+msgstr "وسائل الإعلام العنصر"
+
+#: ../include/admin_functions.php:81
+msgid "Content Blocks"
+msgstr "كتل المحتوى"
+
+#: ../include/admin_functions.php:81
+msgid "Loops"
+msgstr "الحلقات"
+
+#: ../include/admin_functions.php:217 ../include/admin_functions.php:256 ..
+#: /include/shortcodes/admin_functions.php:1360
+msgid "Add Element"
+msgstr "إضافة عنصر"
+
+#: ../include/admin_functions.php:228 ../include/shortcodes/admin_functions.php:
+#: 1374
+msgid "Filter by"
+msgstr "مرشح من قبل"
+
+#: ../include/admin_functions.php:230 ../include/shortcodes/admin_functions.php:
+#: 1376
+msgid "Show all"
+msgstr "عرض الكل"
+
+#: ../include/admin_functions.php:251 ../include/shortcodes/admin_functions.php:
+#: 1398
+msgid "CS: Insert shortcode"
+msgstr "CS: إدراج الرمز القصير"
+
+#: ../include/admin_functions.php:345
+msgid "Edit Page Section"
+msgstr "تحرير القسم الصفحة"
+
+#: ../include/admin_functions.php:351
+msgid "Background View"
+msgstr "الخلفية مشاهدة"
+
+#: ../include/admin_functions.php:357 ../include/metaboxes/post_meta.php:98 ..
+#: /include/metaboxes/post_meta.php:152 ../include/shortcodes/admin/list.php:91
+msgid "None"
+msgstr "لا شيء"
+
+#: ../include/admin_functions.php:358 ../include/admin_functions.php:369 ..
+#: /include/metaboxes/general-settings.php:182 ../include/metaboxes/page_meta.php:
+#: 125 ../include/shortcodes/admin_functions.php:1909 ..
+#: /include/shortcodes/admin/call-to-action.php:121 ..
+#: /include/shortcodes/admin/deals.php:120 ../include/shortcodes/admin/flex-
+#: column.php:78 ../include/shortcodes/admin/price-table.php:147 ..
+#: /include/shortcodes/admin/promobox.php:87
+msgid "Background Image"
+msgstr "الصورة الخلفية"
+
+#: ../include/admin_functions.php:359 ../include/admin_functions.php:428
+msgid "Custom Slider"
+msgstr "العرف المتزلج"
+
+#: ../include/admin_functions.php:360 ../include/metaboxes/post_meta.php:152 ..
+#: /include/shortcodes/admin_functions.php:1246
+msgid "Video"
+msgstr "فيديو"
+
+#: ../include/admin_functions.php:373 ../include/admin_functions.php:446 ..
+#: /include/admin_functions.php:1099 ../include/admin_functions.php:1373 ..
+#: /include/metaboxes/classes/cs_meta_fields_render.php:502 ..
+#: /include/metaboxes/classes/cs_meta_fields_render.php:852 ..
+#: /include/shortcodes/admin_functions.php:1591 ..
+#: /include/shortcodes/admin_functions.php:1913 ..
+#: /include/shortcodes/admin_functions.php:1986 ..
+#: /include/shortcodes/admin_functions.php:2197 ..
+#: /include/shortcodes/admin_functions.php:2338 ..
+#: /include/shortcodes/admin_functions.php:2484 ..
+#: /include/shortcodes/admin_functions.php:2543 ..
+#: /include/shortcodes/admin_functions.php:2619 ../include/shortcodes/admin/call-
+#: to-action.php:125 ../include/shortcodes/admin/clients.php:177 ..
+#: /include/shortcodes/admin/counters.php:167 ../include/shortcodes/admin/deals.
+#: php:124 ../include/shortcodes/admin/facilities.php:125 ..
+#: /include/shortcodes/admin/flex-column.php:84 ../include/shortcodes/admin/image-
+#: frame.php:101 ../include/shortcodes/admin/map.php:179 ..
+#: /include/shortcodes/admin/multi-deals.php:169 ..
+#: /include/shortcodes/admin/multi-services.php:228 ..
+#: /include/shortcodes/admin/price-table.php:151 ..
+#: /include/shortcodes/admin/promobox.php:91 ../include/shortcodes/admin/services.
+#: php:155 ../include/shortcodes/admin/slider.php:129 ..
+#: /include/shortcodes/admin/team.php:106 ../include/shortcodes/admin/testimonial.
+#: php:174 ../include/theme-components/cs-widgets/contactinfo.php:55 ..
+#: /include/theme-options/theme_options_fields.php:1104 ../include/theme-
+#: options/theme_options_fields.php:1156 ../include/theme-
+#: options/theme_options_fields.php:1179 ../include/theme-
+#: options/theme_options_fields.php:1221 ../include/theme-
+#: options/theme_options_fields.php:1322 ../include/theme-
+#: options/theme_options_fields.php:1414 ../include/theme-
+#: options/theme_options_fields.php:1527 ../include/theme-
+#: options/theme_options_fields.php:1698
+msgid "Browse"
+msgstr "تصفح"
+
+#: ../include/admin_functions.php:391 ../include/admin_functions.php:408
+msgid "Background Image Position"
+msgstr "صورة الخلفية الوظيفة"
+
+#: ../include/admin_functions.php:397
+msgid "Select position"
+msgstr "حدد موقف"
+
+#: ../include/admin_functions.php:398 ../include/shortcodes/admin/button.php:149 .
+#: ./include/shortcodes/admin/counters.php:117 ..
+#: /include/shortcodes/admin/heading.php:142 ../include/shortcodes/admin/promobox.
+#: php:169 ../include/shortcodes/admin/services.php:206
+msgid "Left"
+msgstr "اليسار"
+
+#: ../include/admin_functions.php:399 ../include/metaboxes/general-settings.php:
+#: 58 ../include/shortcodes/admin_functions.php:1570 ..
+#: /include/shortcodes/admin/button.php:150 ../include/shortcodes/admin/heading.
+#: php:144 ../include/shortcodes/admin/promobox.php:170 ..
+#: /include/shortcodes/admin/services.php:195 ..
+#: /include/shortcodes/admin/services.php:207
+msgid "Right"
+msgstr "حق"
+
+#: ../include/admin_functions.php:400 ../include/metaboxes/general-settings.php:
+#: 58 ../include/shortcodes/admin_functions.php:1572 ..
+#: /include/shortcodes/admin/heading.php:143 ../include/shortcodes/admin/services.
+#: php:194
+msgid "Center"
+msgstr "مركز"
+
+#: ../include/admin_functions.php:414
+msgid "Repeat"
+msgstr "كرر"
+
+#: ../include/admin_functions.php:415
+msgid "No Repeat"
+msgstr "لا كرر"
+
+#: ../include/admin_functions.php:440 ../include/shortcodes/admin/video.php:82
+msgid "Video Url"
+msgstr "فيديو رابط"
+
+#: ../include/admin_functions.php:450
+msgid "Please enter Vimeo/Youtube Video Url"
+msgstr "الرجاء إدخال فيميو / فيديو يوتيوب رابط"
+
+#: ../include/admin_functions.php:456
+msgid "Enable Mute"
+msgstr "تمكين كتم"
+
+#: ../include/admin_functions.php:471
+msgid "Video Auto Play"
+msgstr "فيديو السيارات اللعب"
+
+#: ../include/admin_functions.php:487
+msgid "Enable Parallax"
+msgstr "تمكين المنظر"
+
+#: ../include/admin_functions.php:502
+msgid "Select View"
+msgstr "حدد عرض"
+
+#: ../include/admin_functions.php:508
+msgid "Box"
+msgstr "صندوق"
+
+#: ../include/admin_functions.php:509
+msgid "Wide"
+msgstr "واسع"
+
+#: ../include/admin_functions.php:517 ../include/metaboxes/general-settings.php:
+#: 128 ../include/metaboxes/page_meta.php:135 ..
+#: /include/shortcodes/admin_functions.php:2005 ..
+#: /include/shortcodes/admin_functions.php:2179 ..
+#: /include/shortcodes/admin_functions.php:2252 ../include/shortcodes/admin/call-
+#: to-action.php:144 ../include/shortcodes/admin/clients.php:152 ..
+#: /include/shortcodes/admin/flex-column.php:120 ..
+#: /include/shortcodes/admin/infobox.php:94 ../include/shortcodes/admin/mailchimp.
+#: php:102 ../include/shortcodes/admin/multi-services.php:151 ..
+#: /include/shortcodes/admin/price-table.php:218 ..
+#: /include/shortcodes/admin/promobox.php:140 ../include/theme-components/cs-
+#: widgets/facebook.php:64 ../include/theme-options/theme_options.php:709 ..
+#: /include/theme-options/theme_options.php:841 ../include/theme-
+#: options/theme_options.php:868 ../include/theme-options/theme_options.php:900
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: ../include/admin_functions.php:527 ../include/metaboxes/general-settings.php:
+#: 104 ../include/theme-options/theme_options.php:658
+msgid "Padding Top"
+msgstr "الحشو الأعلى"
+
+#: ../include/admin_functions.php:533
+msgid "Set the Padding top (In px)"
+msgstr "تعيين أعلى الحشو (في بكسل)"
+
+#: ../include/admin_functions.php:539 ../include/metaboxes/general-settings.php:
+#: 116 ../include/theme-options/theme_options.php:667
+msgid "Padding Bottom"
+msgstr "الحشو القاع"
+
+#: ../include/admin_functions.php:545
+msgid "Set the Padding Bottom (In px)"
+msgstr "تعيين أسفل الحشو (في بكسل)"
+
+#: ../include/admin_functions.php:551 ../include/shortcodes/admin/divider.php:98
+msgid "Margin Top"
+msgstr "الهامش الأعلى"
+
+#: ../include/admin_functions.php:557 ../include/admin_functions.php:593
+msgid "Set the Border Bottom (In px)"
+msgstr "تعيين القاع الحدودية (في بكسل)"
+
+#: ../include/admin_functions.php:563 ../include/shortcodes/admin/divider.php:108
+msgid "Margin Bottom"
+msgstr "أسفل الهامش"
+
+#: ../include/admin_functions.php:569
+msgid "Set the Margin Bottom (In px)"
+msgstr "تعيين أسفل الهامش (بكسل)"
+
+#: ../include/admin_functions.php:575
+msgid "Border Top"
+msgstr "الحدود الأعلى"
+
+#: ../include/admin_functions.php:581
+msgid "Set the Border top (In px)"
+msgstr "تعيين أعلى الحدود (في بكسل)"
+
+#: ../include/admin_functions.php:587 ../include/shortcodes/admin/list.php:105
+msgid "Border Bottom"
+msgstr "أسفل الحدود"
+
+#: ../include/admin_functions.php:599 ../include/metaboxes/general-settings.php:
+#: 148 ../include/shortcodes/admin/button.php:111 ..
+#: /include/shortcodes/admin/counters.php:217 ../include/shortcodes/admin/map.php:
+#: 257 ../include/theme-options/theme_options.php:723
+msgid "Border Color"
+msgstr "اللون الحدود"
+
+#: ../include/admin_functions.php:609 ../include/shortcodes/admin_functions.php:
+#: 1452 ../include/shortcodes/admin_functions.php:1490 ..
+#: /include/shortcodes/admin_functions.php:1653 ..
+#: /include/shortcodes/admin_functions.php:2035 ..
+#: /include/shortcodes/admin/accordion.php:110 ../include/shortcodes/admin/call-
+#: to-action.php:171 ../include/shortcodes/admin/clients.php:117
+msgid "Custom Id"
+msgstr "رقم مخصص"
+
+#: ../include/admin_functions.php:620
+msgid "Select Layout"
+msgstr "حدد تخطيط"
+
+#: ../include/admin_functions.php:643 ../include/metaboxes/general-settings.php:386
+msgid "Select Left Sidebar"
+msgstr "حدد اليسار الشريط الجانبي"
+
+#: ../include/admin_functions.php:659 ../include/admin_functions.php:678 ..
+#: /include/metaboxes/general-settings.php:390 ../include/metaboxes/general-
+#: settings.php:415
+msgid "Add New Sidebar"
+msgstr "إضافة جديد الشريط الجانبي"
+
+#: ../include/admin_functions.php:659 ../include/admin_functions.php:678 ..
+#: /include/metaboxes/general-settings.php:390 ../include/metaboxes/general-
+#: settings.php:415
+msgid "Click Here"
+msgstr "اضغط هنا"
+
+#: ../include/admin_functions.php:664 ../include/metaboxes/general-settings.php:411
+msgid "Select Right Sidebar"
+msgstr "حدد الحق في الشريط الجانبي"
+
+#: ../include/admin_functions.php:832 ../include/admin_functions.php:921
+msgid "Edit Options"
+msgstr "خيارات تحرير"
+
+#: ../include/admin_functions.php:839 ../include/admin_functions.php:927
+msgid "Image Title"
+msgstr "عنوان الصورة"
+
+#: ../include/admin_functions.php:847
+msgid "Image Description"
+msgstr "صورة الوصف"
+
+#: ../include/admin_functions.php:855 ../include/shortcodes/admin_functions.php:
+#: 2023 ../include/shortcodes/admin_functions.php:2656 ../include/theme-
+#: components/cs-widgets/contactinfo.php:102
+msgid "Link"
+msgstr "صلة"
+
+#: ../include/admin_functions.php:863
+msgid "Link Target"
+msgstr "رابط الهدف"
+
+#: ../include/admin_functions.php:870
+msgid "Please select image target"
+msgstr "الرجاء اختيار الهدف وصورة"
+
+#: ../include/admin_functions.php:935
+msgid "Use Image As"
+msgstr "استخدام الصورة حسب"
+
+#: ../include/admin_functions.php:939
+msgid "LightBox to current thumbnail"
+msgstr "صندوق لالمصغرة الحالية"
+
+#: ../include/admin_functions.php:940
+msgid "LightBox to Video"
+msgstr "صندوق لفيديو"
+
+#: ../include/admin_functions.php:941 ../include/admin_functions.php:957 ..
+#: /include/admin_functions.php:1087 ../include/admin_functions.php:1393 ..
+#: /include/theme-options/theme_options_fields.php:1309 ../include/theme-
+#: options/theme_options_fields.php:1364 ../include/theme-
+#: options/theme_options_fields.php:1402 ../include/theme-
+#: options/theme_options_fields.php:1546 ../include/theme-
+#: options/theme_options_fields.php:1718
+msgid "Url"
+msgstr "رابط"
+
+#: ../include/admin_functions.php:943
+msgid "Please select Image link where it will go"
+msgstr "يرجى تحديد رابط الصورة حيث انها سوف تذهب"
+
+#: ../include/admin_functions.php:948
+msgid "Video URL"
+msgstr "URL الفيديو"
+
+#: ../include/admin_functions.php:952
+msgid "Enter Specific Video Url Youtube or Vimeo"
+msgstr "إدخال فيديو خاص رابط يوتيوب أو فيميو"
+
+#: ../include/admin_functions.php:961
+msgid "Enter Specific Link"
+msgstr "أدخل رابط معين"
+
+#: ../include/admin_functions.php:1080 ../include/admin_functions.php:1335 ..
+#: /include/metaboxes/general-settings.php:63 ..
+#: /include/shortcodes/admin_functions.php:2113 ..
+#: /include/shortcodes/admin_functions.php:2172 ..
+#: /include/shortcodes/admin_functions.php:2229 ..
+#: /include/shortcodes/admin_functions.php:2429 ..
+#: /include/shortcodes/admin_functions.php:2515 ..
+#: /include/shortcodes/admin_functions.php:2640 ../include/shortcodes/admin/call-
+#: to-action.php:93 ../include/shortcodes/admin/clients.php:144 ..
+#: /include/shortcodes/admin/deals.php:96 ../include/shortcodes/admin/facilities.
+#: php:97 ../include/shortcodes/admin/heading.php:82 ..
+#: /include/shortcodes/admin/image-frame.php:127 ..
+#: /include/shortcodes/admin/infobox.php:86 ../include/shortcodes/admin/infobox.
+#: php:166 ../include/shortcodes/admin/map.php:91 ..
+#: /include/shortcodes/admin/multi-deals.php:115 ..
+#: /include/shortcodes/admin/multi-services.php:127 ..
+#: /include/shortcodes/admin/price-table.php:113 ..
+#: /include/shortcodes/admin/promobox.php:124 ..
+#: /include/shortcodes/admin/services.php:215 ../include/shortcodes/admin/slider.
+#: php:147 ../include/theme-components/cs-widgets/cs_flickr.php:38 ..
+#: /include/theme-components/cs-widgets/facebook.php:35 ../include/theme-
+#: components/cs-widgets/mailchimp.php:36 ../include/theme-components/cs-
+#: widgets/social_network.php:35 ../include/theme-options/theme_options_fields.
+#: php:1302 ../include/theme-options/theme_options_fields.php:1394 ..
+#: /include/theme-options/theme_options_fields.php:1491 ../include/theme-
+#: options/theme_options_fields.php:1586 ../include/theme-
+#: options/theme_options_fields.php:1660
+msgid "Title"
+msgstr "لقب"
+
+#: ../include/admin_functions.php:1091 ../include/theme-
+#: options/theme_options_fields.php:1406
+msgid "Please enter full Url"
+msgstr "يرجى إدخال عنوان الموقع الكامل"
+
+#: ../include/admin_functions.php:1095 ../include/theme-
+#: options/theme_options_fields.php:1362 ../include/theme-
+#: options/theme_options_fields.php:1410
+msgid "Icon Path"
+msgstr "رمز مسار"
+
+#: ../include/admin_functions.php:1105 ../include/shortcodes/admin_functions.php:
+#: 1969 ../include/shortcodes/admin_functions.php:2080 ..
+#: /include/shortcodes/admin_functions.php:2099 ..
+#: /include/shortcodes/admin/button.php:136 ../include/shortcodes/admin/counters.
+#: php:126 ../include/theme-options/theme_options_fields.php:1327 ..
+#: /include/theme-options/theme_options_fields.php:1421
+msgid "Fontawsome Icon"
+msgstr "Fontawsome أيقونة"
+
+#: ../include/admin_functions.php:1113 ../include/theme-
+#: options/theme_options_fields.php:1429
+msgid "Font Awesome Color"
+msgstr "الخط ممتاز اللون"
+
+#: ../include/admin_functions.php:1339 ../include/theme-
+#: options/theme_options_fields.php:1491 ../include/theme-
+#: options/theme_options_fields.php:1664
+msgid "Please enter Banner Title"
+msgstr "يرجى إدخال عنوان راية"
+
+#: ../include/admin_functions.php:1342 ../include/theme-
+#: options/theme_options_fields.php:1498 ../include/theme-
+#: options/theme_options_fields.php:1668
+msgid "Banner Style"
+msgstr "راية ستايل"
+
+#: ../include/admin_functions.php:1346 ../include/theme-
+#: options/theme_options_fields.php:1502 ../include/theme-
+#: options/theme_options_fields.php:1672
+msgid "Top Banner"
+msgstr "أعلى راية"
+
+#: ../include/admin_functions.php:1347 ../include/theme-
+#: options/theme_options_fields.php:1503 ../include/theme-
+#: options/theme_options_fields.php:1673
+msgid "Bottom Banner"
+msgstr "راية القاع"
+
+#: ../include/admin_functions.php:1348 ../include/theme-
+#: options/theme_options_fields.php:1504 ../include/theme-
+#: options/theme_options_fields.php:1674
+msgid "Sidebar Banner"
+msgstr "الشريط الجانبي لافتة إعلانية"
+
+#: ../include/admin_functions.php:1349 ../include/theme-
+#: options/theme_options_fields.php:1505 ../include/theme-
+#: options/theme_options_fields.php:1675
+msgid "Vertical Banner"
+msgstr "عمودي راية"
+
+#: ../include/admin_functions.php:1351 ../include/theme-
+#: options/theme_options_fields.php:1498
+msgid "Please enter Banner Banner Style"
+msgstr "الرجاء إدخال راية راية نمط"
+
+#: ../include/admin_functions.php:1355 ../include/theme-
+#: options/theme_options_fields.php:1510 ../include/theme-
+#: options/theme_options_fields.php:1680
+msgid "Banner Type"
+msgstr "نوع راية"
+
+#: ../include/admin_functions.php:1362 ../include/theme-
+#: options/theme_options_fields.php:1510 ../include/theme-
+#: options/theme_options_fields.php:1687
+msgid "Please enter Banner Banner Type"
+msgstr "يرجى إدخال نوع الإعلان الإعلان"
+
+#: ../include/admin_functions.php:1389 ../include/theme-
+#: options/theme_options_fields.php:1520 ../include/theme-
+#: options/theme_options_fields.php:1714
+msgid "Please enter Banner Image"
+msgstr "الرجاء إدخال راية صورة"
+
+#: ../include/admin_functions.php:1397 ../include/theme-
+#: options/theme_options_fields.php:1546 ../include/theme-
+#: options/theme_options_fields.php:1722
+msgid "Please enter Banner Url"
+msgstr "الرجاء إدخال راية رابط"
+
+#: ../include/admin_functions.php:1401 ../include/shortcodes/admin/button.php:170 
+#: ../include/theme-options/theme_options_fields.php:1553 ../include/theme-
+#: options/theme_options_fields.php:1726
+msgid "Target"
+msgstr "الهدف"
+
+#: ../include/admin_functions.php:1405 ../include/shortcodes/admin/button.php:175 
+#: ../include/theme-options/theme_options_fields.php:1557 ../include/theme-
+#: options/theme_options_fields.php:1730
+msgid "Self"
+msgstr "النفس"
+
+#: ../include/admin_functions.php:1406 ../include/shortcodes/admin/button.php:174 
+#: ../include/theme-options/theme_options_fields.php:1558 ../include/theme-
+#: options/theme_options_fields.php:1731
+msgid "Blank"
+msgstr "فراغ"
+
+#: ../include/admin_functions.php:1408 ../include/theme-
+#: options/theme_options_fields.php:1553 ../include/theme-
+#: options/theme_options_fields.php:1733
+msgid "Please select Banner Link Target"
+msgstr "يرجى تحديد راية رابط الهدف"
+
+#: ../include/admin_functions.php:1412
+msgid "Adsense Code"
+msgstr "شفرة AdSense"
+
+#: ../include/admin_functions.php:1416
+msgid "Please enter Banner Adsense"
+msgstr "الرجاء إدخال راية ادسنس"
+
+#: ../include/page_builder.php:6
+msgid "CS Page Builder"
+msgstr "CS باني الصفحة"
+
+#: ../include/page_builder.php:42
+msgid "Add Page Sections"
+msgstr "إضافة أقسام الصفحة"
+
+#: ../include/metaboxes/general-settings.php:32
+msgid "Choose Sub-header"
+msgstr "اختيار رأس الفرعي"
+
+#: ../include/metaboxes/general-settings.php:39
+msgid "Default Subheader"
+msgstr "الرأس الفرعي الافتراضي"
+
+#: ../include/metaboxes/general-settings.php:39
+msgid "Custom Subheader"
+msgstr "العرف الرأس الفرعي"
+
+#: ../include/metaboxes/general-settings.php:39 ..
+#: /include/shortcodes/admin_functions.php:1153
+msgid "Map"
+msgstr "خريطة"
+
+#: ../include/metaboxes/general-settings.php:39
+msgid "No Subheader"
+msgstr "لا الفرعي الخاص"
+
+#: ../include/metaboxes/general-settings.php:44 ../include/metaboxes/general-
+#: settings.php:158 ../include/metaboxes/general-settings.php:164 ..
+#: /include/metaboxes/general-settings.php:202 ../include/metaboxes/general-
+#: settings.php:208 ../include/metaboxes/general-settings.php:243 ..
+#: /include/metaboxes/general-settings.php:249 ../include/metaboxes/general-
+#: settings.php:266 ../include/metaboxes/general-settings.php:272 ..
+#: /include/metaboxes/general-settings.php:289 ../include/metaboxes/general-
+#: settings.php:379 ../include/metaboxes/general-settings.php:398 ..
+#: /include/metaboxes/general-settings.php:404 ../include/metaboxes/general-
+#: settings.php:423 ../include/metaboxes/page_meta.php:83 ..
+#: /include/metaboxes/page_meta.php:112 ../include/metaboxes/page_meta.php:118 ..
+#: /include/metaboxes/page_meta.php:144 ../include/metaboxes/post_meta.php:103 ..
+#: /include/metaboxes/post_meta.php:118 ../include/metaboxes/post_meta.php:124 ..
+#: /include/metaboxes/post_meta.php:139 ../include/metaboxes/post_meta.php:158 ..
+#: /include/metaboxes/post_meta.php:174 ../include/metaboxes/post_meta.php:181 ..
+#: /include/metaboxes/post_meta.php:196 ../include/metaboxes/post_meta.php:203 ..
+#: /include/metaboxes/post_meta.php:220 ../include/metaboxes/post_meta.php:227 ..
+#: /include/metaboxes/post_meta.php:244
+msgid "Wrapper"
+msgstr "إزار"
+
+#: ../include/metaboxes/general-settings.php:51 ..
+#: /include/shortcodes/admin/promobox.php:165
+msgid "Text Align"
+msgstr "محاذاة النص"
+
+#: ../include/metaboxes/general-settings.php:58 ..
+#: /include/shortcodes/admin_functions.php:1569 ../include/shortcodes/admin/quote.
+#: php:115 ../include/shortcodes/admin/services.php:193 ..
+#: /include/shortcodes/admin/testimonial.php:99
+msgid "left"
+msgstr "اليسار"
+
+#: ../include/metaboxes/general-settings.php:73
+msgid "Title Style"
+msgstr "عنوان ستايل"
+
+#: ../include/metaboxes/general-settings.php:79 ../include/shortcodes/admin/image-
+#: frame.php:91 ../include/theme-options/theme_options.php:698
+msgid "Simple"
+msgstr "بسيط"
+
+#: ../include/metaboxes/general-settings.php:79 ..
+#: /include/shortcodes/admin/divider.php:78 ../include/shortcodes/admin/heading.
+#: php:119 ../include/theme-options/theme_options.php:698
+msgid "Fancy"
+msgstr "نزوة"
+
+#: ../include/metaboxes/general-settings.php:84
+msgid "Sub Heading"
+msgstr "دون عنوان"
+
+#: ../include/metaboxes/general-settings.php:94 ../include/theme-
+#: options/theme_options.php:701
+msgid "Breadcrumbs"
+msgstr "فتات الخبز"
+
+#: ../include/metaboxes/general-settings.php:111 ../include/metaboxes/general-
+#: settings.php:123
+msgid "Set the top padding (In PX), It Will Only work if padding is selected as"
+msgstr "تعيين الحشو العلوي (في PX)، وأنها ستعمل إذا تم تحديد الحشو كما فقط"
+
+#: ../include/metaboxes/general-settings.php:132
+msgid "Please add color"
+msgstr "الرجاء إضافة اللون"
+
+#: ../include/metaboxes/general-settings.php:138 ..
+#: /include/shortcodes/admin_functions.php:2245 ..
+#: /include/shortcodes/admin_functions.php:2531 ../include/shortcodes/admin/call-
+#: to-action.php:111 ../include/shortcodes/admin/facilities.php:113 ..
+#: /include/shortcodes/admin/infobox.php:105 ..
+#: /include/shortcodes/admin/mailchimp.php:110 ../include/shortcodes/admin/multi-
+#: services.php:143 ../include/shortcodes/admin/quote.php:100 ..
+#: /include/shortcodes/admin/testimonial.php:106 ..
+#: /include/shortcodes/admin/tweets.php:68 ../include/theme-options/theme_options.
+#: php:716 ../include/theme-options/theme_options.php:876
+msgid "Text Color"
+msgstr "لون الخط"
+
+#: ../include/metaboxes/general-settings.php:172
+msgid "Show Image"
+msgstr "عرض صورة"
+
+#: ../include/metaboxes/general-settings.php:186
+msgid "This is demo test"
+msgstr "هذا هو الاختبار التجريبي"
+
+#: ../include/metaboxes/general-settings.php:192
+msgid "Parallax Bg Image"
+msgstr "المنظر بريتش غاز صورة"
+
+#: ../include/metaboxes/general-settings.php:225 ../include/metaboxes/page_meta.
+#: php:100
+msgid "Select Slider"
+msgstr "حدد المتزلج"
+
+#: ../include/metaboxes/general-settings.php:231 ../include/metaboxes/page_meta.
+#: php:106 ../include/theme-options/theme_options.php:652
+msgid ""
+"Please select Revolution Slider if already included in package. Otherwise "
+"buy Sliders from Code canyon But its optional"
+msgstr ""
+"الرجاء اختيار\n"
+" \n"
+"الثورة\n"
+" \n"
+"المتزلج\n"
+" \n"
+"إذا\n"
+" \n"
+"بالفعل في\n"
+" \n"
+"الحزمة.\n"
+" \n"
+"خلاف ذلك\n"
+" \n"
+"شراء\n"
+" \n"
+"المتزلجون\n"
+" \n"
+"من\n"
+" \n"
+"قانون\n"
+" \n"
+"الوادي\n"
+" \n"
+"ولكن\n"
+" \n"
+"في\n"
+" \n"
+"اختياري"
+
+#: ../include/metaboxes/general-settings.php:256
+msgid "Custom Map Short Code"
+msgstr "مخصص تعيين رمز قصير"
+
+#: ../include/metaboxes/general-settings.php:260
+msgid "Please Add/Edit the short code for Map"
+msgstr "الرجاء إضافة / تحرير التعليمات البرمجية قصيرة للخريطة"
+
+#: ../include/metaboxes/general-settings.php:279 ../include/theme-
+#: options/theme_options.php:642
+msgid "Header Border Color"
+msgstr "رأس لون الحدود"
+
+#: ../include/metaboxes/general-settings.php:306
+msgid "Seo Title"
+msgstr "سيو عنوان"
+
+#: ../include/metaboxes/general-settings.php:316
+msgid "Seo Description"
+msgstr "سيو الوصف"
+
+#: ../include/metaboxes/general-settings.php:326
+msgid "Seo Keywords"
+msgstr "سيو كلمات"
+
+#: ../include/metaboxes/general-settings.php:366
+msgid "Choose Sidebar"
+msgstr "اختيار الشريط الجانبي"
+
+#: ../include/metaboxes/general-settings.php:429
+msgid "orderby"
+msgstr "ترتيب حسب"
+
+#: ../include/metaboxes/page_meta.php:10
+msgid "Page Options"
+msgstr "خيارات الصفحة"
+
+#: ../include/metaboxes/page_meta.php:21 ../include/metaboxes/post_meta.php:23
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: ../include/metaboxes/page_meta.php:22
+msgid "Subheader"
+msgstr "الرأس الفرعي"
+
+#: ../include/metaboxes/page_meta.php:24 ../include/metaboxes/post_meta.php:25
+msgid "Seo Options"
+msgstr "خيارات سيو"
+
+#: ../include/metaboxes/page_meta.php:71
+msgid "Header Background"
+msgstr "رأس خلفية"
+
+#: ../include/metaboxes/post_meta.php:9
+msgid "Post Options"
+msgstr "خيارات المشاركة"
+
+#: ../include/metaboxes/post_meta.php:24
+msgid "Sub Header Options"
+msgstr ""
+"خيارات رأس\n"
+" \n"
+"الفرعية"
+
+#: ../include/metaboxes/post_meta.php:26
+msgid "Post Settings"
+msgstr ""
+"إعدادات\n"
+" \n"
+"مشاركة"
+
+#: ../include/metaboxes/post_meta.php:91
+msgid "Thumbnail View"
+msgstr "عرض موجز"
+
+#: ../include/metaboxes/post_meta.php:98 ../include/metaboxes/post_meta.php:152
+msgid "Single Image"
+msgstr ""
+"صورة\n"
+" \n"
+"واحدة"
+
+#: ../include/metaboxes/post_meta.php:98 ../include/metaboxes/post_meta.php:152 ..
+#: /include/shortcodes/admin_functions.php:1200
+msgid "Slider"
+msgstr "المنزلق"
+
+#: ../include/metaboxes/post_meta.php:110 ../include/metaboxes/post_meta.php:165
+msgid "Information Box"
+msgstr "صندوق المعلومات"
+
+#: ../include/metaboxes/post_meta.php:113 ../include/metaboxes/post_meta.php:168
+msgid "Use Featured Image as Thumbnail"
+msgstr "استخدام صورة مميزة كما صورة مصغرة"
+
+#: ../include/metaboxes/post_meta.php:131 ../include/metaboxes/post_meta.php:188
+msgid "Add Gallery Images"
+msgstr "إضافة معرض الصور"
+
+#: ../include/metaboxes/post_meta.php:145
+msgid "Inside Post Thumbnail View"
+msgstr "داخل الموضوع عرض موجز"
+
+#: ../include/metaboxes/post_meta.php:152
+msgid "Audio"
+msgstr "سمعي"
+
+#: ../include/metaboxes/post_meta.php:210
+msgid "Audio Url"
+msgstr "الصوت رابط"
+
+#: ../include/metaboxes/post_meta.php:214
+msgid "Enter Specific Audio Url"
+msgstr "أدخل النوعية الصوت رابط"
+
+#: ../include/metaboxes/post_meta.php:234
+msgid "Thumbnail Video Url"
+msgstr "صورة مصغرة الفيديو رابط"
+
+#: ../include/metaboxes/post_meta.php:238
+msgid ""
+"Enter Specific Video Url (Youtube, Vimeo and Dailymotion) OR you can select "
+"it from your media library"
+msgstr ""
+"أدخل النوعية وصلة فيديو (يوتيوب ، ديلي موشن فيميو و ) أو يمكنك تحديده من "
+"مكتبة الوسائط"
+
+#: ../include/metaboxes/post_meta.php:260
+msgid "Social Sharing"
+msgstr "المشاركة الأجتماعية"
+
+#: ../include/metaboxes/post_meta.php:288
+msgid "Related Post"
+msgstr "ذات بوست"
+
+#: ../include/metaboxes/post_meta.php:294
+msgid "Next Previous"
+msgstr "التالي السابق"
+
+#: ../include/metaboxes/classes/cs_meta_fields_render.php:247
+msgid "Full Width"
+msgstr "عرض كامل"
+
+#: ../include/metaboxes/classes/cs_meta_fields_render.php:256
+msgid "Sidebar Right"
+msgstr "الحق في الشريط الجانبي"
+
+#: ../include/metaboxes/classes/cs_meta_fields_render.php:265
+msgid "Sidebar Left"
+msgstr "الشريط الجانبي الأيسر"
+
+#: ../include/metaboxes/classes/cs_meta_fields_render.php:697
+msgid "Add Gallery"
+msgstr "إضافة معرض"
+
+#: ../include/metaboxes/classes/cs_meta_fields_render.php:736
+msgid "Delete image"
+msgstr "حذف صورة"
+
+#: ../include/metaboxes/classes/cs_meta_fields_render.php:736
+msgid "<i class=\"icon-times\"></i>"
+msgstr "<i الطبقة =  \"رمز مرات \"> </ I>"
+
+#: ../include/metaboxes/classes/cs_meta_fields_render.php:747 ..
+#: /include/metaboxes/classes/cs_meta_fields_render.php:747
+msgid "Delete"
+msgstr "حذف"
+
+#: ../include/shortcodes/admin_functions.php:136
+#, php-format
+msgid "%1$s"
+msgstr "٪ 1 $ S"
+
+#: ../include/shortcodes/admin_functions.php:153
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: ../include/shortcodes/admin_functions.php:265
+msgid "About"
+msgstr "حول"
+
+#: ../include/shortcodes/admin_functions.php:285
+msgid "View All Posts"
+msgstr "عرض كل المشاركات"
+
+#: ../include/shortcodes/admin_functions.php:448
+#, php-format
+msgid "%s"
+msgstr "٪ الصورة"
+
+#: ../include/shortcodes/admin_functions.php:482 ..
+#: /include/shortcodes/frontend/services.php:90
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: ../include/shortcodes/admin_functions.php:1076
+msgid "Blog"
+msgstr "بلوق"
+
+#: ../include/shortcodes/admin_functions.php:1082
+msgid "Button"
+msgstr "زر"
+
+#: ../include/shortcodes/admin_functions.php:1089 ..
+#: /include/shortcodes/admin/clients.php:140
+msgid "Clients"
+msgstr "عملاء"
+
+#: ../include/shortcodes/admin_functions.php:1095
+msgid "Form"
+msgstr "شكل"
+
+#: ../include/shortcodes/admin_functions.php:1101 ..
+#: /include/shortcodes/admin_functions.php:1936
+msgid "Counter"
+msgstr "عداد"
+
+#: ../include/shortcodes/admin_functions.php:1107 ..
+#: /include/shortcodes/admin_functions.php:1632
+msgid "Divider"
+msgstr "مقسم"
+
+#: ../include/shortcodes/admin_functions.php:1114
+msgid "Column"
+msgstr "عمود"
+
+#: ../include/shortcodes/admin_functions.php:1120
+msgid "Call to Action"
+msgstr "دعوة إلى العمل"
+
+#: ../include/shortcodes/admin_functions.php:1127
+msgid "Heading"
+msgstr "عنوان"
+
+#: ../include/shortcodes/admin_functions.php:1135
+msgid "Info box"
+msgstr "معلومات مربع"
+
+#: ../include/shortcodes/admin_functions.php:1141
+msgid "Image Frame"
+msgstr "صورة الإطار"
+
+#: ../include/shortcodes/admin_functions.php:1147
+msgid "List"
+msgstr "قائمة"
+
+#: ../include/shortcodes/admin_functions.php:1160
+msgid "Multiple Services"
+msgstr "خدمات متعددة"
+
+#: ../include/shortcodes/admin_functions.php:1167
+msgid "Multiple Deals"
+msgstr "عروض متعددة"
+
+#: ../include/shortcodes/admin_functions.php:1173
+msgid "Progress Bars"
+msgstr "أشرطة التقدم"
+
+#: ../include/shortcodes/admin_functions.php:1180 ../include/shortcodes/config.
+#: php:68
+msgid "Promo box"
+msgstr "مربع الترويجي"
+
+#: ../include/shortcodes/admin_functions.php:1186
+msgid "Price Table"
+msgstr "سعر الجدول"
+
+#: ../include/shortcodes/admin_functions.php:1193
+msgid "Quote"
+msgstr "اقتبس"
+
+#: ../include/shortcodes/admin_functions.php:1206
+msgid "Services"
+msgstr "الخدمات"
+
+#: ../include/shortcodes/admin_functions.php:1213
+msgid "Site Map"
+msgstr "خريطة الموقع"
+
+#: ../include/shortcodes/admin_functions.php:1220 ../include/shortcodes/config.
+#: php:66
+msgid "Mail chimp"
+msgstr "البريد الشمبانزي"
+
+#: ../include/shortcodes/admin_functions.php:1227
+msgid "Tabs"
+msgstr "علامات التبويب"
+
+#: ../include/shortcodes/admin_functions.php:1234
+msgid "Testimonials"
+msgstr "الشهادات"
+
+#: ../include/shortcodes/admin_functions.php:1240
+msgid "Table"
+msgstr "جدول"
+
+#: ../include/shortcodes/admin_functions.php:1252
+msgid "Tweets"
+msgstr "تويت"
+
+#: ../include/shortcodes/admin_functions.php:1260
+msgid "Spacer"
+msgstr "هل"
+
+#: ../include/shortcodes/admin_functions.php:1266 ..
+#: /include/shortcodes/admin_functions.php:1740 ../include/shortcodes/admin/faq.
+#: php:121
+msgid "FAQ"
+msgstr "التعليمات"
+
+#: ../include/shortcodes/admin_functions.php:1273 ..
+#: /include/shortcodes/admin_functions.php:2510 ..
+#: /include/shortcodes/admin/facilities.php:92
+msgid "Facilities"
+msgstr "مرافق"
+
+#: ../include/shortcodes/admin_functions.php:1280
+msgid "Team"
+msgstr "فريق"
+
+#: ../include/shortcodes/admin_functions.php:1290
+msgid "Events"
+msgstr "أحداث"
+
+#: ../include/shortcodes/admin_functions.php:1303
+msgid "Locations"
+msgstr "المواقع"
+
+#: ../include/shortcodes/admin_functions.php:1310 ../include/theme-
+#: options/theme_options.php:176
+msgid "Vehicle Search"
+msgstr "البحث عن مركبة"
+
+#: ../include/shortcodes/admin_functions.php:1317
+msgid "Vehicles Listing"
+msgstr "قائمة المركبات"
+
+#: ../include/shortcodes/admin_functions.php:1410 ..
+#: /include/shortcodes/admin/button.php:70 ../include/shortcodes/admin/slider.php:
+#: 76
+msgid "Size"
+msgstr "حجم"
+
+#: ../include/shortcodes/admin_functions.php:1413 ..
+#: /include/shortcodes/admin/slider.php:79 ../include/theme-options/theme_options.
+#: php:308
+msgid "Full width"
+msgstr "العرض الكامل"
+
+#: ../include/shortcodes/admin_functions.php:1414 ..
+#: /include/shortcodes/admin/slider.php:80
+msgid "One half"
+msgstr "نصف"
+
+#: ../include/shortcodes/admin_functions.php:1415
+msgid "One third"
+msgstr "ثلث"
+
+#: ../include/shortcodes/admin_functions.php:1416 ..
+#: /include/shortcodes/admin/slider.php:81
+msgid "Two third"
+msgstr "ثلثي"
+
+#: ../include/shortcodes/admin_functions.php:1417
+msgid "One fourth"
+msgstr "ربع"
+
+#: ../include/shortcodes/admin_functions.php:1418 ..
+#: /include/shortcodes/admin/slider.php:82
+msgid "Three fourth"
+msgstr "ثلاثة أرباع"
+
+#: ../include/shortcodes/admin_functions.php:1420 ..
+#: /include/shortcodes/admin/button.php:78 ../include/shortcodes/admin/slider.php:
+#: 84
+msgid "Select column width. This width will be calculated depend page width"
+msgstr "تحديد عرض العمود. وسيتم احتساب هذا العرض يعتمد عرض الصفحة"
+
+#: ../include/shortcodes/admin_functions.php:1455
+msgid "Use this option if you want to use specified Class for this element"
+msgstr "استخدم هذا الخيار إذا كنت تريد استخدام فئة محددة لهذا العنصر"
+
+#: ../include/shortcodes/admin_functions.php:1460 ..
+#: /include/shortcodes/admin_functions.php:1463 ..
+#: /include/shortcodes/admin_functions.php:1498 ..
+#: /include/shortcodes/admin_functions.php:1659 ..
+#: /include/shortcodes/admin/accordion.php:121
+msgid "Animation Class"
+msgstr "فئة الرسوم المتحركة"
+
+#: ../include/shortcodes/admin_functions.php:1476 ..
+#: /include/shortcodes/admin_functions.php:1515 ..
+#: /include/shortcodes/admin/accordion.php:142
+msgid "Select Entrance animation type from the dropdown"
+msgstr "حدد نوع مدخل الرسوم المتحركة من القائمة المنسدلة"
+
+#: ../include/shortcodes/admin_functions.php:1493 ..
+#: /include/shortcodes/admin/call-to-action.php:175 ..
+#: /include/shortcodes/admin/counters.php:247 ../include/shortcodes/admin/infobox.
+#: php:122 ../include/shortcodes/admin/progressbar.php:92 ..
+#: /include/shortcodes/admin/services.php:273
+msgid "Use this option if you want to use specified id for this element"
+msgstr "استخدم هذا الخيار إذا كنت تريد استخدام معرف المحدد لهذا العنصر"
+
+#: ../include/shortcodes/admin_functions.php:1501 ..
+#: /include/shortcodes/admin_functions.php:1662 ..
+#: /include/shortcodes/admin/accordion.php:126
+msgid "Select Animation"
+msgstr "حدد الرسوم المتحركة"
+
+#: ../include/shortcodes/admin_functions.php:1535
+msgid "Service"
+msgstr "خدمة"
+
+#: ../include/shortcodes/admin_functions.php:1537 ..
+#: /include/shortcodes/admin_functions.php:1685 ..
+#: /include/shortcodes/admin_functions.php:1741 ..
+#: /include/shortcodes/admin_functions.php:1783 ..
+#: /include/shortcodes/admin_functions.php:1831 ..
+#: /include/shortcodes/admin_functions.php:1884 ..
+#: /include/shortcodes/admin_functions.php:1936 ..
+#: /include/shortcodes/admin_functions.php:2069 ..
+#: /include/shortcodes/admin_functions.php:2094 ..
+#: /include/shortcodes/admin_functions.php:2142 ..
+#: /include/shortcodes/admin_functions.php:2168 ..
+#: /include/shortcodes/admin_functions.php:2225 ..
+#: /include/shortcodes/admin_functions.php:2425 ..
+#: /include/shortcodes/admin_functions.php:2511 ..
+#: /include/shortcodes/admin_functions.php:2580 ..
+#: /include/shortcodes/admin_functions.php:2611 ..
+#: /include/shortcodes/admin/accordion.php:170 ..
+#: /include/shortcodes/admin/clients.php:141 ..
+#: /include/shortcodes/admin/facilities.php:93 ../include/shortcodes/admin/faq.
+#: php:122 ../include/shortcodes/admin/infobox.php:145 ..
+#: /include/shortcodes/admin/list.php:133 ../include/shortcodes/admin/multi-deals.
+#: php:111 ../include/shortcodes/admin/multi-services.php:123 ..
+#: /include/shortcodes/admin/progressbar.php:111 ..
+#: /include/shortcodes/admin/slider.php:122 ../include/shortcodes/admin/tabs.php:
+#: 122 ../include/shortcodes/admin/testimonial.php:133
+msgid "Remove"
+msgstr "نقل"
+
+#: ../include/shortcodes/admin_functions.php:1542
+msgid "Service Title"
+msgstr "خدمة العنوان"
+
+#: ../include/shortcodes/admin_functions.php:1544
+msgid "Title of the Service"
+msgstr "عنوان الخدمة"
+
+#: ../include/shortcodes/admin_functions.php:1548
+msgid "Service View:"
+msgstr "خدمة الشخصي:"
+
+#: ../include/shortcodes/admin_functions.php:1550
+msgid "Large Boxed"
+msgstr "كبير محاصر"
+
+#: ../include/shortcodes/admin_functions.php:1551
+msgid "Large Normal"
+msgstr "عموما عادي"
+
+#: ../include/shortcodes/admin_functions.php:1552 ..
+#: /include/shortcodes/admin_functions.php:1580
+msgid "Circle"
+msgstr "دائرة"
+
+#: ../include/shortcodes/admin_functions.php:1553 ..
+#: /include/shortcodes/admin/button.php:75 ../include/shortcodes/admin/counters.
+#: php:152 ../include/shortcodes/admin/services.php:179
+msgid "Medium"
+msgstr "متوسط"
+
+#: ../include/shortcodes/admin_functions.php:1554 ..
+#: /include/shortcodes/admin/button.php:76 ../include/shortcodes/admin/counters.
+#: php:151 ../include/shortcodes/admin/services.php:178
+msgid "Small"
+msgstr "صغير"
+
+#: ../include/shortcodes/admin_functions.php:1556
+msgid "Type of the Service"
+msgstr "نوع الخدمة"
+
+#: ../include/shortcodes/admin_functions.php:1560 ..
+#: /include/shortcodes/admin_functions.php:1710 ..
+#: /include/shortcodes/admin_functions.php:1760 ..
+#: /include/shortcodes/admin_functions.php:1856 ../include/shortcodes/admin/list.
+#: php:147
+msgid "Font awsome Icon:"
+msgstr "الخط أوسم أيقونة:"
+
+#: ../include/shortcodes/admin_functions.php:1566
+msgid "Icon Postion"
+msgstr "رمز المركز"
+
+#: ../include/shortcodes/admin_functions.php:1571
+msgid "Top"
+msgstr "أعلى"
+
+#: ../include/shortcodes/admin_functions.php:1577
+msgid "Icon Type"
+msgstr "رمز نوع"
+
+#: ../include/shortcodes/admin_functions.php:1581 ..
+#: /include/shortcodes/admin/button.php:161
+msgid "Square"
+msgstr "مربع"
+
+#: ../include/shortcodes/admin_functions.php:1587
+msgid "Service background  Image"
+msgstr "خدمة خلفية صورة"
+
+#: ../include/shortcodes/admin_functions.php:1609
+msgid "Service Link Url:"
+msgstr "خدمة رابط URL رابط:"
+
+#: ../include/shortcodes/admin_functions.php:1611
+msgid "Service Link Url"
+msgstr "خدمة رابط رابط"
+
+#: ../include/shortcodes/admin_functions.php:1615 ..
+#: /include/shortcodes/admin_functions.php:2358 ..
+#: /include/shortcodes/admin/button.php:100 ../include/shortcodes/admin/clients.
+#: php:96 ../include/shortcodes/admin/map.php:245 ..
+#: /include/shortcodes/admin/multi-services.php:247
+msgid "Border"
+msgstr "الحدود"
+
+#: ../include/shortcodes/admin_functions.php:1624
+msgid "Service Text:"
+msgstr "خدمة النص:"
+
+#: ../include/shortcodes/admin_functions.php:1641 ..
+#: /include/shortcodes/admin_functions.php:1975 ..
+#: /include/shortcodes/admin_functions.php:2105 ..
+#: /include/shortcodes/admin/counters.php:135 ../include/shortcodes/admin/infobox.
+#: php:156 ../include/shortcodes/admin/services.php:137
+msgid "Icon Color"
+msgstr "رمز اللون"
+
+#: ../include/shortcodes/admin_functions.php:1647
+msgid "Icon Background Color"
+msgstr "اللون رمز الخلفية"
+
+#: ../include/shortcodes/admin_functions.php:1684 ..
+#: /include/shortcodes/admin/accordion.php:169
+msgid "Accordion"
+msgstr "أكورديون"
+
+#: ../include/shortcodes/admin_functions.php:1688 ..
+#: /include/shortcodes/admin_functions.php:1744 ..
+#: /include/shortcodes/admin_functions.php:1834 ..
+#: /include/shortcodes/admin/accordion.php:173 ../include/shortcodes/admin/faq.
+#: php:126 ../include/shortcodes/admin/tabs.php:125
+msgid "Active"
+msgstr "نشط"
+
+#: ../include/shortcodes/admin_functions.php:1694 ..
+#: /include/shortcodes/admin_functions.php:1843 ..
+#: /include/shortcodes/admin/accordion.php:183 ../include/shortcodes/admin/tabs.
+#: php:134
+msgid "You can set the section that is active here by select dropdown"
+msgstr "يمكنك تعيين المقطع الذي تنشط هنا اختر القائمة المنسدلة"
+
+#: ../include/shortcodes/admin_functions.php:1699
+msgid "Accordion Title:"
+msgstr "الأكورديون العنوان:"
+
+#: ../include/shortcodes/admin_functions.php:1705 ..
+#: /include/shortcodes/admin/accordion.php:195
+msgid "Enter accordion title"
+msgstr "أدخل عنوان الأكورديون"
+
+#: ../include/shortcodes/admin_functions.php:1715 ..
+#: /include/shortcodes/admin_functions.php:1860
+msgid "Select the font awsome Icons you would like to add to your menu items"
+msgstr "حدد الرموز أوسم الخط الذي أود أن أضيف إلى عناصر القائمة الخاصة بك"
+
+#: ../include/shortcodes/admin_functions.php:1720
+msgid "Accordion Text:"
+msgstr "الأكورديون النص:"
+
+#: ../include/shortcodes/admin_functions.php:1726 ..
+#: /include/shortcodes/admin_functions.php:2375 ..
+#: /include/shortcodes/admin_functions.php:2444 ..
+#: /include/shortcodes/admin_functions.php:2567 ..
+#: /include/shortcodes/admin/accordion.php:219 ..
+#: /include/shortcodes/admin/facilities.php:149 ../include/shortcodes/admin/flex-
+#: column.php:144 ../include/shortcodes/admin/multi-deals.php:129 ..
+#: /include/shortcodes/admin/multi-services.php:265 ..
+#: /include/shortcodes/admin/quote.php:128 ../include/shortcodes/admin/slider.php:
+#: 159
+msgid "Enter your content"
+msgstr "إدخال المحتوى الخاص بك"
+
+#: ../include/shortcodes/admin_functions.php:1752
+msgid "Faq Title:"
+msgstr "عنوان التعليمات:"
+
+#: ../include/shortcodes/admin_functions.php:1766
+msgid "Faq Text:"
+msgstr "نص التعليمات:"
+
+#: ../include/shortcodes/admin_functions.php:1782
+msgid "Register"
+msgstr "تسجيل"
+
+#: ../include/shortcodes/admin_functions.php:1786
+msgid "Register Title:"
+msgstr "تسجيل العنوان:"
+
+#: ../include/shortcodes/admin_functions.php:1795
+msgid "User Role:"
+msgstr "دور المستخدم:"
+
+#: ../include/shortcodes/admin_functions.php:1799
+msgid "Subscriber"
+msgstr "مكتتب"
+
+#: ../include/shortcodes/admin_functions.php:1800
+msgid "Staff"
+msgstr "العاملين"
+
+#: ../include/shortcodes/admin_functions.php:1801
+msgid "Member"
+msgstr "عضو"
+
+#: ../include/shortcodes/admin_functions.php:1802
+msgid "Instructor"
+msgstr "معلم"
+
+#: ../include/shortcodes/admin_functions.php:1803
+msgid "Customer"
+msgstr "زبون"
+
+#: ../include/shortcodes/admin_functions.php:1804
+msgid "Contributor"
+msgstr "مساهم"
+
+#: ../include/shortcodes/admin_functions.php:1806
+msgid "Editor"
+msgstr "محرر"
+
+#: ../include/shortcodes/admin_functions.php:1807
+msgid "Administrator"
+msgstr "مدير"
+
+#: ../include/shortcodes/admin_functions.php:1814
+msgid "Register Text:"
+msgstr "تسجيل النص:"
+
+#: ../include/shortcodes/admin_functions.php:1830 ..
+#: /include/shortcodes/admin/tabs.php:121
+msgid "Tab"
+msgstr "التبويب"
+
+#: ../include/shortcodes/admin_functions.php:1848
+msgid "Tab Title:"
+msgstr "علامة التبويب العنوان:"
+
+#: ../include/shortcodes/admin_functions.php:1865
+msgid "Tab Text:"
+msgstr "علامة التبويب النص:"
+
+#: ../include/shortcodes/admin_functions.php:1871 ..
+#: /include/shortcodes/admin/tabs.php:169
+msgid "Enter tab body content here"
+msgstr "إدخال المحتوى الجسم التبويب هنا"
+
+#: ../include/shortcodes/admin_functions.php:1883 ..
+#: /include/shortcodes/admin/slider.php:122 ..
+#: /include/shortcodes/admin/testimonial.php:132
+msgid "Testimonial"
+msgstr "شهادة"
+
+#: ../include/shortcodes/admin_functions.php:1887 ..
+#: /include/shortcodes/admin_functions.php:2031 ..
+#: /include/shortcodes/admin_functions.php:2369 ..
+#: /include/shortcodes/admin_functions.php:2561 ../include/shortcodes/admin/deals.
+#: php:108 ../include/shortcodes/admin/price-table.php:125 ..
+#: /include/shortcodes/admin/testimonial.php:137
+msgid "Text"
+msgstr "نص"
+
+#: ../include/shortcodes/admin_functions.php:1901
+msgid "Company:"
+msgstr "الشركة:"
+
+#: ../include/shortcodes/admin_functions.php:1904 ..
+#: /include/shortcodes/admin/testimonial.php:164
+msgid "Company Name"
+msgstr "اسم الشركة"
+
+#: ../include/shortcodes/admin_functions.php:1938
+msgid "Counter Title"
+msgstr ""
+"عداد\n"
+" \n"
+"العنوان"
+
+#: ../include/shortcodes/admin_functions.php:1942 ../include/theme-components/cs-
+#: activation-plugins/tgm_plugin_activation.php:1723
+msgid "Type"
+msgstr "نوع"
+
+#: ../include/shortcodes/admin_functions.php:1946
+msgid "Counter Style One"
+msgstr ""
+"مكافحة\n"
+" \n"
+"نمط واحد"
+
+#: ../include/shortcodes/admin_functions.php:1947
+msgid "Counter Style Two"
+msgstr ""
+"مكافحة\n"
+" \n"
+"نمط\n"
+" \n"
+"اثنين"
+
+#: ../include/shortcodes/admin_functions.php:1948
+msgid "Counter Style Three"
+msgstr ""
+"مكافحة\n"
+" \n"
+"نمط\n"
+" \n"
+"ثلاثة"
+
+#: ../include/shortcodes/admin_functions.php:1949
+msgid "Counter Style Four"
+msgstr ""
+"مكافحة\n"
+" \n"
+"نمط\n"
+" \n"
+"أربعة"
+
+#: ../include/shortcodes/admin_functions.php:1956 ..
+#: /include/shortcodes/admin/services.php:128
+msgid "Choose Icon"
+msgstr "اختيار أيقونة"
+
+#: ../include/shortcodes/admin_functions.php:1960 ..
+#: /include/shortcodes/admin_functions.php:2292 ..
+#: /include/shortcodes/admin/counters.php:106 ../include/shortcodes/admin/list.
+#: php:92 ../include/shortcodes/admin/multi-services.php:182 ..
+#: /include/shortcodes/admin/services.php:118
+msgid "Icon"
+msgstr "رمز"
+
+#: ../include/shortcodes/admin_functions.php:1961 ..
+#: /include/shortcodes/admin_functions.php:1982 ..
+#: /include/shortcodes/admin_functions.php:2293 ..
+#: /include/shortcodes/admin_functions.php:2334 ..
+#: /include/shortcodes/admin_functions.php:2480 ..
+#: /include/shortcodes/admin_functions.php:2539 ..
+#: /include/shortcodes/admin_functions.php:2615 ..
+#: /include/shortcodes/admin/counters.php:107 ..
+#: /include/shortcodes/admin/counters.php:163 ..
+#: /include/shortcodes/admin/facilities.php:121 ../include/shortcodes/admin/multi-
+#: deals.php:165 ../include/shortcodes/admin/multi-services.php:183 ..
+#: /include/shortcodes/admin/multi-services.php:224 ..
+#: /include/shortcodes/admin/services.php:119 ..
+#: /include/shortcodes/admin/services.php:151 ../include/shortcodes/admin/slider.
+#: php:125 ../include/shortcodes/admin/testimonial.php:170 ../include/theme-
+#: options/theme_options_fields.php:1514 ../include/theme-
+#: options/theme_options_fields.php:1520 ../include/theme-
+#: options/theme_options_fields.php:1588 ../include/theme-
+#: options/theme_options_fields.php:1684 ../include/theme-
+#: options/theme_options_fields.php:1691
+msgid "Image"
+msgstr "صورة"
+
+#: ../include/shortcodes/admin_functions.php:2010
+msgid "Numbers"
+msgstr "أرقام"
+
+#: ../include/shortcodes/admin_functions.php:2014
+msgid "Count Text Color"
+msgstr ""
+"عد\n"
+" \n"
+"لون الخط"
+
+#: ../include/shortcodes/admin_functions.php:2019 ..
+#: /include/shortcodes/admin_functions.php:2664 ..
+#: /include/shortcodes/admin/promobox.php:176 ../include/shortcodes/admin/slider.
+#: php:172
+msgid "Link Title"
+msgstr "عنوان الرابط"
+
+#: ../include/shortcodes/admin_functions.php:2027 ..
+#: /include/shortcodes/admin/button.php:127
+msgid "Button Color"
+msgstr "زر اللون"
+
+#: ../include/shortcodes/admin_functions.php:2068 ..
+#: /include/shortcodes/admin_functions.php:2072 ../include/shortcodes/admin/list.
+#: php:132
+msgid "List Item"
+msgstr "قائمة البند"
+
+#: ../include/shortcodes/admin_functions.php:2092 ..
+#: /include/shortcodes/admin/infobox.php:144
+msgid "Infobox Item(s)"
+msgstr "[إينفوبوإكس البند (ق)"
+
+#: ../include/shortcodes/admin_functions.php:2121 ..
+#: /include/shortcodes/admin/infobox.php:176
+msgid "Short Description"
+msgstr "وصف قصير"
+
+#: ../include/shortcodes/admin_functions.php:2141
+msgid "Album Item(s)"
+msgstr ""
+"ألبوم\n"
+" \n"
+"البند\n"
+" \n"
+"(ق\n"
+")"
+
+#: ../include/shortcodes/admin_functions.php:2145
+msgid "Track Title"
+msgstr ""
+"المسار\n"
+" \n"
+"العنوان"
+
+#: ../include/shortcodes/admin_functions.php:2152
+msgid "Track MP3 Url"
+msgstr ""
+"المسار\n"
+" \n"
+"MP3\n"
+" \n"
+"رابط"
+
+#: ../include/shortcodes/admin_functions.php:2167
+msgid "Client"
+msgstr "زبون"
+
+#: ../include/shortcodes/admin_functions.php:2185 ..
+#: /include/shortcodes/admin_functions.php:2258 ..
+#: /include/shortcodes/admin/clients.php:160
+msgid "Website Url"
+msgstr "رابط الموقع"
+
+#: ../include/shortcodes/admin_functions.php:2193 ..
+#: /include/shortcodes/admin/clients.php:173
+msgid "Client Logo"
+msgstr "شعار العميل"
+
+#: ../include/shortcodes/admin_functions.php:2224 ..
+#: /include/shortcodes/admin_functions.php:2424
+msgid "Multiple Service"
+msgstr ""
+"خدمة\n"
+" \n"
+"متعددة"
+
+#: ../include/shortcodes/admin_functions.php:2237 ..
+#: /include/shortcodes/admin_functions.php:2523 ..
+#: /include/shortcodes/admin/counters.php:207 ..
+#: /include/shortcodes/admin/facilities.php:105 ../include/shortcodes/admin/multi-
+#: services.php:135 ../include/shortcodes/admin/promobox.php:132 ..
+#: /include/shortcodes/admin/services.php:225
+msgid "Title Color"
+msgstr "عنوان اللون"
+
+#: ../include/shortcodes/admin_functions.php:2285 ..
+#: /include/shortcodes/admin/multi-services.php:177 ..
+#: /include/shortcodes/admin/services.php:113
+msgid "Choose"
+msgstr "اختار"
+
+#: ../include/shortcodes/admin_functions.php:2295 ..
+#: /include/shortcodes/admin/multi-services.php:185 ..
+#: /include/shortcodes/admin/services.php:121
+msgid "Choose a icon/image type form the dropdown"
+msgstr "اختيار رمز / نوع الصورة تشكيل القائمة المنسدلة"
+
+#: ../include/shortcodes/admin_functions.php:2313 ..
+#: /include/shortcodes/admin/multi-services.php:203
+msgid "Fontawsome Icon:"
+msgstr "Fontawsome أيقونة:"
+
+#: ../include/shortcodes/admin_functions.php:2318 ..
+#: /include/shortcodes/admin/accordion.php:207 ../include/shortcodes/admin/button.
+#: php:140 ../include/shortcodes/admin/counters.php:130 ..
+#: /include/shortcodes/admin/multi-services.php:208 ..
+#: /include/shortcodes/admin/price-table.php:141 ../include/shortcodes/admin/tabs.
+#: php:156
+msgid "select the fontawsome Icons you would like to add to your menu items"
+msgstr "حدد الرموز fontawsome كنت ترغب في إضافة لعناصر القائمة الخاصة بك"
+
+#: ../include/shortcodes/admin_functions.php:2324 ..
+#: /include/shortcodes/admin/multi-services.php:214
+msgid "Fontawsome Color"
+msgstr "Fontawsome اللون"
+
+#: ../include/shortcodes/admin_functions.php:2362 ..
+#: /include/shortcodes/admin/multi-services.php:251
+msgid "yes"
+msgstr "نعم"
+
+#: ../include/shortcodes/admin_functions.php:2363 ..
+#: /include/shortcodes/admin/clients.php:101 ../include/shortcodes/admin/multi-
+#: services.php:252 ../include/shortcodes/admin/price-table.php:189
+msgid "no"
+msgstr "لا"
+
+#: ../include/shortcodes/admin_functions.php:2382
+msgid "View More Button"
+msgstr "عرض المزيد من زر"
+
+#: ../include/shortcodes/admin_functions.php:2390 ..
+#: /include/shortcodes/admin/button.php:91 ../include/shortcodes/admin/call-to-
+#: action.php:162 ../include/shortcodes/admin/multi-services.php:284 ..
+#: /include/shortcodes/admin/price-table.php:221 ..
+#: /include/shortcodes/admin/services.php:261
+msgid "Button Link"
+msgstr "زر الرابط"
+
+#: ../include/shortcodes/admin_functions.php:2398 ..
+#: /include/shortcodes/admin/button.php:119 ../include/shortcodes/admin/promobox.
+#: php:193
+msgid "Button Background Color"
+msgstr "اللون زر الخلفية"
+
+#: ../include/shortcodes/admin_functions.php:2406
+msgid "Button Text Color"
+msgstr "زر لون الخط"
+
+#: ../include/shortcodes/admin_functions.php:2437 ..
+#: /include/shortcodes/admin/facilities.php:143 ../include/shortcodes/admin/multi-
+#: deals.php:123 ../include/shortcodes/admin/multi-services.php:259
+msgid "Text:"
+msgstr "النص:"
+
+#: ../include/shortcodes/admin_functions.php:2451 ..
+#: /include/shortcodes/admin/multi-deals.php:136
+msgid "From"
+msgstr "من"
+
+#: ../include/shortcodes/admin_functions.php:2459 ..
+#: /include/shortcodes/admin/multi-deals.php:144
+msgid "Currency Sign"
+msgstr "العملة تسجيل"
+
+#: ../include/shortcodes/admin_functions.php:2470 ..
+#: /include/shortcodes/admin/deals.php:154 ../include/shortcodes/admin/multi-
+#: deals.php:155 ../include/shortcodes/admin/price-table.php:171
+msgid "Price"
+msgstr "السعر"
+
+#: ../include/shortcodes/admin_functions.php:2579 ../include/shortcodes/config.
+#: php:69
+msgid "Progress bars"
+msgstr ""
+" \n"
+" \n"
+" \n"
+"أشرطة التقدم"
+
+#: ../include/shortcodes/admin_functions.php:2583
+msgid "Progress Bars Title"
+msgstr ""
+"تقدم\n"
+" \n"
+"أشرطة العناوين"
+
+#: ../include/shortcodes/admin_functions.php:2589 ..
+#: /include/shortcodes/admin/progressbar.php:122
+msgid "Skill (in percentage)"
+msgstr "مهارة (بالنسبة المئوية)"
+
+#: ../include/shortcodes/admin_functions.php:2593 ..
+#: /include/shortcodes/admin/progressbar.php:127
+msgid "Set the Skill (In %)"
+msgstr "تعيين المهارة (في٪)"
+
+#: ../include/shortcodes/admin_functions.php:2597 ..
+#: /include/shortcodes/admin/progressbar.php:132
+msgid "Progress Bars Color"
+msgstr ""
+"تقدم\n"
+" \n"
+"لون القضبان"
+
+#: ../include/shortcodes/admin_functions.php:2610
+msgid "Offer Slider Item"
+msgstr ""
+"تقدم\n"
+" \n"
+"المتزلج\n"
+" \n"
+"البند"
+
+#: ../include/shortcodes/admin_functions.php:2648 ..
+#: /include/shortcodes/admin/promobox.php:148 ../include/shortcodes/admin/slider.
+#: php:155
+msgid "Contents"
+msgstr "محتويات"
+
+#: ../include/shortcodes/admin_functions.php:2694
+msgid "Gallery is Empty. Please Select Media"
+msgstr ""
+"معرض\n"
+" \n"
+"فارغة\n"
+".\n"
+" \n"
+"يرجى\n"
+" \n"
+"اختيار\n"
+" \n"
+"وسائل الإعلام"
+
+#: ../include/shortcodes/admin_functions.php:2726
+msgid "Select Media"
+msgstr "حدد وسائل الإعلام"
+
+#. Translation
+#: ../include/shortcodes/config.php:61
+msgid "Call To Action"
+msgstr "دعوة إلى العمل"
+
+#: ../include/shortcodes/config.php:62
+msgid "Contactus"
+msgstr "اتصل بنا"
+
+#: ../include/shortcodes/config.php:63
+msgid "Faq"
+msgstr "التعليمات"
+
+#: ../include/shortcodes/config.php:64
+msgid "Flex Column"
+msgstr "فليكس العمود"
+
+#: ../include/shortcodes/config.php:65
+msgid "Teams"
+msgstr "فرق"
+
+#: ../include/shortcodes/config.php:67
+msgid "Price table"
+msgstr "جدول الأسعار"
+
+#: ../include/shortcodes/admin/accordion.php:74
+msgid "Edit Accordion Options"
+msgstr "تحرير خيارات الأكورديون"
+
+#: ../include/shortcodes/admin/accordion.php:87 ../include/shortcodes/admin/call-
+#: to-action.php:87 ../include/shortcodes/admin/contactus.php:73 ..
+#: /include/shortcodes/admin/flex-column.php:135 ..
+#: /include/shortcodes/admin/image-frame.php:80 ..
+#: /include/shortcodes/admin/infobox.php:81 ../include/shortcodes/admin/list.php:
+#: 82 ../include/shortcodes/admin/map.php:86 ../include/shortcodes/admin/promobox.
+#: php:82 ../include/shortcodes/admin/quote.php:77 ..
+#: /include/shortcodes/admin/slider.php:96 ../include/shortcodes/admin/table.php:
+#: 106 ../include/shortcodes/admin/tabs.php:81 ..
+#: /include/shortcodes/admin/testimonial.php:73 ../include/shortcodes/admin/video.
+#: php:70
+msgid ""
+"This is used for the one page navigation, to identify the section below. "
+"Give a title"
+msgstr "يستخدم هذا للملاحة صفحة واحدة، لتحديد أدناه. إعطاء عنوان"
+
+#: ../include/shortcodes/admin/accordion.php:94 ..
+#: /include/shortcodes/admin/divider.php:73 ../include/shortcodes/admin/heading.
+#: php:109 ../include/shortcodes/admin/price-table.php:95 ..
+#: /include/shortcodes/admin/services.php:93 ..
+#: /include/shortcodes/admin/testimonial.php:78 ../include/theme-
+#: options/theme_options_fields.php:1587
+msgid "Style"
+msgstr "أسلوب"
+
+#: ../include/shortcodes/admin/accordion.php:99 ../include/shortcodes/admin/price-
+#: table.php:102 ../include/shortcodes/admin/services.php:99
+msgid "default"
+msgstr "الافتراضي"
+
+#: ../include/shortcodes/admin/accordion.php:100 ..
+#: /include/shortcodes/admin/price-table.php:100 ..
+#: /include/shortcodes/admin/services.php:101
+msgid "box"
+msgstr "صندوق"
+
+#: ../include/shortcodes/admin/accordion.php:104 ..
+#: /include/shortcodes/admin/price-table.php:107 ..
+#: /include/shortcodes/admin/price-table.php:194 ..
+#: /include/shortcodes/admin/services.php:106
+msgid "choose a style type for accordion element"
+msgstr "اختيار نوع أسلوب ل عنصر الأكورديون"
+
+#: ../include/shortcodes/admin/accordion.php:115
+msgid "Use this option if you want to use specified  id for this element"
+msgstr "استخدم هذا الخيار إذا كنت تريد استخدام معرف المحدد لهذا العنصر"
+
+#: ../include/shortcodes/admin/accordion.php:189
+msgid "Accordion Title"
+msgstr "الأكورديون العنوان"
+
+#: ../include/shortcodes/admin/accordion.php:202 ../include/shortcodes/admin/faq.
+#: php:147 ../include/shortcodes/admin/price-table.php:136
+msgid "Title Fontawsome Icon"
+msgstr "عنوان Fontawsome أيقونة"
+
+#: ../include/shortcodes/admin/accordion.php:213
+msgid "Accordion Text"
+msgstr "الأكورديون النص"
+
+#: ../include/shortcodes/admin/accordion.php:236
+msgid "Add accordion"
+msgstr "إضافة الأكورديون"
+
+#: ../include/shortcodes/admin/button.php:64
+msgid "Edit Button Options"
+msgstr "خيارات تحرير زر"
+
+#: ../include/shortcodes/admin/button.php:74 ../include/shortcodes/admin/counters.
+#: php:153 ../include/shortcodes/admin/services.php:180
+msgid "Large"
+msgstr "كبير"
+
+#: ../include/shortcodes/admin/button.php:83
+msgid "Button Title"
+msgstr "زر العنوان"
+
+#: ../include/shortcodes/admin/button.php:95
+msgid "Button external/internal url"
+msgstr "زر خارجي / URL الداخلي"
+
+#: ../include/shortcodes/admin/button.php:131
+msgid "select a color which you want on the buttons"
+msgstr "اختيار اللون الذي تريده على الأزرار"
+
+#: ../include/shortcodes/admin/button.php:145
+msgid "Button Icon Position"
+msgstr "زر أيقونة الوظيفة"
+
+#: ../include/shortcodes/admin/button.php:152
+msgid "set a position for the button"
+msgstr "تحديد موقف للزر"
+
+#: ../include/shortcodes/admin/button.php:157
+msgid "Button Type"
+msgstr "نوع الزر"
+
+#: ../include/shortcodes/admin/button.php:162
+msgid "Rounded"
+msgstr "مدور"
+
+#: ../include/shortcodes/admin/button.php:165
+msgid "Select the display type for the button"
+msgstr "حدد نوع العرض لزر"
+
+#: ../include/shortcodes/admin/call-to-action.php:75
+msgid "Edit Call To Action Options"
+msgstr "تحرير دعوة لخيارات العمل"
+
+#: ../include/shortcodes/admin/call-to-action.php:97
+msgid "Put the title for action element"
+msgstr "وضع عنوان لعنصر العمل"
+
+#: ../include/shortcodes/admin/call-to-action.php:102
+msgid "Short Text"
+msgstr "نص قصير"
+
+#: ../include/shortcodes/admin/call-to-action.php:106
+msgid "Enter short detail about your call to action content"
+msgstr "أدخل التفاصيل قصير عن الدعوة لمحتوى العمل"
+
+#: ../include/shortcodes/admin/call-to-action.php:115 ..
+#: /include/shortcodes/admin/call-to-action.php:148 ..
+#: /include/shortcodes/admin/counters.php:211 ..
+#: /include/shortcodes/admin/counters.php:221 ../include/shortcodes/admin/infobox.
+#: php:111 ../include/shortcodes/admin/quote.php:105
+msgid ""
+"Provide a hex colour code here (include #) if you want to override the "
+"default"
+msgstr "توفير رمز اللون عرافة هنا (بما في ذلك #) إذا كنت ترغب في تجاوز الافتراضي"
+
+#: ../include/shortcodes/admin/call-to-action.php:126 ..
+#: /include/shortcodes/admin/deals.php:125 ../include/shortcodes/admin/price-
+#: table.php:152
+msgid "Select the background image for action element"
+msgstr "حدد صورة خلفية لعنصر العمل"
+
+#: ../include/shortcodes/admin/call-to-action.php:153 ..
+#: /include/shortcodes/admin/multi-services.php:273 ..
+#: /include/shortcodes/admin/price-table.php:211 ..
+#: /include/shortcodes/admin/services.php:250
+msgid "Button Text"
+msgstr "زر النص"
+
+#: ../include/shortcodes/admin/call-to-action.php:157
+msgid "Text on the button"
+msgstr "النص على زر"
+
+#: ../include/shortcodes/admin/call-to-action.php:166
+msgid "Button link"
+msgstr "زر الرابط"
+
+#: ../include/shortcodes/admin/clients.php:68
+msgid "Edit Clients Options"
+msgstr "خيارات تحرير العملاء"
+
+#: ../include/shortcodes/admin/clients.php:85
+msgid "Gray Scale"
+msgstr "مقياس الرمادي"
+
+#: ../include/shortcodes/admin/clients.php:107
+msgid "Heading Style"
+msgstr "يتجه نمط"
+
+#: ../include/shortcodes/admin/clients.php:111
+msgid "Style 1"
+msgstr "أسلوب 1"
+
+#: ../include/shortcodes/admin/clients.php:112
+msgid "Style 2"
+msgstr "النمط 2"
+
+#: ../include/shortcodes/admin/clients.php:204
+msgid "Add Client"
+msgstr "إضافة عميل"
+
+#: ../include/shortcodes/admin/contactus.php:62
+msgid "Edit Contact Form Options"
+msgstr "تحرير الاتصال خيارات النموذج"
+
+#: ../include/shortcodes/admin/contactus.php:78 ..
+#: /include/shortcodes/admin/heading.php:98 ../include/shortcodes/admin/services.
+#: php:233 ../include/theme-options/theme_options.php:1170
+msgid "Content"
+msgstr "محتوى"
+
+#: ../include/shortcodes/admin/contactus.php:82
+msgid "This is used for the one page navigation, to identify, Enter some content"
+msgstr "ويستخدم هذا للملاحة صفحة واحدة ، لتحديد و أدخل بعض المحتويات"
+
+#: ../include/shortcodes/admin/contactus.php:88
+msgid "Label On/Off"
+msgstr "تسمية تشغيل / إيقاف"
+
+#: ../include/shortcodes/admin/contactus.php:92 ..
+#: /include/shortcodes/admin/heading.php:155 ../include/shortcodes/admin/map.php:
+#: 202 ../include/shortcodes/admin/map.php:215 ../include/shortcodes/admin/map.
+#: php:226 ../include/shortcodes/admin/map.php:237
+msgid "On"
+msgstr "في"
+
+#: ../include/shortcodes/admin/contactus.php:93 ..
+#: /include/shortcodes/admin/heading.php:156 ../include/shortcodes/admin/map.php:
+#: 203 ../include/shortcodes/admin/map.php:214 ../include/shortcodes/admin/map.
+#: php:227 ../include/shortcodes/admin/map.php:238
+msgid "Off"
+msgstr "بعيدا"
+
+#: ../include/shortcodes/admin/contactus.php:99
+msgid "Send To"
+msgstr "أرسل إلى"
+
+#: ../include/shortcodes/admin/contactus.php:103
+msgid "add a email which you want to receive email"
+msgstr "إضافة البريد الإلكتروني الذي ترغب في استقبال رسائل البريد الإلكتروني"
+
+#: ../include/shortcodes/admin/contactus.php:108
+msgid "Success Message"
+msgstr "نجاح رسالة"
+
+#: ../include/shortcodes/admin/contactus.php:112
+msgid "set a message if your email sent successfully"
+msgstr "ضبط رسالة إذا ارسال البريد الالكتروني الخاص بك بنجاح"
+
+#: ../include/shortcodes/admin/contactus.php:117
+msgid "Error Message"
+msgstr "رسالة خطأ"
+
+#: ../include/shortcodes/admin/contactus.php:121
+msgid "set a message for error message"
+msgstr "ضبط رسالة لرسالة الخطأ"
+
+#: ../include/shortcodes/admin/counters.php:84
+msgid "Edit Counter Options"
+msgstr "تحرير خيارات العداد"
+
+#: ../include/shortcodes/admin/counters.php:92
+msgid "Classic View"
+msgstr "مشاهدة الكلاسيكية"
+
+#: ../include/shortcodes/admin/counters.php:101
+msgid "Choose Icon/Image"
+msgstr "اختيار أيقونة / صورة"
+
+#: ../include/shortcodes/admin/counters.php:109
+msgid "Choose an icon/image for the counter"
+msgstr "اختيار أيقونة / صورة لمكافحة"
+
+#: ../include/shortcodes/admin/counters.php:140 ../include/shortcodes/admin/flex-
+#: column.php:114 ../include/shortcodes/admin/flex-column.php:125
+msgid "set a color for the counter icon"
+msgstr "تعيين لون لرمز مكافحة"
+
+#: ../include/shortcodes/admin/counters.php:146 ..
+#: /include/shortcodes/admin/services.php:174
+msgid "Icon Size"
+msgstr "رمز الحجم"
+
+#: ../include/shortcodes/admin/counters.php:154 ..
+#: /include/shortcodes/admin/services.php:181
+msgid "Extra Large"
+msgstr "كبير جدا"
+
+#: ../include/shortcodes/admin/counters.php:156 ..
+#: /include/shortcodes/admin/services.php:183
+msgid "Select Icon Size"
+msgstr "اختر أيقونة الحجم"
+
+#: ../include/shortcodes/admin/counters.php:186
+msgid "set number"
+msgstr "عدد SET"
+
+#: ../include/shortcodes/admin/counters.php:198 ../include/shortcodes/admin/video.
+#: php:74
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: ../include/shortcodes/admin/counters.php:202
+msgid "enter a sub title for the counter"
+msgstr "إدخال عنوان فرعي لمكافحة"
+
+#: ../include/shortcodes/admin/counters.php:228
+msgid "Border Frame"
+msgstr "الإطار الحدود"
+
+#: ../include/shortcodes/admin/counters.php:236
+msgid "set yes/no border frame form the dropdown"
+msgstr "ضبط نعم / لا إطار الحدود تشكل القائمة المنسدلة"
+
+#: ../include/shortcodes/admin/counters.php:243 ../include/shortcodes/admin/faq.
+#: php:91 ../include/shortcodes/admin/progressbar.php:88 ..
+#: /include/shortcodes/admin/services.php:269
+msgid "Custom ID"
+msgstr "ID مخصصة"
+
+#: ../include/shortcodes/admin/deals.php:85 ../include/shortcodes/admin/price-
+#: table.php:85
+msgid "Edit Price Table Options"
+msgstr "تحرير الأسعار خيارات الجدول"
+
+#: ../include/shortcodes/admin/deals.php:101 ../include/shortcodes/admin/deals.
+#: php:113 ../include/shortcodes/admin/price-table.php:118 ..
+#: /include/shortcodes/admin/price-table.php:130
+msgid "set title for the item"
+msgstr "وضع عنوان لهذا البند"
+
+#: ../include/shortcodes/admin/deals.php:143
+msgid "From Text"
+msgstr "من النص"
+
+#: ../include/shortcodes/admin/deals.php:159 ../include/shortcodes/admin/price-
+#: table.php:176
+msgid "item Price"
+msgstr "البند الأسعار"
+
+#: ../include/shortcodes/admin/deals.php:167 ../include/shortcodes/admin/price-
+#: table.php:200
+msgid "Currency Symbols"
+msgstr "رموز العملة"
+
+#: ../include/shortcodes/admin/deals.php:172 ../include/shortcodes/admin/price-
+#: table.php:205
+msgid "item currency symbols"
+msgstr "رموز العملة البند"
+
+#: ../include/shortcodes/admin/divider.php:67
+msgid "Edit Divider Option"
+msgstr "تحرير مقسم الخيار"
+
+#: ../include/shortcodes/admin/divider.php:77
+msgid "Plain"
+msgstr "سهل"
+
+#: ../include/shortcodes/admin/divider.php:79
+msgid "Fancy Large"
+msgstr "يتوهم كبير"
+
+#: ../include/shortcodes/admin/divider.php:86
+msgid "Back to Top"
+msgstr "العودة الى الأعلى"
+
+#: ../include/shortcodes/admin/divider.php:93
+msgid "set back to top from the dropdown"
+msgstr "تعيين العودة إلى أعلى من القائمة المنسدلة"
+
+#: ../include/shortcodes/admin/divider.php:103
+msgid "set margin top for the divider in px"
+msgstr "مجموعة أعلى هامش للمقسم في مقصف"
+
+#: ../include/shortcodes/admin/divider.php:113
+msgid "set a margin bottom for the divider in px"
+msgstr "وضع أسفل هامش المفرق في مقصف"
+
+#: ../include/shortcodes/admin/divider.php:118 ../include/shortcodes/admin/spacer.
+#: php:55 ../include/shortcodes/admin/video.php:100
+msgid "Height"
+msgstr "ارتفاع"
+
+#: ../include/shortcodes/admin/divider.php:123
+msgid "set the divider height"
+msgstr "تعيين ارتفاع المفرق"
+
+#: ../include/shortcodes/admin/facilities.php:60
+msgid "Edit Facilities Options"
+msgstr ""
+"تحرير\n"
+" \n"
+"الخيارات\n"
+" \n"
+"المرافق"
+
+#: ../include/shortcodes/admin/facilities.php:165
+msgid "Add Facility"
+msgstr ""
+"إضافة\n"
+" \n"
+"مرفق"
+
+#: ../include/shortcodes/admin/faq.php:73
+msgid "Edit Faq Options"
+msgstr "تحرير خيارات أسئلة وأجوبة"
+
+#: ../include/shortcodes/admin/faq.php:137
+msgid "Faq Title"
+msgstr "أسئلة وأجوبة عنوان"
+
+#: ../include/shortcodes/admin/faq.php:155
+msgid "Faq Text"
+msgstr "أسئلة وأجوبة النص"
+
+#: ../include/shortcodes/admin/faq.php:176
+msgid "Add Faq"
+msgstr "إضافة أسئلة شائعة"
+
+#: ../include/shortcodes/admin/flex-column.php:66
+msgid "Edit Flex Column Options"
+msgstr "خيارات العمود تحرير فليكس"
+
+#: ../include/shortcodes/admin/flex-column.php:86 ..
+#: /include/shortcodes/admin/image-frame.php:103
+msgid "Browse the image"
+msgstr "تصفح الصور"
+
+#: ../include/shortcodes/admin/flex-column.php:109 ..
+#: /include/shortcodes/admin/heading.php:187 ../include/shortcodes/admin/promobox.
+#: php:157 ../include/shortcodes/admin/services.php:242
+msgid "Content Color"
+msgstr "المحتوى اللون"
+
+#: ../include/shortcodes/admin/flex-column.php:140
+msgid "Column Text"
+msgstr "نص العمود"
+
+#: ../include/shortcodes/admin/heading.php:72
+msgid "Edit Heading Options"
+msgstr "خيارات تحرير العنوان"
+
+#: ../include/shortcodes/admin/heading.php:104 ..
+#: /include/shortcodes/admin/mailchimp.php:122 ..
+#: /include/shortcodes/admin/promobox.php:152
+msgid "Enter content here"
+msgstr "إدخال المحتوى هنا"
+
+#: ../include/shortcodes/admin/heading.php:126 ../include/theme-
+#: options/theme_options.php:276
+msgid "Font Size"
+msgstr "حجم الخط"
+
+#: ../include/shortcodes/admin/heading.php:133
+msgid "add font size number for the heading"
+msgstr "إضافة رقم حجم الخط للعنوان"
+
+#: ../include/shortcodes/admin/heading.php:138 ../include/shortcodes/admin/quote.
+#: php:111 ../include/shortcodes/admin/services.php:189 ..
+#: /include/shortcodes/admin/services.php:202 ..
+#: /include/shortcodes/admin/testimonial.php:95
+msgid "Align"
+msgstr "محاذاة"
+
+#: ../include/shortcodes/admin/heading.php:146 ../include/shortcodes/admin/quote.
+#: php:119
+msgid "Align the content position"
+msgstr "محاذاة موقف المحتوى"
+
+#: ../include/shortcodes/admin/heading.php:151
+msgid "Divider On/Off"
+msgstr "المفرق / إيقاف"
+
+#: ../include/shortcodes/admin/heading.php:158
+msgid "set divider on/off for the list bottom border"
+msgstr "المفرق مجموعة / إيقاف لائحة الحد السفلي"
+
+#: ../include/shortcodes/admin/heading.php:163
+msgid "Font Style"
+msgstr "نمط الخط"
+
+#: ../include/shortcodes/admin/heading.php:167
+msgid "Normal"
+msgstr "طبيعي"
+
+#: ../include/shortcodes/admin/heading.php:168
+msgid "Italic"
+msgstr "مائل"
+
+#: ../include/shortcodes/admin/heading.php:169
+msgid "Oblique"
+msgstr "منحرف"
+
+#: ../include/shortcodes/admin/heading.php:171
+msgid "select a font style from the drop down"
+msgstr "حدد نمط الخط من القائمة المنسدلة"
+
+#: ../include/shortcodes/admin/heading.php:176
+msgid "Heading Color"
+msgstr "تتجه اللون"
+
+#: ../include/shortcodes/admin/heading.php:181
+msgid "heading color for the heading element"
+msgstr "تتجه لون عنصر العنوان"
+
+#: ../include/shortcodes/admin/heading.php:192
+msgid "set a content color for the heading element"
+msgstr "تعيين لون المحتوى للعنصر العنوان"
+
+#: ../include/shortcodes/admin/image-frame.php:71
+msgid "Edit Image Options"
+msgstr "خيارات تحرير الصور"
+
+#: ../include/shortcodes/admin/image-frame.php:85
+msgid "Image Style"
+msgstr "صورة ستايل"
+
+#: ../include/shortcodes/admin/image-frame.php:89 ..
+#: /include/shortcodes/admin/multi-services.php:80
+msgid "Modern"
+msgstr "حديث"
+
+#: ../include/shortcodes/admin/image-frame.php:90 ..
+#: /include/shortcodes/admin/multi-services.php:81 ..
+#: /include/shortcodes/admin/table.php:118
+msgid "Classic"
+msgstr "كلاسيكي"
+
+#: ../include/shortcodes/admin/image-frame.php:97
+msgid "Image url"
+msgstr "رابط الصورة"
+
+#: ../include/shortcodes/admin/image-frame.php:135
+msgid "Caption"
+msgstr "شرح"
+
+#: ../include/shortcodes/admin/image-frame.php:139
+msgid "If you would like a caption to be shown below the image, add it here."
+msgstr "إذا كنت ترغب في الحصول على شرح ليتم عرضها أسفل الصورة، إضافته هنا."
+
+#: ../include/shortcodes/admin/infobox.php:68
+msgid "Edit Infobox Options"
+msgstr "تحرير خيارات إينفوبوإكس]"
+
+#: ../include/shortcodes/admin/infobox.php:99
+msgid "Provide a hex background colour code here (include #)"
+msgstr "توفير رمز اللون الخلفية عرافة هنا (بما في ذلك #)"
+
+#: ../include/shortcodes/admin/infobox.php:118
+msgid "Class"
+msgstr "فئة"
+
+#: ../include/shortcodes/admin/infobox.php:148
+msgid "Info Box Fontawsome Icon"
+msgstr "معلومات مربع Fontawsome أيقونة"
+
+#: ../include/shortcodes/admin/infobox.php:196
+msgid "Add Item"
+msgstr "إضافة عنصر"
+
+#: ../include/shortcodes/admin/list.php:67
+msgid "Edit List Style Options"
+msgstr "خيارات قائمة تحرير نمط"
+
+#: ../include/shortcodes/admin/list.php:87
+msgid "List Style"
+msgstr "القائمة نمط"
+
+#: ../include/shortcodes/admin/list.php:93
+msgid "Bullet"
+msgstr "رصاصة"
+
+#: ../include/shortcodes/admin/list.php:94
+msgid "Decimal"
+msgstr "عشري"
+
+#: ../include/shortcodes/admin/list.php:95
+msgid "alphabetic"
+msgstr "أبجدي"
+
+#: ../include/shortcodes/admin/list.php:96
+msgid "terms"
+msgstr "شروط"
+
+#: ../include/shortcodes/admin/list.php:97
+msgid "Numeric and Icon"
+msgstr "رقمية ودلالات"
+
+#: ../include/shortcodes/admin/list.php:100
+msgid "set a list style from the dropdown"
+msgstr "تعيين نمط قائمة من القائمة المنسدلة"
+
+#: ../include/shortcodes/admin/list.php:112
+msgid "set on/off for the list bottom border"
+msgstr "تعيين على / قبالة لائحة الحد السفلي"
+
+#: ../include/shortcodes/admin/list.php:137
+msgid "List Item:"
+msgstr "قائمة البند:"
+
+#: ../include/shortcodes/admin/list.php:167
+msgid "Add List Item"
+msgstr "إضافة عنصر قائمة"
+
+#: ../include/shortcodes/admin/mailchimp.php:71
+msgid "Edit Mail Chimp Options"
+msgstr ""
+"تحرير\n"
+" \n"
+"خيارات\n"
+" \n"
+"الشمبانزي\n"
+" \n"
+"البريد"
+
+#: ../include/shortcodes/admin/mailchimp.php:86
+msgid "Mail chimp Title"
+msgstr ""
+"البريد\n"
+" \n"
+"الشمبانزي\n"
+" \n"
+"العنوان"
+
+#: ../include/shortcodes/admin/mailchimp.php:94
+msgid "Mailchimp Sub Title"
+msgstr "Mailchimp العنوان الفرعي"
+
+#: ../include/shortcodes/admin/mailchimp.php:118
+msgid "Mailchimp Text"
+msgstr "Mailchimp النص"
+
+#: ../include/shortcodes/admin/map.php:75
+msgid "Edit Map Options"
+msgstr "تحرير خيارات الخريطة"
+
+#: ../include/shortcodes/admin/map.php:99
+msgid "Map Height"
+msgstr "خريطة الطول"
+
+#: ../include/shortcodes/admin/map.php:103
+msgid "Map height set here"
+msgstr "ارتفاع الخريطة يقع هنا"
+
+#: ../include/shortcodes/admin/map.php:108
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: ../include/shortcodes/admin/map.php:112 ../include/shortcodes/admin/map.php:121
+msgid "The map will appear only if this field is filled correctly"
+msgstr "خريطة ستظهر فقط إذا يتم تعبئة هذا الحقل بشكل صحيح"
+
+#: ../include/shortcodes/admin/map.php:117
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: ../include/shortcodes/admin/map.php:126
+msgid "Zoom"
+msgstr "زوم"
+
+#: ../include/shortcodes/admin/map.php:135
+msgid "Map Types"
+msgstr "أنواع خريطة"
+
+#: ../include/shortcodes/admin/map.php:139
+msgid "ROADMAP"
+msgstr "خريطة الطريق"
+
+#: ../include/shortcodes/admin/map.php:140
+msgid "HYBRID"
+msgstr "HYBRID"
+
+#: ../include/shortcodes/admin/map.php:141
+msgid "SATELLITE"
+msgstr "SATELLITE"
+
+#: ../include/shortcodes/admin/map.php:142
+msgid "TERRAIN"
+msgstr "TERRAIN"
+
+#: ../include/shortcodes/admin/map.php:148
+msgid "Info Text"
+msgstr "معلومات النص"
+
+#: ../include/shortcodes/admin/map.php:152
+msgid "Enter the marker content"
+msgstr "أدخل محتوى علامة"
+
+#: ../include/shortcodes/admin/map.php:157
+msgid "Info Max Width"
+msgstr "معلومات ماكس العرض"
+
+#: ../include/shortcodes/admin/map.php:161
+msgid "set max width for the google map"
+msgstr "تعيين عرض الحد الأقصى لخريطة جوجل"
+
+#: ../include/shortcodes/admin/map.php:166
+msgid "Info Max Height"
+msgstr "معلومات ماكس الطول"
+
+#: ../include/shortcodes/admin/map.php:170
+msgid "set max height for the google map"
+msgstr "تعيين أقصى ارتفاع لخريطة جوجل"
+
+#: ../include/shortcodes/admin/map.php:175
+msgid "Marker Icon Path"
+msgstr "علامة أيقونة مسار"
+
+#: ../include/shortcodes/admin/map.php:180
+msgid "Give a link for your marker icon"
+msgstr "يعطي وجود صلة للرمز العلامة الخاصة بك"
+
+#: ../include/shortcodes/admin/map.php:198
+msgid "Show Marker"
+msgstr "مشاهدة ماركر"
+
+#: ../include/shortcodes/admin/map.php:205
+msgid "Set marker on/off for the map"
+msgstr "علامة تعيين على / قبالة لخريطة"
+
+#: ../include/shortcodes/admin/map.php:210
+msgid "Disable Map Controls"
+msgstr "تعطيل خريطة الضوابط"
+
+#: ../include/shortcodes/admin/map.php:217
+msgid "You can set map control disable/enable"
+msgstr "يمكنك تعيين خريطة السيطرة تعطيل / تمكين"
+
+#: ../include/shortcodes/admin/map.php:222
+msgid "Drag able"
+msgstr "سحب قادرة"
+
+#: ../include/shortcodes/admin/map.php:233
+msgid "Scroll Wheel"
+msgstr "العجلة الدوارة"
+
+#: ../include/shortcodes/admin/map.php:240
+msgid "Set scroll wheel"
+msgstr "تعيين عجلة التمرير"
+
+#: ../include/shortcodes/admin/map.php:252
+msgid "Set border for map"
+msgstr "تعيين الحدود لخريطة"
+
+#: ../include/shortcodes/admin/map.php:262
+msgid "If you will select a border than select the border color"
+msgstr "إذا كنت سوف تختار الحدود من اختيار لون الحدود"
+
+#: ../include/shortcodes/admin/multi-deals.php:59
+msgid "Edit Multiple deals Options"
+msgstr "تعديل صفقات متعددة الخيارات"
+
+#: ../include/shortcodes/admin/multi-deals.php:110
+msgid "Multiple deals"
+msgstr "صفقات متعددة"
+
+#: ../include/shortcodes/admin/multi-deals.php:197
+msgid "Add Multiple deals"
+msgstr "إضافة صفقات متعددة"
+
+#: ../include/shortcodes/admin/multi-services.php:59
+msgid "Edit Multiple services Options"
+msgstr "تعديل خيارات متعددة الخدمات"
+
+#: ../include/shortcodes/admin/multi-services.php:75
+msgid "View"
+msgstr "رأي"
+
+#: ../include/shortcodes/admin/multi-services.php:79
+msgid "simple"
+msgstr "بسيط"
+
+#: ../include/shortcodes/admin/multi-services.php:122
+msgid "Multiple services"
+msgstr "خدمات متعددة"
+
+#: ../include/shortcodes/admin/multi-services.php:302
+msgid "Add Multiple service"
+msgstr "إضافة خدمة متعددة"
+
+#: ../include/shortcodes/admin/price-table.php:228
+msgid "Pricing Features"
+msgstr "التسعير الميزات"
+
+#: ../include/shortcodes/admin/price-table.php:230
+msgid "Add New Feature input box"
+msgstr "إضافة جديد مربع إدخال ميزة"
+
+#: ../include/shortcodes/admin/price-table.php:233
+msgid "Set feature price of the product"
+msgstr "تحديد سعر سمة من سمات المنتج"
+
+#: ../include/shortcodes/admin/price-table.php:261
+msgid "Pricing Feature"
+msgstr "التسعير ميزة"
+
+#: ../include/shortcodes/admin/progressbar.php:66
+msgid "Edit Progress bars Options"
+msgstr ""
+"تحرير\n"
+" \n"
+"تقدم\n"
+" \n"
+"خيارات\n"
+" \n"
+"القضبان"
+
+#: ../include/shortcodes/admin/progressbar.php:75
+msgid "Progress Bars Style"
+msgstr ""
+" \n"
+" \n"
+" \n"
+"تقدم\n"
+" \n"
+"بارات\n"
+" \n"
+"نمط"
+
+#: ../include/shortcodes/admin/progressbar.php:79
+msgid "Plain Progress bar"
+msgstr "شريط سهل التقدم"
+
+#: ../include/shortcodes/admin/progressbar.php:80
+msgid "Strip Progress bar"
+msgstr "شريط التقدم قطاع"
+
+#: ../include/shortcodes/admin/progressbar.php:81
+msgid "Pattern Progress bar"
+msgstr "نمط شريط التقدم"
+
+#: ../include/shortcodes/admin/progressbar.php:110
+msgid "ProgressBar"
+msgstr ""
+"تقدم\n"
+" \n"
+"بار"
+
+#: ../include/shortcodes/admin/progressbar.php:114
+msgid "ProgressBars Title"
+msgstr ""
+"تقدم\n"
+" \n"
+"بار\n"
+" العنوان"
+
+#: ../include/shortcodes/admin/progressbar.php:151
+msgid "Add Progress bar"
+msgstr ""
+"إضافة\n"
+" \n"
+"شريط التقدم"
+
+#: ../include/shortcodes/admin/promobox.php:73
+msgid "Edit Promo Box Options"
+msgstr "تحرير خيارات مربع الترويجي"
+
+#: ../include/shortcodes/admin/promobox.php:94
+msgid "Promo Box Background image here"
+msgstr "الترويجي صندوق صورة الخلفية هنا"
+
+#: ../include/shortcodes/admin/promobox.php:113
+msgid "Background Repeat"
+msgstr "خلفية كرر"
+
+#: ../include/shortcodes/admin/promobox.php:184
+msgid "Link url"
+msgstr "رابط URL"
+
+#: ../include/shortcodes/admin/promobox.php:188
+msgid "Give External/Internal Promo Box url"
+msgstr "منح صندوق الترويجي الخارجي / الداخلي رابط"
+
+#: ../include/shortcodes/admin/quote.php:63
+msgid "Edit Quote Options"
+msgstr "خيارات تحرير إقتباس"
+
+#: ../include/shortcodes/admin/quote.php:86
+msgid "give the name of the author"
+msgstr "إعطاء اسم المؤلف"
+
+#: ../include/shortcodes/admin/quote.php:91
+msgid "Author Url"
+msgstr "المؤلف رابط"
+
+#: ../include/shortcodes/admin/quote.php:95
+msgid "Give the Author External / Internal Url"
+msgstr "إعطاء المؤلف الخارجية / URL الداخلية"
+
+#: ../include/shortcodes/admin/quote.php:116
+msgid "right"
+msgstr "حق"
+
+#: ../include/shortcodes/admin/quote.php:117
+msgid "center"
+msgstr "مركز"
+
+#: ../include/shortcodes/admin/quote.php:124
+msgid "Quote Content"
+msgstr "اقتباس المحتوى"
+
+#: ../include/shortcodes/admin/revolution-slider.php:66
+msgid "Edit Slider Options"
+msgstr "تحرير خيارات المتزلج"
+
+#: ../include/shortcodes/admin/revolution-slider.php:72
+msgid "Slider Section Title"
+msgstr "المنزلق القسم عنوان"
+
+#: ../include/shortcodes/admin/revolution-slider.php:79
+msgid "Please enter slider header title."
+msgstr "يرجى إدخال عنوان رأس المنزلق."
+
+#: ../include/shortcodes/admin/revolution-slider.php:85
+msgid "Chose Slider"
+msgstr "اختار المتزلج"
+
+#: ../include/shortcodes/admin/services.php:87
+msgid "Edit Services Options"
+msgstr "تحرير خيارات الخدمات"
+
+#: ../include/shortcodes/admin/services.php:132
+msgid "Select the fontawsome Icons you would like to add to your menu items"
+msgstr "حدد الرموز fontawsome كنت ترغب في إضافة لعناصر القائمة الخاصة بك"
+
+#: ../include/shortcodes/admin/services.php:142
+msgid "Set custom colour for icon"
+msgstr "تعيين لون مخصص للرمز"
+
+#: ../include/shortcodes/admin/services.php:197 ..
+#: /include/shortcodes/admin/services.php:210
+msgid "Give the position"
+msgstr "إعطاء موقف"
+
+#: ../include/shortcodes/admin/services.php:237 ../include/shortcodes/admin/table.
+#: php:131
+msgid "Enter the content"
+msgstr "إدخال المحتوى"
+
+#: ../include/shortcodes/admin/sitemap.php:49
+msgid "Edit Site Map Options"
+msgstr "تحرير الموقع خيارات الخريطة"
+
+#: ../include/shortcodes/admin/slider.php:66
+msgid "Edit Offer Slider Options"
+msgstr "تحرير عرض الخيارات المتزلج"
+
+#: ../include/shortcodes/admin/slider.php:164
+msgid "Read More Link"
+msgstr "المزيد صلة"
+
+#: ../include/shortcodes/admin/slider.php:176
+msgid "give the link title here"
+msgstr "إعطاء عنوان الرابط هنا"
+
+#: ../include/shortcodes/admin/slider.php:191
+msgid "Add Offer"
+msgstr "أضف عرض"
+
+#: ../include/shortcodes/admin/spacer.php:49
+msgid "Edit Spacer Options"
+msgstr "تحرير خيارات فاصل"
+
+#: ../include/shortcodes/admin/table.php:94
+msgid "Edit Table Options"
+msgstr "تحرير خيارات الجدول"
+
+#: ../include/shortcodes/admin/table.php:112
+msgid "Table Style"
+msgstr "نمط جدول"
+
+#: ../include/shortcodes/admin/table.php:117
+msgid "Modern Style"
+msgstr "الحديث نمط"
+
+#: ../include/shortcodes/admin/table.php:122
+msgid "Select a table style"
+msgstr "حدد نمط جدول"
+
+#: ../include/shortcodes/admin/table.php:127
+msgid "Table Content"
+msgstr "الجدول المحتوى"
+
+#: ../include/shortcodes/admin/tabs.php:67
+msgid "Edit Tabs Options"
+msgstr "تحرير خيارات علامات التبويب"
+
+#: ../include/shortcodes/admin/tabs.php:87
+msgid "Tab Style"
+msgstr "علامة التبويب نمط"
+
+#: ../include/shortcodes/admin/tabs.php:92 ../include/theme-options/theme_options.
+#: php:633
+msgid "Default"
+msgstr "افتراضي"
+
+#: ../include/shortcodes/admin/tabs.php:93
+msgid "Vertical"
+msgstr "عمودي"
+
+#: ../include/shortcodes/admin/tabs.php:141
+msgid "Tab Title"
+msgstr "التبويب عنوان"
+
+#: ../include/shortcodes/admin/tabs.php:151
+msgid "Tab Fontawsome Icon"
+msgstr "علامة التبويب Fontawsome أيقونة"
+
+#: ../include/shortcodes/admin/tabs.php:162
+msgid "Tab Text"
+msgstr "التبويب نص"
+
+#: ../include/shortcodes/admin/tabs.php:185
+msgid "Add Tab"
+msgstr "إضافة علامة تبويب"
+
+#: ../include/shortcodes/admin/team.php:63
+msgid "Edit Team Options"
+msgstr ""
+"تحرير\n"
+" \n"
+"خيارات\n"
+" \n"
+"فريق"
+
+#: ../include/shortcodes/admin/team.php:76 ../include/theme-components/cs-
+#: widgets/cs_contact.php:130
+msgid "Name"
+msgstr "اسم"
+
+#: ../include/shortcodes/admin/team.php:84
+msgid "Designation"
+msgstr "تعيين"
+
+#: ../include/shortcodes/admin/team.php:93
+msgid "short Description"
+msgstr ""
+" \n"
+" \n"
+" \n"
+"وصف قصير"
+
+#: ../include/shortcodes/admin/team.php:102
+msgid "Team Profile Image"
+msgstr ""
+"فريق\n"
+" \n"
+"الملف الشخصي\n"
+" \n"
+"صورة"
+
+#: ../include/shortcodes/admin/team.php:124 ../include/theme-
+#: options/theme_options.php:1289
+msgid "Facebook"
+msgstr "الفيسبوك"
+
+#: ../include/shortcodes/admin/team.php:132
+msgid "Twitter Url"
+msgstr ""
+"تويتر\n"
+" \n"
+"رابط"
+
+#: ../include/shortcodes/admin/team.php:140
+msgid "Linkedin Url"
+msgstr "ينكدين رابط"
+
+#: ../include/shortcodes/admin/team.php:148
+msgid "Google plus"
+msgstr "جوجل بلس"
+
+#: ../include/shortcodes/admin/team.php:156
+msgid "Skype"
+msgstr ""
+" \n"
+" \n"
+" \n"
+"سكايب"
+
+#: ../include/shortcodes/admin/team.php:164 ..
+#: /include/shortcodes/frontend/contactus.php:113 ../include/theme-components/cs-
+#: widgets/contactinfo.php:96 ../include/theme-components/cs-widgets/cs_contact.
+#: php:133
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../include/shortcodes/admin/testimonial.php:59
+msgid "Edit Testimonials Options"
+msgstr "تحرير خيارات الشهادات"
+
+#: ../include/shortcodes/admin/testimonial.php:83
+msgid "list view"
+msgstr "عرض القائمة"
+
+#: ../include/shortcodes/admin/testimonial.php:84
+msgid "Slider view"
+msgstr "عرض المنزلق"
+
+#: ../include/shortcodes/admin/testimonial.php:85
+msgid "Modern Slider view"
+msgstr "عرض المتزلج الحديث"
+
+#: ../include/shortcodes/admin/testimonial.php:89
+msgid "Testimonial Style"
+msgstr "شهادة ستايل"
+
+#: ../include/shortcodes/admin/testimonial.php:101
+msgid "This will not apply in Slider View"
+msgstr "وهذا لا ينطبق في المتزلج مشاهدة"
+
+#: ../include/shortcodes/admin/testimonial.php:157
+msgid "Company"
+msgstr "شركة"
+
+#: ../include/shortcodes/admin/testimonial.php:202
+msgid "Add testimonials"
+msgstr "إضافة إلى شهادات"
+
+#: ../include/shortcodes/admin/tweets.php:53
+msgid "Edit Twitter Options"
+msgstr "تعديل خيارات تويتر"
+
+#: ../include/shortcodes/admin/tweets.php:61 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:39
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+#: ../include/shortcodes/admin/tweets.php:75
+msgid "No of Tweets"
+msgstr "عدد تغريدات"
+
+#: ../include/shortcodes/admin/video.php:61
+msgid "Edit Video Options"
+msgstr "تحرير خيارات الفيديو"
+
+#: ../include/shortcodes/admin/video.php:86
+msgid "give the video Url here"
+msgstr "إعطاء رابط الفيديو هنا"
+
+#: ../include/shortcodes/admin/video.php:91
+msgid "Width"
+msgstr "عرض"
+
+#: ../include/shortcodes/admin/video.php:95
+msgid "Add a width in pix, If you want to override the default"
+msgstr "إضافة عرض في بيكسل ، إذا كنت ترغب في تجاوز الافتراضي"
+
+#: ../include/shortcodes/admin/video.php:104
+msgid "Provide height in cs, if you want to override the default"
+msgstr "تقديم ارتفاع في خدمات العملاء، إذا كنت ترغب في تجاوز الافتراضي"
+
+#: ../include/shortcodes/frontend/contactus.php:104
+msgid "Enter Your Name"
+msgstr "أدخل أسمك"
+
+#: ../include/shortcodes/frontend/contactus.php:106
+msgid "Enter Name"
+msgstr "ادخل الاسم"
+
+#: ../include/shortcodes/frontend/contactus.php:111
+msgid "Enter Your Email Address"
+msgstr "أدخل عنوان بريدك الإلكتروني"
+
+#: ../include/shortcodes/frontend/contactus.php:118
+msgid "Enter Subject"
+msgstr "أدخل الموضوع"
+
+#: ../include/shortcodes/frontend/contactus.php:121 ../include/theme-
+#: components/cs-widgets/cs_contact.php:136
+msgid "Subject"
+msgstr "موضوع"
+
+#: ../include/shortcodes/frontend/contactus.php:127 ..
+#: /include/shortcodes/frontend/contactus.php:129 ../include/theme-components/cs-
+#: widgets/cs_contact.php:139
+msgid "Message"
+msgstr "رسالة"
+
+#: ../include/shortcodes/frontend/contactus.php:134
+msgid "Submit Now"
+msgstr "تقدم الآن"
+
+#: ../include/shortcodes/frontend/map.php:100
+msgid "Directions"
+msgstr "الاتجاهات"
+
+#: ../include/shortcodes/frontend/map.php:106
+msgid "Enter Location"
+msgstr "أدخل الموقع"
+
+#: ../include/shortcodes/frontend/map.php:109
+msgid "Driving"
+msgstr "القيادة"
+
+#: ../include/shortcodes/frontend/map.php:110
+msgid "Walking"
+msgstr "المشي"
+
+#: ../include/shortcodes/frontend/map.php:111
+msgid "Bicycling"
+msgstr "دراجة هوائية"
+
+#: ../include/shortcodes/frontend/map.php:112
+msgid "Transit"
+msgstr "عبور"
+
+#: ../include/shortcodes/frontend/sitemap.php:22
+msgid "Pages"
+msgstr "صفحات"
+
+#: ../include/shortcodes/frontend/sitemap.php:47
+msgid "Posts"
+msgstr "المشاركات"
+
+#: ../include/shortcodes/frontend/sitemap.php:88
+msgid "Categories"
+msgstr "الفئات"
+
+#: ../include/shortcodes/frontend/tweets.php:111 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:143
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d ثواني منذ"
+
+#: ../include/shortcodes/frontend/tweets.php:112 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:144
+#, php-format
+msgid "About a Minute Ago"
+msgid_plural "%d Minutes Ago"
+msgstr[0] "منذ حوالي دقيقة واحدة"
+msgstr[1] "منذ حوالي دقيقة واحدة"
+msgstr[2] "منذ حوالي دقيقة واحدة"
+msgstr[3] "منذ حوالي دقيقة واحدة"
+msgstr[4] "منذ حوالي دقيقة واحدة"
+msgstr[5] "منذ حوالي دقيقة واحدة"
+
+#: ../include/shortcodes/frontend/tweets.php:113 ..
+#: /include/shortcodes/frontend/tweets.php:114 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:145 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:146
+#, php-format
+msgid "About an Hour Ago"
+msgid_plural "%d Hours Ago"
+msgstr[0] "حوالي ساعة منذ"
+msgstr[1] "حوالي ساعة منذ"
+msgstr[2] "حوالي ساعة منذ"
+msgstr[3] "حوالي ساعة منذ"
+msgstr[4] "حوالي ساعة منذ"
+msgstr[5] "حوالي ساعة منذ"
+
+#: ../include/shortcodes/frontend/tweets.php:115 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:147
+#, php-format
+msgid "About a Day Ago"
+msgid_plural "%d Days Ago"
+msgstr[0] "حول يوم مضى"
+msgstr[1] "حول يوم مضى"
+msgstr[2] "حول يوم مضى"
+msgstr[3] "حول يوم مضى"
+msgstr[4] "حول يوم مضى"
+msgstr[5] "حول يوم مضى"
+
+#: ../include/shortcodes/frontend/tweets.php:116 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:148
+#, php-format
+msgid "About a Week Ago"
+msgid_plural "%d Weeks Ago"
+msgstr[0] "منذ حوالي اسبوع"
+msgstr[1] "منذ حوالي اسبوع"
+msgstr[2] "منذ حوالي اسبوع"
+msgstr[3] "منذ حوالي اسبوع"
+msgstr[4] "منذ حوالي اسبوع"
+msgstr[5] "منذ حوالي اسبوع"
+
+#: ../include/shortcodes/frontend/tweets.php:117 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:149
+#, php-format
+msgid "About a Month Ago"
+msgid_plural "%d Months Ago"
+msgstr[0] "منذ حوالي شهر"
+msgstr[1] "منذ حوالي شهر"
+msgstr[2] "منذ حوالي شهر"
+msgstr[3] "منذ حوالي شهر"
+msgstr[4] "منذ حوالي شهر"
+msgstr[5] "منذ حوالي شهر"
+
+#: ../include/shortcodes/frontend/tweets.php:118 ../include/theme-components/cs-
+#: widgets/cs_twitter_widget.php:150
+#, php-format
+msgid "About a year Ago"
+msgid_plural "%d years Ago"
+msgstr[0] "حوالي سنة منذ"
+msgstr[1] "حوالي سنة منذ"
+msgstr[2] "حوالي سنة منذ"
+msgstr[3] "حوالي سنة منذ"
+msgstr[4] "حوالي سنة منذ"
+msgstr[5] "حوالي سنة منذ"
+
+#: ../include/shortcodes/frontend/tweets.php:134 ..
+#: /include/shortcodes/frontend/tweets.php:138
+msgid "No Tweets Found"
+msgstr "لم تغريدات العثور"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:271
+msgid "Something went wrong."
+msgstr "حدث خطأ ما."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:282
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] ""
+"آسف\n"
+"، ولكن\n"
+" \n"
+"لم يكن لديك\n"
+" \n"
+"الأذونات الصحيحة\n"
+" \n"
+"لتثبيت\n"
+"٪\n"
+" \n"
+"الصورة\n"
+" \n"
+"المساعد."
+msgstr[1] ""
+"آسف\n"
+"، ولكن\n"
+" \n"
+"لم يكن لديك\n"
+" \n"
+"الأذونات الصحيحة\n"
+" \n"
+"لتثبيت\n"
+" \n"
+"الإضافات\n"
+" \n"
+"و\n"
+"٪\n"
+" \n"
+"الصورة\n"
+"."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:297
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins."
+msgstr[0] ""
+"آسف\n"
+"، ولكن\n"
+" \n"
+"لم يكن لديك\n"
+" \n"
+"الأذونات الصحيحة\n"
+" \n"
+"لتفعيل\n"
+"٪\n"
+" \n"
+"الصورة\n"
+" \n"
+"المساعد."
+msgstr[1] ""
+"آسف\n"
+"، ولكن\n"
+" \n"
+"لم يكن لديك\n"
+" \n"
+"الأذونات الصحيحة\n"
+" \n"
+"لتفعيل\n"
+" \n"
+"الإضافات\n"
+" \n"
+"و\n"
+"٪\n"
+" \n"
+"الصورة\n"
+"."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:307
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] ""
+"آسف\n"
+"، ولكن\n"
+" \n"
+"لم يكن لديك\n"
+" \n"
+"الأذونات الصحيحة\n"
+" \n"
+"لتحديث\n"
+"٪\n"
+" \n"
+"الصورة\n"
+" \n"
+"المساعد."
+msgstr[1] ""
+"آسف\n"
+"، ولكن\n"
+" \n"
+"لم يكن لديك\n"
+" \n"
+"الأذونات الصحيحة\n"
+" \n"
+"لتحديث\n"
+" \n"
+"الإضافات\n"
+" \n"
+"و\n"
+"٪\n"
+" \n"
+"الصورة\n"
+"."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:317
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "بدء تفعيل البرنامج المساعد"
+msgstr[1] "بدء تفعيل البرنامج المساعد"
+msgstr[2] "بدء تفعيل البرنامج المساعد"
+msgstr[3] "بدء تفعيل البرنامج المساعد"
+msgstr[4] "بدء تفعيل البرنامج المساعد"
+msgstr[5] "بدء تفعيل البرنامج المساعد"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:323
+msgid "Return to the dashboard"
+msgstr "العودة إلى لوحة القيادة"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 325 ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:1911
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "تم تفعيل البرنامج المساعد التالية بنجاح:"
+msgstr[1] "تم تفعيل البرنامج المساعد التالية بنجاح:"
+msgstr[2] "تم تفعيل البرنامج المساعد التالية بنجاح:"
+msgstr[3] "تم تفعيل البرنامج المساعد التالية بنجاح:"
+msgstr[4] "تم تفعيل البرنامج المساعد التالية بنجاح:"
+msgstr[5] "تم تفعيل البرنامج المساعد التالية بنجاح:"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:326
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الإضافات المثبتة وتفعيلها بنجاح. %1$s"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:327
+msgid "Dismiss this notice"
+msgstr "إقالة هذا الإشعار"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:328
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"الرجاء الاتصال بمسؤول\n"
+" \n"
+"لهذا الموقع\n"
+" \n"
+"للحصول على المساعدة\n"
+"."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 645 ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:2517
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة التحكم الرئيسية"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:719
+msgid ""
+"The remote plugin package is does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"حزمة\n"
+" \n"
+"المساعد\n"
+" \n"
+"عن بعد\n"
+" \n"
+"لا يحتوي على\n"
+" \n"
+"المجلد مع\n"
+" \n"
+"سبيكة\n"
+" \n"
+"المطلوب\n"
+" \n"
+"وإعادة تسمية\n"
+" \n"
+"لم تنجح."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 719 ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:723
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"يرجى\n"
+" \n"
+"الاتصال بموفر\n"
+" \n"
+"المساعد\n"
+" \n"
+"ونطلب منهم\n"
+" \n"
+"لحزم\n"
+" \n"
+"المساعد\n"
+" \n"
+"وفقا\n"
+" \n"
+"للمبادئ التوجيهية\n"
+" \n"
+"وورد."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:723
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"تتكون\n"
+" \n"
+"حزمة\n"
+" \n"
+"المساعد\n"
+" \n"
+"النائية في\n"
+" \n"
+"أكثر من ملف و\n"
+"احد، ولكن\n"
+" \n"
+"لم\n"
+" \n"
+"يتم تعبئتها من\n"
+" \n"
+"الملفات\n"
+" \n"
+"في مجلد."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:768
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+"ولم يتخذ أي إجراء\n"
+".\n"
+" \n"
+"وكان\n"
+" \n"
+"البرنامج المساعد\n"
+"٪\n"
+" \n"
+"1\n"
+" \n"
+"$ S\n"
+" \n"
+"بالفعل\n"
+" \n"
+"نشطة."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 893 ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:1907
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1536
+msgid "External Source"
+msgstr ""
+"المصدر\n"
+" \n"
+"الخارجي"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1540
+msgid "Pre-Packaged"
+msgstr "وتعبئتها مسبقا"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1545
+msgid "WordPress Repository"
+msgstr "وورد مستودع"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1549
+msgid "Required"
+msgstr "مطلوب"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1551
+msgid "Recommended"
+msgstr "موصى به"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1555
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1557
+msgid "Installed But Not Activated"
+msgstr "تثبيت ولكن لا المنشط"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1640
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1659
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "تنشيط %2$s"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1705
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+"لا\n"
+" \n"
+"الإضافات\n"
+" \n"
+"لتثبيت\n"
+" \n"
+"أو\n"
+" \n"
+"تفعيل\n"
+".\n"
+" \n"
+"<a\n"
+" \n"
+"href=\"٪1$s\">\n"
+" \n"
+"العودة\n"
+" \n"
+"إلى\n"
+" \n"
+"</A>\n"
+" \n"
+"لوحة"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1721
+msgid "Plugin"
+msgstr "المساعد"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1722
+msgid "Source"
+msgstr "مصدر"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1724
+msgid "Status"
+msgstr "حالة"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1742
+msgid "Install"
+msgstr "تثبيت"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1743
+msgid "Activate"
+msgstr "نشط"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1795
+msgid "No plugins are available to be installed at this time."
+msgstr "تتوفر ليتم تثبيتها في هذا الوقت أي ملحقات."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1893
+msgid "No plugins are available to be activated at this time."
+msgstr "تتوفر لتفعيلها في هذا الوقت أي ملحقات."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2260
+msgid "Install package not available."
+msgstr "تثبيت حزمة غير متوفرة."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2261
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "تحميل تثبيت حزمة من <تمتد الطبقة =  \"كود \"> %s </ SPAN> & # 8230؛"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2262
+msgid "Unpacking the package&#8230;"
+msgstr "تفريغ حزمة & # 8230؛"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2263
+msgid "Installing the plugin&#8230;"
+msgstr "تثبيت البرنامج المساعد & # 8230؛"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2264
+msgid "Plugin install failed."
+msgstr "المساعد فشل التثبيت."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2265
+msgid "Plugin installed successfully"
+msgstr "المساعد تثبيت بنجاح"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2276
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل البرنامج المساعد."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2399
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "حدث خطأ أثناء تثبيت %1$s : <قوية> %2$s </ قوي>."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2400
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "تركيب %1$s فشل."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2404
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"عملية التثبيت وتفعيل بدأت. قد تستغرق هذه العملية بعض الوقت على بعض المضيفين، "
+"لذا يرجى التحلي بالصبر."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2405
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s تثبيت وتنشيط بنجاح."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 2405 ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:2412
+msgid "Show Details"
+msgstr "عرض التفاصيل"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:
+#: 2405 ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.
+#: php:2412
+msgid "Hide Details"
+msgstr "إخفاء التفاصيل"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2406
+msgid "All installations and activations have been completed."
+msgstr "وقد تم الانتهاء من جميع المنشآت والتنشيط."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2407
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تركيب وتفعيل البرنامج المساعد %1$s ( %2$d / %3$d )"
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2411
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"عملية التثبيت هو بداية. قد تستغرق هذه العملية بعض الوقت على بعض المضيفين، "
+"لذا يرجى التحلي بالصبر."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2412
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s تثبيت بنجاح."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2413
+msgid "All installations have been completed."
+msgstr "وقد تم الانتهاء من جميع المنشآت."
+
+#: ../include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2414
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت البرنامج المساعد %1$s ( %2$d / %3$d )"
+
+#: ../include/theme-components/cs-header/header_functions.php:177
+msgid "Make a Booking"
+msgstr "جعل الحجز"
+
+#: ../include/theme-components/cs-importer/parsers.php:42 ../include/theme-
+#: components/cs-importer/parsers.php:72 ../include/theme-components/cs-
+#: importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "كان هناك خطأ عند قراءة هذا الملف WXR"
+
+#: ../include/theme-components/cs-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr "وتظهر تفاصيل أعلاه. فإن المستورد يحاول الآن مرة أخرى مع محلل مختلفة ..."
+
+#: ../include/theme-components/cs-importer/parsers.php:84 ../include/theme-
+#: components/cs-importer/parsers.php:89 ../include/theme-components/cs-
+#: importer/parsers.php:279 ../include/theme-components/cs-importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "هذا لا يبدو أن ملف WXR، مفقود / WXR صالح رقم الإصدار"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:43
+msgid "Error."
+msgstr "خطأ."
+
+#: ../include/theme-components/cs-importer/theme_importer.php:47 ../include/theme-
+#: components/cs-importer/wordpress-importer.php:134 ../include/theme-
+#: components/cs-importer/wordpress-importer.php:143 ../include/theme-
+#: components/cs-importer/wordpress-importer.php:194 ../include/theme-
+#: components/cs-importer/wordpress-importer.php:198 ../include/theme-
+#: components/cs-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "آسف، لم يكن هناك خطأ."
+
+#: ../include/theme-components/cs-importer/theme_importer.php:48 ../include/theme-
+#: components/cs-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "الملف غير موجود، يرجى المحاولة مرة أخرى."
+
+#: ../include/theme-components/cs-importer/theme_importer.php:152
+msgid ""
+"Importing demo data helps to build site like the demo site by all means. It "
+"is the quickest way to setup theme. Following things happen when dummy data "
+"is imported"
+msgstr ""
+"استيراد البيانات تجريبي يساعد على بناء موقع مثل موقع تجريبي بكل الوسائل. هو "
+"أسرع وسيلة ل موضوع الإعداد. التالية الأمور عند استيراد البيانات دمية"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:154
+msgid "All wordpress settings will remain same and intact"
+msgstr "ستظل كافة الإعدادات وورد نفس و سليمة"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:155
+msgid "Posts, pages and dummy images shown in demo will be imported"
+msgstr "سيتم استيراد المشاركات ، وصفحات وصور وهمية هو مبين في التجريبي"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:156
+msgid ""
+"Only dummy images will be imported as all demo images have copy right "
+"restriction"
+msgstr "سيتم استيراد الصور وهمية فقط فجميع الصور DEMO نسخ تقييد الحق"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:157
+msgid ""
+"No existing posts, pages, categories, custom post types or any other data "
+"will be deleted or modified"
+msgstr ""
+"لا توجد مشاركات ، وصفحات والفئات و الأنواع آخر مخصص سيتم حذف أي بيانات أخرى "
+"أو تعديله أو القائمة"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:158
+msgid "To proceed, please click \"Import Demo Data\" and wait for a while"
+msgstr "المضي قدما، الرجاء انقر فوق \"استيراد تجريبي بيانات \" والانتظار لفترة من الوقت"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:159
+msgid "Before Import demo data please make sure your server has following Setting"
+msgstr ""
+"قبل صدور بيانات التجريبي استيراد من فضلك تأكد من الخادم الخاص بك يحتوي "
+"الإعداد التالي"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:162
+msgid "post max size = 10M or Greater."
+msgstr "الرد على حجم الحد الأقصى = 10M أو الكبرى ."
+
+#: ../include/theme-components/cs-importer/theme_importer.php:163
+msgid "upload max_filesize = 10M or Greater."
+msgstr ""
+
+#: ../include/theme-components/cs-importer/theme_importer.php:164
+msgid "memory limit = 128M or Greater"
+msgstr "حد الذاكرة = 128M أو أكبر"
+
+#: ../include/theme-components/cs-importer/theme_importer.php:167
+msgid "Your Current Setting"
+msgstr "لديك إعداد الحالي"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "كل ذلك."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "استمتع!"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "تذكر لتحديث كلمات السر وأدوار المستخدمين المستوردة."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"لا يمكن العثور على الملف التصدير في <رمز> %s </ الرمز>. ومن المرجح أن هذا "
+"كان بسبب مشكلة أذونات."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"هذا الملف WXR (الإصدار %s ) قد لا تكون معتمدة من قبل هذا الإصدار من المستورد."
+" يرجى النظر التحديث."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr "فشل في استيراد المؤلف %s . ويمكن أن يعزى مناصبهم للمستخدم الحالي."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "تعيين المؤلف"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+"لجعله أسهل بالنسبة لك لتعديل وحفظ المحتوى المستوردة، قد تحتاج إلى إعادة "
+"تعيين صاحب سلعة مستوردة إلى مستخدم موجود في هذا الموقع. على سبيل المثال، قد "
+"ترغب في استيراد جميع مداخل ك <رمز> المشرف </ الرمز> الصورة الإدخالات."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"إذا تم إنشاء مستخدم جديد من وورد، سيتم إنشاء كلمة مرور جديدة عشوائيا "
+"والمستخدم الجديد & # 8217؛ وسيتم تعيين دور الصورة كما %s . تغيير يدويا "
+"المستخدم الجديد & # 8217؛ ق التفاصيل سوف تكون ضرورية."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "المرفقات استيراد"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "تحميل وملف الاستيراد إرفاق ملفات"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "استيراد المؤلف:"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "أو إنشاء مستخدم جديد مع اسم الدخول:"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "كمستخدم جديد:"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "تعيين المشاركات إلى مستخدم موجود:"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "أو تعيين المشاركات إلى مستخدم موجود:"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- اختر -"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr "فشل إنشاء مستخدم جديد ل %s . ويمكن أن يعزى مناصبهم للمستخدم الحالي."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr "فشل في استيراد الفئة %s"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "فشل في استيراد رقم المشاركة %s"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:511 ..
+#: /include/theme-components/cs-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "فشل في استيراد %s %s"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s & # 8220؛ %s & # 8221؛ موجود بالفعل."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr "عنصر القائمة تخطي بسبب عدم وجود القائمة سبيكة"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "عنصر القائمة تخطي بسبب سبيكة القائمة غير صالحة: %s"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr "جلب المرفقات لم يتم تمكين"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr "نوع الملف غير صالح"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr "لم يستجب الملقم البعيد"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "الملقم البعيد خطأ عاد ردا %1$d %2$s"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr "الملف البعيد هو حجم غير صحيح"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr "ملف الصفر حجم تحميل"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "الملف البعيد كبير جدا، والحد الأقصى هو %s"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr "استيراد وورد"
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"نسخة جديدة من\n"
+" \n"
+"هذا\n"
+" \n"
+"المستورد\n"
+" \n"
+"هو متاح.\n"
+" \n"
+"يرجى تحديث\n"
+" \n"
+"إلى الإصدار\n"
+"٪ s إلى\n"
+" \n"
+"ضمان التوافق\n"
+" \n"
+"مع ملفات\n"
+" \n"
+"التصدير\n"
+" \n"
+"الجديدة."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"مرحبا! تحميل وورد الخاص بك تمديد RSS (WXR) الملف ونحن & # 8217؛ ليرة لبنانية "
+"استيراد وظيفة، صفحة، التعليقات، حقول مخصصة، والفئات، والعلامات في هذا الموقع."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "اختيار WXR (. XML) ملف للتحميل، ثم انقر فوق ملف تحميل والاستيراد."
+
+#: ../include/theme-components/cs-importer/wordpress-importer.php:1129
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#: ../include/theme-components/cs-widgets/contactinfo.php:77
+msgid "Address"
+msgstr "عنوان"
+
+#: ../include/theme-components/cs-widgets/contactinfo.php:82
+msgid "Phone"
+msgstr "هاتف"
+
+#: ../include/theme-components/cs-widgets/contactinfo.php:89
+msgid "Fax"
+msgstr "فاكس"
+
+#: ../include/theme-components/cs-widgets/cs_contact.php:17
+msgid "Select contact form to show in widget."
+msgstr "حدد نموذج الاتصال لتظهر في القطعة."
+
+#: ../include/theme-components/cs-widgets/cs_contact.php:18
+msgid "CS : Contact Form"
+msgstr "CS: نموذج الاتصال"
+
+#: ../include/theme-components/cs-widgets/cs_contact.php:33 ../include/theme-
+#: components/cs-widgets/cs_twitter_widget.php:36 ../include/theme-components/cs-
+#: widgets/recentposts.php:32
+msgid "Title:"
+msgstr "العنوان:"
+
+#: ../include/theme-components/cs-widgets/cs_contact.php:39
+msgid "Contact Email:"
+msgstr "البريد الالكتروني:"
+
+#: ../include/theme-components/cs-widgets/cs_contact.php:45
+msgid "Success Message:"
+msgstr "رسالة نجاح:"
+
+#: ../include/theme-components/cs-widgets/cs_contact.php:88
+msgid "An error Occured, please try again later."
+msgstr "حدث خطأ، يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#: ../include/theme-components/cs-widgets/cs_contact.php:142
+msgid "Send"
+msgstr "إرسال"
+
+#: ../include/theme-components/cs-widgets/cs_flickr.php:23
+msgid "Type a user name to show photos in widget."
+msgstr "اكتب اسم المستخدم لعرض الصور في القطعة."
+
+#: ../include/theme-components/cs-widgets/cs_flickr.php:24
+msgid "CS : Flickr Gallery"
+msgstr "CS: فليكر معرض"
+
+#: ../include/theme-components/cs-widgets/cs_flickr.php:43
+msgid "Flickr username"
+msgstr "فليكر اسم المستخدم"
+
+#: ../include/theme-components/cs-widgets/cs_flickr.php:48
+msgid "Number of Photos"
+msgstr "عدد الصور"
+
+#: ../include/theme-components/cs-widgets/cs_flickr.php:150 ../include/theme-
+#: components/cs-widgets/cs_flickr.php:178
+msgid "No result found."
+msgstr "لم يتم العثور على نتيجة."
+
+#: ../include/theme-components/cs-widgets/cs_flickr.php:153 ../include/theme-
+#: components/cs-widgets/cs_flickr.php:157
+msgid "Error:"
+msgstr "الخطأ:"
+
+#: ../include/theme-components/cs-widgets/cs_flickr.php:183
+msgid "Please Enter Flickr API key from Theme Options."
+msgstr "يرجى إدخال فليكر مفتاح API من الخيارات لقضاء وقت الفراغ."
+
+#: ../include/theme-components/cs-widgets/cs_twitter_widget.php:22
+msgid "Twitter Widget"
+msgstr "تويتر القطعة"
+
+#: ../include/theme-components/cs-widgets/cs_twitter_widget.php:23
+msgid "CS: Twitter Widget"
+msgstr "CS: التغريد القطعة"
+
+#: ../include/theme-components/cs-widgets/cs_twitter_widget.php:42
+msgid "Num of Tweets:"
+msgstr "الأسطوانات من تغريدات:"
+
+#: ../include/theme-components/cs-widgets/facebook.php:16
+msgid "Facebook widget like box total customized with theme"
+msgstr "الفيسبوك القطعة مثل مربع مجموعه تخصيصها مع موضوع"
+
+#: ../include/theme-components/cs-widgets/facebook.php:17
+msgid "CS : Facebook"
+msgstr "CS: الفيسبوك"
+
+#: ../include/theme-components/cs-widgets/facebook.php:40
+msgid "Page URL"
+msgstr "URL الصفحة"
+
+#: ../include/theme-components/cs-widgets/facebook.php:43
+msgid "Please enter your page or User profile url example:L"
+msgstr "الرجاء إدخال صفحتك أو العضو المثال رابط الملف الشخصي: L"
+
+#: ../include/theme-components/cs-widgets/facebook.php:48
+msgid "Show Faces"
+msgstr "مشاهدة وجوه"
+
+#: ../include/theme-components/cs-widgets/facebook.php:53
+msgid "Show Stream"
+msgstr "مشاهدة ستريم"
+
+#: ../include/theme-components/cs-widgets/facebook.php:59
+msgid "Like Box Height"
+msgstr "مثل صندوق الارتفاع"
+
+#: ../include/theme-components/cs-widgets/mailchimp.php:22
+msgid "Mail Chimp Newsletter Widget"
+msgstr ""
+"البريد\n"
+" \n"
+"الشمبانزي\n"
+" \n"
+"النشرة\n"
+" \n"
+"القطعة"
+
+#: ../include/theme-components/cs-widgets/mailchimp.php:23
+msgid "CS: Mail Chimp"
+msgstr ""
+"CS\n"
+":\n"
+" \n"
+"البريد\n"
+" \n"
+"الشمبانزي"
+
+#: ../include/theme-components/cs-widgets/mailchimp.php:41
+msgid "Description"
+msgstr "وصف"
+
+#: ../include/theme-components/cs-widgets/recentposts.php:17
+msgid "Recent Posts from category."
+msgstr "المشاركات الأخيرة من الفئة."
+
+#: ../include/theme-components/cs-widgets/recentposts.php:18
+msgid "CS : Recent Posts"
+msgstr "CS: المشاركات الأخيرة"
+
+#: ../include/theme-components/cs-widgets/recentposts.php:37
+msgid "Select Category:"
+msgstr "اختر الفئة:"
+
+#: ../include/theme-components/cs-widgets/recentposts.php:39
+msgid "All"
+msgstr "كل"
+
+#: ../include/theme-components/cs-widgets/recentposts.php:52
+msgid "Number of Posts To Display:"
+msgstr "عدد المشاركات لعرض:"
+
+#: ../include/theme-components/cs-widgets/social_network.php:22
+msgid "Social Newtork widget."
+msgstr "شبكة مكونة الاجتماعية القطعة."
+
+#: ../include/theme-components/cs-widgets/social_network.php:23
+msgid "CS : Social Newtork"
+msgstr "CS: شبكة مكونة الاجتماعية"
+
+#: ../include/theme-options/theme_options.php:17
+msgid "Saving changes..."
+msgstr "حفظ التغييرات ..."
+
+#: ../include/theme-options/theme_options.php:42
+msgid "Save All Settings"
+msgstr "حفظ جميع إعدادات"
+
+#: ../include/theme-options/theme_options.php:44
+msgid "Reset All Options"
+msgstr "إعادة تعيين جميع الخيارات"
+
+#: ../include/theme-options/theme_options.php:163
+msgid "Celsius"
+msgstr "مئوية"
+
+#: ../include/theme-options/theme_options.php:163
+msgid "Fahrenheit"
+msgstr "فهرنهايت"
+
+#: ../include/theme-options/theme_options.php:163
+msgid "Both"
+msgstr "على حد سواء"
+
+#: ../include/theme-options/theme_options.php:172
+msgid "Blogs Sidebar"
+msgstr "بلوق الشريط الجانبي"
+
+#: ../include/theme-options/theme_options.php:173
+msgid "Contact"
+msgstr "اتصال"
+
+#: ../include/theme-options/theme_options.php:174
+msgid "Event Listings"
+msgstr "القوائم الحدث"
+
+#: ../include/theme-options/theme_options.php:175
+msgid "Event Detail"
+msgstr "تفاصيل الحدث"
+
+#: ../include/theme-options/theme_options.php:181 ../include/theme-
+#: options/theme_options.php:637
+msgid "Breadcrumbs Sub Header"
+msgstr "فتات الخبز رأس الباطن"
+
+#: ../include/theme-options/theme_options.php:181
+msgid "No sub Header"
+msgstr "لا الفرعي رأس"
+
+#: ../include/theme-options/theme_options.php:241
+msgid "General"
+msgstr "عام"
+
+#: ../include/theme-options/theme_options.php:245 ../include/theme-
+#: options/theme_options.php:296
+msgid "global"
+msgstr "عالمي"
+
+#: ../include/theme-options/theme_options.php:246 ../include/theme-
+#: options/theme_options.php:262
+msgid "Header"
+msgstr "رأس"
+
+#: ../include/theme-options/theme_options.php:247
+msgid "Sub Header"
+msgstr "رأس الباطن"
+
+#: ../include/theme-options/theme_options.php:248 ../include/theme-
+#: options/theme_options.php:263
+msgid "Footer"
+msgstr "تذييل"
+
+#: ../include/theme-options/theme_options.php:249 ../include/theme-
+#: options/theme_options.php:1262
+msgid "social icons"
+msgstr "الرموز الاجتماعية"
+
+#: ../include/theme-options/theme_options.php:250
+msgid "social sharing"
+msgstr "تقاسم الاجتماعية"
+
+#: ../include/theme-options/theme_options.php:251 ../include/theme-
+#: options/theme_options.php:1353
+msgid "custom code"
+msgstr "التعليمات البرمجية المخصصة"
+
+#: ../include/theme-options/theme_options.php:252 ../include/theme-
+#: options/theme_options.php:1377
+msgid "Ads Unit Settings"
+msgstr "إعلانات إعدادات وحدة"
+
+#: ../include/theme-options/theme_options.php:256
+msgid "color"
+msgstr "اللون"
+
+#: ../include/theme-options/theme_options.php:261
+msgid "general"
+msgstr "عام"
+
+#: ../include/theme-options/theme_options.php:264
+msgid "headings"
+msgstr "العناوين"
+
+#: ../include/theme-options/theme_options.php:268
+msgid "typography / fonts"
+msgstr "الطباعة / الخطوط"
+
+#: ../include/theme-options/theme_options.php:274 ../include/theme-
+#: options/theme_options.php:1058
+msgid "Custom Font"
+msgstr "العرف الخط"
+
+#: ../include/theme-options/theme_options.php:275 ../include/theme-
+#: options/theme_options.php:1096
+msgid "font family"
+msgstr "عائلة الخط"
+
+#: ../include/theme-options/theme_options.php:280 ../include/theme-
+#: options/theme_options.php:1389
+msgid "sidebar"
+msgstr "الشريط الجانبي"
+
+#: ../include/theme-options/theme_options.php:288 ../include/theme-
+#: options/theme_options.php:1465
+msgid "SEO"
+msgstr "SEO"
+
+#: ../include/theme-options/theme_options.php:301
+msgid "Layout"
+msgstr "تصميم"
+
+#: ../include/theme-options/theme_options.php:303
+msgid "Layout type"
+msgstr "نوع تخطيط"
+
+#: ../include/theme-options/theme_options.php:307
+msgid "Boxed"
+msgstr "محاصر"
+
+#: ../include/theme-options/theme_options.php:323
+msgid "Background image"
+msgstr "الصورة الخلفية"
+
+#: ../include/theme-options/theme_options.php:325
+msgid "Choose from Predefined Background images."
+msgstr "اختيار من الصور الخلفية المحددة مسبقا."
+
+#: ../include/theme-options/theme_options.php:336
+msgid "Background pattern"
+msgstr "نمط الخلفية"
+
+#: ../include/theme-options/theme_options.php:338
+msgid "Choose from Predefined Pattern images."
+msgstr "اختيار من الصور نمط محدد مسبقا."
+
+#: ../include/theme-options/theme_options.php:349
+msgid "Custom image"
+msgstr "صورة مخصصة"
+
+#: ../include/theme-options/theme_options.php:351
+msgid "This option can be used only with Boxed Layout."
+msgstr "هذا الخيار يمكن استخدامها فقط مع محاصر تخطيط."
+
+#: ../include/theme-options/theme_options.php:358
+msgid "Background image position"
+msgstr "موقف صورة الخلفية"
+
+#: ../include/theme-options/theme_options.php:360
+msgid "Choose image position for body background"
+msgstr "اختيار موقف صورة لخلفية الجسم"
+
+#: ../include/theme-options/theme_options.php:362
+msgid "Center Repeat"
+msgstr "مركز كرر"
+
+#: ../include/theme-options/theme_options.php:375
+msgid "Custom favicon"
+msgstr "فافيكون مخصصة"
+
+#: ../include/theme-options/theme_options.php:377
+msgid "Custom favicon for your site"
+msgstr "فافيكون مخصص لموقعك"
+
+#: ../include/theme-options/theme_options.php:383
+msgid "Smooth Scroll"
+msgstr "انتقل على نحو سلس"
+
+#: ../include/theme-options/theme_options.php:385
+msgid "Lightweight Script for Page Scrolling animation"
+msgstr "سيناريو خفيفة الوزن لصفحة التمرير الرسوم المتحركة"
+
+#: ../include/theme-options/theme_options.php:392
+msgid "RTL"
+msgstr "RTL"
+
+#: ../include/theme-options/theme_options.php:394
+msgid "Turn RTL On/Off here for Right to Left languages like Arabic etc."
+msgstr "تحويل RTL تشغيل / إيقاف هنا ل حق اللغات اليسار مثل العربية الخ"
+
+#: ../include/theme-options/theme_options.php:401
+msgid "Responsive"
+msgstr "متجاوب"
+
+#: ../include/theme-options/theme_options.php:403
+msgid "Set responsive design layout for mobile devices On/Off here"
+msgstr "تعيين تخطيط تصميم تستجيب للهواتف النقالة تشغيل / إيقاف هنا"
+
+#: ../include/theme-options/theme_options.php:413
+msgid "Language Settings"
+msgstr "اعدادات اللغة"
+
+#: ../include/theme-options/theme_options.php:420
+msgid "Select Language File"
+msgstr "حدد ملف اللغة"
+
+#: ../include/theme-options/theme_options.php:433
+msgid "Select Language"
+msgstr "اختار اللغة"
+
+#: ../include/theme-options/theme_options.php:444
+msgid "header"
+msgstr "رأس"
+
+#: ../include/theme-options/theme_options.php:449
+msgid "Select Header"
+msgstr "حدد رأس"
+
+#: ../include/theme-options/theme_options.php:455
+msgid "Header 1"
+msgstr "رأس 1"
+
+#: ../include/theme-options/theme_options.php:455
+msgid "Header 2"
+msgstr "رأس 2"
+
+#: ../include/theme-options/theme_options.php:458
+msgid "Logo"
+msgstr "الشعار"
+
+#: ../include/theme-options/theme_options.php:460
+msgid "Upload your custom logo in .png .jpg .gif formats only."
+msgstr "تحميل شعار مخصص في بابوا نيو غينيا الأشكال .JPG .GIF فقط."
+
+#: ../include/theme-options/theme_options.php:465
+msgid "Logo Height"
+msgstr "ارتفاع الشعار"
+
+#: ../include/theme-options/theme_options.php:467
+msgid "Set exact logo height otherwise logo will not display normally."
+msgstr "تعيين الارتفاع شعار المحدد وإلا سوف شعار لا يتم عرض بشكل طبيعي."
+
+#: ../include/theme-options/theme_options.php:474
+msgid "logo width"
+msgstr "عرض الشعار"
+
+#: ../include/theme-options/theme_options.php:476
+msgid "Set exact logo width otherwise logo will not display normally."
+msgstr "تعيين عرض شعار المحدد وإلا سوف شعار لا يتم عرض بشكل طبيعي."
+
+#: ../include/theme-options/theme_options.php:484
+msgid "Logo margin top"
+msgstr "أعلى هامش شعار"
+
+#: ../include/theme-options/theme_options.php:486
+msgid "Logo spacing margin from top"
+msgstr "هامش التباعد شعار من أعلى"
+
+#: ../include/theme-options/theme_options.php:493
+msgid "Logo margin bottom"
+msgstr "أسفل هامش شعار"
+
+#: ../include/theme-options/theme_options.php:495
+msgid "Logo spacing margin from bottom."
+msgstr "شعار تباعد الهامش من أسفل."
+
+#: ../include/theme-options/theme_options.php:502
+msgid "Logo margin right"
+msgstr "هامش شعار الحق"
+
+#: ../include/theme-options/theme_options.php:504
+msgid "Logo spacing margin from right."
+msgstr "هامش التباعد شعار من اليمين."
+
+#: ../include/theme-options/theme_options.php:511
+msgid "Logo margin left"
+msgstr "هامش شعار يقم"
+
+#: ../include/theme-options/theme_options.php:513
+msgid "Logo spacing margin from left"
+msgstr "هامش التباعد شعار من اليسار"
+
+#: ../include/theme-options/theme_options.php:522 ../include/theme-
+#: options/theme_options.php:524
+msgid "Header Elements"
+msgstr "رأس عناصر"
+
+#: ../include/theme-options/theme_options.php:532
+msgid "Cart Count"
+msgstr "عربة عدد"
+
+#: ../include/theme-options/theme_options.php:534
+msgid "Enable/Disable Woocommerce Cart Count"
+msgstr "تمكين / تعطيل Woocommerce العربة عدد"
+
+#: ../include/theme-options/theme_options.php:542
+msgid "WPML"
+msgstr "WPML"
+
+#: ../include/theme-options/theme_options.php:544
+msgid "Set WordPress Multi Language switcher On/Off in header"
+msgstr "تعيين وورد موضوع اللغة الجلاد تشغيل / إيقاف في رأس"
+
+#: ../include/theme-options/theme_options.php:551
+msgid "Sticky Header On/Off"
+msgstr "مثبت رأس تشغيل / إيقاف"
+
+#: ../include/theme-options/theme_options.php:554
+msgid ""
+"If you enable this option , header will be fixed on top of your browser "
+"window."
+msgstr "في حالة تمكين هذا الخيار، سيتم تحديد رأس على رأس نافذة المتصفح."
+
+#: ../include/theme-options/theme_options.php:559
+msgid "Sticky Logo"
+msgstr "شعار لزجة"
+
+#: ../include/theme-options/theme_options.php:561
+msgid "Set sticky logo Image"
+msgstr "تعيين لزجة شعار صورة"
+
+#: ../include/theme-options/theme_options.php:565
+msgid "Tagline"
+msgstr "الشعار"
+
+#: ../include/theme-options/theme_options.php:567
+msgid "Enable/Disable Tagline"
+msgstr "تمكين / تعطيل سطر الوصف"
+
+#: ../include/theme-options/theme_options.php:573 ../include/theme-
+#: options/theme_options.php:577
+msgid "Booking"
+msgstr "الحجز"
+
+#: ../include/theme-options/theme_options.php:580 ../include/theme-
+#: options/theme_options.php:618
+msgid "Booking link"
+msgstr "رابط الحجز"
+
+#: ../include/theme-options/theme_options.php:589 ../include/theme-
+#: options/theme_options.php:591 ../include/theme-options/theme_options.php:596
+msgid "Header Top Strip"
+msgstr "رأس الأعلى قطاع"
+
+#: ../include/theme-options/theme_options.php:598
+msgid "Enable/Disable header top strip"
+msgstr "تمكين / تعطيل أعلى رأس الشريط"
+
+#: ../include/theme-options/theme_options.php:604
+msgid "Help Text"
+msgstr "نص تعليمات"
+
+#: ../include/theme-options/theme_options.php:608
+msgid "Need help?"
+msgstr "احتاج مساعدة؟"
+
+#: ../include/theme-options/theme_options.php:611
+msgid "Booking Number"
+msgstr "رقم الحجز"
+
+#: ../include/theme-options/theme_options.php:628
+msgid "sub header"
+msgstr "رأس الباطن"
+
+#: ../include/theme-options/theme_options.php:635
+msgid "Sub Header settings made here will be implemented on all pages."
+msgstr "وسيتم تنفيذ إعدادات رأس الفرعية الذي أدلى به هنا على كافة الصفحات."
+
+#: ../include/theme-options/theme_options.php:660
+msgid "Set custom padding for sub header content top area."
+msgstr "وضع الحشو مخصصة للمحتوى رأس الفرعي أعلى المنطقة."
+
+#: ../include/theme-options/theme_options.php:669
+msgid "Set custom padding for sub header content bottom area."
+msgstr "وضع الحشو مخصصة للمحتوى رأس الفرعي منطقة القاع."
+
+#: ../include/theme-options/theme_options.php:676
+msgid "Content Text Align"
+msgstr "المحتوى محاذاة النص"
+
+#: ../include/theme-options/theme_options.php:678
+msgid "select the text Alignment for sub header content."
+msgstr "حدد محاذاة النص للمحتوى رأس الفرعي."
+
+#: ../include/theme-options/theme_options.php:684
+msgid "Page Title"
+msgstr "عنوان الصفحة"
+
+#: ../include/theme-options/theme_options.php:686
+msgid "Set page title On/Off in sub header"
+msgstr "تعيين عنوان الصفحة تشغيل / إيقاف في رأس الباطن"
+
+#: ../include/theme-options/theme_options.php:692
+msgid "Title Heading Style"
+msgstr "نوان نمط العنوان"
+
+#: ../include/theme-options/theme_options.php:730
+msgid "Background"
+msgstr "خلفية"
+
+#: ../include/theme-options/theme_options.php:738
+msgid "Parallax"
+msgstr "إختلاف المنظر"
+
+#: ../include/theme-options/theme_options.php:748
+msgid "footer options"
+msgstr "خيارات تذييل"
+
+#: ../include/theme-options/theme_options.php:752
+msgid "Footer section"
+msgstr "مقطع تذييل"
+
+#: ../include/theme-options/theme_options.php:754
+msgid "enable/disable footer area"
+msgstr "تمكين / تعطيل ناحية تذييل الصفحة"
+
+#: ../include/theme-options/theme_options.php:759 ../include/theme-
+#: options/theme_options.php:819
+msgid "Footer Widgets"
+msgstr "تذييل الصفحة الحاجيات"
+
+#: ../include/theme-options/theme_options.php:761
+msgid "enable/disable footer widget area"
+msgstr "تمكين / تعطيل منطقة القطعة تذييل"
+
+#: ../include/theme-options/theme_options.php:768
+msgid "Footer Logo"
+msgstr "تذييل شعار"
+
+#: ../include/theme-options/theme_options.php:770 ../include/theme-
+#: options/theme_options.php:786
+msgid "Like footer logo or Credits Cards Images"
+msgstr ""
+"مثل\n"
+" \n"
+"شعار\n"
+" \n"
+"تذييل\n"
+" \n"
+"أو\n"
+" \n"
+"قروض\n"
+" \n"
+"بطاقات\n"
+" \n"
+"صور"
+
+#: ../include/theme-options/theme_options.php:776
+msgid "Footer logo Link"
+msgstr ""
+"تذييل\n"
+" \n"
+"شعار\n"
+" \n"
+"لينك"
+
+#: ../include/theme-options/theme_options.php:778 ../include/theme-
+#: options/theme_options.php:793 ../include/theme-options/theme_options.php:807
+msgid "set custom footer logo link"
+msgstr ""
+"مجموعة مخصصة\n"
+" \n"
+"صلة\n"
+" \n"
+"شعار\n"
+" \n"
+"تذييل"
+
+#: ../include/theme-options/theme_options.php:784
+msgid "Footer App Logo"
+msgstr "تذييل التطبيق الشعار"
+
+#: ../include/theme-options/theme_options.php:791
+msgid "Footer App link"
+msgstr "رابط تذييل التطبيق"
+
+#: ../include/theme-options/theme_options.php:798
+msgid "Footer App logo"
+msgstr "تذييل التطبيق شعار"
+
+#: ../include/theme-options/theme_options.php:800
+msgid "Set custom Footer Background Image"
+msgstr "مجموعة مخصصة تذييل صورة الخلفية"
+
+#: ../include/theme-options/theme_options.php:805
+msgid "Google Play link"
+msgstr "جوجل رابط اللعب"
+
+#: ../include/theme-options/theme_options.php:812 ../include/theme-
+#: options/theme_options.php:996
+msgid "Copyright Text"
+msgstr "حقوق التأليف والنشر نص"
+
+#: ../include/theme-options/theme_options.php:814
+msgid "write your own copyright text"
+msgstr "كتابة نص حقوق التأليف والنشر الخاصة بك"
+
+#: ../include/theme-options/theme_options.php:821
+msgid "Set footer widgets sidebar"
+msgstr "ضبط الشريط الجانبي الحاجيات تذييل"
+
+#: ../include/theme-options/theme_options.php:829
+msgid "general colors"
+msgstr "الألوان العامة"
+
+#: ../include/theme-options/theme_options.php:833
+msgid "Theme Color"
+msgstr "موضوع اللون"
+
+#: ../include/theme-options/theme_options.php:835
+msgid "Choose theme skin color"
+msgstr "اختيار موضوع لون البشرة"
+
+#: ../include/theme-options/theme_options.php:843
+msgid "Choose Body Background Color"
+msgstr "اختيار لون الجسم الخلفية"
+
+#: ../include/theme-options/theme_options.php:849
+msgid "Body Text Color"
+msgstr "الجسم لون الخط"
+
+#: ../include/theme-options/theme_options.php:851
+msgid "Choose text color"
+msgstr "اختيار لون النص"
+
+#: ../include/theme-options/theme_options.php:858
+msgid "header colors"
+msgstr "الألوان رأس"
+
+#: ../include/theme-options/theme_options.php:862
+msgid "top strip colors"
+msgstr "أعلى الألوان الشريط"
+
+#: ../include/theme-options/theme_options.php:864
+msgid "Top Strip"
+msgstr "قمة قطاع"
+
+#: ../include/theme-options/theme_options.php:870
+msgid "Change Top Strip background color"
+msgstr "تغيير لون الخلفية الأعلى قطاع"
+
+#: ../include/theme-options/theme_options.php:878
+msgid "Change Top Strip text color"
+msgstr "تغيير الأعلى قطاع لون النص"
+
+#: ../include/theme-options/theme_options.php:885
+msgid "Link Color"
+msgstr "ارتباط اللون"
+
+#: ../include/theme-options/theme_options.php:887
+msgid "Change Top Strip link color"
+msgstr "تغيير الأعلى قطاع صلة اللون"
+
+#: ../include/theme-options/theme_options.php:894 ../include/theme-
+#: options/theme_options.php:896
+msgid "Header Colors"
+msgstr "رأس الألوان"
+
+#: ../include/theme-options/theme_options.php:902
+msgid "Change Header background color"
+msgstr "تغيير لون الخلفية رأس"
+
+#: ../include/theme-options/theme_options.php:908
+msgid "Navigation Background Color"
+msgstr "الملاحة لون الخلفية"
+
+#: ../include/theme-options/theme_options.php:910
+msgid "Change Header Navigation Background color"
+msgstr "تغيير رأس الإنتقال لون الخلفية"
+
+#: ../include/theme-options/theme_options.php:916
+msgid "Menu Link color"
+msgstr "لون رابط القائمة"
+
+#: ../include/theme-options/theme_options.php:918
+msgid "Change Header Menu Link color"
+msgstr "تغيير رأس رابط القائمة اللون"
+
+#: ../include/theme-options/theme_options.php:924
+msgid "Menu Active Link color"
+msgstr "القائمة صلة نشطة اللون"
+
+#: ../include/theme-options/theme_options.php:926
+msgid "Change Header Menu Active Link color"
+msgstr "تغيير رأس القائمة النشطة اللون صلة"
+
+#: ../include/theme-options/theme_options.php:933
+msgid "Submenu Background"
+msgstr "خلفية الفرعية"
+
+#: ../include/theme-options/theme_options.php:935
+msgid "Change Submenu Background color"
+msgstr "تغيير لون الخلفية القائمة الفرعية"
+
+#: ../include/theme-options/theme_options.php:941
+msgid "Submenu Link Color"
+msgstr "القائمة الفرعية لينك اللون"
+
+#: ../include/theme-options/theme_options.php:943
+msgid "Change Submenu Link color"
+msgstr "تغيير القائمة الفرعية لينك اللون"
+
+#: ../include/theme-options/theme_options.php:949
+msgid "Submenu Hover Link Color"
+msgstr "القائمة الفرعية تحوم ارتباط اللون"
+
+#: ../include/theme-options/theme_options.php:951
+msgid "Change Submenu Hover Link color"
+msgstr "تغيير القائمة الفرعية تحوم ارتباط اللون"
+
+#: ../include/theme-options/theme_options.php:958
+msgid "footer colors"
+msgstr "الألوان تذييل"
+
+#: ../include/theme-options/theme_options.php:962
+msgid "Footer Background Color"
+msgstr "اللون تذييل الخلفية"
+
+#: ../include/theme-options/theme_options.php:970
+msgid "Footer Title Color"
+msgstr "تذييل لون العنوان"
+
+#: ../include/theme-options/theme_options.php:978
+msgid "Footer Text Color"
+msgstr "تذييل لون الخط"
+
+#: ../include/theme-options/theme_options.php:986
+msgid "Footer Link Color"
+msgstr "تذييل ارتباط اللون"
+
+#: ../include/theme-options/theme_options.php:1005
+msgid "heading colors"
+msgstr "تتجه الألوان"
+
+#: ../include/theme-options/theme_options.php:1009
+msgid "heading h1"
+msgstr "تتجه H1"
+
+#: ../include/theme-options/theme_options.php:1017
+msgid "heading h2"
+msgstr "العنوان H2"
+
+#: ../include/theme-options/theme_options.php:1025
+msgid "heading h3"
+msgstr "تتجه H3"
+
+#: ../include/theme-options/theme_options.php:1033
+msgid "heading h4"
+msgstr "تتجه H4"
+
+#: ../include/theme-options/theme_options.php:1041
+msgid "heading h5"
+msgstr "تتجه H5"
+
+#: ../include/theme-options/theme_options.php:1049
+msgid "heading h6"
+msgstr "تتجه H6"
+
+#: ../include/theme-options/theme_options.php:1063
+msgid "Custom Font .woff"
+msgstr ".woff مخصص الخط"
+
+#: ../include/theme-options/theme_options.php:1065
+msgid "Custom font for your site upload .woff format file."
+msgstr "خط مخصص لموقعك تحميل .woff شكل ملف."
+
+#: ../include/theme-options/theme_options.php:1071
+msgid "Custom Font .ttf"
+msgstr ".TTF مخصص الخط"
+
+#: ../include/theme-options/theme_options.php:1073
+msgid "Custom font for your site upload .ttf format file."
+msgstr "خط مخصص للملف تنسيق موقع التحميل الخاص .TTF."
+
+#: ../include/theme-options/theme_options.php:1079
+msgid "Custom Font .svg"
+msgstr "زمر .svg مخصص الخط"
+
+#: ../include/theme-options/theme_options.php:1081
+msgid "Custom font for your site upload .svg format file."
+msgstr "خط مخصص للملف تنسيق موقع التحميل الخاص زمر .svg."
+
+#: ../include/theme-options/theme_options.php:1087
+msgid "Custom Font .eot"
+msgstr ""
+"eot\n"
+". \n"
+"مخصص\n"
+" \n"
+"الخط"
+
+#: ../include/theme-options/theme_options.php:1089
+msgid "Custom font for your site upload .eot format file."
+msgstr "خط مخصص لموقع تحميل ملف تنسيق .eot الخاص بك."
+
+#: ../include/theme-options/theme_options.php:1100
+msgid "Content Font"
+msgstr "الخط المحتوى"
+
+#: ../include/theme-options/theme_options.php:1102
+msgid "Set fonts for Body text"
+msgstr "مجموعة من الخطوط للنص الجسم"
+
+#: ../include/theme-options/theme_options.php:1108
+msgid "Content Font Attribute"
+msgstr "الخط المحتوى سمة"
+
+#: ../include/theme-options/theme_options.php:1110 ../include/theme-
+#: options/theme_options.php:1126 ../include/theme-options/theme_options.php:1142 
+#: ../include/theme-options/theme_options.php:1158
+msgid "Set Font Attribute"
+msgstr "تعيين سمة الخط"
+
+#: ../include/theme-options/theme_options.php:1116
+msgid "Main Menu Font"
+msgstr "الخط القائمة الرئيسية"
+
+#: ../include/theme-options/theme_options.php:1118
+msgid "Set font for main Menu. It will be applied to sub menu as well"
+msgstr "تعيين الخط القائمة الرئيسية. سيتم تطبيقه على القائمة الفرعية وكذلك"
+
+#: ../include/theme-options/theme_options.php:1124
+msgid "Main Menu Font Attribute"
+msgstr "الخط القائمة الرئيسية سمة"
+
+#: ../include/theme-options/theme_options.php:1132
+msgid "Headings Font"
+msgstr "عناوين الخط"
+
+#: ../include/theme-options/theme_options.php:1134
+msgid "Select font for Headings. It will apply on all posts and pages headings"
+msgstr "حدد الخط لعناوين. أنها ستطبق على جميع الوظائف وعناوين الصفحات"
+
+#: ../include/theme-options/theme_options.php:1140
+msgid "Headings Font Attribute"
+msgstr "السمة عناوين الخط"
+
+#: ../include/theme-options/theme_options.php:1148
+msgid "Widget Headings Font"
+msgstr "القطعة عناوين الخط"
+
+#: ../include/theme-options/theme_options.php:1150
+msgid "Set font for Widget Headings"
+msgstr "تعيين الخط القطعة العناوين"
+
+#: ../include/theme-options/theme_options.php:1156
+msgid "Widget Headings Font Attribute"
+msgstr "السمة القطعة عناوين الخط"
+
+#: ../include/theme-options/theme_options.php:1165
+msgid "Font size"
+msgstr "حجم الخط"
+
+#: ../include/theme-options/theme_options.php:1188
+msgid "Heading 1"
+msgstr "العنوان 1"
+
+#: ../include/theme-options/theme_options.php:1197
+msgid "Heading 2"
+msgstr "العنوان 2"
+
+#: ../include/theme-options/theme_options.php:1206
+msgid "Heading 3"
+msgstr "يتوجه 3"
+
+#: ../include/theme-options/theme_options.php:1215
+msgid "Heading 4"
+msgstr "تتجه 4"
+
+#: ../include/theme-options/theme_options.php:1224
+msgid "Heading 5"
+msgstr "تتجه 5"
+
+#: ../include/theme-options/theme_options.php:1233
+msgid "Heading 6"
+msgstr "يتوجه 6"
+
+#: ../include/theme-options/theme_options.php:1243
+msgid "Widget Heading"
+msgstr "عنوان القطعة"
+
+#: ../include/theme-options/theme_options.php:1252
+msgid "Section Heading"
+msgstr "عنوان المقطع"
+
+#: ../include/theme-options/theme_options.php:1266
+msgid "Social Icon"
+msgstr "أيقونة الاجتماعي"
+
+#: ../include/theme-options/theme_options.php:1275
+msgid "Social Network"
+msgstr "شبكة اجتماعية"
+
+#: ../include/theme-options/theme_options.php:1285
+msgid "social Sharing"
+msgstr "المشاركة الأجتماعية"
+
+#: ../include/theme-options/theme_options.php:1296 ../include/theme-
+#: options/theme_options.php:1650 ../include/theme-options/theme_options.php:1652
+msgid "Twitter"
+msgstr "تغريد"
+
+#: ../include/theme-options/theme_options.php:1303
+msgid "Google Plus"
+msgstr "جوجل بلس"
+
+#: ../include/theme-options/theme_options.php:1310
+msgid "Tumblr"
+msgstr "نعرفكم"
+
+#: ../include/theme-options/theme_options.php:1317
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../include/theme-options/theme_options.php:1324
+msgid "Instagram"
+msgstr "إينستاجرام"
+
+#: ../include/theme-options/theme_options.php:1331
+msgid "StumbleUpon"
+msgstr "للبحث عن"
+
+#: ../include/theme-options/theme_options.php:1338
+msgid "youtube"
+msgstr "يوتيوب"
+
+#: ../include/theme-options/theme_options.php:1345
+msgid "share more"
+msgstr "حصة أكثر"
+
+#: ../include/theme-options/theme_options.php:1357
+msgid "Custom Css"
+msgstr "العرف المغلق"
+
+#: ../include/theme-options/theme_options.php:1359
+msgid "write you custom css without style tag"
+msgstr "أكتب لك العرف المغلق دون سمة نمط"
+
+#: ../include/theme-options/theme_options.php:1365
+msgid "Custom JavaScript"
+msgstr "العرف جافا سكريبت"
+
+#: ../include/theme-options/theme_options.php:1367
+msgid "write you custom js without script tag"
+msgstr "أكتب لك شبيبة مخصص من دون سمة النصي"
+
+#: ../include/theme-options/theme_options.php:1373
+msgid "Ads Unit"
+msgstr "وحدة الإعلانات"
+
+#: ../include/theme-options/theme_options.php:1393 ../include/theme-
+#: options/theme_options.php:1448
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: ../include/theme-options/theme_options.php:1395
+msgid ""
+"Select a sidebar from the list already given. (Nine pre-made sidebars are "
+"given)"
+msgstr ""
+"اختر الشريط الجانبي من القائمة التي قدمت فعلا. (ترد تسعة الجانبية مسبقة "
+"الصنع)"
+
+#: ../include/theme-options/theme_options.php:1402
+msgid "post layout"
+msgstr "تخطيط آخر"
+
+#: ../include/theme-options/theme_options.php:1404
+msgid "single post layout"
+msgstr "تخطيط آخر واحد"
+
+#: ../include/theme-options/theme_options.php:1408
+msgid "Single Post Layout"
+msgstr "مشاركة واحدة تخطيط"
+
+#: ../include/theme-options/theme_options.php:1410
+msgid "Use this option to set default layout. It will be applied to all posts"
+msgstr "استخدم هذا الخيار لتحديد التخطيط الافتراضي. سيتم تطبيقه على جميع المشاركات"
+
+#: ../include/theme-options/theme_options.php:1415 ../include/theme-
+#: options/theme_options.php:1443
+msgid "full width"
+msgstr "العرض الكامل"
+
+#: ../include/theme-options/theme_options.php:1416 ../include/theme-
+#: options/theme_options.php:1444
+msgid "sidebar left"
+msgstr ""
+"اليسار\n"
+" \n"
+"الشريط الجانبي"
+
+#: ../include/theme-options/theme_options.php:1417 ../include/theme-
+#: options/theme_options.php:1445
+msgid "sidebar right"
+msgstr "الحق في الشريط الجانبي"
+
+#: ../include/theme-options/theme_options.php:1421
+msgid "Single Layout Sidebar"
+msgstr "الشريط الجانبي تخطيط واحد"
+
+#: ../include/theme-options/theme_options.php:1423
+msgid ""
+"Select Single Post Layout of your choice for sidebar layout. You cannot "
+"select it for full width layout"
+msgstr ""
+"حدد مشاركة واحدة تخطيط من اختيارك للتخطيط الشريط الجانبي. لا يمكنك تحديده "
+"للتخطيط العرض الكامل"
+
+#: ../include/theme-options/theme_options.php:1430 ../include/theme-
+#: options/theme_options.php:1432
+msgid "default pages"
+msgstr "الصفحات الافتراضية"
+
+#: ../include/theme-options/theme_options.php:1436
+msgid "Default Pages Layout"
+msgstr "افتراضي صفحات تخطيط"
+
+#: ../include/theme-options/theme_options.php:1438
+msgid "Set Sidebar for all pages like Search, Author Archive, Category Archive etc"
+msgstr "ضبط الشريط الجانبي لكافة الصفحات مثل البحث، الكاتب الأرشيف، الفئة الأرشيف الخ"
+
+#: ../include/theme-options/theme_options.php:1450
+msgid ""
+"Select pre-made sidebars for default pages on sidebar layout. Full width "
+"layout cannot have sidebars"
+msgstr ""
+"حدد الجانبية مسبقة الصنع لصفحات افتراضية على تخطيط الشريط الجانبي. تخطيط "
+"العرض الكامل لا يمكن أن يكون الجانبية"
+
+#: ../include/theme-options/theme_options.php:1452
+msgid "Default Pages"
+msgstr "افتراضي الصفحات"
+
+#: ../include/theme-options/theme_options.php:1456
+msgid "Excerpt"
+msgstr "مقتطفات"
+
+#: ../include/theme-options/theme_options.php:1458
+msgid "Set excerpt length/limit from here. It controls text limit for post's content"
+msgstr "مجموعة مقتطفات طول / الحد من هنا. التي تسيطر عليها الحد النص لمحتوى المنصب"
+
+#: ../include/theme-options/theme_options.php:1469
+msgid "Attention for External SEO Plugins!"
+msgstr ""
+"الانتباه\n"
+" \n"
+"لل\n"
+"الخارجية\n"
+" \n"
+"SEO\n"
+" \n"
+"الإضافات\n"
+"!"
+
+#: ../include/theme-options/theme_options.php:1471
+msgid "  If you are using any external Seo plugin, Turn OFF these options"
+msgstr "إذا كنت تستخدم أي سيو المساعد الخارجي ، إيقاف هذه الخيارات"
+
+#: ../include/theme-options/theme_options.php:1475
+msgid "Built-in SEO fields"
+msgstr "المدمج في المجالات SEO"
+
+#: ../include/theme-options/theme_options.php:1477
+msgid "Turn Seo options On/Off"
+msgstr "تحويل خيارات سيو تشغيل / إيقاف"
+
+#: ../include/theme-options/theme_options.php:1482
+msgid "Meta Description"
+msgstr "ميتا الوصف"
+
+#: ../include/theme-options/theme_options.php:1484
+msgid ""
+"HTML attributes that explain the contents of web pages commonly used on "
+"search engine result pages (SERPs) for pages snippets"
+msgstr ""
+"سمات HTML التي توضح محتويات صفحات الويب التي تستخدم عادة في صفحات نتائج محرك "
+"البحث (بالاجور) لصفحات قصاصات"
+
+#: ../include/theme-options/theme_options.php:1490
+msgid "Meta Keywords"
+msgstr "كلمات ميتا"
+
+#: ../include/theme-options/theme_options.php:1492
+msgid ""
+"Attributes of meta tags, a list of comma-separated words included in the "
+"HTML of a Web page that describe the topic of that page"
+msgstr ""
+"سمات العلامات الفوقية، قائمة من الكلمات مفصولة بفواصل المدرجة في HTML لصفحة "
+"ويب التي تصف موضوع تلك الصفحة"
+
+#: ../include/theme-options/theme_options.php:1500 ../include/theme-
+#: options/theme_options.php:1507
+msgid "Maintenance Mode"
+msgstr "نمط الصيانة"
+
+#: ../include/theme-options/theme_options.php:1511
+msgid "Maintenace Page"
+msgstr "لصيانة الصفحة"
+
+#: ../include/theme-options/theme_options.php:1513
+msgid "Users will see Maintenance page & logged in Admin will see normal site."
+msgstr "سيتمكن المستخدمون من رؤية الصفحة صيانة وتسجيل في الادارة سوف راجع موقع عادي."
+
+#: ../include/theme-options/theme_options.php:1518
+msgid "Show Logo"
+msgstr "عرض الشعار"
+
+#: ../include/theme-options/theme_options.php:1520 ../include/theme-
+#: options/theme_options.php:1542
+msgid ""
+"Show/Hide logo on Maintenance. Logo can be uploaded from General > Header in "
+"CS Theme options."
+msgstr ""
+"إظهار / إخفاء الشعار على الصيانة. يمكن تحميلها من شعار العامة> رأس في CS "
+"الخيارات لقضاء وقت الفراغ."
+
+#: ../include/theme-options/theme_options.php:1525
+msgid "Show Newsletter"
+msgstr "مشاهدة النشرة الإخبارية"
+
+#: ../include/theme-options/theme_options.php:1532
+msgid "Newsletter Text"
+msgstr "نص النشرة الإخبارية"
+
+#: ../include/theme-options/theme_options.php:1536
+msgid "Weekly Newsletter"
+msgstr "النشرة الأسبوعية"
+
+#: ../include/theme-options/theme_options.php:1540
+msgid "Show Social"
+msgstr "مشاهدة الاجتماعي"
+
+#: ../include/theme-options/theme_options.php:1547
+msgid "Social Text"
+msgstr "نص الاجتماعي"
+
+#: ../include/theme-options/theme_options.php:1555
+msgid "Maintenance background Image"
+msgstr "صيانة خلفية صورة"
+
+#: ../include/theme-options/theme_options.php:1557 ../include/theme-
+#: options/theme_options.php:1565
+msgid "Upload your maintenance page logo in .png .jpg .gif formats only."
+msgstr "تحميل الصيانة شعارك الصفحة في بابوا نيو غينيا الأشكال .JPG .GIF فقط."
+
+#: ../include/theme-options/theme_options.php:1563
+msgid "Maintenance Page Logo"
+msgstr "صيانة الصفحة شعار"
+
+#: ../include/theme-options/theme_options.php:1571
+msgid "Maintenance Text"
+msgstr "الصيانة النص"
+
+#: ../include/theme-options/theme_options.php:1573
+msgid "Text for Maintenance page. Insert some basic HTML or use shortcodes here."
+msgstr "نص الصفحة الصيانة. إدراج بعض HTML الأساسية أو استخدام الهاتفية القصيرة هنا."
+
+#: ../include/theme-options/theme_options.php:1579
+msgid "Launch Date"
+msgstr "إطلاق تاريخ"
+
+#: ../include/theme-options/theme_options.php:1581
+msgid "Estimated date for completion of site on Maintenance page."
+msgstr "التاريخ المتوقع للانتهاء من الموقع على الصفحة الصيانة."
+
+#: ../include/theme-options/theme_options.php:1589
+msgid "Api settings"
+msgstr "ضبط API"
+
+#: ../include/theme-options/theme_options.php:1597
+msgid "All api settings"
+msgstr "كافة الإعدادات API"
+
+#: ../include/theme-options/theme_options.php:1602
+msgid "Attention for API Settings!"
+msgstr "الانتباه لإعدادات API!"
+
+#: ../include/theme-options/theme_options.php:1604
+msgid ""
+"API Settings allows admin of the site to show their activity on site semi-"
+"automatically. Set your social account API once, it will be update your "
+"social activity automatically on your site."
+msgstr ""
+"إعدادات\n"
+" \n"
+"API\n"
+" \n"
+"تسمح\n"
+" \n"
+"المشرف على\n"
+" \n"
+"الموقع\n"
+" \n"
+"لإظهار\n"
+" \n"
+"نشاطهم\n"
+" \n"
+"في الموقع\n"
+" \n"
+"شبه تلقائيا\n"
+".\n"
+" \n"
+"تعيين\n"
+" \n"
+"API\n"
+" \n"
+"حسابك\n"
+" \n"
+"الاجتماعي\n"
+" \n"
+"مرة واحدة\n"
+"، وسوف\n"
+" \n"
+"يكون\n"
+" \n"
+"تحديث\n"
+" \n"
+"النشاط الاجتماعي\n"
+" \n"
+"الخاص بك\n"
+" \n"
+"تلقائيا على\n"
+" \n"
+"موقع الويب الخاص بك\n"
+"."
+
+#: ../include/theme-options/theme_options.php:1609 ../include/theme-
+#: options/theme_options.php:1611
+msgid "Mail Chimp"
+msgstr ""
+"البريد\n"
+" \n"
+"الشمبانزي"
+
+#: ../include/theme-options/theme_options.php:1615
+msgid "Mail Chimp Key"
+msgstr "البريد الشمبانزي مفتاح"
+
+#: ../include/theme-options/theme_options.php:1616
+msgid ""
+"Enter a valid Mail Chimp API key here to get started. Once you've done that, "
+"you can use the Mail Chimp Widget from the Widgets menu. You will need to "
+"have at least Mail Chimp list set up before the using the widget. You can "
+"get your mail chimp activation key"
+msgstr ""
+"إدخال مفتاح API البريد الشمبانزي صحيح هنا للبدء. مرة واحدة كنت قد فعلت ذلك، "
+"يمكنك استخدام البريد الشمبانزي القطعة من القطع القائمة . سوف تحتاج إلى أن "
+"يكون قائمة البريد الشمبانزي على الأقل إعداد قبل استخدام القطعة. يمكنك الحصول "
+"على البريد مفتاح تنشيط الشمبانزي الخاص بك"
+
+#: ../include/theme-options/theme_options.php:1617
+msgid ""
+"Get your mailchimp key by <a href='https://login.mailchimp.com/' "
+"target='_blank'>Clicking Here </a>"
+msgstr ""
+"الحصول على مفتاح mailchimp عن طريق <a href='https://login.mailchimp.com/' "
+"target='_blank'> النقر هنا </A>"
+
+#: ../include/theme-options/theme_options.php:1623
+msgid "Mail Chimp List"
+msgstr "البريد قائمة الشمبانزي"
+
+#: ../include/theme-options/theme_options.php:1632 ../include/theme-
+#: options/theme_options.php:1634
+msgid "Flickr API Setting"
+msgstr "فليكر إعداد API"
+
+#: ../include/theme-options/theme_options.php:1638
+msgid "Flickr key"
+msgstr "مفتاح فليكر"
+
+#: ../include/theme-options/theme_options.php:1644
+msgid "Flickr secret"
+msgstr "فليكر السر"
+
+#: ../include/theme-options/theme_options.php:1656
+msgid "Show Twitter"
+msgstr "تظهر تويتر"
+
+#: ../include/theme-options/theme_options.php:1658
+msgid "Turn Twitter option On/Off"
+msgstr "بدوره تويتر الخيار تشغيل / إيقاف"
+
+#: ../include/theme-options/theme_options.php:1663
+msgid "Consumer Key"
+msgstr "مفتاح المستهلك"
+
+#: ../include/theme-options/theme_options.php:1670
+msgid "Consumer Secret"
+msgstr "سر المستهلك"
+
+#: ../include/theme-options/theme_options.php:1672
+msgid ""
+"Insert consumer key. To get your account key, <a href='https://dev.twitter."
+"com/' target='_blank'>Click Here </a>"
+msgstr ""
+"إدراج مفتاح المستهلك. للحصول على مفتاح الحساب الخاص بك، <a href='https://dev."
+"twitter.com/' target='_blank'> اضغط هنا </A>"
+
+#: ../include/theme-options/theme_options.php:1677
+msgid "Access Token"
+msgstr "رمز وصول"
+
+#: ../include/theme-options/theme_options.php:1679
+msgid ""
+"Insert Twitter Access Token for permissions. When you create your Twitter "
+"App, you get this Token"
+msgstr ""
+"إدراج تويتر رمز وصول للحصول على أذونات. عند إنشاء الخاص بك التغريد التطبيق، "
+"يمكنك الحصول على هذا الرمز المميز"
+
+#: ../include/theme-options/theme_options.php:1684
+msgid "Access Token Secret"
+msgstr "رمز وصول السرية"
+
+#: ../include/theme-options/theme_options.php:1686
+msgid ""
+"Insert Twitter Access Token Secret here. When you create your Twitter App, "
+"you get this Token"
+msgstr ""
+"إدراج تويتر رمز وصول السرية هنا. عند إنشاء الخاص بك التغريد التطبيق، يمكنك "
+"الحصول على هذا الرمز المميز"
+
+#: ../include/theme-options/theme_options.php:1693 ../include/theme-
+#: options/theme_options.php:1700
+msgid "import & export"
+msgstr "استيراد وتصدير"
+
+#: ../include/theme-options/theme_options.php:1704
+msgid "Export"
+msgstr "تصدير"
+
+#: ../include/theme-options/theme_options.php:1706
+msgid ""
+"If you want to make changes in your site or want to preserve your current "
+"settings, Export them code by saving this code with you. You can restore "
+"your settings by pasting this code in Import section below"
+msgstr ""
+"إذا كنت ترغب في إجراء تغييرات في موقعك أو ترغب في الحفاظ على الإعدادات "
+"الحالية، تصديرها التعليمات البرمجية عن طريق توفير هذا الرمز معك. يمكنك "
+"استعادة الإعدادات الخاصة بك عن طريق لصق هذا الرمز في استيراد أدناه"
+
+#: ../include/theme-options/theme_options.php:1712
+msgid "Import"
+msgstr "استيراد"
+
+#: ../include/theme-options/theme_options.php:1714
+msgid ""
+"To Import your settings, paste the code that you got in above area and saved "
+"it with you"
+msgstr ""
+"استيراد الإعدادات الخاصة بك، قم بلصق التعليمة البرمجية التي حصلت في المنطقة "
+"المذكورة أعلاه، وحفظه معك"
+
+#: ../include/theme-options/theme_options_fields.php:641
+msgid "Default Font"
+msgstr "الخط الافتراضي"
+
+#: ../include/theme-options/theme_options_fields.php:686
+msgid "Select Attribute"
+msgstr "حدد سمة"
+
+#: ../include/theme-options/theme_options_fields.php:1236
+msgid "Please enter the desired title of sidebar"
+msgstr "الرجاء إدخال اسم المطلوب من الشريط الجانبي"
+
+#: ../include/theme-options/theme_options_fields.php:1240
+msgid "Add Sidebar"
+msgstr "إضافة الشريط الجانبي"
+
+#: ../include/theme-options/theme_options_fields.php:1246
+msgid "Already Added Sidebars"
+msgstr "الجانبية أضفت"
+
+#: ../include/theme-options/theme_options_fields.php:1253
+msgid "Sider Bar Name"
+msgstr "اسم سدر بار"
+
+#: ../include/theme-options/theme_options_fields.php:1254
+msgid "Actions"
+msgstr "تطبيقات"
+
+#: ../include/theme-options/theme_options_fields.php:1302
+msgid "Please enter text for icon"
+msgstr "الرجاء إدخال النص ل رمز"
+
+#: ../include/theme-options/theme_options_fields.php:1309
+msgid "Please enter Full Url"
+msgstr "يرجى إدخال عنوان الموقع الكامل"
+
+#: ../include/theme-options/theme_options_fields.php:1334
+msgid "FontAwesome Color"
+msgstr "FontAwesome اللون"
+
+#: ../include/theme-options/theme_options_fields.php:1349 ../include/theme-
+#: options/theme_options_fields.php:1573
+msgid "Add"
+msgstr "إضافة"
+
+#: ../include/theme-options/theme_options_fields.php:1355
+msgid "Already Added Social Icons"
+msgstr "أضفت الرموز الاجتماعية"
+
+#: ../include/theme-options/theme_options_fields.php:1363
+msgid "Network Name"
+msgstr "اسم الشبكة"
+
+#: ../include/theme-options/theme_options_fields.php:1365
+msgid "Actions Icon"
+msgstr "الإجراءات أيقونة"
+
+#: ../include/theme-options/theme_options_fields.php:1398
+msgid "Please enter text for icon tooltip"
+msgstr ""
+"الرجاء\n"
+" \n"
+"إدخال النص\n"
+" \n"
+"ل\n"
+"رمز\n"
+" \n"
+"تلميح"
+
+#: ../include/theme-options/theme_options_fields.php:1515 ../include/theme-
+#: options/theme_options_fields.php:1685
+msgid "Code"
+msgstr "رمز"
+
+#: ../include/theme-options/theme_options_fields.php:1563 ../include/theme-
+#: options/theme_options_fields.php:1737
+msgid "Ad sense Code"
+msgstr "الإعلان الرمز المعنى"
+
+#: ../include/theme-options/theme_options_fields.php:1563 ../include/theme-
+#: options/theme_options_fields.php:1741
+msgid "Please enter Banner Ad sense Code"
+msgstr "الرجاء إدخال راية الإعلان الرمز المعنى"
+
+#: ../include/theme-options/theme_options_fields.php:1579
+msgid "Already Added Banners"
+msgstr "لافتات أضفت"
+
+#: ../include/theme-options/theme_options_fields.php:1589
+msgid "Clicks"
+msgstr "نقرات"
+
+#: ../include/theme-options/theme_options_fields.php:1590
+msgid "Shortcode"
+msgstr "رمز قصير"
+
+#: ../include/theme-options/theme_options_fields.php:1637
+msgid "Custom Code"
+msgstr "مدونة مخصصة"
+
+#: ../include/theme-options/theme_options_fields.php:1668
+msgid "Please enter Banner Style"
+msgstr "الرجاء إدخال راية نمط"

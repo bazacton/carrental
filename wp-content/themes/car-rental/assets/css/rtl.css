@@ -1,0 +1,242 @@
+
+body, .rtl .cs-blog.blog-large .blog-silder article, .rtl .rental-product-outer {
+	direction: rtl;
+	text-align:right;
+}
+.slick-slider {
+	direction: ltr;
+}
+
+.rtl [class*="element-size"],
+ .rtl [class*="col-md"] {
+ margin: 0 0 0 -4px;
+}
+
+/*Align Right*/
+.rtl .logo, .rtl ul.help-list, .rtl ul.help-list li, .rtl .navigation ul li, .rtl .btn-search i, .rtl .cs-services .read-more,
+.rtl .our-deals .text h6, .rtl .widget_categories ul li a, .rtl .widget_archive ul li a, .rtl .widget_meta ul li a, .rtl .cs-blog.blog-medium .cs-media, .rtl .cs-tags i, .rtl .thumblist figure, .rtl .thumblist .text h6, .rtl ul.booking-tabs li, .rtl ul.booking-tabs li a span,
+.rtl ul.booking-tabs li a, .rtl .premium-heading span, .rtl ul.price-list li i, .rtl .grand-total span, .rtl .cs-listing.simple-view .cs-media, .rtl .info-btn a, .rtl ul.facility-list li, .rtl .cs-listing.fancy-view .cs-media, .rtl .fancy-left, .rtl .email i,
+.rtl .location-number i, .rtl .loaction-address-inner i, .rtl .location-number-inner i, .rtl .countdown-alt-2 .item, .rtl .cons-footer .cs-search-area h4, .rtl .cons-footer .cs-search-area form, .rtl .cs-search-area form input, .rtl .cs-result.relevent .cs-media,
+.rtl .cs-author figure, .rtl .twitter-widget article .text i, .rtl .booking-check-box, .rtl .booking-heading, .rtl .booking-left, .rtl .select-booking {
+	float: right;
+}
+
+/*Align Left*/
+.rtl .header-right, .rtl ul.tab-list, .rtl .btn-search, .rtl ul.banner-list, .rtl .cs-location-list.simple-list .location-number, .rtl .cs-location-list.simple-list .phone-number i, .rtl .breadcrumbs, .rtl .booking-widget h3 i, .rtl .premium-heading a, .rtl ul.price-list li span,
+.rtl ul.amount-list li span, .rtl .grand-total em, .rtl .information, .rtl .monthly-permotion-list li span, .rtl .booking-peice span, .rtl .partner-select img, .rtl .fancy-right, .rtl .slicknav_nav .slicknav_arrow{
+	float: Left;
+}
+
+/*Text Align Left*/
+.rtl .cs-location-list.simple-list .location-number {
+	text-align: left;
+}
+
+/*Navigatin Style*/
+/*.rtl .navigation ul {margin: 0 0 0 -11px;}*/
+.rtl .sub-dropdown {right: 0; left: auto;}
+.rtl .navigation ul .sub-dropdown li a::after {left: 10px; right: auto; transform: scale(-1);}
+.rtl .navigation ul .sub-dropdown ul{ left: auto; right: 102%; }
+
+.rtl .tab-list img{ margin: 0 0 0 5px; }
+.rtl .navigation ul{ margin: 0; }
+
+.rtl .navigation > ul > li > a::after{ right: auto; left: 0; }
+.rtl .navigation > ul > li > a{ border-left: none; border-right: 1px solid #00142f; }
+.rtl .navigation ul li:first-child a,
+.rtl .navigation ul li:first-child:hover a { border-radius: 0 3px 3px 0;}
+.rtl .navigation ul .sub-dropdown li:first-child a,
+.rtl .navigation ul .sub-dropdown li:first-child:hover a { border-radius:0;}
+
+.rtl .banner-search .seach_vehicle_btn{ float: left; }
+.rtl .widget-searchform.banner-search .check-box, 
+.rtl .widget-searchform.banner-search .pick-date{ padding: 18px; }
+
+.rtl .breadcrumbs ul li a i{ margin: 0 0 0 5px;}
+
+/*Index Style*/
+.rtl ul.help-list {margin: 0 0 0 12px;}
+.rtl ul.help-list li {margin: 0 0 0 13px;}
+.rtl ul.help-list li i {margin: 0 0 0 8px;}
+.rtl ul.tab-list li:first-child a, .rtl ul.tab-list li a {background-position: 70px 7px;}
+.rtl ul.tab-list li a {padding: 5px 50px 5px 15px;}
+.rtl .select-holder::before {right: 8px; left: auto;}
+.rtl .select-holder::after {left: 18px; right: auto;}
+.rtl .check-box label::before {right: 3px; left: auto;}
+.rtl .check-box input[type="checkbox"]:checked + label::after {left: auto; right: 1px;}
+.rtl .check-box label {padding: 0 24px 0 0;}
+.rtl .date-holder .date::before, .rtl .date-holder .time::before {left: 10px; right: auto; border-right: 15px solid transparent; border-left: none;}
+.rtl .date-holder .date::after, .rtl .date-holder .time::after {right: 12px; left: auto;}
+.rtl .pull-left {float: right !important;}
+.rtl .btn-search i {margin: 3px 0 0 3px; transform: scale(-1);}
+.rtl .banner-search {right: 30px; left: auto;}
+.rtl .cs-caption {left: 60px; right: auto;}
+.rtl ul.banner-list {padding: 0 0 0 50px;}
+.rtl ul.banner-list li::after {right: 0; left: auto;}
+.rtl ul.banner-list li {padding: 0 26px 0 0; margin: 0 0 0 20px;}
+.rtl .cs-services .read-more:before, .rtl .tabs-controls li:before, 
+.rtl .cs-team.grid .text span:before {bottom: -5px; left: auto;right: 3px; transform: scale(-1);}
+.rtl .cs-services .read-more:before{ transform:scale(-1); bottom:0;}
+.rtl .cs-services .read-more {padding: 0 15px 0 0;}
+.rtl .our-deals .text {padding: 14px 20px 15px 0;}
+.rtl .our-deals .price-sec {left: 20px; right: auto;}
+.rtl .cs-location-list.simple-list .phone-number i {margin: 3px 22px 0 0; transform: scale(-1);}
+.rtl .cs-location-list.simple-list .loaction-address address i {margin: -3px 0 0 4px;}
+.rtl .panel-group.cs-default.simple .panel-heading a.collapsed::before, 
+.rtl .panel-group.cs-default.simple .panel-heading a::before {left: 0; right: auto;}
+.rtl .panel-group.cs-default.simple .panel-heading a.collapsed::before,
+.rtl .simple .panel-default .panel-collapse .panel-body ul li::before,
+.rtl #footer .widget.widget_categories ul li a::after, .rtl .widget-socialnetwork ul li a::after, .rtl .read-more i{ transform: scale(-1);}
+/*Blog Style*/
+.rtl .breadcrumbs ul li::before {right: -11px; left: auto; transform: scale(-1);}
+.rtl .cs-blog .blog-silder .slick-prev {left: 58px; right: auto;}
+.rtl .cs-blog .blog-silder .slick-next {left: 30px; right: auto;}
+.rtl .cs-blog .post-options li i, .rtl .blog-detail .post-options li i {margin: -2px 0 0 6px;}
+.rtl .widget_categories ul li:before, .rtl .widget_nav_menu ul li a:before, .rtl .widget_archive ul li:before, 
+.rtl .widget_pages ul li a:before, .rtl .widget_meta ul li:before {right: 0; left: auto; margin: 0 0 0 10px; transform:scale(-1)}
+.rtl .widget_categories ul li, .rtl .widget_nav_menu ul li a, .rtl .widget_archive ul li, .rtl .widget select, 
+.rtl .widget_pages ul li a, .rtl .widget_meta ul li, .rtl .widget_archive ul li {padding: 10px 18px 8px 0;}
+.rtl .cs-blog.blog-medium .cs-media {margin: 0 0 0 18px;}
+.rtl .pagination ul li:last-child a {border-right: 1px solid #ecf0f1;}
+.rtl .pagination ul li:first-child a {border-right: 1px solid #ecf0f1;}
+.rtl .cs-blog.blog-medium .blog-text{ width: 61%; padding: 5px 18px 0 0;}
+/*Blog Detail Style*/
+.rtl .cs-tags i {margin: 0 0 0 5px;}
+.rtl .thumblist figure {margin: 4px 0 0 20px;}
+.rtl .thumblist .text h6 {margin: 0 0 0 13px;}
+.rtl .thumblist .text h6::after {left: -8px; right: auto;}
+.rtl #cs-comments .children {margin: 0 60px 0 0;}
+.rtl .booking-widget h3 {padding: 8px 20px 8px 15px;}
+.rtl ul.booking-tabs li {margin: 0 0 10px 25px;}
+.rtl ul.booking-tabs li:last-child {margin-left: 0;}
+
+/*Booking Style*/
+.rtl .price-bar .new {margin: 0 0 0 5px;}
+.rtl .information {margin: -12px 10px 0 0;}
+.rtl ul.price-list li i {margin: 5px 0 0 8px;}
+.rtl .booking-check-box {margin-left: 25px; margin-right: 0;}
+.rtl .select-booking::after, .rtl ul.cs-element-list li .select-booking::after {left: 1px; right: auto;}
+.rtl .booking-left .booking-check-box {margin-left: 15px; margin-right: 0;}
+.rtl .booking-left {border-left: 1px solid #eee; border-right: none;}
+.rtl .partner-select .booking-check-box label::before {right: 0; left: auto;}
+.rtl .partner-select .booking-check-box input[type="checkbox"]:checked + label::after {left: auto; right: 5px;}
+.rtl ul.cs-element-list .partner-select label {padding-right: 35px; padding-left: 0;}
+.rtl .partner-select .booking-radio-box input[type="radio"]:checked + label::after{ left:auto; right:5px; }
+.rtl .partner-select .booking-radio-box label::before{ left: auto; right:0; }
+.rtl .booking-check-box, .rtl .booking-radio-box{ float: right; }
+.rtl .booking-left .booking-radio-box{ margin-left:15px; margin-right: 0; }
+.rtl .cs-deposit-amount{ margin: 0 3px; }
+.rtl .booking-left .booking-heading{ width: 54%; }
+
+/*Listing Style*/ 
+.rtl ul.fliter-list li {margin: 0 20px 0 -4px;}
+.rtl ul.fliter-list li:first-child {margin-right: 0;}
+.rtl ul.fliter-list label {padding:0 0 0 12px;}
+.rtl .select-fliter::after {left: 0; right: auto;}
+.rtl .cs-listing .cs-media figcaption {right: 15px; left: auto;}
+.rtl ul.cs-user-info li i {padding: 0 0 0 5px;}
+.rtl ul.cs-user-info li {padding: 0 0 0 16px; margin: 0 0 0 -4px;}
+.rtl ul.facility-list li::after {right: 0; left: auto;}
+.rtl ul.facility-list li {margin: 0 0 0 12px; padding: 0 26px 0 0;}
+.rtl ul.facility-list li:first-child{margin-left: 0;}
+.rtl .pull-right {float: left !important;}
+.rtl .info-btn a {margin: 0 6px 0 0;}
+.rtl .current-price em { margin: 0 10px 0 -4px;}
+.rtl .email i {padding: 0 0 0 10px;}
+.rtl .fancy-btm{right: auto; left: 0px;}
+.rtl ul.cs-user-info li img{margin: 0 0 0 5px;}
+.rtl .cs-listing.simple-view .modal-header .close{ left: 0; right: auto; }
+.rtl .cs-listing.simple-view .modal-body ul.scroll-list li{
+	padding: 0 20px 0 0;
+}
+.rtl ul.cs-checkbox label{ padding: 0 25px 0 0; }
+.rtl ul.cs-checkbox label::before,
+.rtl ul.scroll-list li::after{ left: auto; right: 0; }
+
+.rtl .cs-listing.simple-view .info-btn .modal-header .close, 
+.rtl .cs-listing.simple-view .email-message .modal-header .close, 
+.rtl .cs-listing.simple-view .fancy-btm .modal-header .close, 
+.rtl .cs-listing.simple-view .cs-popup-booking-form .modal-header .close{
+	left: 10px;
+	right: auto;  
+}
+.rtl div.pp_default .pp_content_container .pp_right{ padding: 20px }
+.rtl div.pp_default .pp_expand{ text-align: right; }
+
+/*Location Style*/
+.rtl .location-list{ display: block; float: right; }
+.rtl .location-number{ float: left; width: 27%; }
+.rtl .loaction-address h5 i {display: inline-block; margin: 0 -4px 0 5px;}
+.rtl .station-info a i {left: -15px; right: auto;}
+.rtl .location-listing .station-info ul li {margin-left: 5px; margin-right: 0;}
+.rtl .location-number i {margin-left: 15px; margin-right: 0;}
+.rtl .loaction-address-inner i {margin-left: 6px; margin-right: 0;}
+.rtl .loaction-address-inner i {margin-left: 6px; margin-right: 0;}
+.rtl .location-number-inner i {margin-left: 10px; margin-right: 0;}
+.rtl .station-featuers li i {display: inline-block; margin-left: 5px; margin-right: 0; vertical-align: middle;}
+.rtl .car-rental .slick-prev {left: 10px; right: auto;}
+.rtl .car-rental .slick-next {left: 39px;}
+.rtl .rental-prduct-detail ul li i {margin-left: 10px;  margin-right: 0; display: inline-block; vertical-align: middle;}
+.rtl .rental-prduct-price span i {margin-right: 10px; margin-left: 0;}
+.rtl .rental-prduct-price span em {margin-right: 5px; margin-left: 0; display: inline-block;}
+.rtl .monthly-permotion-list li span i {display: inline-block; margin-left: 10px; margin-right: 0;}
+.rental-prduct-detail ul li img{ margin:0 0 0 10px;}
+
+/*Other Pages Style*/
+.rtl .tabs-controls li {padding: 0 20px 0 0;}
+.rtl .cs-author figure {margin: 0 0 0 15px;}
+.rtl .cs-testimonials .text:before {right: 2px; left: auto; border-right: 16px solid transparent; border-left:none;}
+.rtl .cs-testimonials .text:after {right: auto; left: 20px;}
+.rtl .cs-author {padding: 0 30px 0 0;}
+.rtl .cs-services.box .text, .rtl .cs-services.classic .text {text-align: right;}
+.rtl .cs-table table tbody td:nth-child(2) {text-align: right; padding-right: 18px; padding-left: 0;}
+.rtl .cs-table table thead th:first-child {text-align: right; padding-right: 15px; padding-left: 0;}
+.rtl .terms-conditions li:before {right: 0; left: auto;}
+.rtl .terms-conditions li {padding: 0 25px 0 0;}
+.rtl .cs-contact-info li p {padding-right: 53px; padding-left: 0;}
+.rtl .cs-contact-info li i {margin-left: 14px; margin-right: 0;}
+.rtl .twitter-widget article .text i {margin: 4px 0 0 6px;}
+.rtl .comment-respond form input[type="text"],
+.rtl .comment-respond form input[type="email"], .rtl .comment-respond form textarea {box-shadow: -2px 2px 0 rgba(0, 0, 0, 0.08);}
+.rtl .cs-table table tbody td {border-width: 0 1px 0 0;}
+.rtl .cs-table table tbody td:nth-child(1) {border-right: none;}
+.rtl .cs-team.grid .text span{ padding: 0 15px 0 0; }
+.rtl .simple .panel-default .panel-collapse .panel-body ul{ margin-right:20px;  }
+.rtl .cs-iconlist i{ float: right; margin: 6px 0 0 6px; }
+.rtl .booking-price > span{ float: left; margin: 0 10px 0 0; }
+.rtl .booking-check-box input[type="checkbox"]:checked + label::after{ margin: 5px 0 0; }
+
+/*Pages Style*/
+.rtl .simple .panel-default .panel-collapse .panel-body ul li::before {right: -13px; left: auto;}
+.rtl .cs-question .simple .panel-default .panel-collapse .panel-body ul {margin-right: 23px; margin-left: 0;}
+.rtl .page-not-found::after {left: 15px; right: auto; bottom: -5px;}
+.rtl .sitemap-links li::before {right: 1px; left: auto;transform: scale(-1);}
+.rtl .sitemap-links li a {padding-right: 21px; padding-left: 0;}
+.rtl .countdown-alt-2 .item {margin: 0 0 18px 18px;}
+.rtl .cons-footer .cs-search-area h4 {margin-left: 20px; margin-right: 0;}
+.rtl .cs-search-area .icon-mail {right: 22px; left: auto;}
+.rtl .cons-footer .cs-search-area form input {padding: 1px 51px 0 11px;}
+.rtl .suggestions li:before {right: -17px; left: auto;}
+.rtl .cs-result.relevent .cs-media {margin-left: 18px; margin-right: 0;}
+.rtl .prev-next-post article a i {margin-left: 20px; margin-right: 0;transform: scale(-1);}
+.rtl .prev-next-post article.next a i {margin: 0 20px 0 0;}
+
+.rtl .widget_categories ul li, .rtl .widget_archive ul li{ text-align: left; }
+ 
+/*Footer Style*/
+.rtl #footer .widget.widget_categories ul li a:after, 
+.rtl .widget-socialnetwork ul li a:after{left: auto; right: 0; }
+.rtl #footer .widget.widget_categories ul li a, 
+.rtl .widget-socialnetwork ul li a{padding: 0 15px 0 0;}
+.rtl #footer .widget.widget_categories ul li a{ float: right; }
+
+.rtl #footer .widget.widget_categories ul li{ margin: 0 0 5px -4px; padding: 0; }
+.rtl #footer .widget.widget_text img{ width: 100%; }
+.rtl .cs-newsletter form input[type="text"] {padding: 10px 50px 10px 0;}
+.rtl .cs-newsletter form label {right: 15px; left: auto;}
+
+.rtl a.pp_close{ text-align: right; }
+.rtl .copyright-text {margin: 2px 14px 0 0;}
+.rtl .cs-table table thead th:nth-child(2){ text-align:right;}
+.rtl .slicknav_menu .slicknav_icon{ float:left;}
+.rtl .slicknav_menu .slicknav_menutxt{ float:right;}

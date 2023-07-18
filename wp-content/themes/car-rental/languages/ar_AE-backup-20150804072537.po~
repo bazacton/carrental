@@ -1,0 +1,6675 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rental v2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-04 07:21:02+0000\n"
+"Last-Translator: admin <test@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: U.A.E.\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:20
+#@ cars
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr ""
+
+#: 404.php:21
+#@ cars
+msgid "Go to Homepage"
+msgstr ""
+
+#: comments.php:19
+#: comments.php:25
+#@ cars
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:20
+#: comments.php:26
+#@ cars
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+#@ cars
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#: comments.php:40
+#@ cars
+msgid "You must be  to post a comment."
+msgstr ""
+
+#: comments.php:41
+#@ cars
+msgid "Log out"
+msgstr ""
+
+#: comments.php:41
+#@ cars
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:42
+#, php-format
+#@ cars
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: comments.php:69
+#: comments.php:70
+#@ cars
+msgid "Leave us a comment"
+msgstr ""
+
+#: comments.php:71
+#@ cars
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:72
+#: functions.php:1
+#: include/theme-components/cs-importer/wordpress-importer.php:286
+#@ cars
+msgid "Submit"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:50
+#: cs-templates/blog-styles/blog-masonry.php:50
+#@ cars
+msgid "by"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:51
+#: cs-templates/blog-styles/blog-masonry.php:51
+#@ cars
+msgid "Comments"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:54
+#: cs-templates/blog-styles/blog-masonry.php:54
+#@ cars
+msgid "0"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:54
+#: cs-templates/blog-styles/blog-masonry.php:54
+#@ cars
+msgid "1"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:54
+#: cs-templates/blog-styles/blog-masonry.php:54
+#@ cars
+msgid "%"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:52
+#@ cars
+msgid "Edit Blog Options"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:60
+#: include/shortcodes/admin/accordion.php:82
+#: include/shortcodes/admin/call-to-action.php:83
+#: include/shortcodes/admin/clients.php:77
+#: include/shortcodes/admin/contactus.php:69
+#: include/shortcodes/admin/facilities.php:69
+#: include/shortcodes/admin/faq.php:81
+#: include/shortcodes/admin/flex-column.php:131
+#: include/shortcodes/admin/image-frame.php:77
+#: include/shortcodes/admin/infobox.php:77
+#: include/shortcodes/admin/list.php:78
+#: include/shortcodes/admin/mailchimp.php:78
+#: include/shortcodes/admin/map.php:82
+#: include/shortcodes/admin/multi-deals.php:68
+#: include/shortcodes/admin/multi-services.php:68
+#: include/shortcodes/admin/promobox.php:79
+#: include/shortcodes/admin/quote.php:73
+#: include/shortcodes/admin/sitemap.php:55
+#: include/shortcodes/admin/slider.php:92
+#: include/shortcodes/admin/table.php:101
+#: include/shortcodes/admin/tabs.php:76
+#: include/shortcodes/admin/team.php:69
+#: include/shortcodes/admin/testimonial.php:69
+#: include/shortcodes/admin/video.php:67
+#@ cars
+msgid "Section Title"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:67
+#@ cars
+msgid "Choose Category"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:73
+#@ cars
+msgid "-- Select Category --"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:79
+#@ cars
+msgid "Please select category to show posts. If you dont select category it will display all posts."
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:85
+#@ cars
+msgid "Blog Design Views"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:91
+#@ cars
+msgid "Blog Listing"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:92
+#@ cars
+msgid "Blog Large"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:93
+#@ cars
+msgid "Blog Slider"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:98
+#@ cars
+msgid "Please select blog view."
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:105
+#@ cars
+msgid "Post Order"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:111
+#@ cars
+msgid "Asc"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:112
+#@ cars
+msgid "DESC"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:120
+#@ cars
+msgid "Post Description"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:126
+#: include/admin_functions.php:462
+#: include/admin_functions.php:477
+#: include/admin_functions.php:494
+#: include/shortcodes/admin/accordion.php:179
+#: include/shortcodes/admin/button.php:104
+#: include/shortcodes/admin/clients.php:89
+#: include/shortcodes/admin/clients.php:100
+#: include/shortcodes/admin/counters.php:233
+#: include/shortcodes/admin/divider.php:90
+#: include/shortcodes/admin/faq.php:131
+#: include/shortcodes/admin/list.php:109
+#: include/shortcodes/admin/map.php:249
+#: include/shortcodes/admin/price-table.php:188
+#: include/shortcodes/admin/promobox.php:117
+#: include/shortcodes/admin/tabs.php:131
+#: include/shortcodes/admin_functions.php:1618
+#: include/shortcodes/admin_functions.php:1635
+#: include/shortcodes/admin_functions.php:1691
+#: include/shortcodes/admin_functions.php:1747
+#: include/shortcodes/admin_functions.php:1839
+#@ cars
+msgid "Yes"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:127
+#: include/admin_functions.php:463
+#: include/admin_functions.php:478
+#: include/admin_functions.php:493
+#: include/shortcodes/admin/accordion.php:178
+#: include/shortcodes/admin/button.php:105
+#: include/shortcodes/admin/clients.php:90
+#: include/shortcodes/admin/counters.php:234
+#: include/shortcodes/admin/divider.php:91
+#: include/shortcodes/admin/faq.php:130
+#: include/shortcodes/admin/list.php:110
+#: include/shortcodes/admin/map.php:250
+#: include/shortcodes/admin/promobox.php:118
+#: include/shortcodes/admin/tabs.php:130
+#: include/shortcodes/admin_functions.php:1619
+#: include/shortcodes/admin_functions.php:1636
+#: include/shortcodes/admin_functions.php:1691
+#: include/shortcodes/admin_functions.php:1747
+#: include/shortcodes/admin_functions.php:1838
+#@ cars
+msgid "No"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:136
+#@ cars
+msgid "Length of Excerpt"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:143
+#@ cars
+msgid "Enter number of character for short description text."
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:150
+#@ cars
+msgid "No. of Post Per Page"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:157
+#@ cars
+msgid "To display all the records, leave this field blank."
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:163
+#@ cars
+msgid "Pagination"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:167
+#@ cars
+msgid "Show Pagination"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:168
+#@ cars
+msgid "Single Page"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:175
+#: include/shortcodes/admin/accordion.php:241
+#: include/shortcodes/admin/button.php:183
+#: include/shortcodes/admin/call-to-action.php:182
+#: include/shortcodes/admin/clients.php:210
+#: include/shortcodes/admin/contactus.php:129
+#: include/shortcodes/admin/counters.php:254
+#: include/shortcodes/admin/deals.php:184
+#: include/shortcodes/admin/divider.php:130
+#: include/shortcodes/admin/facilities.php:171
+#: include/shortcodes/admin/faq.php:181
+#: include/shortcodes/admin/flex-column.php:152
+#: include/shortcodes/admin/heading.php:200
+#: include/shortcodes/admin/image-frame.php:146
+#: include/shortcodes/admin/infobox.php:201
+#: include/shortcodes/admin/list.php:174
+#: include/shortcodes/admin/mailchimp.php:129
+#: include/shortcodes/admin/map.php:272
+#: include/shortcodes/admin/multi-deals.php:203
+#: include/shortcodes/admin/multi-services.php:308
+#: include/shortcodes/admin/price-table.php:288
+#: include/shortcodes/admin/progressbar.php:156
+#: include/shortcodes/admin/promobox.php:203
+#: include/shortcodes/admin/quote.php:136
+#: include/shortcodes/admin/revolution-slider.php:115
+#: include/shortcodes/admin/services.php:281
+#: include/shortcodes/admin/sitemap.php:64
+#: include/shortcodes/admin/slider.php:198
+#: include/shortcodes/admin/spacer.php:65
+#: include/shortcodes/admin/table.php:137
+#: include/shortcodes/admin/tabs.php:190
+#: include/shortcodes/admin/team.php:174
+#: include/shortcodes/admin/testimonial.php:207
+#: include/shortcodes/admin/tweets.php:86
+#: include/shortcodes/admin/video.php:115
+#@ cars
+msgid "Insert"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:183
+#: include/admin_functions.php:685
+#: include/shortcodes/admin/accordion.php:249
+#: include/shortcodes/admin/button.php:191
+#: include/shortcodes/admin/call-to-action.php:190
+#: include/shortcodes/admin/clients.php:218
+#: include/shortcodes/admin/contactus.php:137
+#: include/shortcodes/admin/counters.php:262
+#: include/shortcodes/admin/deals.php:192
+#: include/shortcodes/admin/divider.php:138
+#: include/shortcodes/admin/facilities.php:179
+#: include/shortcodes/admin/faq.php:189
+#: include/shortcodes/admin/flex-column.php:161
+#: include/shortcodes/admin/heading.php:208
+#: include/shortcodes/admin/image-frame.php:154
+#: include/shortcodes/admin/infobox.php:209
+#: include/shortcodes/admin/list.php:183
+#: include/shortcodes/admin/mailchimp.php:137
+#: include/shortcodes/admin/map.php:280
+#: include/shortcodes/admin/multi-deals.php:211
+#: include/shortcodes/admin/multi-services.php:316
+#: include/shortcodes/admin/price-table.php:296
+#: include/shortcodes/admin/progressbar.php:164
+#: include/shortcodes/admin/promobox.php:211
+#: include/shortcodes/admin/quote.php:144
+#: include/shortcodes/admin/revolution-slider.php:123
+#: include/shortcodes/admin/services.php:289
+#: include/shortcodes/admin/sitemap.php:72
+#: include/shortcodes/admin/slider.php:207
+#: include/shortcodes/admin/spacer.php:73
+#: include/shortcodes/admin/table.php:145
+#: include/shortcodes/admin/tabs.php:198
+#: include/shortcodes/admin/team.php:183
+#: include/shortcodes/admin/testimonial.php:215
+#: include/shortcodes/admin/tweets.php:95
+#@ cars
+msgid "Save"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_functions.php:240
+#@ cars
+msgid "Likes"
+msgstr ""
+
+#: footer.php:36
+#@ cars
+msgid "All rights reserved"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "WP Hotel Booking"
+msgstr ""
+
+#: functions.php:1
+#: include/metaboxes/general-settings.php:39
+#: include/theme-options/theme_options.php:181
+#: include/theme-options/theme_options.php:650
+#@ cars
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "CS Framework"
+msgstr ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:268
+#@ cars
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:269
+#@ cars
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:270
+#, php-format
+#@ cars
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:273
+#, php-format
+#@ cars
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:278
+#, php-format
+#@ cars
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:288
+#, php-format
+#@ cars
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:293
+#, php-format
+#@ cars
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:303
+#, php-format
+#@ cars
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:313
+#@ cars
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#@ cars
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:322
+#@ cars
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:1
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:324
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2277
+#@ cars
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "CS Theme Option"
+msgstr ""
+
+#: functions.php:1
+#: include/theme-components/cs-importer/theme_importer.php:149
+#@ cars
+msgid "Import Demo Data"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Featured"
+msgstr ""
+
+#: functions.php:1
+#: include/shortcodes/admin/quote.php:82
+#: include/shortcodes/admin/testimonial.php:147
+#: include/shortcodes/admin_functions.php:265
+#: include/shortcodes/admin_functions.php:1805
+#: include/shortcodes/admin_functions.php:1895
+#@ cars
+msgid "Author"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Archives"
+msgstr ""
+
+#: functions.php:1
+#: include/metaboxes/post_meta.php:270
+#: include/shortcodes/frontend/sitemap.php:72
+#@ cars
+msgid "Tags"
+msgstr ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "Search Results : %s"
+msgstr ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Home"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "No results found."
+msgstr ""
+
+#: functions.php:1
+#, php-format
+#@ cars
+msgid "<p>Ready to publish your first post? <a href=\"%1$s\">Get Started Here</a>.</p>"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Suggestions:"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Make sure all words are spelled correctly"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Wildcard searches (using the asterisk *) are not supported"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Try more general keywords, especially if you are attempting a name"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "It seems we can&quote find what you&rsquo;re looking for Perhaps searching can help"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Prev"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Next"
+msgstr ""
+
+#: functions.php:1
+#: include/theme-options/theme_options.php:1179
+#@ cars
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Like This"
+msgstr ""
+
+#: functions.php:1
+#: page_contact_submit.php:27
+#@ cars
+msgid "Name:"
+msgstr ""
+
+#: functions.php:1
+#: page_contact_submit.php:31
+#@ cars
+msgid "Email:"
+msgstr ""
+
+#: functions.php:1
+#: page_contact_submit.php:39
+#@ cars
+msgid "Message:"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "This widget will be displayed on right/left side of the page."
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "This Widget Show the Content in Footer Area."
+msgstr ""
+
+#: functions.php:1
+#: include/shortcodes/admin_functions.php:310
+#@ cars
+msgid "Edit"
+msgstr ""
+
+#: functions.php:1
+#: include/theme-components/cs-mailchimp/mailchimp_functions.php:24
+#@ cars
+msgid "Your Email"
+msgstr ""
+
+#: functions.php:1
+#: include/theme-components/cs-mailchimp/mailchimp_functions.php:25
+#@ cars
+msgid "SUBSCRIBE NOW"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Sorry, We are down for maintenance"
+msgstr ""
+
+#: functions.php:1
+#@ cars
+msgid "Current Page"
+msgstr ""
+
+#: include/admin_functions.php:81
+#@ cars
+msgid "Typography"
+msgstr ""
+
+#: include/admin_functions.php:81
+#@ cars
+msgid "Common Elements"
+msgstr ""
+
+#: include/admin_functions.php:81
+#@ cars
+msgid "Media Element"
+msgstr ""
+
+#: include/admin_functions.php:81
+#@ cars
+msgid "Content Blocks"
+msgstr ""
+
+#: include/admin_functions.php:81
+#@ cars
+msgid "Loops"
+msgstr ""
+
+#: include/admin_functions.php:217
+#: include/admin_functions.php:256
+#: include/shortcodes/admin_functions.php:1360
+#@ cars
+msgid "Add Element"
+msgstr ""
+
+#: include/admin_functions.php:226
+#: include/shortcodes/admin_functions.php:1372
+#: searchform.php:11
+#@ cars
+msgid "Search"
+msgstr ""
+
+#: include/admin_functions.php:228
+#: include/shortcodes/admin_functions.php:1374
+#@ cars
+msgid "Filter by"
+msgstr ""
+
+#: include/admin_functions.php:230
+#: include/shortcodes/admin_functions.php:1376
+#@ cars
+msgid "Show all"
+msgstr ""
+
+#: include/admin_functions.php:251
+#: include/shortcodes/admin_functions.php:1398
+#@ cars
+msgid "CS: Insert shortcode"
+msgstr ""
+
+#: include/admin_functions.php:345
+#@ cars
+msgid "Edit Page Section"
+msgstr ""
+
+#: include/admin_functions.php:351
+#@ cars
+msgid "Background View"
+msgstr ""
+
+#: include/admin_functions.php:357
+#: include/metaboxes/post_meta.php:98
+#: include/metaboxes/post_meta.php:152
+#: include/shortcodes/admin/list.php:91
+#@ cars
+msgid "None"
+msgstr ""
+
+#: include/admin_functions.php:358
+#: include/admin_functions.php:369
+#: include/metaboxes/general-settings.php:182
+#: include/metaboxes/page_meta.php:125
+#: include/shortcodes/admin/call-to-action.php:121
+#: include/shortcodes/admin/deals.php:120
+#: include/shortcodes/admin/flex-column.php:78
+#: include/shortcodes/admin/price-table.php:147
+#: include/shortcodes/admin/promobox.php:87
+#: include/shortcodes/admin_functions.php:1909
+#@ cars
+msgid "Background Image"
+msgstr ""
+
+#: include/admin_functions.php:359
+#: include/admin_functions.php:428
+#@ cars
+msgid "Custom Slider"
+msgstr ""
+
+#: include/admin_functions.php:360
+#: include/metaboxes/post_meta.php:152
+#: include/shortcodes/admin_functions.php:1246
+#@ cars
+msgid "Video"
+msgstr ""
+
+#: include/admin_functions.php:373
+#: include/admin_functions.php:446
+#: include/admin_functions.php:1099
+#: include/admin_functions.php:1373
+#: include/metaboxes/classes/cs_meta_fields_render.php:502
+#: include/metaboxes/classes/cs_meta_fields_render.php:852
+#: include/shortcodes/admin/call-to-action.php:125
+#: include/shortcodes/admin/clients.php:177
+#: include/shortcodes/admin/counters.php:167
+#: include/shortcodes/admin/deals.php:124
+#: include/shortcodes/admin/facilities.php:125
+#: include/shortcodes/admin/flex-column.php:84
+#: include/shortcodes/admin/image-frame.php:101
+#: include/shortcodes/admin/map.php:179
+#: include/shortcodes/admin/multi-deals.php:169
+#: include/shortcodes/admin/multi-services.php:228
+#: include/shortcodes/admin/price-table.php:151
+#: include/shortcodes/admin/promobox.php:91
+#: include/shortcodes/admin/services.php:155
+#: include/shortcodes/admin/slider.php:129
+#: include/shortcodes/admin/team.php:106
+#: include/shortcodes/admin/testimonial.php:174
+#: include/shortcodes/admin_functions.php:1591
+#: include/shortcodes/admin_functions.php:1913
+#: include/shortcodes/admin_functions.php:1986
+#: include/shortcodes/admin_functions.php:2197
+#: include/shortcodes/admin_functions.php:2338
+#: include/shortcodes/admin_functions.php:2484
+#: include/shortcodes/admin_functions.php:2543
+#: include/shortcodes/admin_functions.php:2619
+#: include/theme-components/cs-widgets/contactinfo.php:55
+#: include/theme-options/theme_options_fields.php:1104
+#: include/theme-options/theme_options_fields.php:1156
+#: include/theme-options/theme_options_fields.php:1179
+#: include/theme-options/theme_options_fields.php:1221
+#: include/theme-options/theme_options_fields.php:1322
+#: include/theme-options/theme_options_fields.php:1414
+#: include/theme-options/theme_options_fields.php:1527
+#: include/theme-options/theme_options_fields.php:1698
+#@ cars
+msgid "Browse"
+msgstr ""
+
+#: include/admin_functions.php:391
+#: include/admin_functions.php:408
+#@ cars
+msgid "Background Image Position"
+msgstr ""
+
+#: include/admin_functions.php:397
+#@ cars
+msgid "Select position"
+msgstr ""
+
+#: include/admin_functions.php:398
+#: include/shortcodes/admin/button.php:149
+#: include/shortcodes/admin/counters.php:117
+#: include/shortcodes/admin/heading.php:142
+#: include/shortcodes/admin/promobox.php:169
+#: include/shortcodes/admin/services.php:206
+#@ cars
+msgid "Left"
+msgstr ""
+
+#: include/admin_functions.php:399
+#: include/metaboxes/general-settings.php:58
+#: include/shortcodes/admin/button.php:150
+#: include/shortcodes/admin/heading.php:144
+#: include/shortcodes/admin/promobox.php:170
+#: include/shortcodes/admin/services.php:195
+#: include/shortcodes/admin/services.php:207
+#: include/shortcodes/admin_functions.php:1570
+#@ cars
+msgid "Right"
+msgstr ""
+
+#: include/admin_functions.php:400
+#: include/metaboxes/general-settings.php:58
+#: include/shortcodes/admin/heading.php:143
+#: include/shortcodes/admin/services.php:194
+#: include/shortcodes/admin_functions.php:1572
+#@ cars
+msgid "Center"
+msgstr ""
+
+#: include/admin_functions.php:414
+#@ cars
+msgid "Repeat"
+msgstr ""
+
+#: include/admin_functions.php:415
+#@ cars
+msgid "No Repeat"
+msgstr ""
+
+#: include/admin_functions.php:440
+#: include/shortcodes/admin/video.php:82
+#@ cars
+msgid "Video Url"
+msgstr ""
+
+#: include/admin_functions.php:450
+#@ cars
+msgid "Please enter Vimeo/Youtube Video Url"
+msgstr ""
+
+#: include/admin_functions.php:456
+#@ cars
+msgid "Enable Mute"
+msgstr ""
+
+#: include/admin_functions.php:471
+#@ cars
+msgid "Video Auto Play"
+msgstr ""
+
+#: include/admin_functions.php:487
+#@ cars
+msgid "Enable Parallax"
+msgstr ""
+
+#: include/admin_functions.php:502
+#@ cars
+msgid "Select View"
+msgstr ""
+
+#: include/admin_functions.php:508
+#@ cars
+msgid "Box"
+msgstr ""
+
+#: include/admin_functions.php:509
+#@ cars
+msgid "Wide"
+msgstr ""
+
+#: include/admin_functions.php:517
+#: include/metaboxes/general-settings.php:128
+#: include/metaboxes/page_meta.php:135
+#: include/shortcodes/admin/call-to-action.php:144
+#: include/shortcodes/admin/clients.php:152
+#: include/shortcodes/admin/flex-column.php:120
+#: include/shortcodes/admin/infobox.php:94
+#: include/shortcodes/admin/mailchimp.php:102
+#: include/shortcodes/admin/multi-services.php:151
+#: include/shortcodes/admin/price-table.php:218
+#: include/shortcodes/admin/promobox.php:140
+#: include/shortcodes/admin_functions.php:2005
+#: include/shortcodes/admin_functions.php:2179
+#: include/shortcodes/admin_functions.php:2252
+#: include/theme-components/cs-widgets/facebook.php:64
+#: include/theme-options/theme_options.php:709
+#: include/theme-options/theme_options.php:841
+#: include/theme-options/theme_options.php:868
+#: include/theme-options/theme_options.php:900
+#@ cars
+msgid "Background Color"
+msgstr ""
+
+#: include/admin_functions.php:527
+#: include/metaboxes/general-settings.php:104
+#: include/theme-options/theme_options.php:658
+#@ cars
+msgid "Padding Top"
+msgstr ""
+
+#: include/admin_functions.php:533
+#@ cars
+msgid "Set the Padding top (In px)"
+msgstr ""
+
+#: include/admin_functions.php:539
+#: include/metaboxes/general-settings.php:116
+#: include/theme-options/theme_options.php:667
+#@ cars
+msgid "Padding Bottom"
+msgstr ""
+
+#: include/admin_functions.php:545
+#@ cars
+msgid "Set the Padding Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:551
+#: include/shortcodes/admin/divider.php:98
+#@ cars
+msgid "Margin Top"
+msgstr ""
+
+#: include/admin_functions.php:557
+#: include/admin_functions.php:593
+#@ cars
+msgid "Set the Border Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:563
+#: include/shortcodes/admin/divider.php:108
+#@ cars
+msgid "Margin Bottom"
+msgstr ""
+
+#: include/admin_functions.php:569
+#@ cars
+msgid "Set the Margin Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:575
+#@ cars
+msgid "Border Top"
+msgstr ""
+
+#: include/admin_functions.php:581
+#@ cars
+msgid "Set the Border top (In px)"
+msgstr ""
+
+#: include/admin_functions.php:587
+#: include/shortcodes/admin/list.php:105
+#@ cars
+msgid "Border Bottom"
+msgstr ""
+
+#: include/admin_functions.php:599
+#: include/metaboxes/general-settings.php:148
+#: include/shortcodes/admin/button.php:111
+#: include/shortcodes/admin/counters.php:217
+#: include/shortcodes/admin/map.php:257
+#: include/theme-options/theme_options.php:723
+#@ cars
+msgid "Border Color"
+msgstr ""
+
+#: include/admin_functions.php:609
+#: include/shortcodes/admin/accordion.php:110
+#: include/shortcodes/admin/call-to-action.php:171
+#: include/shortcodes/admin/clients.php:117
+#: include/shortcodes/admin_functions.php:1452
+#: include/shortcodes/admin_functions.php:1490
+#: include/shortcodes/admin_functions.php:1653
+#: include/shortcodes/admin_functions.php:2035
+#@ cars
+msgid "Custom Id"
+msgstr ""
+
+#: include/admin_functions.php:620
+#@ cars
+msgid "Select Layout"
+msgstr ""
+
+#: include/admin_functions.php:643
+#: include/metaboxes/general-settings.php:386
+#@ cars
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: include/admin_functions.php:659
+#: include/admin_functions.php:678
+#: include/metaboxes/general-settings.php:390
+#: include/metaboxes/general-settings.php:415
+#@ cars
+msgid "Add New Sidebar"
+msgstr ""
+
+#: include/admin_functions.php:659
+#: include/admin_functions.php:678
+#: include/metaboxes/general-settings.php:390
+#: include/metaboxes/general-settings.php:415
+#@ cars
+msgid "Click Here"
+msgstr ""
+
+#: include/admin_functions.php:664
+#: include/metaboxes/general-settings.php:411
+#@ cars
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: include/admin_functions.php:832
+#: include/admin_functions.php:921
+#@ cars
+msgid "Edit Options"
+msgstr ""
+
+#: include/admin_functions.php:839
+#: include/admin_functions.php:927
+#@ cars
+msgid "Image Title"
+msgstr ""
+
+#: include/admin_functions.php:847
+#@ cars
+msgid "Image Description"
+msgstr ""
+
+#: include/admin_functions.php:855
+#: include/shortcodes/admin_functions.php:2023
+#: include/shortcodes/admin_functions.php:2656
+#: include/theme-components/cs-widgets/contactinfo.php:102
+#@ cars
+msgid "Link"
+msgstr ""
+
+#: include/admin_functions.php:863
+#@ cars
+msgid "Link Target"
+msgstr ""
+
+#: include/admin_functions.php:870
+#@ cars
+msgid "Please select image target"
+msgstr ""
+
+#: include/admin_functions.php:935
+#@ cars
+msgid "Use Image As"
+msgstr ""
+
+#: include/admin_functions.php:939
+#@ cars
+msgid "LightBox to current thumbnail"
+msgstr ""
+
+#: include/admin_functions.php:940
+#@ cars
+msgid "LightBox to Video"
+msgstr ""
+
+#: include/admin_functions.php:943
+#@ cars
+msgid "Please select Image link where it will go"
+msgstr ""
+
+#: include/admin_functions.php:948
+#@ cars
+msgid "Video URL"
+msgstr ""
+
+#: include/admin_functions.php:1080
+#: include/admin_functions.php:1335
+#: include/metaboxes/general-settings.php:63
+#: include/shortcodes/admin/call-to-action.php:93
+#: include/shortcodes/admin/clients.php:144
+#: include/shortcodes/admin/deals.php:96
+#: include/shortcodes/admin/facilities.php:97
+#: include/shortcodes/admin/heading.php:82
+#: include/shortcodes/admin/image-frame.php:127
+#: include/shortcodes/admin/infobox.php:86
+#: include/shortcodes/admin/infobox.php:166
+#: include/shortcodes/admin/map.php:91
+#: include/shortcodes/admin/multi-deals.php:115
+#: include/shortcodes/admin/multi-services.php:127
+#: include/shortcodes/admin/price-table.php:113
+#: include/shortcodes/admin/promobox.php:124
+#: include/shortcodes/admin/services.php:215
+#: include/shortcodes/admin/slider.php:147
+#: include/shortcodes/admin_functions.php:2113
+#: include/shortcodes/admin_functions.php:2172
+#: include/shortcodes/admin_functions.php:2229
+#: include/shortcodes/admin_functions.php:2429
+#: include/shortcodes/admin_functions.php:2515
+#: include/shortcodes/admin_functions.php:2640
+#: include/theme-components/cs-widgets/cs_flickr.php:38
+#: include/theme-components/cs-widgets/facebook.php:35
+#: include/theme-components/cs-widgets/mailchimp.php:36
+#: include/theme-components/cs-widgets/social_network.php:35
+#: include/theme-options/theme_options_fields.php:1302
+#: include/theme-options/theme_options_fields.php:1394
+#: include/theme-options/theme_options_fields.php:1491
+#: include/theme-options/theme_options_fields.php:1586
+#: include/theme-options/theme_options_fields.php:1660
+#@ cars
+msgid "Title"
+msgstr ""
+
+#: include/admin_functions.php:941
+#: include/admin_functions.php:957
+#: include/admin_functions.php:1087
+#: include/theme-options/theme_options_fields.php:1309
+#: include/theme-options/theme_options_fields.php:1364
+#: include/theme-options/theme_options_fields.php:1402
+#: include/theme-options/theme_options_fields.php:1546
+#: include/theme-options/theme_options_fields.php:1718
+#@ cars
+msgid "Url"
+msgstr ""
+
+#: include/admin_functions.php:1091
+#: include/theme-options/theme_options_fields.php:1406
+#@ cars
+msgid "Please enter full Url"
+msgstr ""
+
+#: include/admin_functions.php:1095
+#: include/theme-options/theme_options_fields.php:1362
+#: include/theme-options/theme_options_fields.php:1410
+#@ cars
+msgid "Icon Path"
+msgstr ""
+
+#: include/admin_functions.php:1105
+#: include/shortcodes/admin/button.php:136
+#: include/shortcodes/admin/counters.php:126
+#: include/shortcodes/admin_functions.php:1969
+#: include/shortcodes/admin_functions.php:2080
+#: include/shortcodes/admin_functions.php:2099
+#: include/theme-options/theme_options_fields.php:1327
+#: include/theme-options/theme_options_fields.php:1421
+#@ cars
+msgid "Fontawsome Icon"
+msgstr ""
+
+#: include/admin_functions.php:1113
+#: include/theme-options/theme_options_fields.php:1429
+#@ cars
+msgid "Font Awesome Color"
+msgstr ""
+
+#: include/admin_functions.php:1339
+#: include/theme-options/theme_options_fields.php:1491
+#: include/theme-options/theme_options_fields.php:1664
+#@ cars
+msgid "Please enter Banner Title"
+msgstr ""
+
+#: include/admin_functions.php:1342
+#: include/theme-options/theme_options_fields.php:1498
+#: include/theme-options/theme_options_fields.php:1668
+#@ cars
+msgid "Banner Style"
+msgstr ""
+
+#: include/admin_functions.php:1346
+#: include/theme-options/theme_options_fields.php:1502
+#: include/theme-options/theme_options_fields.php:1672
+#@ cars
+msgid "Top Banner"
+msgstr ""
+
+#: include/admin_functions.php:1347
+#: include/theme-options/theme_options_fields.php:1503
+#: include/theme-options/theme_options_fields.php:1673
+#@ cars
+msgid "Bottom Banner"
+msgstr ""
+
+#: include/admin_functions.php:1348
+#: include/theme-options/theme_options_fields.php:1504
+#: include/theme-options/theme_options_fields.php:1674
+#@ cars
+msgid "Sidebar Banner"
+msgstr ""
+
+#: include/admin_functions.php:1349
+#: include/theme-options/theme_options_fields.php:1505
+#: include/theme-options/theme_options_fields.php:1675
+#@ cars
+msgid "Vertical Banner"
+msgstr ""
+
+#: include/admin_functions.php:1351
+#: include/theme-options/theme_options_fields.php:1498
+#@ cars
+msgid "Please enter Banner Banner Style"
+msgstr ""
+
+#: include/admin_functions.php:1355
+#: include/theme-options/theme_options_fields.php:1510
+#: include/theme-options/theme_options_fields.php:1680
+#@ cars
+msgid "Banner Type"
+msgstr ""
+
+#: include/admin_functions.php:1362
+#: include/theme-options/theme_options_fields.php:1510
+#: include/theme-options/theme_options_fields.php:1687
+#@ cars
+msgid "Please enter Banner Banner Type"
+msgstr ""
+
+#: include/admin_functions.php:1389
+#: include/theme-options/theme_options_fields.php:1520
+#: include/theme-options/theme_options_fields.php:1714
+#@ cars
+msgid "Please enter Banner Image"
+msgstr ""
+
+#: include/admin_functions.php:1393
+#@ cars
+msgid "URL"
+msgstr ""
+
+#: include/admin_functions.php:1397
+#@ cars
+msgid "Please enter Banner URL"
+msgstr ""
+
+#: include/admin_functions.php:1401
+#: include/shortcodes/admin/button.php:170
+#: include/theme-options/theme_options_fields.php:1553
+#: include/theme-options/theme_options_fields.php:1726
+#@ cars
+msgid "Target"
+msgstr ""
+
+#: include/admin_functions.php:1405
+#: include/shortcodes/admin/button.php:175
+#: include/theme-options/theme_options_fields.php:1557
+#: include/theme-options/theme_options_fields.php:1730
+#@ cars
+msgid "Self"
+msgstr ""
+
+#: include/admin_functions.php:1406
+#: include/shortcodes/admin/button.php:174
+#: include/theme-options/theme_options_fields.php:1558
+#: include/theme-options/theme_options_fields.php:1731
+#@ cars
+msgid "Blank"
+msgstr ""
+
+#: include/admin_functions.php:1408
+#: include/theme-options/theme_options_fields.php:1733
+#@ cars
+msgid "Please select Banner Link Target"
+msgstr ""
+
+#: include/admin_functions.php:1412
+#@ cars
+msgid "Adsense Code"
+msgstr ""
+
+#: include/admin_functions.php:1416
+#@ cars
+msgid "Please enter Banner Adsense"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:247
+#@ cars
+msgid "Full Width"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:256
+#@ cars
+msgid "Sidebar Right"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:265
+#@ cars
+msgid "Sidebar Left"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:697
+#@ cars
+msgid "Add Gallery"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:736
+#@ cars
+msgid "Delete image"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:736
+#@ cars
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:747
+#@ cars
+msgid "Delete"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:32
+#@ cars
+msgid "Choose Sub-header"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:39
+#@ cars
+msgid "Default Subheader"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:39
+#@ cars
+msgid "Custom Subheader"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:39
+#: include/shortcodes/admin_functions.php:1153
+#@ cars
+msgid "Map"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:39
+#@ cars
+msgid "No Subheader"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:44
+#: include/metaboxes/general-settings.php:158
+#: include/metaboxes/general-settings.php:164
+#: include/metaboxes/general-settings.php:202
+#: include/metaboxes/general-settings.php:208
+#: include/metaboxes/general-settings.php:243
+#: include/metaboxes/general-settings.php:249
+#: include/metaboxes/general-settings.php:266
+#: include/metaboxes/general-settings.php:272
+#: include/metaboxes/general-settings.php:289
+#: include/metaboxes/general-settings.php:379
+#: include/metaboxes/general-settings.php:398
+#: include/metaboxes/general-settings.php:404
+#: include/metaboxes/general-settings.php:423
+#: include/metaboxes/page_meta.php:83
+#: include/metaboxes/page_meta.php:112
+#: include/metaboxes/page_meta.php:118
+#: include/metaboxes/page_meta.php:144
+#: include/metaboxes/post_meta.php:103
+#: include/metaboxes/post_meta.php:118
+#: include/metaboxes/post_meta.php:124
+#: include/metaboxes/post_meta.php:139
+#: include/metaboxes/post_meta.php:158
+#: include/metaboxes/post_meta.php:174
+#: include/metaboxes/post_meta.php:181
+#: include/metaboxes/post_meta.php:196
+#: include/metaboxes/post_meta.php:203
+#: include/metaboxes/post_meta.php:220
+#: include/metaboxes/post_meta.php:227
+#: include/metaboxes/post_meta.php:244
+#@ cars
+msgid "Wrapper"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:51
+#: include/shortcodes/admin/promobox.php:165
+#@ cars
+msgid "Text Align"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:58
+#: include/shortcodes/admin/quote.php:115
+#: include/shortcodes/admin/services.php:193
+#: include/shortcodes/admin/testimonial.php:99
+#: include/shortcodes/admin_functions.php:1569
+#@ cars
+msgid "left"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:73
+#@ cars
+msgid "Title Style"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:79
+#: include/shortcodes/admin/image-frame.php:91
+#: include/theme-options/theme_options.php:698
+#@ cars
+msgid "Simple"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:79
+#: include/shortcodes/admin/divider.php:78
+#: include/shortcodes/admin/heading.php:119
+#: include/theme-options/theme_options.php:698
+#@ cars
+msgid "Fancy"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:84
+#@ cars
+msgid "Sub Heading"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:94
+#: include/theme-options/theme_options.php:701
+#@ cars
+msgid "Breadcrumbs"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:111
+#: include/metaboxes/general-settings.php:123
+#@ cars
+msgid "Set the top padding (In PX), It Will Only work if padding is selected as"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:132
+#@ cars
+msgid "Please add color"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:138
+#: include/shortcodes/admin/call-to-action.php:111
+#: include/shortcodes/admin/facilities.php:113
+#: include/shortcodes/admin/infobox.php:105
+#: include/shortcodes/admin/mailchimp.php:110
+#: include/shortcodes/admin/multi-services.php:143
+#: include/shortcodes/admin/quote.php:100
+#: include/shortcodes/admin/testimonial.php:106
+#: include/shortcodes/admin/tweets.php:68
+#: include/shortcodes/admin_functions.php:2245
+#: include/shortcodes/admin_functions.php:2531
+#: include/theme-options/theme_options.php:716
+#: include/theme-options/theme_options.php:876
+#@ cars
+msgid "Text Color"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:172
+#@ cars
+msgid "Show Image"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:186
+#@ cars
+msgid "This is demo test"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:192
+#@ cars
+msgid "Parallax Bg Image"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:225
+#: include/metaboxes/page_meta.php:100
+#@ cars
+msgid "Select Slider"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:231
+#: include/metaboxes/page_meta.php:106
+#: include/theme-options/theme_options.php:652
+#@ cars
+msgid "Please select Revolution Slider if already included in package. Otherwise buy Sliders from Code canyon But its optional"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:256
+#@ cars
+msgid "Custom Map Short Code"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:260
+#@ cars
+msgid "Please Add/Edit the short code for Map"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:279
+#: include/theme-options/theme_options.php:642
+#@ cars
+msgid "Header Border Color"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:366
+#@ cars
+msgid "Choose Sidebar"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:429
+#@ cars
+msgid "orderby"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:10
+#@ cars
+msgid "Page Options"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:21
+#: include/metaboxes/post_meta.php:23
+#@ cars
+msgid "General Settings"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:22
+#@ cars
+msgid "Subheader"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:24
+#: include/metaboxes/post_meta.php:25
+#@ cars
+msgid "Seo Options"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:71
+#@ cars
+msgid "Header Background"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:9
+#@ cars
+msgid "Post Options"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:24
+#@ cars
+msgid "Sub Header Options"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:26
+#@ cars
+msgid "Post Settings"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:91
+#@ cars
+msgid "Thumbnail View"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:98
+#: include/metaboxes/post_meta.php:152
+#@ cars
+msgid "Single Image"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:98
+#: include/metaboxes/post_meta.php:152
+#: include/shortcodes/admin_functions.php:1200
+#@ cars
+msgid "Slider"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:110
+#: include/metaboxes/post_meta.php:165
+#@ cars
+msgid "Information Box"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:113
+#: include/metaboxes/post_meta.php:168
+#@ cars
+msgid "Use Featured Image as Thumbnail"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:131
+#: include/metaboxes/post_meta.php:188
+#@ cars
+msgid "Add Gallery Images"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:145
+#@ cars
+msgid "Inside Post Thumbnail View"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:152
+#@ cars
+msgid "Audio"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:210
+#@ cars
+msgid "Audio Url"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:214
+#@ cars
+msgid "Enter Specific Audio Url"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:234
+#@ cars
+msgid "Thumbnail Video Url"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:238
+#@ cars
+msgid "Enter Specific Video Url (Youtube, Vimeo and Dailymotion) OR you can select it from your media library"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:260
+#@ cars
+msgid "Social Sharing"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:280
+#: single.php:91
+#@ cars
+msgid "Related Posts"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:288
+#@ cars
+msgid "Related Post"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:294
+#@ cars
+msgid "Next Previous"
+msgstr ""
+
+#: include/page_builder.php:1
+#@ cars
+msgid "CS Page Builder"
+msgstr ""
+
+#: include/page_builder.php:1
+#@ cars
+msgid "Add Page Sections"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:74
+#@ cars
+msgid "Edit Accordion Options"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:87
+#: include/shortcodes/admin/call-to-action.php:87
+#: include/shortcodes/admin/contactus.php:73
+#: include/shortcodes/admin/flex-column.php:135
+#: include/shortcodes/admin/image-frame.php:80
+#: include/shortcodes/admin/infobox.php:81
+#: include/shortcodes/admin/list.php:82
+#: include/shortcodes/admin/map.php:86
+#: include/shortcodes/admin/promobox.php:82
+#: include/shortcodes/admin/quote.php:77
+#: include/shortcodes/admin/slider.php:96
+#: include/shortcodes/admin/table.php:106
+#: include/shortcodes/admin/tabs.php:81
+#: include/shortcodes/admin/testimonial.php:73
+#: include/shortcodes/admin/video.php:70
+#@ cars
+msgid "This is used for the one page navigation, to identify the section below. Give a title"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:94
+#: include/shortcodes/admin/divider.php:73
+#: include/shortcodes/admin/heading.php:109
+#: include/shortcodes/admin/price-table.php:95
+#: include/shortcodes/admin/services.php:93
+#: include/shortcodes/admin/testimonial.php:78
+#: include/theme-options/theme_options_fields.php:1587
+#@ cars
+msgid "Style"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:99
+#: include/shortcodes/admin/price-table.php:102
+#: include/shortcodes/admin/services.php:99
+#@ cars
+msgid "default"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:100
+#: include/shortcodes/admin/price-table.php:100
+#: include/shortcodes/admin/services.php:101
+#@ cars
+msgid "box"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:104
+#: include/shortcodes/admin/price-table.php:107
+#: include/shortcodes/admin/price-table.php:194
+#: include/shortcodes/admin/services.php:106
+#@ cars
+msgid "choose a style type for accordion element"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:115
+#@ cars
+msgid "Use this option if you want to use specified  id for this element"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:121
+#: include/shortcodes/admin_functions.php:1460
+#: include/shortcodes/admin_functions.php:1463
+#: include/shortcodes/admin_functions.php:1498
+#: include/shortcodes/admin_functions.php:1659
+#@ cars
+msgid "Animation Class"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:126
+#: include/shortcodes/admin_functions.php:1501
+#: include/shortcodes/admin_functions.php:1662
+#@ cars
+msgid "Select Animation"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:142
+#: include/shortcodes/admin_functions.php:1476
+#: include/shortcodes/admin_functions.php:1515
+#@ cars
+msgid "Select Entrance animation type from the dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:169
+#: include/shortcodes/admin_functions.php:1684
+#@ cars
+msgid "Accordion"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:170
+#: include/shortcodes/admin/clients.php:141
+#: include/shortcodes/admin/facilities.php:93
+#: include/shortcodes/admin/faq.php:122
+#: include/shortcodes/admin/infobox.php:145
+#: include/shortcodes/admin/list.php:133
+#: include/shortcodes/admin/multi-deals.php:111
+#: include/shortcodes/admin/multi-services.php:123
+#: include/shortcodes/admin/progressbar.php:111
+#: include/shortcodes/admin/slider.php:122
+#: include/shortcodes/admin/tabs.php:122
+#: include/shortcodes/admin/testimonial.php:133
+#: include/shortcodes/admin_functions.php:1537
+#: include/shortcodes/admin_functions.php:1685
+#: include/shortcodes/admin_functions.php:1741
+#: include/shortcodes/admin_functions.php:1783
+#: include/shortcodes/admin_functions.php:1831
+#: include/shortcodes/admin_functions.php:1884
+#: include/shortcodes/admin_functions.php:1936
+#: include/shortcodes/admin_functions.php:2069
+#: include/shortcodes/admin_functions.php:2094
+#: include/shortcodes/admin_functions.php:2142
+#: include/shortcodes/admin_functions.php:2168
+#: include/shortcodes/admin_functions.php:2225
+#: include/shortcodes/admin_functions.php:2425
+#: include/shortcodes/admin_functions.php:2511
+#: include/shortcodes/admin_functions.php:2580
+#: include/shortcodes/admin_functions.php:2611
+#@ cars
+msgid "Remove"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:173
+#: include/shortcodes/admin/faq.php:126
+#: include/shortcodes/admin/tabs.php:125
+#: include/shortcodes/admin_functions.php:1688
+#: include/shortcodes/admin_functions.php:1744
+#: include/shortcodes/admin_functions.php:1834
+#@ cars
+msgid "Active"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:183
+#: include/shortcodes/admin/tabs.php:134
+#: include/shortcodes/admin_functions.php:1694
+#: include/shortcodes/admin_functions.php:1843
+#@ cars
+msgid "You can set the section that is active here by select dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:189
+#@ cars
+msgid "Accordion Title"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:195
+#: include/shortcodes/admin_functions.php:1705
+#@ cars
+msgid "Enter accordion title"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:202
+#: include/shortcodes/admin/faq.php:147
+#: include/shortcodes/admin/price-table.php:136
+#@ cars
+msgid "Title Fontawsome Icon"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:207
+#: include/shortcodes/admin/button.php:140
+#: include/shortcodes/admin/counters.php:130
+#: include/shortcodes/admin/multi-services.php:208
+#: include/shortcodes/admin/price-table.php:141
+#: include/shortcodes/admin/tabs.php:156
+#: include/shortcodes/admin_functions.php:2318
+#@ cars
+msgid "select the fontawsome Icons you would like to add to your menu items"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:213
+#@ cars
+msgid "Accordion Text"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:219
+#: include/shortcodes/admin/facilities.php:149
+#: include/shortcodes/admin/flex-column.php:144
+#: include/shortcodes/admin/multi-deals.php:129
+#: include/shortcodes/admin/multi-services.php:265
+#: include/shortcodes/admin/quote.php:128
+#: include/shortcodes/admin/slider.php:159
+#: include/shortcodes/admin_functions.php:1726
+#: include/shortcodes/admin_functions.php:2375
+#: include/shortcodes/admin_functions.php:2444
+#: include/shortcodes/admin_functions.php:2567
+#@ cars
+msgid "Enter your content"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:236
+#@ cars
+msgid "Add accordion"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:64
+#@ cars
+msgid "Edit Button Options"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:70
+#: include/shortcodes/admin/slider.php:76
+#: include/shortcodes/admin_functions.php:1410
+#@ cars
+msgid "Size"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:74
+#: include/shortcodes/admin/counters.php:153
+#: include/shortcodes/admin/services.php:180
+#@ cars
+msgid "Large"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:75
+#: include/shortcodes/admin/counters.php:152
+#: include/shortcodes/admin/services.php:179
+#: include/shortcodes/admin_functions.php:1553
+#@ cars
+msgid "Medium"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:76
+#: include/shortcodes/admin/counters.php:151
+#: include/shortcodes/admin/services.php:178
+#: include/shortcodes/admin_functions.php:1554
+#@ cars
+msgid "Small"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:78
+#: include/shortcodes/admin/slider.php:84
+#: include/shortcodes/admin_functions.php:1420
+#@ cars
+msgid "Select column width. This width will be calculated depend page width"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:83
+#@ cars
+msgid "Button Title"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:91
+#: include/shortcodes/admin/call-to-action.php:162
+#: include/shortcodes/admin/multi-services.php:284
+#: include/shortcodes/admin/price-table.php:221
+#: include/shortcodes/admin/services.php:261
+#: include/shortcodes/admin_functions.php:2390
+#@ cars
+msgid "Button Link"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:95
+#@ cars
+msgid "Button external/internal url"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:100
+#: include/shortcodes/admin/clients.php:96
+#: include/shortcodes/admin/map.php:245
+#: include/shortcodes/admin/multi-services.php:247
+#: include/shortcodes/admin_functions.php:1615
+#: include/shortcodes/admin_functions.php:2358
+#@ cars
+msgid "Border"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:119
+#: include/shortcodes/admin/promobox.php:193
+#: include/shortcodes/admin_functions.php:2398
+#@ cars
+msgid "Button Background Color"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:127
+#: include/shortcodes/admin_functions.php:2027
+#@ cars
+msgid "Button Color"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:131
+#@ cars
+msgid "select a color which you want on the buttons"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:145
+#@ cars
+msgid "Button Icon Position"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:152
+#@ cars
+msgid "set a position for the button"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:157
+#@ cars
+msgid "Button Type"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:161
+#: include/shortcodes/admin_functions.php:1581
+#@ cars
+msgid "Square"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:162
+#@ cars
+msgid "Rounded"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:165
+#@ cars
+msgid "Select the display type for the button"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:75
+#@ cars
+msgid "Edit Call To Action Options"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:97
+#@ cars
+msgid "Put the title for action element"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:102
+#@ cars
+msgid "Short Text"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:106
+#@ cars
+msgid "Enter short detail about your call to action content"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:115
+#: include/shortcodes/admin/call-to-action.php:148
+#: include/shortcodes/admin/counters.php:211
+#: include/shortcodes/admin/counters.php:221
+#: include/shortcodes/admin/infobox.php:111
+#: include/shortcodes/admin/quote.php:105
+#@ cars
+msgid "Provide a hex colour code here (include #) if you want to override the default"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:126
+#: include/shortcodes/admin/deals.php:125
+#: include/shortcodes/admin/price-table.php:152
+#@ cars
+msgid "Select the background image for action element"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:153
+#: include/shortcodes/admin/multi-services.php:273
+#: include/shortcodes/admin/price-table.php:211
+#: include/shortcodes/admin/services.php:250
+#@ cars
+msgid "Button Text"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:157
+#@ cars
+msgid "Text on the button"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:166
+#@ cars
+msgid "Button link"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:175
+#: include/shortcodes/admin/counters.php:247
+#: include/shortcodes/admin/infobox.php:122
+#: include/shortcodes/admin/progressbar.php:92
+#: include/shortcodes/admin/services.php:273
+#: include/shortcodes/admin_functions.php:1493
+#@ cars
+msgid "Use this option if you want to use specified id for this element"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:68
+#@ cars
+msgid "Edit Clients Options"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:85
+#@ cars
+msgid "Gray Scale"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:101
+#: include/shortcodes/admin/multi-services.php:252
+#: include/shortcodes/admin/price-table.php:189
+#: include/shortcodes/admin_functions.php:2363
+#@ cars
+msgid "no"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:107
+#@ cars
+msgid "Heading Style"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:111
+#@ cars
+msgid "Style 1"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:112
+#@ cars
+msgid "Style 2"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:140
+#: include/shortcodes/admin_functions.php:1089
+#@ cars
+msgid "Clients"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:160
+#: include/shortcodes/admin_functions.php:2185
+#: include/shortcodes/admin_functions.php:2258
+#@ cars
+msgid "Website Url"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:173
+#: include/shortcodes/admin_functions.php:2193
+#@ cars
+msgid "Client Logo"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:204
+#@ cars
+msgid "Add Client"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:62
+#@ cars
+msgid "Edit Contact Form Options"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:78
+#: include/shortcodes/admin/heading.php:98
+#: include/shortcodes/admin/services.php:233
+#: include/theme-options/theme_options.php:1170
+#@ cars
+msgid "Content"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:82
+#@ cars
+msgid "This is used for the one page navigation, to identify, Enter some content"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:75
+#@ cars
+msgid "View"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:77
+#@ cars
+msgid "Plain"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:88
+#@ cars
+msgid "Label On/Off"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:92
+#: include/shortcodes/admin/heading.php:155
+#: include/shortcodes/admin/map.php:202
+#: include/shortcodes/admin/map.php:215
+#: include/shortcodes/admin/map.php:226
+#: include/shortcodes/admin/map.php:237
+#@ cars
+msgid "On"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:93
+#: include/shortcodes/admin/heading.php:156
+#: include/shortcodes/admin/map.php:203
+#: include/shortcodes/admin/map.php:214
+#: include/shortcodes/admin/map.php:227
+#: include/shortcodes/admin/map.php:238
+#@ cars
+msgid "Off"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:99
+#@ cars
+msgid "Send To"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:103
+#@ cars
+msgid "add a email which you want to receive email"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:108
+#@ cars
+msgid "Success Message"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:112
+#@ cars
+msgid "set a message if your email sent successfully"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:117
+#@ cars
+msgid "Error Message"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:121
+#@ cars
+msgid "set a message for error message"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:84
+#@ cars
+msgid "Edit Counter Options"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:92
+#@ cars
+msgid "Classic View"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:101
+#@ cars
+msgid "Choose Icon/Image"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:106
+#: include/shortcodes/admin/list.php:92
+#: include/shortcodes/admin/multi-services.php:182
+#: include/shortcodes/admin/services.php:118
+#: include/shortcodes/admin_functions.php:1960
+#: include/shortcodes/admin_functions.php:2292
+#@ cars
+msgid "Icon"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:107
+#: include/shortcodes/admin/counters.php:163
+#: include/shortcodes/admin/facilities.php:121
+#: include/shortcodes/admin/multi-deals.php:165
+#: include/shortcodes/admin/multi-services.php:183
+#: include/shortcodes/admin/multi-services.php:224
+#: include/shortcodes/admin/services.php:119
+#: include/shortcodes/admin/services.php:151
+#: include/shortcodes/admin/slider.php:125
+#: include/shortcodes/admin/testimonial.php:170
+#: include/shortcodes/admin_functions.php:1961
+#: include/shortcodes/admin_functions.php:1982
+#: include/shortcodes/admin_functions.php:2293
+#: include/shortcodes/admin_functions.php:2334
+#: include/shortcodes/admin_functions.php:2480
+#: include/shortcodes/admin_functions.php:2539
+#: include/shortcodes/admin_functions.php:2615
+#: include/theme-options/theme_options_fields.php:1514
+#: include/theme-options/theme_options_fields.php:1520
+#: include/theme-options/theme_options_fields.php:1588
+#: include/theme-options/theme_options_fields.php:1684
+#: include/theme-options/theme_options_fields.php:1691
+#@ cars
+msgid "Image"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:109
+#@ cars
+msgid "Choose an icon/image for the counter"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:135
+#: include/shortcodes/admin/infobox.php:156
+#: include/shortcodes/admin/services.php:137
+#: include/shortcodes/admin_functions.php:1641
+#: include/shortcodes/admin_functions.php:1975
+#: include/shortcodes/admin_functions.php:2105
+#@ cars
+msgid "Icon Color"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:140
+#: include/shortcodes/admin/flex-column.php:114
+#: include/shortcodes/admin/flex-column.php:125
+#@ cars
+msgid "set a color for the counter icon"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:146
+#: include/shortcodes/admin/services.php:174
+#@ cars
+msgid "Icon Size"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:154
+#: include/shortcodes/admin/services.php:181
+#@ cars
+msgid "Extra Large"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:156
+#: include/shortcodes/admin/services.php:183
+#@ cars
+msgid "Select Icon Size"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:186
+#@ cars
+msgid "set number"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:198
+#: include/shortcodes/admin/video.php:74
+#@ cars
+msgid "Sub Title"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:202
+#@ cars
+msgid "enter a sub title for the counter"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:207
+#: include/shortcodes/admin/facilities.php:105
+#: include/shortcodes/admin/multi-services.php:135
+#: include/shortcodes/admin/promobox.php:132
+#: include/shortcodes/admin/services.php:225
+#: include/shortcodes/admin_functions.php:2237
+#: include/shortcodes/admin_functions.php:2523
+#@ cars
+msgid "Title Color"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:228
+#@ cars
+msgid "Border Frame"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:236
+#@ cars
+msgid "set yes/no border frame form the dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:243
+#: include/shortcodes/admin/faq.php:91
+#: include/shortcodes/admin/progressbar.php:88
+#: include/shortcodes/admin/services.php:269
+#@ cars
+msgid "Custom ID"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:85
+#: include/shortcodes/admin/price-table.php:85
+#@ cars
+msgid "Edit Price Table Options"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:101
+#: include/shortcodes/admin/deals.php:113
+#: include/shortcodes/admin/price-table.php:118
+#: include/shortcodes/admin/price-table.php:130
+#@ cars
+msgid "set title for the item"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:108
+#: include/shortcodes/admin/price-table.php:125
+#: include/shortcodes/admin/testimonial.php:137
+#: include/shortcodes/admin_functions.php:1887
+#: include/shortcodes/admin_functions.php:2031
+#: include/shortcodes/admin_functions.php:2369
+#: include/shortcodes/admin_functions.php:2561
+#@ cars
+msgid "Text"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:143
+#@ cars
+msgid "From Text"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:154
+#: include/shortcodes/admin/multi-deals.php:155
+#: include/shortcodes/admin/price-table.php:171
+#: include/shortcodes/admin_functions.php:2470
+#@ cars
+msgid "Price"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:159
+#: include/shortcodes/admin/price-table.php:176
+#@ cars
+msgid "item Price"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:167
+#: include/shortcodes/admin/price-table.php:200
+#@ cars
+msgid "Currency Symbols"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:172
+#: include/shortcodes/admin/price-table.php:205
+#@ cars
+msgid "item currency symbols"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:67
+#@ cars
+msgid "Edit Divider Option"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:79
+#@ cars
+msgid "Fancy Large"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:86
+#@ cars
+msgid "Back to Top"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:93
+#@ cars
+msgid "set back to top from the dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:103
+#@ cars
+msgid "set margin top for the divider in px"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:113
+#@ cars
+msgid "set a margin bottom for the divider in px"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:118
+#: include/shortcodes/admin/spacer.php:55
+#: include/shortcodes/admin/video.php:100
+#@ cars
+msgid "Height"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:123
+#@ cars
+msgid "set the divider height"
+msgstr ""
+
+#: include/shortcodes/admin/facilities.php:60
+#@ cars
+msgid "Edit Facilities Options"
+msgstr ""
+
+#: include/shortcodes/admin/facilities.php:92
+#: include/shortcodes/admin_functions.php:1273
+#: include/shortcodes/admin_functions.php:2510
+#@ cars
+msgid "Facilities"
+msgstr ""
+
+#: include/shortcodes/admin/facilities.php:143
+#: include/shortcodes/admin/multi-deals.php:123
+#: include/shortcodes/admin/multi-services.php:259
+#: include/shortcodes/admin_functions.php:2437
+#@ cars
+msgid "Text:"
+msgstr ""
+
+#: include/shortcodes/admin/facilities.php:165
+#@ cars
+msgid "Add Facility"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:73
+#@ cars
+msgid "Edit Faq Options"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:121
+#: include/shortcodes/admin_functions.php:1266
+#: include/shortcodes/admin_functions.php:1740
+#@ cars
+msgid "FAQ"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:137
+#@ cars
+msgid "Faq Title"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:155
+#@ cars
+msgid "Faq Text"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:176
+#@ cars
+msgid "Add Faq"
+msgstr ""
+
+#: include/shortcodes/admin/flex-column.php:66
+#@ cars
+msgid "Edit Flex Column Options"
+msgstr ""
+
+#: include/shortcodes/admin/flex-column.php:86
+#: include/shortcodes/admin/image-frame.php:103
+#@ cars
+msgid "Browse the image"
+msgstr ""
+
+#: include/shortcodes/admin/flex-column.php:109
+#: include/shortcodes/admin/heading.php:187
+#: include/shortcodes/admin/promobox.php:157
+#: include/shortcodes/admin/services.php:242
+#@ cars
+msgid "Content Color"
+msgstr ""
+
+#: include/shortcodes/admin/flex-column.php:140
+#@ cars
+msgid "Column Text"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:72
+#@ cars
+msgid "Edit Heading Options"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:104
+#: include/shortcodes/admin/mailchimp.php:122
+#: include/shortcodes/admin/promobox.php:152
+#@ cars
+msgid "Enter content here"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:126
+#: include/theme-options/theme_options.php:276
+#@ cars
+msgid "Font Size"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:133
+#@ cars
+msgid "add font size number for the heading"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:138
+#: include/shortcodes/admin/quote.php:111
+#: include/shortcodes/admin/services.php:189
+#: include/shortcodes/admin/services.php:202
+#: include/shortcodes/admin/testimonial.php:95
+#@ cars
+msgid "Align"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:146
+#: include/shortcodes/admin/quote.php:119
+#@ cars
+msgid "Align the content position"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:151
+#@ cars
+msgid "Divider On/Off"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:158
+#@ cars
+msgid "set divider on/off for the list bottom border"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:163
+#@ cars
+msgid "Font Style"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:167
+#@ cars
+msgid "Normal"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:168
+#@ cars
+msgid "Italic"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:169
+#@ cars
+msgid "Oblique"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:171
+#@ cars
+msgid "select a font style from the drop down"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:176
+#@ cars
+msgid "Heading Color"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:181
+#@ cars
+msgid "heading color for the heading element"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:192
+#@ cars
+msgid "set a content color for the heading element"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:71
+#@ cars
+msgid "Edit Image Options"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:85
+#@ cars
+msgid "Image Style"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:89
+#@ cars
+msgid "Modern"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:90
+#: include/shortcodes/admin/multi-services.php:81
+#: include/shortcodes/admin/table.php:118
+#@ cars
+msgid "Classic"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:97
+#@ cars
+msgid "Image url"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:135
+#@ cars
+msgid "Caption"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:139
+#@ cars
+msgid "If you would like a caption to be shown below the image, add it here."
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:68
+#@ cars
+msgid "Edit Infobox Options"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:99
+#@ cars
+msgid "Provide a hex background colour code here (include #)"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:118
+#@ cars
+msgid "Class"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:144
+#: include/shortcodes/admin_functions.php:2092
+#@ cars
+msgid "Infobox Item(s)"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:148
+#@ cars
+msgid "Info Box Fontawsome Icon"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:176
+#: include/shortcodes/admin_functions.php:2121
+#@ cars
+msgid "Short Description"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:196
+#@ cars
+msgid "Add Item"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:67
+#@ cars
+msgid "Edit List Style Options"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:87
+#@ cars
+msgid "List Style"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:93
+#@ cars
+msgid "Bullet"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:94
+#@ cars
+msgid "Decimal"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:95
+#@ cars
+msgid "alphabetic"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:96
+#@ cars
+msgid "terms"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:97
+#@ cars
+msgid "Numeric and Icon"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:100
+#@ cars
+msgid "set a list style from the dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:112
+#@ cars
+msgid "set on/off for the list bottom border"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:132
+#: include/shortcodes/admin_functions.php:2068
+#: include/shortcodes/admin_functions.php:2072
+#@ cars
+msgid "List Item"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:137
+#@ cars
+msgid "List Item:"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:147
+#: include/shortcodes/admin_functions.php:1560
+#: include/shortcodes/admin_functions.php:1710
+#: include/shortcodes/admin_functions.php:1760
+#: include/shortcodes/admin_functions.php:1856
+#@ cars
+msgid "Font awsome Icon:"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:167
+#@ cars
+msgid "Add List Item"
+msgstr ""
+
+#: include/shortcodes/admin/mailchimp.php:71
+#@ cars
+msgid "Edit Mail Chimp Options"
+msgstr ""
+
+#: include/shortcodes/admin/mailchimp.php:86
+#@ cars
+msgid "Mail chimp Title"
+msgstr ""
+
+#: include/shortcodes/admin/mailchimp.php:94
+#@ cars
+msgid "Mailchimp Sub Title"
+msgstr ""
+
+#: include/shortcodes/admin/mailchimp.php:118
+#@ cars
+msgid "Mailchimp Text"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:75
+#@ cars
+msgid "Edit Map Options"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:99
+#@ cars
+msgid "Map Height"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:103
+#@ cars
+msgid "Map height set here"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:108
+#@ cars
+msgid "Latitude"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:112
+#: include/shortcodes/admin/map.php:121
+#@ cars
+msgid "The map will appear only if this field is filled correctly"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:117
+#@ cars
+msgid "Longitude"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:126
+#@ cars
+msgid "Zoom"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:135
+#@ cars
+msgid "Map Types"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:139
+#@ cars
+msgid "ROADMAP"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:140
+#@ cars
+msgid "HYBRID"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:141
+#@ cars
+msgid "SATELLITE"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:142
+#@ cars
+msgid "TERRAIN"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:148
+#@ cars
+msgid "Info Text"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:152
+#@ cars
+msgid "Enter the marker content"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:157
+#@ cars
+msgid "Info Max Width"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:161
+#@ cars
+msgid "set max width for the google map"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:166
+#@ cars
+msgid "Info Max Height"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:170
+#@ cars
+msgid "set max height for the google map"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:175
+#@ cars
+msgid "Marker Icon Path"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:180
+#@ cars
+msgid "Give a link for your marker icon"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:198
+#@ cars
+msgid "Show Marker"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:205
+#@ cars
+msgid "Set marker on/off for the map"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:210
+#@ cars
+msgid "Disable Map Controls"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:217
+#@ cars
+msgid "You can set map control disable/enable"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:222
+#@ cars
+msgid "Drag able"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:233
+#@ cars
+msgid "Scroll Wheel"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:240
+#@ cars
+msgid "Set scroll wheel"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:252
+#@ cars
+msgid "Set border for map"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:262
+#@ cars
+msgid "If you will select a border than select the border color"
+msgstr ""
+
+#: include/shortcodes/admin/multi-deals.php:59
+#@ cars
+msgid "Edit Multiple deals Options"
+msgstr ""
+
+#: include/shortcodes/admin/multi-deals.php:110
+#@ cars
+msgid "Multiple deals"
+msgstr ""
+
+#: include/shortcodes/admin/multi-deals.php:136
+#: include/shortcodes/admin_functions.php:2451
+#@ cars
+msgid "From"
+msgstr ""
+
+#: include/shortcodes/admin/multi-deals.php:144
+#: include/shortcodes/admin_functions.php:2459
+#@ cars
+msgid "Currency Sign"
+msgstr ""
+
+#: include/shortcodes/admin/multi-deals.php:197
+#@ cars
+msgid "Add Multiple deals"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:59
+#@ cars
+msgid "Edit Multiple services Options"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:79
+#@ cars
+msgid "simple"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:80
+#@ cars
+msgid "Modren"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:122
+#@ cars
+msgid "Multiple services"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:203
+#: include/shortcodes/admin_functions.php:2313
+#@ cars
+msgid "Fontawsome Icon:"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:214
+#: include/shortcodes/admin_functions.php:2324
+#@ cars
+msgid "Fontawsome Color"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:251
+#: include/shortcodes/admin_functions.php:2362
+#@ cars
+msgid "yes"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:302
+#@ cars
+msgid "Add Multiple service"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:183
+#: search.php:44
+#@ cars
+msgid "Featured:"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:228
+#@ cars
+msgid "Pricing Features"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:230
+#@ cars
+msgid "Add New Feature input box"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:233
+#@ cars
+msgid "Set feature price of the product"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:261
+#@ cars
+msgid "Pricing Feature"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:66
+#@ cars
+msgid "Edit Progress bars Options"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:75
+#@ cars
+msgid "Progress Bars Style"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:79
+#@ cars
+msgid "Plain Progress bar"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:80
+#@ cars
+msgid "Strip Progress bar"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:81
+#@ cars
+msgid "Pattern Progress bar"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:110
+#@ cars
+msgid "ProgressBar"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:114
+#@ cars
+msgid "ProgressBars Title"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:122
+#: include/shortcodes/admin_functions.php:2589
+#@ cars
+msgid "Skill (in percentage)"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:127
+#: include/shortcodes/admin_functions.php:2593
+#@ cars
+msgid "Set the Skill (In %)"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:132
+#: include/shortcodes/admin_functions.php:2597
+#@ cars
+msgid "Progress Bars Color"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:151
+#@ cars
+msgid "Add Progress bar"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:73
+#@ cars
+msgid "Edit Promo Box Options"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:94
+#@ cars
+msgid "Promo Box Background image here"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:113
+#@ cars
+msgid "Background Repeat"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:148
+#: include/shortcodes/admin/slider.php:155
+#: include/shortcodes/admin_functions.php:2648
+#@ cars
+msgid "Contents"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:176
+#: include/shortcodes/admin/slider.php:172
+#: include/shortcodes/admin_functions.php:2019
+#: include/shortcodes/admin_functions.php:2664
+#@ cars
+msgid "Link Title"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:184
+#@ cars
+msgid "Link url"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:188
+#@ cars
+msgid "Give External/Internal Promo Box url"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:63
+#@ cars
+msgid "Edit Quote Options"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:86
+#@ cars
+msgid "give the name of the author"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:91
+#@ cars
+msgid "Author Url"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:95
+#@ cars
+msgid "Give the Author External / Internal Url"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:116
+#@ cars
+msgid "right"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:117
+#@ cars
+msgid "center"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:124
+#@ cars
+msgid "Quote Content"
+msgstr ""
+
+#: include/shortcodes/admin/revolution-slider.php:66
+#@ cars
+msgid "Edit Slider Options"
+msgstr ""
+
+#: include/shortcodes/admin/revolution-slider.php:72
+#@ cars
+msgid "Slider Section Title"
+msgstr ""
+
+#: include/shortcodes/admin/revolution-slider.php:79
+#@ cars
+msgid "Please enter slider header title."
+msgstr ""
+
+#: include/shortcodes/admin/revolution-slider.php:85
+#@ cars
+msgid "Chose Slider"
+msgstr ""
+
+#: include/shortcodes/admin/services.php:87
+#@ cars
+msgid "Edit Services Options"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:177
+#: include/shortcodes/admin/services.php:113
+#: include/shortcodes/admin_functions.php:2285
+#@ cars
+msgid "Choose"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:185
+#: include/shortcodes/admin/services.php:121
+#: include/shortcodes/admin_functions.php:2295
+#@ cars
+msgid "Choose a icon/image type form the dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/services.php:128
+#: include/shortcodes/admin_functions.php:1956
+#@ cars
+msgid "Choose Icon"
+msgstr ""
+
+#: include/shortcodes/admin/services.php:132
+#@ cars
+msgid "Select the fontawsome Icons you would like to add to your menu items"
+msgstr ""
+
+#: include/shortcodes/admin/services.php:142
+#@ cars
+msgid "Set custom colour for icon"
+msgstr ""
+
+#: include/shortcodes/admin/services.php:197
+#: include/shortcodes/admin/services.php:210
+#@ cars
+msgid "Give the position"
+msgstr ""
+
+#: include/shortcodes/admin/services.php:237
+#: include/shortcodes/admin/table.php:131
+#@ cars
+msgid "Enter the content"
+msgstr ""
+
+#: include/shortcodes/admin/sitemap.php:49
+#@ cars
+msgid "Edit Site Map Options"
+msgstr ""
+
+#: include/shortcodes/admin/spacer.php:49
+#@ cars
+msgid "Edit Spacer Options"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:94
+#@ cars
+msgid "Edit Table Options"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:112
+#@ cars
+msgid "Table Style"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:117
+#@ cars
+msgid "Modern Style"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:122
+#@ cars
+msgid "Select a table style"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:127
+#@ cars
+msgid "Table Content"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:67
+#@ cars
+msgid "Edit Tabs Options"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:87
+#@ cars
+msgid "Tab Style"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:92
+#: include/theme-options/theme_options.php:633
+#@ cars
+msgid "Default"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:93
+#@ cars
+msgid "Vertical"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:121
+#: include/shortcodes/admin_functions.php:1830
+#@ cars
+msgid "Tab"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:141
+#@ cars
+msgid "Tab Title"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:151
+#@ cars
+msgid "Tab Fontawsome Icon"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:162
+#@ cars
+msgid "Tab Text"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:169
+#: include/shortcodes/admin_functions.php:1871
+#@ cars
+msgid "Enter tab body content here"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:185
+#@ cars
+msgid "Add Tab"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:63
+#@ cars
+msgid "Edit Team Options"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:76
+#: include/theme-components/cs-widgets/cs_contact.php:130
+#@ cars
+msgid "Name"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:84
+#@ cars
+msgid "Designation"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:93
+#@ cars
+msgid "short Description"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:102
+#@ cars
+msgid "Team Profile Image"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:124
+#: include/theme-options/theme_options.php:1289
+#@ cars
+msgid "Facebook"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:132
+#@ cars
+msgid "Twitter Url"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:140
+#@ cars
+msgid "Linkedin Url"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:148
+#@ cars
+msgid "Google plus"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:156
+#@ cars
+msgid "Skype"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:164
+#: include/shortcodes/frontend/contactus.php:113
+#: include/theme-components/cs-widgets/contactinfo.php:96
+#: include/theme-components/cs-widgets/cs_contact.php:133
+#@ cars
+msgid "Email"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:59
+#@ cars
+msgid "Edit Testimonials Options"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:83
+#@ cars
+msgid "list view"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:84
+#@ cars
+msgid "Slider view"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:85
+#@ cars
+msgid "Modren Slider view"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:89
+#@ cars
+msgid "Testimonial Style"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:101
+#@ cars
+msgid "This will not apply in Slider View"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:122
+#: include/shortcodes/admin/testimonial.php:132
+#: include/shortcodes/admin_functions.php:1883
+#@ cars
+msgid "Testimonial"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:157
+#@ cars
+msgid "Company"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:164
+#: include/shortcodes/admin_functions.php:1904
+#@ cars
+msgid "Company Name"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:202
+#@ cars
+msgid "Add testimonials"
+msgstr ""
+
+#: include/shortcodes/admin/tweets.php:53
+#@ cars
+msgid "Edit Twitter Options"
+msgstr ""
+
+#: include/shortcodes/admin/tweets.php:61
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:39
+#@ cars
+msgid "User Name"
+msgstr ""
+
+#: include/shortcodes/admin/tweets.php:75
+#@ cars
+msgid "No of Tweets"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:61
+#@ cars
+msgid "Edit Video Options"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:86
+#@ cars
+msgid "give the video Url here"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:91
+#@ cars
+msgid "Width"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:95
+#@ cars
+msgid "Add a width in pix, If you want to override the default"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:104
+#@ cars
+msgid "Provide height in cs, if you want to override the default"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:136
+#, php-format
+#@ cars
+msgid "%1$s"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:153
+#@ cars
+msgid "Pages:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:265
+#@ cars
+msgid "About"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:285
+#@ cars
+msgid "View All Posts"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:448
+#, php-format
+#@ cars
+msgid "%s"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1076
+#@ cars
+msgid "Blog"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1082
+#@ cars
+msgid "Button"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1095
+#@ cars
+msgid "Form"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1101
+#: include/shortcodes/admin_functions.php:1936
+#@ cars
+msgid "Counter"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1107
+#: include/shortcodes/admin_functions.php:1632
+#@ cars
+msgid "Divider"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1114
+#@ cars
+msgid "Column"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1120
+#@ cars
+msgid "Call to Action"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1127
+#@ cars
+msgid "Heading"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1135
+#@ cars
+msgid "Info box"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1141
+#@ cars
+msgid "Image Frame"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1147
+#@ cars
+msgid "List"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1160
+#@ cars
+msgid "Multiple Services"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1167
+#@ cars
+msgid "Multiple Deals"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1173
+#@ cars
+msgid "Progress Bars"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1180
+#: include/shortcodes/config.php:68
+#@ cars
+msgid "Promo box"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1186
+#@ cars
+msgid "Price Table"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1193
+#@ cars
+msgid "Quote"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1206
+#@ cars
+msgid "Services"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1213
+#@ cars
+msgid "Site Map"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1220
+#: include/shortcodes/config.php:66
+#@ cars
+msgid "Mail chimp"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1227
+#@ cars
+msgid "Tabs"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1234
+#@ cars
+msgid "Testimonials"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1240
+#@ cars
+msgid "Table"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1252
+#@ cars
+msgid "Tweets"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1260
+#@ cars
+msgid "Spacer"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1280
+#@ cars
+msgid "Team"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1290
+#@ cars
+msgid "Events"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1303
+#@ cars
+msgid "Locations"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1310
+#: include/theme-options/theme_options.php:176
+#@ cars
+msgid "Vehicle Search"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1317
+#@ cars
+msgid "Vehicles Listing"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:79
+#: include/shortcodes/admin_functions.php:1413
+#: include/theme-options/theme_options.php:308
+#@ cars
+msgid "Full width"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:80
+#: include/shortcodes/admin_functions.php:1414
+#@ cars
+msgid "One half"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1415
+#@ cars
+msgid "One third"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:81
+#: include/shortcodes/admin_functions.php:1416
+#@ cars
+msgid "Two third"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1417
+#@ cars
+msgid "One fourth"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:82
+#: include/shortcodes/admin_functions.php:1418
+#@ cars
+msgid "Three fourth"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1455
+#@ cars
+msgid "Use this option if you want to use specified Class for this element"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1535
+#@ cars
+msgid "Service"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1542
+#@ cars
+msgid "Service Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1544
+#@ cars
+msgid "Title of the Service"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1548
+#@ cars
+msgid "Service View:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1550
+#@ cars
+msgid "Large Boxed"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1551
+#@ cars
+msgid "Large Normal"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1552
+#: include/shortcodes/admin_functions.php:1580
+#@ cars
+msgid "Circle"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1556
+#@ cars
+msgid "Type of the Service"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1566
+#@ cars
+msgid "Icon Postion"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1571
+#@ cars
+msgid "Top"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1577
+#@ cars
+msgid "Icon Type"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1587
+#@ cars
+msgid "Service background  Image"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1609
+#@ cars
+msgid "Service Link Url:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1611
+#@ cars
+msgid "Service Link Url"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1624
+#@ cars
+msgid "Service Text:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1647
+#@ cars
+msgid "Icon Background Color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1699
+#@ cars
+msgid "Accordion Title:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1715
+#: include/shortcodes/admin_functions.php:1860
+#@ cars
+msgid "Select the font awsome Icons you would like to add to your menu items"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1720
+#@ cars
+msgid "Accordion Text:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1752
+#@ cars
+msgid "Faq Title:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1766
+#@ cars
+msgid "Faq Text:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1782
+#@ cars
+msgid "Register"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1786
+#@ cars
+msgid "Register Title:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1795
+#@ cars
+msgid "User Role:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1799
+#@ cars
+msgid "Subscriber"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1800
+#@ cars
+msgid "Staff"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1801
+#@ cars
+msgid "Member"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1802
+#@ cars
+msgid "Instructor"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1803
+#@ cars
+msgid "Customer"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1804
+#@ cars
+msgid "Contributor"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1806
+#@ cars
+msgid "Editor"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1807
+#@ cars
+msgid "Administrator"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1814
+#@ cars
+msgid "Register Text:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1848
+#@ cars
+msgid "Tab Title:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1865
+#@ cars
+msgid "Tab Text:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1901
+#@ cars
+msgid "Company:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1938
+#@ cars
+msgid "Counter Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1942
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1723
+#@ cars
+msgid "Type"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1946
+#@ cars
+msgid "Counter Style One"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1947
+#@ cars
+msgid "Counter Style Two"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1948
+#@ cars
+msgid "Counter Style Three"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1949
+#@ cars
+msgid "Counter Style Four"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2010
+#@ cars
+msgid "Numbers"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2014
+#@ cars
+msgid "Count Text Color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2141
+#@ cars
+msgid "Album Item(s)"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2145
+#@ cars
+msgid "Track Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2152
+#@ cars
+msgid "Track MP3 Url"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2167
+#@ cars
+msgid "Client"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2224
+#: include/shortcodes/admin_functions.php:2424
+#@ cars
+msgid "Multiple Service"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2382
+#@ cars
+msgid "View More Button"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2406
+#@ cars
+msgid "Button Text Color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2579
+#@ cars
+msgid "Progress bars"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2583
+#@ cars
+msgid "Progress Bars Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2610
+#@ cars
+msgid "Offer Slider Item"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2694
+#@ cars
+msgid "Gallery is Empty. Please Select Media"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2726
+#@ cars
+msgid "Select Media"
+msgstr ""
+
+#: include/shortcodes/config.php:61
+#@ cars
+msgid "Call To Action"
+msgstr ""
+
+#: include/shortcodes/config.php:62
+#@ cars
+msgid "Contactus"
+msgstr ""
+
+#: include/shortcodes/config.php:63
+#@ cars
+msgid "Faq"
+msgstr ""
+
+#: include/shortcodes/config.php:64
+#@ cars
+msgid "Flex Column"
+msgstr ""
+
+#: include/shortcodes/config.php:65
+#@ cars
+msgid "Teams"
+msgstr ""
+
+#: include/shortcodes/config.php:67
+#@ cars
+msgid "Price table"
+msgstr ""
+
+#: include/shortcodes/config.php:69
+#@ cars
+msgid "Prograss bars"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:120
+#: include/theme-components/cs-widgets/cs_contact.php:136
+#@ cars
+msgid "Subject"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:126
+#: include/shortcodes/frontend/contactus.php:128
+#: include/theme-components/cs-widgets/cs_contact.php:139
+#@ cars
+msgid "Message"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:133
+#@ cars
+msgid "Submit Now"
+msgstr ""
+
+#: include/shortcodes/frontend/map.php:100
+#@ cars
+msgid "Directions"
+msgstr ""
+
+#: include/shortcodes/frontend/map.php:106
+#@ cars
+msgid "Enter Location"
+msgstr ""
+
+#: include/shortcodes/frontend/sitemap.php:22
+#@ cars
+msgid "Pages"
+msgstr ""
+
+#: include/shortcodes/frontend/sitemap.php:47
+#@ cars
+msgid "Posts"
+msgstr ""
+
+#: include/shortcodes/frontend/sitemap.php:88
+#@ cars
+msgid "Categories"
+msgstr ""
+
+#: include/shortcodes/frontend/tweets.php:111
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:143
+#, php-format
+#@ cars
+msgid "%d seconds ago"
+msgstr ""
+
+#: include/shortcodes/frontend/tweets.php:112
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:144
+#, php-format
+#@ cars
+msgid "About a Minute Ago"
+msgid_plural "%d Minutes Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/frontend/tweets.php:113
+#: include/shortcodes/frontend/tweets.php:114
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:145
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:146
+#, php-format
+#@ cars
+msgid "About an Hour Ago"
+msgid_plural "%d Hours Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/frontend/tweets.php:115
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:147
+#, php-format
+#@ cars
+msgid "About a Day Ago"
+msgid_plural "%d Days Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/frontend/tweets.php:116
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:148
+#, php-format
+#@ cars
+msgid "About a Week Ago"
+msgid_plural "%d Weeks Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/frontend/tweets.php:117
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:149
+#, php-format
+#@ cars
+msgid "About a Month Ago"
+msgid_plural "%d Months Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/frontend/tweets.php:118
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:150
+#, php-format
+#@ cars
+msgid "About a year Ago"
+msgid_plural "%d years Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:271
+#@ cars
+msgid "Something went wrong."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:283
+#, php-format
+#@ cars
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:298
+#, php-format
+#@ cars
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:308
+#, php-format
+#@ cars
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:318
+#@ cars
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:323
+#@ cars
+msgid "Return to the dashboard"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:326
+#, php-format
+#@ cars
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:327
+#@ cars
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:328
+#@ cars
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:645
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2517
+#@ cars
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:719
+#@ cars
+msgid "The remote plugin package is does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:719
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:723
+#@ cars
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:723
+#@ cars
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:768
+#, php-format
+#@ cars
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:893
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1907
+#@ cars
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1536
+#@ cars
+msgid "External Source"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1540
+#@ cars
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1545
+#@ cars
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1549
+#@ cars
+msgid "Required"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1551
+#@ cars
+msgid "Recommended"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1555
+#@ cars
+msgid "Not Installed"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1557
+#@ cars
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1640
+#, php-format
+#@ cars
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1659
+#, php-format
+#@ cars
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1705
+#, php-format
+#@ cars
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1721
+#@ cars
+msgid "Plugin"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1722
+#@ cars
+msgid "Source"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1724
+#@ cars
+msgid "Status"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1742
+#@ cars
+msgid "Install"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1743
+#@ cars
+msgid "Activate"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1795
+#@ cars
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1893
+#@ cars
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1911
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:325
+#@ cars
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2260
+#@ cars
+msgid "Install package not available."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2261
+#, php-format
+#@ cars
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2262
+#@ cars
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2263
+#@ cars
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2264
+#@ cars
+msgid "Plugin install failed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2276
+#@ cars
+msgid "Plugin activation failed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2399
+#, php-format
+#@ cars
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2400
+#, php-format
+#@ cars
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2404
+#@ cars
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2405
+#, php-format
+#@ cars
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2405
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2412
+#@ cars
+msgid "Show Details"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2405
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2412
+#@ cars
+msgid "Hide Details"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2406
+#@ cars
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2407
+#, php-format
+#@ cars
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2411
+#@ cars
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2412
+#, php-format
+#@ cars
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2413
+#@ cars
+msgid "All installations have been completed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2414
+#, php-format
+#@ cars
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/theme-components/cs-header/header_functions.php:1
+#@ cars
+msgid "Make a Booking"
+msgstr ""
+
+#: include/theme-components/cs-importer/parsers.php:42
+#: include/theme-components/cs-importer/parsers.php:72
+#: include/theme-components/cs-importer/parsers.php:80
+#@ cars
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: include/theme-components/cs-importer/parsers.php:43
+#@ cars
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: include/theme-components/cs-importer/parsers.php:84
+#: include/theme-components/cs-importer/parsers.php:89
+#: include/theme-components/cs-importer/parsers.php:279
+#: include/theme-components/cs-importer/parsers.php:468
+#@ cars
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:43
+#@ cars
+msgid "Error."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:47
+#: include/theme-components/cs-importer/wordpress-importer.php:134
+#: include/theme-components/cs-importer/wordpress-importer.php:143
+#: include/theme-components/cs-importer/wordpress-importer.php:194
+#: include/theme-components/cs-importer/wordpress-importer.php:198
+#: include/theme-components/cs-importer/wordpress-importer.php:207
+#@ cars
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:48
+#: include/theme-components/cs-importer/wordpress-importer.php:135
+#@ cars
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:178
+#@ cars
+msgid "All done."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:178
+#@ cars
+msgid "Have fun!"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:179
+#@ cars
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:199
+#, php-format
+#@ cars
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:215
+#, php-format
+#@ cars
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:240
+#, php-format
+#@ cars
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:266
+#@ cars
+msgid "Assign Authors"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:267
+#@ cars
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:269
+#, php-format
+#@ cars
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:279
+#@ cars
+msgid "Import Attachments"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:282
+#@ cars
+msgid "Download and import file attachments"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:299
+#@ cars
+msgid "Import author:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:310
+#@ cars
+msgid "or create new user with login name:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:313
+#@ cars
+msgid "as a new user:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:321
+#@ cars
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:323
+#@ cars
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:324
+#@ cars
+msgid "- Select -"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:374
+#, php-format
+#@ cars
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:425
+#, php-format
+#@ cars
+msgid "Failed to import category %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:465
+#, php-format
+#@ cars
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:511
+#: include/theme-components/cs-importer/wordpress-importer.php:652
+#, php-format
+#@ cars
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:537
+#, php-format
+#@ cars
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:559
+#, php-format
+#@ cars
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:618
+#, php-format
+#@ cars
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:783
+#@ cars
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:790
+#, php-format
+#@ cars
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:853
+#@ cars
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:866
+#@ cars
+msgid "Invalid file type"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:910
+#@ cars
+msgid "Remote server did not respond"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:916
+#, php-format
+#@ cars
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:923
+#@ cars
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:928
+#@ cars
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:934
+#, php-format
+#@ cars
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1032
+#@ cars
+msgid "Import WordPress"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1039
+#, php-format
+#@ cars
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1054
+#@ cars
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1055
+#@ cars
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1129
+#@ cars
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:17
+#@ cars
+msgid "Select contact form to show in widget."
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:18
+#@ cars
+msgid "CS : Contact Form"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:33
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:36
+#: include/theme-components/cs-widgets/recentposts.php:32
+#@ cars
+msgid "Title:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:39
+#@ cars
+msgid "Contact Email:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:45
+#@ cars
+msgid "Success Message:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:88
+#@ cars
+msgid "An error Occured, please try again later."
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:142
+#@ cars
+msgid "Send"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:23
+#@ cars
+msgid "Type a user name to show photos in widget."
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:24
+#@ cars
+msgid "CS : Flickr Gallery"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:43
+#@ cars
+msgid "Flickr username"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:48
+#@ cars
+msgid "Number of Photos"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:150
+#: include/theme-components/cs-widgets/cs_flickr.php:178
+#@ cars
+msgid "No result found."
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:153
+#: include/theme-components/cs-widgets/cs_flickr.php:157
+#@ cars
+msgid "Error:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:183
+#@ cars
+msgid "Please Enter Flickr API key from Theme Options."
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:22
+#@ cars
+msgid "Twitter Widget"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:23
+#@ cars
+msgid "CS: Twitter Widget"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:42
+#@ cars
+msgid "Num of Tweets:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:16
+#@ cars
+msgid "Facebook widget like box total customized with theme"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:17
+#@ cars
+msgid "CS : Facebook"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:40
+#@ cars
+msgid "Page URL"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:43
+#@ cars
+msgid "Please enter your page or User profile url example:L"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:48
+#@ cars
+msgid "Show Faces"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:53
+#@ cars
+msgid "Show Stream"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:59
+#@ cars
+msgid "Like Box Height"
+msgstr ""
+
+#: include/theme-components/cs-widgets/mailchimp.php:22
+#@ cars
+msgid "Mail Chimp Newsletter Widget"
+msgstr ""
+
+#: include/theme-components/cs-widgets/mailchimp.php:23
+#@ cars
+msgid "CS: Mail Chimp"
+msgstr ""
+
+#: include/theme-components/cs-widgets/mailchimp.php:41
+#@ cars
+msgid "Description"
+msgstr ""
+
+#: include/theme-components/cs-widgets/recentposts.php:17
+#@ cars
+msgid "Recent Posts from category."
+msgstr ""
+
+#: include/theme-components/cs-widgets/recentposts.php:18
+#@ cars
+msgid "CS : Recent Posts"
+msgstr ""
+
+#: include/theme-components/cs-widgets/recentposts.php:37
+#@ cars
+msgid "Select Category:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/recentposts.php:39
+#@ cars
+msgid "All"
+msgstr ""
+
+#: include/theme-components/cs-widgets/recentposts.php:52
+#@ cars
+msgid "Number of Posts To Display:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/social_network.php:22
+#@ cars
+msgid "Social Newtork widget."
+msgstr ""
+
+#: include/theme-components/cs-widgets/social_network.php:23
+#@ cars
+msgid "CS : Social Newtork"
+msgstr ""
+
+#: include/theme-options/theme_options.php:17
+#@ cars
+msgid "Saving changes..."
+msgstr ""
+
+#: include/theme-options/theme_options.php:42
+#@ cars
+msgid "Save All Settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:44
+#@ cars
+msgid "Reset All Options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:163
+#@ cars
+msgid "Celsius"
+msgstr ""
+
+#: include/theme-options/theme_options.php:163
+#@ cars
+msgid "Fahrenheit"
+msgstr ""
+
+#: include/theme-options/theme_options.php:163
+#@ cars
+msgid "Both"
+msgstr ""
+
+#: include/theme-options/theme_options.php:172
+#@ cars
+msgid "Blogs Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:173
+#@ cars
+msgid "Contact"
+msgstr ""
+
+#: include/theme-options/theme_options.php:174
+#@ cars
+msgid "Event Listings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:175
+#@ cars
+msgid "Event Detail"
+msgstr ""
+
+#: include/theme-options/theme_options.php:181
+#: include/theme-options/theme_options.php:637
+#@ cars
+msgid "Breadcrumbs Sub Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:181
+#@ cars
+msgid "No sub Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:241
+#@ cars
+msgid "General"
+msgstr ""
+
+#: include/theme-options/theme_options.php:245
+#: include/theme-options/theme_options.php:296
+#@ cars
+msgid "global"
+msgstr ""
+
+#: include/theme-options/theme_options.php:246
+#: include/theme-options/theme_options.php:262
+#@ cars
+msgid "Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:247
+#@ cars
+msgid "Sub Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:248
+#: include/theme-options/theme_options.php:263
+#@ cars
+msgid "Footer"
+msgstr ""
+
+#: include/theme-options/theme_options.php:249
+#: include/theme-options/theme_options.php:1262
+#@ cars
+msgid "social icons"
+msgstr ""
+
+#: include/theme-options/theme_options.php:250
+#@ cars
+msgid "social sharing"
+msgstr ""
+
+#: include/theme-options/theme_options.php:251
+#: include/theme-options/theme_options.php:1353
+#@ cars
+msgid "custom code"
+msgstr ""
+
+#: include/theme-options/theme_options.php:252
+#: include/theme-options/theme_options.php:1377
+#@ cars
+msgid "Ads Unit Settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:256
+#@ cars
+msgid "color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:261
+#@ cars
+msgid "general"
+msgstr ""
+
+#: include/theme-options/theme_options.php:264
+#@ cars
+msgid "headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:268
+#@ cars
+msgid "typography / fonts"
+msgstr ""
+
+#: include/theme-options/theme_options.php:274
+#: include/theme-options/theme_options.php:1058
+#@ cars
+msgid "Custom Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:275
+#: include/theme-options/theme_options.php:1096
+#@ cars
+msgid "font family"
+msgstr ""
+
+#: include/theme-options/theme_options.php:280
+#: include/theme-options/theme_options.php:1389
+#@ cars
+msgid "sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:288
+#: include/theme-options/theme_options.php:1465
+#@ cars
+msgid "SEO"
+msgstr ""
+
+#: include/theme-options/theme_options.php:301
+#@ cars
+msgid "Layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:303
+#@ cars
+msgid "Layout type"
+msgstr ""
+
+#: include/theme-options/theme_options.php:307
+#@ cars
+msgid "Boxed"
+msgstr ""
+
+#: include/theme-options/theme_options.php:323
+#@ cars
+msgid "Background image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:325
+#@ cars
+msgid "Choose from Predefined Background images."
+msgstr ""
+
+#: include/theme-options/theme_options.php:336
+#@ cars
+msgid "Background pattern"
+msgstr ""
+
+#: include/theme-options/theme_options.php:338
+#@ cars
+msgid "Choose from Predefined Pattern images."
+msgstr ""
+
+#: include/theme-options/theme_options.php:349
+#@ cars
+msgid "Custom image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:351
+#@ cars
+msgid "This option can be used only with Boxed Layout."
+msgstr ""
+
+#: include/theme-options/theme_options.php:358
+#@ cars
+msgid "Background image position"
+msgstr ""
+
+#: include/theme-options/theme_options.php:360
+#@ cars
+msgid "Choose image position for body background"
+msgstr ""
+
+#: include/theme-options/theme_options.php:375
+#@ cars
+msgid "Custom favicon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:377
+#@ cars
+msgid "Custom favicon for your site"
+msgstr ""
+
+#: include/theme-options/theme_options.php:383
+#@ cars
+msgid "Smooth Scroll"
+msgstr ""
+
+#: include/theme-options/theme_options.php:385
+#@ cars
+msgid "Lightweight Script for Page Scrolling animation"
+msgstr ""
+
+#: include/theme-options/theme_options.php:392
+#@ cars
+msgid "RTL"
+msgstr ""
+
+#: include/theme-options/theme_options.php:394
+#@ cars
+msgid "Turn RTL On/Off here for Right to Left languages like Arabic etc."
+msgstr ""
+
+#: include/theme-options/theme_options.php:401
+#@ cars
+msgid "Responsive"
+msgstr ""
+
+#: include/theme-options/theme_options.php:403
+#@ cars
+msgid "Set responsive design layout for mobile devices On/Off here"
+msgstr ""
+
+#: include/theme-options/theme_options.php:420
+#@ cars
+msgid "Select Language File"
+msgstr ""
+
+#: include/theme-options/theme_options.php:433
+#@ cars
+msgid "Select Language"
+msgstr ""
+
+#: include/theme-options/theme_options.php:444
+#@ cars
+msgid "header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:449
+#@ cars
+msgid "Select Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:455
+#@ cars
+msgid "Header 1"
+msgstr ""
+
+#: include/theme-options/theme_options.php:455
+#@ cars
+msgid "Header 2"
+msgstr ""
+
+#: include/theme-options/theme_options.php:458
+#@ cars
+msgid "Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:460
+#@ cars
+msgid "Upload your custom logo in .png .jpg .gif formats only."
+msgstr ""
+
+#: include/theme-options/theme_options.php:465
+#@ cars
+msgid "Logo Height"
+msgstr ""
+
+#: include/theme-options/theme_options.php:467
+#@ cars
+msgid "Set exact logo height otherwise logo will not display normally."
+msgstr ""
+
+#: include/theme-options/theme_options.php:474
+#@ cars
+msgid "logo width"
+msgstr ""
+
+#: include/theme-options/theme_options.php:476
+#@ cars
+msgid "Set exact logo width otherwise logo will not display normally."
+msgstr ""
+
+#: include/theme-options/theme_options.php:484
+#@ cars
+msgid "Logo margin top"
+msgstr ""
+
+#: include/theme-options/theme_options.php:486
+#@ cars
+msgid "Logo spacing margin from top"
+msgstr ""
+
+#: include/theme-options/theme_options.php:493
+#@ cars
+msgid "Logo margin bottom"
+msgstr ""
+
+#: include/theme-options/theme_options.php:495
+#@ cars
+msgid "Logo spacing margin from bottom."
+msgstr ""
+
+#: include/theme-options/theme_options.php:502
+#@ cars
+msgid "Logo margin right"
+msgstr ""
+
+#: include/theme-options/theme_options.php:504
+#@ cars
+msgid "Logo spacing margin from right."
+msgstr ""
+
+#: include/theme-options/theme_options.php:511
+#@ cars
+msgid "Logo margin left"
+msgstr ""
+
+#: include/theme-options/theme_options.php:513
+#@ cars
+msgid "Logo spacing margin from left"
+msgstr ""
+
+#: include/theme-options/theme_options.php:522
+#: include/theme-options/theme_options.php:524
+#@ cars
+msgid "Header Elements"
+msgstr ""
+
+#: include/theme-options/theme_options.php:532
+#@ cars
+msgid "Cart Count"
+msgstr ""
+
+#: include/theme-options/theme_options.php:534
+#@ cars
+msgid "Enable/Disable Woocommerce Cart Count"
+msgstr ""
+
+#: include/theme-options/theme_options.php:542
+#@ cars
+msgid "WPML"
+msgstr ""
+
+#: include/theme-options/theme_options.php:544
+#@ cars
+msgid "Set WordPress Multi Language switcher On/Off in header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:551
+#@ cars
+msgid "Sticky Header On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:554
+#@ cars
+msgid "If you enable this option , header will be fixed on top of your browser window."
+msgstr ""
+
+#: include/theme-options/theme_options.php:559
+#@ cars
+msgid "Sticky Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:561
+#@ cars
+msgid "Set sticky logo Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:565
+#@ cars
+msgid "Tagline"
+msgstr ""
+
+#: include/theme-options/theme_options.php:567
+#@ cars
+msgid "Enable/Disable Tagline"
+msgstr ""
+
+#: include/theme-options/theme_options.php:573
+#: include/theme-options/theme_options.php:577
+#@ cars
+msgid "Booking"
+msgstr ""
+
+#: include/theme-options/theme_options.php:580
+#: include/theme-options/theme_options.php:618
+#@ cars
+msgid "Booking link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:589
+#: include/theme-options/theme_options.php:591
+#: include/theme-options/theme_options.php:596
+#@ cars
+msgid "Header Top Strip"
+msgstr ""
+
+#: include/theme-options/theme_options.php:598
+#@ cars
+msgid "Enable/Disable header top strip"
+msgstr ""
+
+#: include/theme-options/theme_options.php:604
+#@ cars
+msgid "Help Text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:611
+#@ cars
+msgid "Booking Number"
+msgstr ""
+
+#: include/theme-options/theme_options.php:628
+#@ cars
+msgid "sub header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:635
+#@ cars
+msgid "Sub Header settings made here will be implemented on all pages."
+msgstr ""
+
+#: include/theme-options/theme_options.php:660
+#@ cars
+msgid "Set custom padding for sub header content top area."
+msgstr ""
+
+#: include/theme-options/theme_options.php:669
+#@ cars
+msgid "Set custom padding for sub header content bottom area."
+msgstr ""
+
+#: include/theme-options/theme_options.php:676
+#@ cars
+msgid "Content Text Align"
+msgstr ""
+
+#: include/theme-options/theme_options.php:678
+#@ cars
+msgid "select the text Alignment for sub header content."
+msgstr ""
+
+#: include/theme-options/theme_options.php:684
+#@ cars
+msgid "Page Title"
+msgstr ""
+
+#: include/theme-options/theme_options.php:686
+#@ cars
+msgid "Set page title On/Off in sub header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:692
+#@ cars
+msgid "Title Heading Style"
+msgstr ""
+
+#: include/theme-options/theme_options.php:730
+#@ cars
+msgid "Background"
+msgstr ""
+
+#: include/theme-options/theme_options.php:738
+#@ cars
+msgid "Parallax"
+msgstr ""
+
+#: include/theme-options/theme_options.php:748
+#@ cars
+msgid "footer options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:752
+#@ cars
+msgid "Footer section"
+msgstr ""
+
+#: include/theme-options/theme_options.php:754
+#@ cars
+msgid "enable/disable footer area"
+msgstr ""
+
+#: include/theme-options/theme_options.php:759
+#: include/theme-options/theme_options.php:819
+#@ cars
+msgid "Footer Widgets"
+msgstr ""
+
+#: include/theme-options/theme_options.php:761
+#@ cars
+msgid "enable/disable footer widget area"
+msgstr ""
+
+#: include/theme-options/theme_options.php:768
+#@ cars
+msgid "Footer Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:770
+#: include/theme-options/theme_options.php:786
+#@ cars
+msgid "Like footer logo or Credits Cards Images"
+msgstr ""
+
+#: include/theme-options/theme_options.php:776
+#@ cars
+msgid "Footer logo Link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:778
+#: include/theme-options/theme_options.php:793
+#: include/theme-options/theme_options.php:807
+#@ cars
+msgid "set custom footer logo link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:784
+#@ cars
+msgid "Footer App Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:791
+#@ cars
+msgid "Footer App link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:798
+#@ cars
+msgid "Footer App logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:800
+#@ cars
+msgid "Set custom Footer Background Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:805
+#@ cars
+msgid "Google Play link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:812
+#: include/theme-options/theme_options.php:996
+#@ cars
+msgid "Copyright Text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:814
+#@ cars
+msgid "write your own copyright text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:821
+#@ cars
+msgid "Set footer widgets sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:829
+#@ cars
+msgid "general colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:833
+#@ cars
+msgid "Theme Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:835
+#@ cars
+msgid "Choose theme skin color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:843
+#@ cars
+msgid "Choose Body Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:849
+#@ cars
+msgid "Body Text Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:851
+#@ cars
+msgid "Choose text color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:858
+#@ cars
+msgid "header colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:862
+#@ cars
+msgid "top strip colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:864
+#@ cars
+msgid "Top Strip"
+msgstr ""
+
+#: include/theme-options/theme_options.php:870
+#@ cars
+msgid "Change Top Strip background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:878
+#@ cars
+msgid "Change Top Strip text color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:885
+#@ cars
+msgid "Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:887
+#@ cars
+msgid "Change Top Strip link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:894
+#: include/theme-options/theme_options.php:896
+#@ cars
+msgid "Header Colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:902
+#@ cars
+msgid "Change Header background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:908
+#@ cars
+msgid "Navigation Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:910
+#@ cars
+msgid "Change Header Navigation Background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:916
+#@ cars
+msgid "Menu Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:918
+#@ cars
+msgid "Change Header Menu Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:924
+#@ cars
+msgid "Menu Active Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:926
+#@ cars
+msgid "Change Header Menu Active Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:933
+#@ cars
+msgid "Submenu Background"
+msgstr ""
+
+#: include/theme-options/theme_options.php:935
+#@ cars
+msgid "Change Submenu Background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:941
+#@ cars
+msgid "Submenu Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:943
+#@ cars
+msgid "Change Submenu Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:949
+#@ cars
+msgid "Submenu Hover Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:951
+#@ cars
+msgid "Change Submenu Hover Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:958
+#@ cars
+msgid "footer colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:962
+#@ cars
+msgid "Footer Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:970
+#@ cars
+msgid "Footer Title Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:978
+#@ cars
+msgid "Footer Text Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:986
+#@ cars
+msgid "Footer Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1005
+#@ cars
+msgid "heading colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1009
+#@ cars
+msgid "heading h1"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1017
+#@ cars
+msgid "heading h2"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1025
+#@ cars
+msgid "heading h3"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1033
+#@ cars
+msgid "heading h4"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1041
+#@ cars
+msgid "heading h5"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1049
+#@ cars
+msgid "heading h6"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1063
+#@ cars
+msgid "Custom Font .woff"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1065
+#@ cars
+msgid "Custom font for your site upload .woff format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1071
+#@ cars
+msgid "Custom Font .ttf"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1073
+#@ cars
+msgid "Custom font for your site upload .ttf format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1079
+#@ cars
+msgid "Custom Font .svg"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1081
+#@ cars
+msgid "Custom font for your site upload .svg format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1087
+#@ cars
+msgid "Custom Font .eot"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1089
+#@ cars
+msgid "Custom font for your site upload .eot format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1100
+#@ cars
+msgid "Content Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1102
+#@ cars
+msgid "Set fonts for Body text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1108
+#@ cars
+msgid "Content Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1110
+#: include/theme-options/theme_options.php:1126
+#: include/theme-options/theme_options.php:1142
+#: include/theme-options/theme_options.php:1158
+#@ cars
+msgid "Set Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1116
+#@ cars
+msgid "Main Menu Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1118
+#@ cars
+msgid "Set font for main Menu. It will be applied to sub menu as well"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1124
+#@ cars
+msgid "Main Menu Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1132
+#@ cars
+msgid "Headings Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1134
+#@ cars
+msgid "Select font for Headings. It will apply on all posts and pages headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1140
+#@ cars
+msgid "Headings Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1148
+#@ cars
+msgid "Widget Headings Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1150
+#@ cars
+msgid "Set font for Widget Headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1156
+#@ cars
+msgid "Widget Headings Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1165
+#@ cars
+msgid "Font size"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1188
+#@ cars
+msgid "Heading 1"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1197
+#@ cars
+msgid "Heading 2"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1206
+#@ cars
+msgid "Heading 3"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1215
+#@ cars
+msgid "Heading 4"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1224
+#@ cars
+msgid "Heading 5"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1233
+#@ cars
+msgid "Heading 6"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1243
+#@ cars
+msgid "Widget Heading"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1252
+#@ cars
+msgid "Section Heading"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1266
+#@ cars
+msgid "Social Icon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1275
+#@ cars
+msgid "Social Network"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1285
+#@ cars
+msgid "social Sharing"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1296
+#: include/theme-options/theme_options.php:1650
+#: include/theme-options/theme_options.php:1652
+#@ cars
+msgid "Twitter"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1303
+#@ cars
+msgid "Google Plus"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1310
+#@ cars
+msgid "Tumblr"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1317
+#@ cars
+msgid "Dribbble"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1324
+#@ cars
+msgid "Instagram"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1331
+#@ cars
+msgid "StumbleUpon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1338
+#@ cars
+msgid "youtube"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1345
+#@ cars
+msgid "share more"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1357
+#@ cars
+msgid "Custom Css"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1359
+#@ cars
+msgid "write you custom css without style tag"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1365
+#@ cars
+msgid "Custom JavaScript"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1367
+#@ cars
+msgid "write you custom js without script tag"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1373
+#@ cars
+msgid "Ads Unit"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1393
+#: include/theme-options/theme_options.php:1448
+#@ cars
+msgid "Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1395
+#@ cars
+msgid "Select a sidebar from the list already given. (Nine pre-made sidebars are given)"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1402
+#@ cars
+msgid "post layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1404
+#@ cars
+msgid "single post layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1408
+#@ cars
+msgid "Single Post Layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1410
+#@ cars
+msgid "Use this option to set default layout. It will be applied to all posts"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1415
+#: include/theme-options/theme_options.php:1443
+#@ cars
+msgid "full width"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1416
+#: include/theme-options/theme_options.php:1444
+#@ cars
+msgid "sidebar left"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1417
+#: include/theme-options/theme_options.php:1445
+#@ cars
+msgid "sidebar right"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1421
+#@ cars
+msgid "Single Layout Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1423
+#@ cars
+msgid "Select Single Post Layout of your choice for sidebar layout. You cannot select it for full width layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1430
+#: include/theme-options/theme_options.php:1432
+#@ cars
+msgid "default pages"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1436
+#@ cars
+msgid "Default Pages Layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1438
+#@ cars
+msgid "Set Sidebar for all pages like Search, Author Archive, Category Archive etc"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1450
+#@ cars
+msgid "Select pre-made sidebars for default pages on sidebar layout. Full width layout cannot have sidebars"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1456
+#@ cars
+msgid "Excerpt"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1458
+#@ cars
+msgid "Set excerpt length/limit from here. It controls text limit for post's content"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1469
+#@ cars
+msgid "Attention for External SEO Plugins!"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1471
+#@ cars
+msgid "  If you are using any external Seo plugin, Turn OFF these options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1475
+#@ cars
+msgid "Built-in SEO fields"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1477
+#@ cars
+msgid "Turn SEO options On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1482
+#@ cars
+msgid "Meta Description"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1484
+#@ cars
+msgid "HTML attributes that explain the contents of web pages commonly used on search engine result pages (SERPs) for pages snippets"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1490
+#@ cars
+msgid "Meta Keywords"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1492
+#@ cars
+msgid "Attributes of meta tags, a list of comma-separated words included in the HTML of a Web page that describe the topic of that page"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1500
+#: include/theme-options/theme_options.php:1507
+#@ cars
+msgid "Maintenance Mode"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1511
+#@ cars
+msgid "Maintenace Page"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1513
+#@ cars
+msgid "Users will see Maintenance page & logged in Admin will see normal site."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1518
+#@ cars
+msgid "Show Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1520
+#: include/theme-options/theme_options.php:1542
+#@ cars
+msgid "Show/Hide logo on Maintenance. Logo can be uploaded from General > Header in CS Theme options."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1525
+#@ cars
+msgid "Show Newsletter"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1532
+#@ cars
+msgid "Newsletter Text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1540
+#@ cars
+msgid "Show Social"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1547
+#@ cars
+msgid "Social Text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1555
+#@ cars
+msgid "Maintenance background Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1557
+#: include/theme-options/theme_options.php:1565
+#@ cars
+msgid "Upload your maintenance page logo in .png .jpg .gif formats only."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1563
+#@ cars
+msgid "Maintenance Page Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1571
+#@ cars
+msgid "Maintenance Text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1573
+#@ cars
+msgid "Text for Maintenance page. Insert some basic HTML or use shortcodes here."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1579
+#@ cars
+msgid "Launch Date"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1581
+#@ cars
+msgid "Estimated date for completion of site on Maintenance page."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1589
+#@ cars
+msgid "Api settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1597
+#@ cars
+msgid "All api settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1602
+#@ cars
+msgid "Attention for API Settings!"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1604
+#@ cars
+msgid "API Settings allows admin of the site to show their activity on site semi-automatically. Set your social account API once, it will be update your social activity automatically on your site."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1609
+#: include/theme-options/theme_options.php:1611
+#@ cars
+msgid "Mail Chimp"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1615
+#@ cars
+msgid "Mail Chimp Key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1616
+#@ cars
+msgid "Enter a valid Mail Chimp API key here to get started. Once you've done that, you can use the Mail Chimp Widget from the Widgets menu. You will need to have at least Mail Chimp list set up before the using the widget. You can get your mail chimp activation key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1617
+#@ cars
+msgid "Get your mailchimp key by <a href='https://login.mailchimp.com/' target='_blank'>Clicking Here </a>"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1623
+#@ cars
+msgid "Mail Chimp List"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1632
+#: include/theme-options/theme_options.php:1634
+#@ cars
+msgid "Flickr API Setting"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1638
+#@ cars
+msgid "Flickr key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1644
+#@ cars
+msgid "Flickr secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1656
+#@ cars
+msgid "Show Twitter"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1658
+#@ cars
+msgid "Turn Twitter option On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1663
+#@ cars
+msgid "Consumer Key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1670
+#@ cars
+msgid "Consumer Secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1672
+#@ cars
+msgid "Insert consumer key. To get your account key, <a href='https://dev.twitter.com/' target='_blank'>Click Here </a>"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1677
+#@ cars
+msgid "Access Token"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1679
+#@ cars
+msgid "Insert Twitter Access Token for permissions. When you create your Twitter App, you get this Token"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1684
+#@ cars
+msgid "Access Token Secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1686
+#@ cars
+msgid "Insert Twitter Access Token Secret here. When you create your Twitter App, you get this Token"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1693
+#: include/theme-options/theme_options.php:1700
+#@ cars
+msgid "import & export"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1704
+#@ cars
+msgid "Export"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1706
+#@ cars
+msgid "If you want to make changes in your site or want to preserve your current settings, Export them code by saving this code with you. You can restore your settings by pasting this code in Import section below"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1712
+#@ cars
+msgid "Import"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1714
+#@ cars
+msgid "To Import your settings, paste the code that you got in above area and saved it with you"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1236
+#@ cars
+msgid "Please enter the desired title of sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1240
+#@ cars
+msgid "Add Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1246
+#@ cars
+msgid "Already Added Sidebars"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1253
+#@ cars
+msgid "Sider Bar Name"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1254
+#@ cars
+msgid "Actions"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1302
+#@ cars
+msgid "Please enter text for icon"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1309
+#@ cars
+msgid "Please enter Full Url"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1334
+#@ cars
+msgid "FontAwesome Color"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1349
+#: include/theme-options/theme_options_fields.php:1573
+#@ cars
+msgid "Add"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1355
+#@ cars
+msgid "Already Added Social Icons"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1363
+#@ cars
+msgid "Network Name"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1365
+#@ cars
+msgid "Actions Icon"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1398
+#@ cars
+msgid "Please enter text for icon tooltip"
+msgstr ""
+
+#: page_contact_submit.php:43
+#@ cars
+msgid "IP Address:"
+msgstr ""
+
+#: searchform.php:9
+#@ cars
+msgid "Enter your search"
+msgstr ""
+
+#: single.php:81
+#@ cars
+msgid "Share Post"
+msgstr ""
+
+#: comments.php:52
+#@ cars
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:56
+#@ cars
+msgid "Website"
+msgstr ""
+
+#: comments.php:59
+#@ cars
+msgid "Enter Message"
+msgstr ""
+
+#: include/admin_functions.php:952
+#@ cars
+msgid "Enter Specific Video Url Youtube or Vimeo"
+msgstr ""
+
+#: include/admin_functions.php:961
+#@ cars
+msgid "Enter Specific Link"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:306
+#@ cars
+msgid "Seo Title"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:316
+#@ cars
+msgid "Seo Description"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:326
+#@ cars
+msgid "Seo Keywords"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:66
+#@ cars
+msgid "Edit Offer Slider Options"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:164
+#@ cars
+msgid "Read More Link"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:176
+#@ cars
+msgid "give the link title here"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:191
+#@ cars
+msgid "Add Offer"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:482
+#: include/shortcodes/frontend/services.php:90
+#@ cars
+msgid "Read More"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:104
+#@ cars
+msgid "Enter Your Name"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:106
+#@ cars
+msgid "Enter Name"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:111
+#@ cars
+msgid "Enter Your Email Address"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:118
+#@ cars
+msgid "Enter Subject"
+msgstr ""
+
+#: include/shortcodes/frontend/map.php:109
+#@ cars
+msgid "Driving"
+msgstr ""
+
+#: include/shortcodes/frontend/map.php:110
+#@ cars
+msgid "Walking"
+msgstr ""
+
+#: include/shortcodes/frontend/map.php:111
+#@ cars
+msgid "Bicycling"
+msgstr ""
+
+#: include/shortcodes/frontend/map.php:112
+#@ cars
+msgid "Transit"
+msgstr ""
+
+#: include/shortcodes/frontend/tweets.php:134
+#: include/shortcodes/frontend/tweets.php:138
+#@ cars
+msgid "No Tweets Found"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2265
+#@ cars
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:152
+#@ cars
+msgid "Importing demo data helps to build site like the demo site by all means. It is the quickest way to setup theme. Following things happen when dummy data is imported"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:154
+#@ cars
+msgid "All wordpress settings will remain same and intact"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:155
+#@ cars
+msgid "Posts, pages and dummy images shown in demo will be imported"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:156
+#@ cars
+msgid "Only dummy images will be imported as all demo images have copy right restriction"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:157
+#@ cars
+msgid "No existing posts, pages, categories, custom post types or any other data will be deleted or modified"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:158
+#@ cars
+msgid "To proceed, please click \"Import Demo Data\" and wait for a while"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:159
+#@ cars
+msgid "Before Import demo data please make sure your server has following Setting"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:162
+#@ cars
+msgid "post_max_size = 10M or Greater."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:163
+#@ cars
+msgid "upload_max_filesize = 10M or Greater."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:164
+#@ cars
+msgid "memory_limit = 128M or Greater"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:167
+#@ cars
+msgid "Your Current Setting"
+msgstr ""
+
+#: include/theme-components/cs-widgets/contactinfo.php:77
+#@ cars
+msgid "Address"
+msgstr ""
+
+#: include/theme-components/cs-widgets/contactinfo.php:82
+#@ cars
+msgid "Phone"
+msgstr ""
+
+#: include/theme-components/cs-widgets/contactinfo.php:89
+#@ cars
+msgid "Fax"
+msgstr ""
+
+#: include/theme-options/theme_options.php:362
+#@ cars
+msgid "Center Repeat"
+msgstr ""
+
+#: include/theme-options/theme_options.php:413
+#@ cars
+msgid "Language Settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:608
+#@ cars
+msgid "Need help?"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1452
+#@ cars
+msgid "Default Pages"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1536
+#@ cars
+msgid "Weekly Newsletter"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:641
+#@ cars
+msgid "Default Font"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:686
+#@ cars
+msgid "Select Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1515
+#: include/theme-options/theme_options_fields.php:1685
+#@ cars
+msgid "Code"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1546
+#: include/theme-options/theme_options_fields.php:1722
+#@ cars
+msgid "Please enter Banner Url"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1553
+#@ cars
+msgid "Please selct Banner Link Target"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1563
+#: include/theme-options/theme_options_fields.php:1737
+#@ cars
+msgid "Ad sense Code"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1563
+#: include/theme-options/theme_options_fields.php:1741
+#@ cars
+msgid "Please enter Banner Ad sense Code"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1579
+#@ cars
+msgid "Already Added Banners"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1589
+#@ cars
+msgid "Clicks"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1590
+#@ cars
+msgid "Shortcode"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1637
+#@ cars
+msgid "Custom Code"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1668
+#@ cars
+msgid "Please enter Banner Style"
+msgstr ""
+

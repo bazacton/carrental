@@ -1,0 +1,5216 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: car-rental\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-21 11:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: include/theme-options/theme_options.php:1389
+msgid "  If you are using any external Seo plugin, Turn OFF these options"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:119
+msgid " Subject"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:55
+#: cs-templates/blog-styles/blog-masonry.php:55
+msgid "%"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:146
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. 1: plugin name.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:509
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:73
+msgid "-- Select Category --"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:55
+#: cs-templates/blog-styles/blog-masonry.php:55
+msgid "0"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:55
+#: cs-templates/blog-styles/blog-masonry.php:55
+msgid "1"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:736
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: functions.php:864
+#, php-format
+msgid ""
+"<p>Ready to publish your first post? <a href=\"%1$s\">Get Started Here</a>."
+"</p>"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:290
+msgid "About"
+msgstr ""
+
+#: include/theme-options/theme_options.php:182
+msgid "About Us Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1624
+msgid "Access Token"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1631
+msgid "Access Token Secret"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1843
+#: include/shortcodes/admin/accordion.php:169
+msgid "Accordion"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:213
+msgid "Accordion Text"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1879
+msgid "Accordion Text:"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:189
+msgid "Accordion Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1858
+msgid "Accordion Title:"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1521
+msgid "Actions"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1631
+msgid "Actions Icon"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1847
+#: include/shortcodes/admin_functions.php:1900
+#: include/shortcodes/admin_functions.php:1986
+#: include/shortcodes/admin/accordion.php:173
+#: include/shortcodes/admin/faq.php:126 include/shortcodes/admin/tabs.php:111
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1828
+#: include/theme-options/theme_options_fields.php:1999
+msgid "Ad sense Code"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:129
+msgid "Adapt width"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1615
+#: include/theme-options/theme_options_fields.php:1838
+msgid "Add"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:103
+msgid "add a email which you want to receive email"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:95
+msgid "Add a width in pix, If you want to override the default"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:237
+msgid "Add accordion"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:204
+msgid "Add Client"
+msgstr ""
+
+#: include/admin_functions.php:217 include/admin_functions.php:256
+#: include/shortcodes/admin_functions.php:1476
+msgid "Add Element"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:176
+msgid "Add Faq"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:133
+msgid "add font size number for the heading"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:697
+msgid "Add Gallery"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:137 include/metaboxes/post_meta.php:193
+msgid "Add Gallery Images"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:196
+msgid "Add Item"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:167
+msgid "Add List Item"
+msgstr ""
+
+#: include/shortcodes/admin/multi-deals.php:197
+msgid "Add Multiple deals"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:362
+msgid "Add Multiple service"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:247
+msgid "Add New Feature input box"
+msgstr ""
+
+#: include/admin_functions.php:659 include/admin_functions.php:678
+#: include/metaboxes/general-settings.php:316
+#: include/metaboxes/general-settings.php:341
+msgid "Add New Sidebar"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:191
+msgid "Add Offer"
+msgstr ""
+
+#: include/page_builder.php:50
+msgid "Add Page Sections"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:151
+msgid "Add Progress bar"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1507
+msgid "Add Sidebar"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:171
+msgid "Add Tab"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:191
+msgid "Add testimonials"
+msgstr ""
+
+#: include/theme-components/cs-widgets/contactinfo.php:81
+msgid "Address"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1961
+msgid "Administrator"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1291
+msgid "Ads Unit"
+msgstr ""
+
+#: include/theme-options/theme_options.php:266
+#: include/theme-options/theme_options.php:1295
+msgid "Ads Unit Settings"
+msgstr ""
+
+#: include/admin_functions.php:1412
+msgid "Adsense Code"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2287
+msgid "Album Item(s)"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:138
+#: include/shortcodes/admin/quote.php:111
+#: include/shortcodes/admin/testimonial.php:84
+msgid "Align"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:146
+#: include/shortcodes/admin/quote.php:119
+msgid "Align the content position"
+msgstr ""
+
+#: include/theme-components/cs-widgets/recentposts.php:44
+msgid "All"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1515
+msgid "All api settings"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: dashboard link.
+#: functions.php:299
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: footer.php:47
+msgid "All rights reserved"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:95
+msgid "alphabetic"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1844
+msgid "Already Added Banners"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1513
+msgid "Already Added Sidebars"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1621
+msgid "Already Added Social Icons"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:92
+msgid "An error Occured, please try again later."
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1609
+#: include/shortcodes/admin_functions.php:1612
+#: include/shortcodes/admin_functions.php:1651
+#: include/shortcodes/admin_functions.php:1820
+#: include/shortcodes/admin/accordion.php:121
+msgid "Animation Class"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1507
+msgid "Api settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1522
+msgid ""
+"API Settings allows admin of the site to show their activity on site semi-"
+"automatically. Set your social account API once, it will be update your "
+"social activity automatically on your site."
+msgstr ""
+
+#: functions.php:823 functions.php:826 functions.php:840
+msgid "Archives"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:111
+msgid "Asc"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1520
+msgid "Attention for API Settings!"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1387
+msgid "Attention for External SEO Plugins!"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1410
+msgid ""
+"Attributes of meta tags, a list of comma-separated words included in the "
+"HTML of a Web page that describe the topic of that page"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:158
+msgid "Audio"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:215
+msgid "Audio Url"
+msgstr ""
+
+#: functions.php:823 include/shortcodes/admin_functions.php:290
+#: include/shortcodes/admin_functions.php:1959
+#: include/shortcodes/admin_functions.php:2046
+#: include/shortcodes/admin/quote.php:82
+#: include/shortcodes/admin/testimonial.php:136
+msgid "Author"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:91
+msgid "Author Url"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:86
+msgid "Back to Top"
+msgstr ""
+
+#: include/admin_functions.php:517 include/metaboxes/page_meta.php:140
+#: include/shortcodes/admin_functions.php:2155
+#: include/shortcodes/admin_functions.php:2324
+#: include/shortcodes/admin_functions.php:2396
+#: include/theme-options/theme_options.php:789
+#: include/theme-options/theme_options.php:819
+#: include/shortcodes/admin/call-to-action.php:144
+#: include/shortcodes/admin/clients.php:152
+#: include/shortcodes/admin/flex-column.php:120
+#: include/shortcodes/admin/infobox.php:94
+#: include/shortcodes/admin/mailchimp.php:102
+#: include/shortcodes/admin/multi-services.php:168
+#: include/shortcodes/admin/promobox.php:139
+#: include/theme-components/cs-widgets/facebook.php:65
+msgid "Background Color"
+msgstr ""
+
+#: include/admin_functions.php:358 include/admin_functions.php:369
+#: include/metaboxes/page_meta.php:130
+#: include/shortcodes/admin_functions.php:2060
+#: include/shortcodes/admin/call-to-action.php:121
+#: include/shortcodes/admin/deals.php:120
+#: include/shortcodes/admin/flex-column.php:78
+#: include/shortcodes/admin/price-table.php:143
+#: include/shortcodes/admin/promobox.php:86
+msgid "Background Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:337
+msgid "Background image"
+msgstr ""
+
+#: include/admin_functions.php:391 include/admin_functions.php:408
+msgid "Background Image Position"
+msgstr ""
+
+#: include/theme-options/theme_options.php:372
+msgid "Background image position"
+msgstr ""
+
+#: include/theme-options/theme_options.php:350
+msgid "Background pattern"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:112
+msgid "Background Repeat"
+msgstr ""
+
+#: include/admin_functions.php:351
+msgid "Background View"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1668
+#: include/theme-options/theme_options.php:1670
+msgid "Backup"
+msgstr ""
+
+#: include/theme-options/theme_options_functions.php:59
+msgid "Backup Generated."
+msgstr ""
+
+#: include/admin_functions.php:1342
+#: include/theme-options/theme_options_fields.php:1763
+#: include/theme-options/theme_options_fields.php:1930
+msgid "Banner Style"
+msgstr ""
+
+#: include/admin_functions.php:1355
+#: include/theme-options/theme_options_fields.php:1775
+#: include/theme-options/theme_options_fields.php:1942
+msgid "Banner Type"
+msgstr ""
+
+#: functions.php:291
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:285
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:288
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/shortcodes/frontend/map(09-01-2016).php:116
+#: include/shortcodes/frontend/map(castle-carrent).php:114
+#: include/shortcodes/frontend/map.php:110
+msgid "Bicycling"
+msgstr ""
+
+#: include/admin_functions.php:1406
+#: include/theme-options/theme_options_fields.php:1823
+#: include/theme-options/theme_options_fields.php:1993
+#: include/shortcodes/admin/button.php:174
+msgid "Blank"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1209
+msgid "Blog"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:85
+msgid "Blog Design Views"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:92
+msgid "Blog Large"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:91
+msgid "Blog Listing"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:93
+msgid "Blog Slider"
+msgstr ""
+
+#: include/theme-options/theme_options.php:178
+msgid "Blogs Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:797
+msgid "Body Text Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:576
+#: include/theme-options/theme_options.php:580
+msgid "Booking"
+msgstr ""
+
+#: include/theme-options/theme_options.php:583
+#: include/theme-options/theme_options.php:605
+msgid "Booking link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:598
+msgid "Booking Number"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1776
+#: include/shortcodes/admin/button.php:100
+#: include/shortcodes/admin/clients.php:96 include/shortcodes/admin/map.php:245
+msgid "Border"
+msgstr ""
+
+#: include/admin_functions.php:587 include/shortcodes/admin/list.php:105
+msgid "Border Bottom"
+msgstr ""
+
+#: include/admin_functions.php:599 include/metaboxes/general-settings.php:117
+#: include/theme-options/theme_options.php:685
+#: include/shortcodes/admin/button.php:111
+#: include/shortcodes/admin/counters.php:172
+#: include/shortcodes/admin/map.php:257
+msgid "Border Color"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:183
+msgid "Border Frame"
+msgstr ""
+
+#: include/admin_functions.php:575
+msgid "Border Top"
+msgstr ""
+
+#: include/theme-options/theme_options.php:169
+msgid "Both"
+msgstr ""
+
+#: include/admin_functions.php:1347
+#: include/theme-options/theme_options_fields.php:1768
+#: include/theme-options/theme_options_fields.php:1935
+msgid "Bottom Banner"
+msgstr ""
+
+#: include/admin_functions.php:508
+msgid "Box"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:100
+#: include/shortcodes/admin/price-table.php:105
+#: include/shortcodes/admin/services.php:100
+msgid "box"
+msgstr ""
+
+#: include/theme-options/theme_options.php:321
+msgid "Boxed"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:71
+#: include/theme-options/theme_options.php:670
+msgid "Breadcrumbs"
+msgstr ""
+
+#: include/theme-options/theme_options.php:194
+#: include/theme-options/theme_options.php:623
+msgid "Breadcrumbs Sub Header"
+msgstr ""
+
+#: include/admin_functions.php:373 include/admin_functions.php:446
+#: include/admin_functions.php:1099 include/admin_functions.php:1373
+#: include/shortcodes/admin_functions.php:1752
+#: include/shortcodes/admin_functions.php:2064
+#: include/shortcodes/admin_functions.php:2136
+#: include/shortcodes/admin_functions.php:2342
+#: include/shortcodes/admin_functions.php:2495
+#: include/shortcodes/admin_functions.php:2635
+#: include/shortcodes/admin_functions.php:2692
+#: include/shortcodes/admin_functions.php:2767
+#: include/theme-options/theme_options_fields.php:1369
+#: include/theme-options/theme_options_fields.php:1421
+#: include/theme-options/theme_options_fields.php:1444
+#: include/theme-options/theme_options_fields.php:1488
+#: include/theme-options/theme_options_fields.php:1588
+#: include/theme-options/theme_options_fields.php:1680
+#: include/theme-options/theme_options_fields.php:1792
+#: include/theme-options/theme_options_fields.php:1960
+#: include/metaboxes/classes/cs_meta_fields_render.php:502
+#: include/metaboxes/classes/cs_meta_fields_render.php:852
+#: include/shortcodes/admin/call-to-action.php:125
+#: include/shortcodes/admin/clients.php:177
+#: include/shortcodes/admin/deals.php:124
+#: include/shortcodes/admin/flex-column.php:84
+#: include/shortcodes/admin/image-frame.php:89
+#: include/shortcodes/admin/map.php:179
+#: include/shortcodes/admin/multi-deals.php:169
+#: include/shortcodes/admin/multi-services.php:277
+#: include/shortcodes/admin/price-table.php:147
+#: include/shortcodes/admin/promobox.php:90
+#: include/shortcodes/admin/services.php:118
+#: include/shortcodes/admin/slider.php:129 include/shortcodes/admin/team.php:99
+#: include/shortcodes/admin/testimonial.php:163
+#: include/theme-components/cs-widgets/contactinfo.php:59
+msgid "Browse"
+msgstr ""
+
+#: include/shortcodes/admin/flex-column.php:86
+#: include/shortcodes/admin/image-frame.php:91
+msgid "Browse the image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1393
+msgid "Built-in SEO fields"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:93
+msgid "Bullet"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1215
+msgid "Button"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2551
+#: include/shortcodes/admin/button.php:119
+#: include/shortcodes/admin/multi-services.php:335
+#: include/shortcodes/admin/price-table.php:236
+msgid "Button Background Color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2177
+#: include/shortcodes/admin/button.php:127
+msgid "Button Color"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:95
+msgid "Button external/internal url"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:145
+msgid "Button Icon Position"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2543
+#: include/shortcodes/admin/button.php:91
+#: include/shortcodes/admin/call-to-action.php:162
+#: include/shortcodes/admin/multi-services.php:326
+#: include/shortcodes/admin/price-table.php:225
+#: include/shortcodes/admin/services.php:183
+msgid "Button Link"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:166
+msgid "Button link"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2529
+#: include/shortcodes/admin/call-to-action.php:153
+#: include/shortcodes/admin/multi-services.php:311
+#: include/shortcodes/admin/price-table.php:211
+#: include/shortcodes/admin/services.php:172
+msgid "Button Text"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2559
+#: include/shortcodes/admin/multi-services.php:343
+msgid "Button Text Color"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:218
+msgid "button text color"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:83
+msgid "Button Title"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:157
+msgid "Button Type"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:51
+#: cs-templates/blog-styles/blog-masonry.php:51
+msgid "by"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1580
+msgid "Cache Time Limit"
+msgstr ""
+
+#. Translation
+#: include/shortcodes/config.php:61
+msgid "Call To Action"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1251
+msgid "Call to Action"
+msgstr ""
+
+#: comments.php:71
+msgid "Cancel reply"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:123
+msgid "Caption"
+msgstr ""
+
+#: include/theme-options/theme_options.php:188
+msgid "Car Listing"
+msgstr ""
+
+#. Name of the theme
+msgid "car-rental"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Car-Rental is the online vehicle booking WordPress theme specially design "
+"for Cars/Vans booking and all kind of vehicles booking. Car Rental theme "
+"offers tremendous features to book vehicle online with guaranteed services "
+"and incredible payment procedures, its stunning features allow user to find "
+"out available vehicles. User can also change the parameters of the vehicles "
+"selection in the middle of the booking with its awesome Ajax features. Car-"
+"Rental WordPress theme is best system for rental. The theme comes wrapped "
+"with Revolution Slider Plugin. Just download the theme, extract the "
+"Revolution Slider and it’s ready to use with the theme. Another stunning "
+"feature is built in SEO compatibility. Theme is fully compatible with latest "
+"SEO techniques. Theme is flexible enough to add any color or background "
+"color as you like. Also, this theme can be translated in any language of "
+"your choice from back end option or by WPML plugin."
+msgstr ""
+
+#: include/theme-options/theme_options.php:541
+msgid "Cart Count"
+msgstr ""
+
+#: include/shortcodes/frontend/sitemap.php:88
+msgid "Categories"
+msgstr ""
+
+#: include/theme-options/theme_options.php:169
+msgid "Celsius"
+msgstr ""
+
+#: include/admin_functions.php:400 include/shortcodes/admin_functions.php:1733
+#: include/shortcodes/admin/heading.php:143
+msgid "Center"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:117
+msgid "center"
+msgstr ""
+
+#: include/theme-options/theme_options.php:376
+msgid "Center Repeat"
+msgstr ""
+
+#: include/theme-options/theme_options.php:821
+msgid "Change Header background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:845
+msgid "Change Header Menu Active Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:837
+msgid "Change Header Menu Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:829
+msgid "Change Header Navigation Background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:854
+msgid "Change Submenu Background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:870
+msgid "Change Submenu Hover Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:862
+msgid "Change Submenu Link color"
+msgstr ""
+
+#. Author of the theme
+msgid "ChimpStudio"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2424
+#: include/shortcodes/admin/multi-services.php:194
+msgid "Choose"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2434
+#: include/shortcodes/admin/multi-services.php:202
+msgid "Choose a icon/image type form the dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:104
+#: include/shortcodes/admin/price-table.php:114
+#: include/shortcodes/admin/price-table.php:194
+#: include/shortcodes/admin/services.php:105
+msgid "choose a style type for accordion element"
+msgstr ""
+
+#: include/theme-options/theme_options.php:791
+msgid "Choose Body Background Color"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:67
+msgid "Choose Category"
+msgstr ""
+
+#: include/theme-options/theme_options.php:339
+msgid "Choose from Predefined Background images."
+msgstr ""
+
+#: include/theme-options/theme_options.php:352
+msgid "Choose from Predefined Pattern images."
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2106
+msgid "Choose Icon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:374
+msgid "Choose image position for body background"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:292
+msgid "Choose Sidebar"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:32
+msgid "Choose Sub-header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:799
+msgid "Choose text color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:783
+msgid "Choose theme skin color"
+msgstr ""
+
+#: include/shortcodes/admin/revolution-slider.php:85
+msgid "Chose Slider"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1713
+#: include/shortcodes/admin_functions.php:1741
+msgid "Circle"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:118
+msgid "Class"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:97
+#: include/shortcodes/admin/table.php:118
+msgid "Classic"
+msgstr ""
+
+#: include/admin_functions.php:659 include/admin_functions.php:678
+#: include/metaboxes/general-settings.php:316
+#: include/metaboxes/general-settings.php:341
+msgid "Click Here"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1854
+msgid "Clicks"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2312
+msgid "Client"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2338
+#: include/shortcodes/admin/clients.php:173
+msgid "Client Logo"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1221
+#: include/shortcodes/admin/clients.php:140
+msgid "Clients"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1780
+#: include/theme-options/theme_options_fields.php:1947
+msgid "Code"
+msgstr ""
+
+#: include/theme-options/theme_options.php:270
+msgid "color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1245
+msgid "Column"
+msgstr ""
+
+#: include/shortcodes/admin/flex-column.php:140
+msgid "Column Text"
+msgstr ""
+
+#: cs-templates/blog-styles/blog-grid-plain.php:52
+#: cs-templates/blog-styles/blog-masonry.php:52
+msgid "Comments"
+msgstr ""
+
+#: include/admin_functions.php:81
+msgid "Common Elements"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:146
+msgid "Company"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2055
+#: include/shortcodes/admin/testimonial.php:153
+msgid "Company Name"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2052
+msgid "Company:"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1610
+msgid "Consumer Key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1617
+msgid "Consumer Secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:179
+msgid "Contact"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:43
+msgid "Contact Email:"
+msgstr ""
+
+#: include/shortcodes/config.php:62
+msgid "Contactus"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1089
+#: include/shortcodes/admin/contactus.php:78
+#: include/shortcodes/admin/heading.php:98
+#: include/shortcodes/admin/services.php:155
+msgid "Content"
+msgstr ""
+
+#: include/admin_functions.php:81
+msgid "Content Blocks"
+msgstr ""
+
+#: include/shortcodes/admin/flex-column.php:109
+#: include/shortcodes/admin/heading.php:176
+#: include/shortcodes/admin/promobox.php:156
+#: include/shortcodes/admin/services.php:164
+msgid "Content Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1019
+msgid "Content Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1027
+msgid "Content Font Attribute"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2796
+#: include/shortcodes/admin/promobox.php:147
+#: include/shortcodes/admin/slider.php:155
+msgid "Contents"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1958
+msgid "Contributor"
+msgstr ""
+
+#: include/theme-options/theme_options.php:760
+#: include/theme-options/theme_options.php:915
+msgid "Copyright Text"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2164
+msgid "Count Text Color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1233
+#: include/shortcodes/admin_functions.php:2086
+msgid "Counter"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2099
+msgid "Counter Style Four"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2096
+msgid "Counter Style One"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2098
+msgid "Counter Style Three"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2097
+msgid "Counter Style Two"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2088
+msgid "Counter Title"
+msgstr ""
+
+#. Base ID
+#: include/theme-components/cs-widgets/cs_contact.php:20
+msgid "CS : Contact Form"
+msgstr ""
+
+#. Base ID
+#: include/theme-components/cs-widgets/contactinfo.php:25
+msgid "CS : Contact info"
+msgstr ""
+
+#. Base ID
+#: include/theme-components/cs-widgets/facebook.php:21
+msgid "CS : Facebook"
+msgstr ""
+
+#. Base ID
+#: include/theme-components/cs-widgets/cs_flickr.php:26
+msgid "CS : Flickr Gallery"
+msgstr ""
+
+#. Base ID
+#: include/theme-components/cs-widgets/social_network.php:26
+msgid "CS : Social Newtork"
+msgstr ""
+
+#: include/page_builder.php:10
+msgid "CS Page Builder"
+msgstr ""
+
+#: functions.php:541
+msgid "CS Theme Option"
+msgstr ""
+
+#: include/admin_functions.php:251 include/shortcodes/admin_functions.php:1518
+msgid "CS: Insert shortcode"
+msgstr ""
+
+#. Base ID
+#: include/theme-components/cs-widgets/recentposts.php:20
+msgid "CS: Mail Chimp"
+msgstr ""
+
+#. Base ID
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:26
+msgid "CS: Twitter Widget"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2610
+#: include/shortcodes/admin/multi-deals.php:144
+msgid "Currency Sign"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:167
+#: include/shortcodes/admin/price-table.php:200
+msgid "Currency Symbols"
+msgstr ""
+
+#: functions.php:2243
+msgid "Current Page"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1900
+msgid "Custom Code"
+msgstr ""
+
+#: include/theme-options/theme_options.php:265
+#: include/theme-options/theme_options.php:1271
+msgid "custom code"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1275
+msgid "Custom Css"
+msgstr ""
+
+#: include/theme-options/theme_options.php:391
+msgid "Custom favicon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:393
+msgid "Custom favicon for your site"
+msgstr ""
+
+#: include/theme-options/theme_options.php:288
+#: include/theme-options/theme_options.php:977
+msgid "Custom Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1006
+msgid "Custom Font .eot"
+msgstr ""
+
+#: include/theme-options/theme_options.php:998
+msgid "Custom Font .svg"
+msgstr ""
+
+#: include/theme-options/theme_options.php:990
+msgid "Custom Font .ttf"
+msgstr ""
+
+#: include/theme-options/theme_options.php:982
+msgid "Custom Font .woff"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1008
+msgid "Custom font for your site upload .eot format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1000
+msgid "Custom font for your site upload .svg format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:992
+msgid "Custom font for your site upload .ttf format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:984
+msgid "Custom font for your site upload .woff format file."
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:198
+#: include/shortcodes/admin/faq.php:91
+#: include/shortcodes/admin/progressbar.php:88
+#: include/shortcodes/admin/services.php:191
+msgid "Custom ID"
+msgstr ""
+
+#: include/admin_functions.php:609 include/shortcodes/admin_functions.php:1601
+#: include/shortcodes/admin_functions.php:1643
+#: include/shortcodes/admin_functions.php:1814
+#: include/shortcodes/admin_functions.php:2185
+#: include/shortcodes/admin/accordion.php:110
+#: include/shortcodes/admin/call-to-action.php:171
+#: include/shortcodes/admin/clients.php:117
+msgid "Custom Id"
+msgstr ""
+
+#: include/theme-options/theme_options.php:363
+msgid "Custom image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1283
+msgid "Custom JavaScript"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:182
+msgid "Custom Map Short Code"
+msgstr ""
+
+#: include/admin_functions.php:359 include/admin_functions.php:428
+msgid "Custom Slider"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:39
+msgid "Custom Subheader"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1957
+msgid "Customer"
+msgstr ""
+
+#: functions.php:830
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1594
+msgid "Date Time Formate"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:94
+msgid "Decimal"
+msgstr ""
+
+#: include/theme-options/theme_options.php:619
+msgid "Default"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:99
+#: include/shortcodes/admin/price-table.php:109
+#: include/shortcodes/admin/services.php:98
+msgid "default"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:866
+msgid "Default Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:187
+msgid "Default page sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1370
+msgid "Default Pages"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1348
+#: include/theme-options/theme_options.php:1350
+msgid "default pages"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1354
+msgid "Default Pages Layout"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:39
+msgid "Default Subheader"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:362
+#: include/theme-options/theme_options_fields.php:437
+#: include/metaboxes/classes/cs_meta_fields_render.php:747
+#: include/metaboxes/classes/cs_meta_fields_render.php:747
+msgid "Delete"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:736
+msgid "Delete image"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:112
+msgid "DESC"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:84
+msgid "Designation"
+msgstr ""
+
+#: include/shortcodes/frontend/map(09-01-2016).php:105
+#: include/shortcodes/frontend/map(castle-carrent).php:103
+#: include/shortcodes/frontend/map.php:99
+msgid "Directions"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:210
+msgid "Disable Map Controls"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1603
+msgid "Displays 06 Nov"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1604
+msgid "Displays 06 Nov 2012"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1602
+msgid "Displays 6th November"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1606
+msgid "Displays in hours, minutes etc"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1601
+msgid "Displays November 06 2012"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1605
+msgid "Displays Tues 06 Nov 2012"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1239
+#: include/shortcodes/admin_functions.php:1793
+msgid "Divider"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:360
+#: include/theme-options/theme_options_fields.php:435
+msgid "Download"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:222
+msgid "Drag able"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1235
+msgid "Dribbble"
+msgstr ""
+
+#: include/shortcodes/frontend/map(09-01-2016).php:114
+#: include/shortcodes/frontend/map(castle-carrent).php:112
+#: include/shortcodes/frontend/map.php:108
+msgid "Driving"
+msgstr ""
+
+#: functions.php:1957 include/shortcodes/admin_functions.php:341
+msgid "Edit"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:74
+msgid "Edit Accordion Options"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:52
+msgid "Edit Blog Options"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:64
+msgid "Edit Button Options"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:75
+msgid "Edit Call To Action Options"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:68
+msgid "Edit Clients Options"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:62
+msgid "Edit Contact Form Options"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:84
+msgid "Edit Counter Options"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:67
+msgid "Edit Divider Option"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:73
+msgid "Edit Faq Options"
+msgstr ""
+
+#: include/shortcodes/admin/flex-column.php:66
+msgid "Edit Flex Column Options"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:72
+msgid "Edit Heading Options"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:70
+msgid "Edit Image Options"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:68
+msgid "Edit Infobox Options"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:67
+msgid "Edit List Style Options"
+msgstr ""
+
+#: include/shortcodes/admin/mailchimp.php:71
+msgid "Edit Mail Chimp Options"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:75
+msgid "Edit Map Options"
+msgstr ""
+
+#: include/shortcodes/admin/multi-deals.php:59
+msgid "Edit Multiple deals Options"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:59
+msgid "Edit Multiple services Options"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:66
+msgid "Edit Offer Slider Options"
+msgstr ""
+
+#: include/admin_functions.php:832 include/admin_functions.php:921
+msgid "Edit Options"
+msgstr ""
+
+#: include/admin_functions.php:345
+msgid "Edit Page Section"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:85
+#: include/shortcodes/admin/price-table.php:86
+msgid "Edit Price Table Options"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:66
+msgid "Edit Progress bars Options"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:72
+msgid "Edit Promo Box Options"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:63
+msgid "Edit Quote Options"
+msgstr ""
+
+#: include/shortcodes/admin/services.php:86
+msgid "Edit Services Options"
+msgstr ""
+
+#: include/shortcodes/admin/sitemap.php:49
+msgid "Edit Site Map Options"
+msgstr ""
+
+#: include/shortcodes/admin/revolution-slider.php:66
+msgid "Edit Slider Options"
+msgstr ""
+
+#: include/shortcodes/admin/spacer.php:49
+msgid "Edit Spacer Options"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:94
+msgid "Edit Table Options"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:67
+msgid "Edit Tabs Options"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:63
+msgid "Edit Team Options"
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:60
+msgid "Edit Testimonials Options"
+msgstr ""
+
+#: include/shortcodes/admin/tweets.php:53
+msgid "Edit Twitter Options"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:61
+msgid "Edit Video Options"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1960
+msgid "Editor"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:157
+#: include/shortcodes/frontend/contactus.php:112
+#: include/theme-components/cs-widgets/contactinfo.php:100
+#: include/theme-components/cs-widgets/cs_contact.php:137
+msgid "Email"
+msgstr ""
+
+#: comments.php:52
+msgid "Email Address"
+msgstr ""
+
+#: include/admin_functions.php:456
+msgid "Enable Mute"
+msgstr ""
+
+#: include/admin_functions.php:487
+msgid "Enable Parallax"
+msgstr ""
+
+#: include/theme-options/theme_options.php:702
+msgid "enable/disable footer area"
+msgstr ""
+
+#: include/theme-options/theme_options.php:709
+msgid "enable/disable footer widget area"
+msgstr ""
+
+#: include/theme-options/theme_options.php:543
+msgid "Enable/Disable Woocommerce Cart Count"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:157
+msgid "enter a sub title for the counter"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1534
+msgid ""
+"Enter a valid Mail Chimp API key here to get started. Once you've done that, "
+"you can use the Mail Chimp Widget from the Widgets menu. You will need to "
+"have at least Mail Chimp list set up before the using the widget. You can "
+"get your mail chimp activation key"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1864
+#: include/shortcodes/admin/accordion.php:195
+msgid "Enter accordion title"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:104
+#: include/shortcodes/admin/mailchimp.php:122
+#: include/shortcodes/admin/promobox.php:151
+msgid "Enter content here"
+msgstr ""
+
+#: include/shortcodes/frontend/map(09-01-2016).php:111
+#: include/shortcodes/frontend/map(castle-carrent).php:109
+#: include/shortcodes/frontend/map.php:105
+msgid "Enter Location"
+msgstr ""
+
+#: comments.php:59 functions.php:18
+msgid "Enter Message"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:105
+msgid "Enter Name"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:143
+msgid "Enter number of character for short description text."
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:106
+msgid "Enter short detail about your call to action content"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:219
+msgid "Enter Specific Audio Url"
+msgstr ""
+
+#: include/admin_functions.php:961
+msgid "Enter Specific Link"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:243
+msgid ""
+"Enter Specific Video Url (Youtube, Vimeo and Dailymotion) OR you can select "
+"it from your media library"
+msgstr ""
+
+#: include/admin_functions.php:952
+msgid "Enter Specific Video Url Youtube or Vimeo"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:117
+msgid "Enter Subject"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2023
+#: include/shortcodes/admin/tabs.php:155
+msgid "Enter tab body content here"
+msgstr ""
+
+#: include/shortcodes/admin/services.php:159
+#: include/shortcodes/admin/table.php:131
+msgid "Enter the content"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:152
+msgid "Enter the marker content"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1885
+#: include/shortcodes/admin_functions.php:2522
+#: include/shortcodes/admin_functions.php:2595
+#: include/shortcodes/admin_functions.php:2716
+#: include/shortcodes/admin/accordion.php:219
+#: include/shortcodes/admin/flex-column.php:144
+#: include/shortcodes/admin/multi-deals.php:129
+#: include/shortcodes/admin/multi-services.php:303
+#: include/shortcodes/admin/quote.php:128
+#: include/shortcodes/admin/slider.php:159
+msgid "Enter your content"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:110
+msgid "Enter Your Email Address"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:103
+msgid "Enter Your Name"
+msgstr ""
+
+#: searchform.php:9
+msgid "Enter your search"
+msgstr ""
+
+#: functions.php:836
+msgid "Error 404"
+msgstr ""
+
+#: include/theme-options/theme_options_functions.php:100
+msgid "Error Deleting file!"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:117
+msgid "Error Message"
+msgstr ""
+
+#: include/theme-options/theme_options_functions.php:155
+#: include/theme-options/theme_options_functions.php:173
+msgid "Error Restoring file!"
+msgstr ""
+
+#: include/theme-options/theme_options_functions.php:57
+msgid "Error saving file!"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1499
+msgid "Estimated date for completion of site on Maintenance page."
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1406
+msgid "Events"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1374
+msgid "Excerpt"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:334
+msgid "Export Options"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:445
+msgid "Export Widgets"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2482
+#: include/shortcodes/admin/counters.php:132
+#: include/shortcodes/admin/multi-services.php:256
+msgid "Extra Large"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1207
+#: include/shortcodes/admin/team.php:117
+msgid "Facebook"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:22
+msgid "Facebook widget like box total customized with theme."
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2659
+msgid "Facilities"
+msgstr ""
+
+#: include/theme-options/theme_options.php:169
+msgid "Fahrenheit"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:78
+#: include/shortcodes/admin/heading.php:119
+msgid "Fancy"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:79
+msgid "Fancy Large"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1383
+#: include/shortcodes/admin_functions.php:1896
+#: include/shortcodes/admin/faq.php:121
+msgid "FAQ"
+msgstr ""
+
+#: include/shortcodes/config.php:63
+msgid "Faq"
+msgstr ""
+
+#: include/theme-options/theme_options.php:181
+msgid "Faq Sidebar"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:155
+msgid "Faq Text"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1922
+msgid "Faq Text:"
+msgstr ""
+
+#: include/shortcodes/admin/faq.php:137
+msgid "Faq Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1908
+msgid "Faq Title:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/contactinfo.php:93
+msgid "Fax"
+msgstr ""
+
+#: functions.php:806
+msgid "Featured"
+msgstr ""
+
+#: search.php:46 include/shortcodes/admin/price-table.php:179
+msgid "Featured:"
+msgstr ""
+
+#: include/theme-options/theme_options_functions.php:98
+#, php-format
+msgid "File '%s' Deleted Successfully"
+msgstr ""
+
+#: include/theme-options/theme_options_functions.php:171
+#, php-format
+msgid "File '%s' Restore Successfully"
+msgstr ""
+
+#: include/theme-options/theme_options_functions.php:153
+msgid "File Import Successfully"
+msgstr ""
+
+#: include/admin_functions.php:228 include/shortcodes/admin_functions.php:1490
+msgid "Filter by"
+msgstr ""
+
+#: include/shortcodes/config.php:64
+msgid "Flex Column"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1550
+#: include/theme-options/theme_options.php:1552
+msgid "Flickr API Setting"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1556
+msgid "Flickr key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1562
+msgid "Flickr secret"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:48
+msgid "Flickr username"
+msgstr ""
+
+#: include/admin_functions.php:1113
+#: include/theme-options/theme_options_fields.php:1695
+msgid "Font Awesome Color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1721
+#: include/shortcodes/admin_functions.php:1869
+#: include/shortcodes/admin_functions.php:1916
+#: include/shortcodes/admin_functions.php:2008
+#: include/shortcodes/admin/list.php:147
+msgid "Font awsome Icon:"
+msgstr ""
+
+#: include/theme-options/theme_options.php:289
+#: include/theme-options/theme_options.php:1015
+msgid "font family"
+msgstr ""
+
+#: include/theme-options/theme_options.php:290
+#: include/shortcodes/admin/heading.php:126
+msgid "Font Size"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1084
+msgid "Font size"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:152
+msgid "Font Style"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1600
+msgid "FontAwesome Color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2466
+#: include/shortcodes/admin/multi-services.php:263
+msgid "Fontawsome Color"
+msgstr ""
+
+#: include/admin_functions.php:1105 include/shortcodes/admin_functions.php:2119
+#: include/shortcodes/admin_functions.php:2228
+#: include/shortcodes/admin_functions.php:2246
+#: include/theme-options/theme_options_fields.php:1593
+#: include/theme-options/theme_options_fields.php:1687
+#: include/shortcodes/admin/button.php:136
+#: include/shortcodes/admin/counters.php:104
+msgid "Fontawsome Icon"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2455
+#: include/shortcodes/admin/multi-services.php:221
+msgid "Fontawsome Icon:"
+msgstr ""
+
+#: include/theme-options/theme_options.php:262
+#: include/theme-options/theme_options.php:277
+msgid "Footer"
+msgstr ""
+
+#: include/theme-options/theme_options.php:739
+msgid "Footer App link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:732
+msgid "Footer App Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:746
+msgid "Footer App logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:881
+msgid "Footer Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:877
+msgid "footer colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:905
+msgid "Footer Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:716
+msgid "Footer Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:724
+msgid "Footer logo Link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:696
+msgid "footer options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:700
+msgid "Footer section"
+msgstr ""
+
+#: include/theme-options/theme_options.php:897
+msgid "Footer Text Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:889
+msgid "Footer Title Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:707
+#: include/theme-options/theme_options.php:767
+msgid "Footer Widgets"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1227
+msgid "Form"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2602
+#: include/shortcodes/admin/multi-deals.php:136
+msgid "From"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:143
+msgid "From Text"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:247
+msgid "Full Width"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1539
+#: include/theme-options/theme_options.php:322
+#: include/shortcodes/admin/slider.php:79
+msgid "Full width"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1333
+#: include/theme-options/theme_options.php:1361
+msgid "full width"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2843
+msgid "Gallery is Empty. Please Select Media"
+msgstr ""
+
+#: include/theme-options/theme_options.php:255
+msgid "General"
+msgstr ""
+
+#: include/theme-options/theme_options.php:275
+msgid "general"
+msgstr ""
+
+#: include/theme-options/theme_options.php:777
+msgid "general colors"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:25 include/metaboxes/post_meta.php:28
+msgid "General Settings"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:368
+msgid "Generate Backup"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1535
+msgid ""
+"Get your mailchimp key by <a href='https://login.mailchimp.com/' "
+"target='_blank'>Clicking Here </a>"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:180
+msgid "Give a link for your marker icon"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:95
+msgid "Give the Author External / Internal Url"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:176
+msgid "give the link title here"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:86
+msgid "give the name of the author"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:86
+msgid "give the video Url here"
+msgstr ""
+
+#: include/theme-options/theme_options.php:259
+#: include/theme-options/theme_options.php:310
+msgid "global"
+msgstr ""
+
+#: 404.php:21
+msgid "Go to Homepage"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1642
+msgid "Google API Key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1637
+#: include/theme-options/theme_options.php:1638
+msgid "Google API Setting"
+msgstr ""
+
+#: include/theme-options/theme_options.php:753
+msgid "Google Play link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1221
+msgid "Google Plus"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:141
+msgid "Google plus"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:85
+msgid "Gray Scale"
+msgstr ""
+
+#: include/theme-options/theme_options.php:260
+#: include/theme-options/theme_options.php:276
+msgid "Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:453
+msgid "header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:464
+msgid "Header 1"
+msgstr ""
+
+#: include/theme-options/theme_options.php:464
+msgid "Header 2"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:76
+msgid "Header Background"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:205
+#: include/theme-options/theme_options.php:628
+msgid "Header Border Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:813
+#: include/theme-options/theme_options.php:815
+msgid "Header Colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:806
+msgid "header colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:531
+#: include/theme-options/theme_options.php:533
+msgid "Header Elements"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1257
+msgid "Heading"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1107
+msgid "Heading 1"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1116
+msgid "Heading 2"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1125
+msgid "Heading 3"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1134
+msgid "Heading 4"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1143
+msgid "Heading 5"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1152
+msgid "Heading 6"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:165
+msgid "Heading Color"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:170
+msgid "heading color for the heading element"
+msgstr ""
+
+#: include/theme-options/theme_options.php:924
+msgid "heading colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:928
+msgid "heading h1"
+msgstr ""
+
+#: include/theme-options/theme_options.php:936
+msgid "heading h2"
+msgstr ""
+
+#: include/theme-options/theme_options.php:944
+msgid "heading h3"
+msgstr ""
+
+#: include/theme-options/theme_options.php:952
+msgid "heading h4"
+msgstr ""
+
+#: include/theme-options/theme_options.php:960
+msgid "heading h5"
+msgstr ""
+
+#: include/theme-options/theme_options.php:968
+msgid "heading h6"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:107
+msgid "Heading Style"
+msgstr ""
+
+#: include/theme-options/theme_options.php:278
+msgid "headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1051
+msgid "Headings Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1059
+msgid "Headings Font Attribute"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:118
+#: include/shortcodes/admin/spacer.php:55
+#: include/shortcodes/admin/video.php:100
+msgid "Height"
+msgstr ""
+
+#: include/theme-options/theme_options.php:591
+msgid "Help Text"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:339
+#: include/theme-options/theme_options_fields.php:414
+msgid ""
+"Here you can Generate/Download Backups. Also you can use these Backups to "
+"Restore settings."
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:86
+msgid "Hide Cover"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:113
+msgid "Hide Cta"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3509
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: functions.php:838
+msgid "Home"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1402
+msgid ""
+"HTML attributes that explain the contents of web pages commonly used on "
+"search engine result pages (SERPs) for pages snippets"
+msgstr ""
+
+#. URI of the theme
+msgid "http://chimpgroup.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.ChimpStudio.co.uk/"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:140
+msgid "HYBRID"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2110
+#: include/shortcodes/admin_functions.php:2431
+#: include/shortcodes/admin/list.php:92
+#: include/shortcodes/admin/multi-services.php:199
+msgid "Icon"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1808
+msgid "Icon Background Color"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1802
+#: include/shortcodes/admin_functions.php:2125
+#: include/shortcodes/admin_functions.php:2252
+#: include/shortcodes/admin/counters.php:113
+#: include/shortcodes/admin/infobox.php:156
+msgid "Icon Color"
+msgstr ""
+
+#: include/admin_functions.php:1095
+#: include/theme-options/theme_options_fields.php:1628
+#: include/theme-options/theme_options_fields.php:1676
+msgid "Icon Path"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1727
+msgid "Icon Postion"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2474
+#: include/shortcodes/admin/counters.php:124
+#: include/shortcodes/admin/multi-services.php:232
+msgid "Icon Size"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1738
+msgid "Icon Type"
+msgstr ""
+
+#: include/theme-options/theme_options.php:563
+msgid ""
+"If you enable this option , header will be fixed on top of your browser "
+"window."
+msgstr ""
+
+#: include/shortcodes/admin/map.php:262
+msgid "If you will select a border than select the border color"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:127
+msgid "If you would like a caption to be shown below the image, add it here."
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2111
+#: include/shortcodes/admin_functions.php:2132
+#: include/shortcodes/admin_functions.php:2432
+#: include/shortcodes/admin_functions.php:2491
+#: include/shortcodes/admin_functions.php:2631
+#: include/shortcodes/admin_functions.php:2688
+#: include/shortcodes/admin_functions.php:2763
+#: include/theme-options/theme_options_fields.php:1779
+#: include/theme-options/theme_options_fields.php:1785
+#: include/theme-options/theme_options_fields.php:1853
+#: include/theme-options/theme_options_fields.php:1946
+#: include/theme-options/theme_options_fields.php:1953
+#: include/shortcodes/admin/multi-deals.php:165
+#: include/shortcodes/admin/multi-services.php:200
+#: include/shortcodes/admin/multi-services.php:273
+#: include/shortcodes/admin/services.php:114
+#: include/shortcodes/admin/slider.php:125
+#: include/shortcodes/admin/testimonial.php:159
+msgid "Image"
+msgstr ""
+
+#: include/admin_functions.php:847
+msgid "Image Description"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1269
+msgid "Image Frame"
+msgstr ""
+
+#: include/admin_functions.php:839 include/admin_functions.php:927
+msgid "Image Title"
+msgstr ""
+
+#: include/shortcodes/admin/image-frame.php:85
+msgid "Image url"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:328
+msgid "Import"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1651
+#: include/theme-options/theme_options.php:1658
+msgid "import & export"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:320
+msgid "Import Options"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:401
+msgid "Import Widgets"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1263
+msgid "Info box"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:148
+msgid "Info Box Fontawsome Icon"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:166
+msgid "Info Max Height"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:157
+msgid "Info Max Width"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:148
+msgid "Info Text"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2239
+#: include/shortcodes/admin/infobox.php:144
+msgid "Infobox Item(s)"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:116 include/metaboxes/post_meta.php:171
+msgid "Information Box"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:325
+msgid ""
+"Input the URL from another location and hit Import Button to apply settings."
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:175
+#: include/shortcodes/admin/accordion.php:242
+#: include/shortcodes/admin/button.php:183
+#: include/shortcodes/admin/call-to-action.php:182
+#: include/shortcodes/admin/clients.php:210
+#: include/shortcodes/admin/contactus.php:129
+#: include/shortcodes/admin/counters.php:209
+#: include/shortcodes/admin/deals.php:184
+#: include/shortcodes/admin/divider.php:130
+#: include/shortcodes/admin/faq.php:181
+#: include/shortcodes/admin/flex-column.php:152
+#: include/shortcodes/admin/heading.php:189
+#: include/shortcodes/admin/image-frame.php:134
+#: include/shortcodes/admin/infobox.php:201
+#: include/shortcodes/admin/list.php:174
+#: include/shortcodes/admin/mailchimp.php:129
+#: include/shortcodes/admin/map.php:272
+#: include/shortcodes/admin/multi-deals.php:203
+#: include/shortcodes/admin/multi-services.php:368
+#: include/shortcodes/admin/price-table.php:305
+#: include/shortcodes/admin/progressbar.php:156
+#: include/shortcodes/admin/promobox.php:177
+#: include/shortcodes/admin/quote.php:136
+#: include/shortcodes/admin/revolution-slider.php:115
+#: include/shortcodes/admin/services.php:203
+#: include/shortcodes/admin/sitemap.php:64
+#: include/shortcodes/admin/slider.php:198
+#: include/shortcodes/admin/spacer.php:65
+#: include/shortcodes/admin/table.php:137 include/shortcodes/admin/tabs.php:176
+#: include/shortcodes/admin/team.php:167
+#: include/shortcodes/admin/testimonial.php:196
+#: include/shortcodes/admin/tweets.php:86
+#: include/shortcodes/admin/video.php:115
+msgid "Insert"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1619
+msgid ""
+"Insert consumer key. To get your account key, <a href='https://dev.twitter."
+"com/' target='_blank'>Click Here </a>"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1626
+msgid ""
+"Insert Twitter Access Token for permissions. When you create your Twitter "
+"App, you get this Token"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1633
+msgid ""
+"Insert Twitter Access Token Secret here. When you create your Twitter App, "
+"you get this Token"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:151
+msgid "Inside Post Thumbnail View"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1242
+msgid "Instagram"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: functions.php:255
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:254
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: functions.php:256
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1956
+msgid "Instructor"
+msgstr ""
+
+#: functions.php:890
+msgid ""
+"It seems we can&quote find what you&rsquo;re looking for Perhaps searching "
+"can help"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:157
+msgid "Italic"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:172
+#: include/shortcodes/admin/price-table.php:205
+#: include/shortcodes/admin/price-table.php:230
+msgid "item currency symbols"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:159
+#: include/shortcodes/admin/price-table.php:172
+msgid "item Price"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:88
+msgid "Label On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:422
+msgid "Language Settings"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2481
+#: include/shortcodes/admin/button.php:74
+#: include/shortcodes/admin/counters.php:131
+#: include/shortcodes/admin/multi-services.php:251
+msgid "Large"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1711
+msgid "Large Boxed"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1712
+msgid "Large Normal"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:108
+msgid "Latitude"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1497
+msgid "Launch Date"
+msgstr ""
+
+#: include/theme-options/theme_options.php:315
+msgid "Layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:317
+msgid "Layout type"
+msgstr ""
+
+#: comments.php:69 comments.php:70
+msgid "Leave us a comment"
+msgstr ""
+
+#: include/admin_functions.php:398 include/shortcodes/admin/button.php:149
+#: include/shortcodes/admin/counters.php:95
+#: include/shortcodes/admin/heading.php:142
+#: include/shortcodes/admin/promobox.php:168
+msgid "Left"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1730
+#: include/shortcodes/admin/quote.php:115
+#: include/shortcodes/admin/testimonial.php:88
+msgid "left"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:136
+msgid "Length of Excerpt"
+msgstr ""
+
+#: include/admin_functions.php:939
+msgid "LightBox to current thumbnail"
+msgstr ""
+
+#: include/admin_functions.php:940
+msgid "LightBox to Video"
+msgstr ""
+
+#: include/theme-options/theme_options.php:402
+msgid "Lightweight Script for Page Scrolling animation"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:80
+msgid "Like Box Height"
+msgstr ""
+
+#: include/theme-options/theme_options.php:718
+#: include/theme-options/theme_options.php:734
+msgid "Like footer logo or Credits Cards Images"
+msgstr ""
+
+#: functions.php:1176
+msgid "Like This"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_functions.php:240
+msgid "Likes"
+msgstr ""
+
+#: include/admin_functions.php:855 include/shortcodes/admin_functions.php:2173
+#: include/shortcodes/admin_functions.php:2804
+#: include/theme-components/cs-widgets/contactinfo.php:106
+msgid "Link"
+msgstr ""
+
+#: include/admin_functions.php:863
+msgid "Link Target"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2169
+#: include/shortcodes/admin_functions.php:2812
+#: include/shortcodes/admin/slider.php:172
+msgid "Link Title"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:133
+msgid "Linkedin Url"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1275
+msgid "List"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2216
+#: include/shortcodes/admin_functions.php:2220
+#: include/shortcodes/admin/list.php:132
+msgid "List Item"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:137
+msgid "List Item:"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:87
+msgid "List Style"
+msgstr ""
+
+#: include/shortcodes/frontend/sitemap.php:112
+msgid "Location"
+msgstr ""
+
+#: include/theme-options/theme_options.php:186
+msgid "Location sidebar"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1418
+msgid "Locations"
+msgstr ""
+
+#: comments.php:41
+msgid "Log out"
+msgstr ""
+
+#: comments.php:41
+msgid "Logged in as "
+msgstr ""
+
+#: include/theme-options/theme_options.php:467
+msgid "Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:474
+msgid "Logo Height"
+msgstr ""
+
+#: include/theme-options/theme_options.php:502
+msgid "Logo margin bottom"
+msgstr ""
+
+#: include/theme-options/theme_options.php:520
+msgid "Logo margin left"
+msgstr ""
+
+#: include/theme-options/theme_options.php:511
+msgid "Logo margin right"
+msgstr ""
+
+#: include/theme-options/theme_options.php:493
+msgid "Logo margin top"
+msgstr ""
+
+#: include/theme-options/theme_options.php:504
+msgid "Logo spacing margin from bottom."
+msgstr ""
+
+#: include/theme-options/theme_options.php:522
+msgid "Logo spacing margin from left"
+msgstr ""
+
+#: include/theme-options/theme_options.php:513
+msgid "Logo spacing margin from right."
+msgstr ""
+
+#: include/theme-options/theme_options.php:495
+msgid "Logo spacing margin from top"
+msgstr ""
+
+#: include/theme-options/theme_options.php:483
+msgid "logo width"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:117
+msgid "Longitude"
+msgstr ""
+
+#: include/admin_functions.php:81
+msgid "Loops"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1527
+#: include/theme-options/theme_options.php:1529
+msgid "Mail Chimp"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1341 include/shortcodes/config.php:66
+msgid "Mail chimp"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1533
+msgid "Mail Chimp Key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1541
+msgid "Mail Chimp List"
+msgstr ""
+
+#: include/shortcodes/admin/mailchimp.php:86
+msgid "Mail chimp Title"
+msgstr ""
+
+#: include/shortcodes/admin/mailchimp.php:94
+msgid "Mailchimp Sub Title"
+msgstr ""
+
+#: include/shortcodes/admin/mailchimp.php:118
+msgid "Mailchimp Text"
+msgstr ""
+
+#: functions.php:1036 include/theme-options/theme_options.php:1098
+msgid "Main Menu"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1035
+msgid "Main Menu Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1043
+msgid "Main Menu Font Attribute"
+msgstr ""
+
+#: functions.php:1897
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1429
+msgid "Maintenace Page"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1473
+msgid "Maintenance background Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1418
+#: include/theme-options/theme_options.php:1425
+msgid "Maintenance Mode"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1481
+msgid "Maintenance Page Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1489
+msgid "Maintenance Text"
+msgstr ""
+
+#: include/theme-components/cs-header/header_functions.php:185
+msgid "Make a Booking"
+msgstr ""
+
+#: functions.php:878
+msgid "Make sure all words are spelled correctly"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:39
+#: include/shortcodes/admin_functions.php:1281
+msgid "Map"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:99
+msgid "Map Height"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:103
+msgid "Map height set here"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:135
+msgid "Map Types"
+msgstr ""
+
+#: include/shortcodes/frontend/map(09-01-2016).php:102
+#: include/shortcodes/frontend/map(castle-carrent).php:100
+msgid "mapview"
+msgstr ""
+
+#: include/admin_functions.php:563 include/shortcodes/admin/divider.php:108
+msgid "Margin Bottom"
+msgstr ""
+
+#: include/admin_functions.php:551 include/shortcodes/admin/divider.php:98
+msgid "Margin Top"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:175
+msgid "Marker Icon Path"
+msgstr ""
+
+#: include/admin_functions.php:81
+msgid "Media Element"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1714
+#: include/shortcodes/admin_functions.php:2480
+#: include/shortcodes/admin/button.php:75
+#: include/shortcodes/admin/counters.php:130
+#: include/shortcodes/admin/multi-services.php:246
+msgid "Medium"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1955
+msgid "Member"
+msgstr ""
+
+#: include/theme-options/theme_options.php:843
+msgid "Menu Active Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:835
+msgid "Menu Link color"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:125
+#: include/shortcodes/frontend/contactus.php:127
+#: include/theme-components/cs-widgets/cs_contact.php:143
+msgid "Message"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1400
+msgid "Meta Description"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1408
+msgid "Meta Keywords"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:92
+msgid "Modern"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:117
+msgid "Modern Style"
+msgstr ""
+
+#: functions.php:832
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:832
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1293
+msgid "Multiple Deals"
+msgstr ""
+
+#: include/shortcodes/admin/multi-deals.php:110
+msgid "Multiple deals"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2368
+#: include/shortcodes/admin_functions.php:2575
+msgid "Multiple Service"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1287
+msgid "Multiple Services"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:139
+msgid "Multiple services"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:76
+#: include/theme-components/cs-widgets/cs_contact.php:134
+msgid "Name"
+msgstr ""
+
+#: include/theme-options/theme_options.php:827
+msgid "Navigation Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:595
+msgid "Need help?"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1629
+msgid "Network Name"
+msgstr ""
+
+#: comments.php:20 comments.php:26
+msgid "Newer Comments"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1450
+msgid "Newsletter Text"
+msgstr ""
+
+#: functions.php:962
+msgid "Next"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:301
+msgid "Next Previous"
+msgstr ""
+
+#: include/admin_functions.php:463 include/admin_functions.php:478
+#: include/admin_functions.php:493
+#: cs-templates/blog-styles/blog_element.php:127
+#: include/shortcodes/admin_functions.php:1780
+#: include/shortcodes/admin_functions.php:1797
+#: include/shortcodes/admin_functions.php:1850
+#: include/shortcodes/admin_functions.php:1903
+#: include/shortcodes/admin_functions.php:1990
+#: include/shortcodes/admin/accordion.php:178
+#: include/shortcodes/admin/button.php:105
+#: include/shortcodes/admin/clients.php:90
+#: include/shortcodes/admin/counters.php:189
+#: include/shortcodes/admin/divider.php:91 include/shortcodes/admin/faq.php:130
+#: include/shortcodes/admin/list.php:110 include/shortcodes/admin/map.php:250
+#: include/shortcodes/admin/promobox.php:117
+#: include/shortcodes/admin/tabs.php:116
+msgid "No"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:101
+#: include/shortcodes/admin/price-table.php:189
+msgid "no"
+msgstr ""
+
+#. 1: plugin name.
+#: functions.php:297
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: include/shortcodes/admin/tweets.php:75
+msgid "No of Tweets"
+msgstr ""
+
+#: functions.php:869
+#, php-format
+msgid "No pages were found containing \"%s\""
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: include/admin_functions.php:415
+msgid "No Repeat"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:177
+#: include/theme-components/cs-widgets/cs_flickr.php:203
+msgid "No result found."
+msgstr ""
+
+#: functions.php:858
+msgid "No results found."
+msgstr ""
+
+#: include/theme-options/theme_options.php:194
+msgid "No sub Header"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:39
+msgid "No Subheader"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:150
+msgid "No. of Post Per Page"
+msgstr ""
+
+#: include/admin_functions.php:357 include/metaboxes/post_meta.php:104
+#: include/metaboxes/post_meta.php:158 include/shortcodes/admin/list.php:91
+msgid "None"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:156
+msgid "Normal"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:48
+msgid "Num of Tweets:"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:53
+msgid "Number of Photos"
+msgstr ""
+
+#: include/theme-components/cs-widgets/recentposts.php:61
+msgid "Number of Posts To Display:"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1587
+msgid "Number of tweet"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2160
+msgid "Numbers"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:97
+msgid "Numeric and Icon"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:158
+msgid "Oblique"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:93
+#: include/shortcodes/admin/map.php:203 include/shortcodes/admin/map.php:214
+#: include/shortcodes/admin/map.php:227 include/shortcodes/admin/map.php:238
+msgid "Off"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2758
+msgid "Offer Slider Item"
+msgstr ""
+
+#: comments.php:19 comments.php:25
+msgid "Older Comments"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:92
+#: include/shortcodes/admin/map.php:202 include/shortcodes/admin/map.php:215
+#: include/shortcodes/admin/map.php:226 include/shortcodes/admin/map.php:237
+msgid "On"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1559
+msgid "One fourth"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1544
+#: include/shortcodes/admin/slider.php:80
+msgid "One half"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1549
+msgid "One third"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2536
+#: include/shortcodes/admin/multi-services.php:318
+msgid "Only For Simple View"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:355
+msgid "orderby"
+msgstr ""
+
+#: include/admin_functions.php:539 include/metaboxes/general-settings.php:93
+#: include/theme-options/theme_options.php:653
+msgid "Padding Bottom"
+msgstr ""
+
+#: include/admin_functions.php:527 include/metaboxes/general-settings.php:81
+#: include/theme-options/theme_options.php:644
+msgid "Padding Top"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:13
+msgid "Page Options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:662
+msgid "Page Title"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:55
+msgid "Page Url"
+msgstr ""
+
+#: include/shortcodes/frontend/sitemap.php:22
+msgid "Pages"
+msgstr ""
+
+#: page-blank.php:20 page.php:112 page.php:376 single.php:232
+#: include/shortcodes/admin_functions.php:166
+msgid "Pages:"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:163
+msgid "Pagination"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:81
+msgid "Pattern Progress bar"
+msgstr ""
+
+#: include/theme-components/cs-widgets/contactinfo.php:86
+msgid "Phone"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:77
+msgid "Plain"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:79
+msgid "Plain Progress bar"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:186
+msgid "Please Add/Edit the short code for Map"
+msgstr ""
+
+#: functions.php:300
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:934
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1828
+#: include/theme-options/theme_options_fields.php:2003
+msgid "Please enter Banner Ad sense Code"
+msgstr ""
+
+#: include/admin_functions.php:1416
+msgid "Please enter Banner Adsense"
+msgstr ""
+
+#: include/admin_functions.php:1351
+#: include/theme-options/theme_options_fields.php:1763
+msgid "Please enter Banner Banner Style"
+msgstr ""
+
+#: include/admin_functions.php:1362
+#: include/theme-options/theme_options_fields.php:1775
+#: include/theme-options/theme_options_fields.php:1949
+msgid "Please enter Banner Banner Type"
+msgstr ""
+
+#: include/admin_functions.php:1389
+#: include/theme-options/theme_options_fields.php:1785
+#: include/theme-options/theme_options_fields.php:1976
+msgid "Please enter Banner Image"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1930
+msgid "Please enter Banner Style"
+msgstr ""
+
+#: include/admin_functions.php:1339
+#: include/theme-options/theme_options_fields.php:1756
+#: include/theme-options/theme_options_fields.php:1926
+msgid "Please enter Banner Title"
+msgstr ""
+
+#: include/admin_functions.php:1397
+#: include/theme-options/theme_options_fields.php:1811
+#: include/theme-options/theme_options_fields.php:1984
+msgid "Please enter Banner Url"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_flickr.php:207
+msgid "Please Enter Flickr API key from Theme Options."
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1575
+msgid "Please enter Full Url"
+msgstr ""
+
+#: include/admin_functions.php:1091
+#: include/theme-options/theme_options_fields.php:1672
+msgid "Please enter full Url"
+msgstr ""
+
+#: include/shortcodes/admin/revolution-slider.php:79
+msgid "Please enter slider header title."
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1568
+msgid "Please enter text for icon"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1664
+msgid "Please enter text for icon tooltip"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1503
+msgid "Please enter the desired title of sidebar"
+msgstr ""
+
+#: include/admin_functions.php:450
+msgid "Please enter Vimeo/Youtube Video Url"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:58
+msgid "Please enter your page or User profile url example:L"
+msgstr ""
+
+#: include/admin_functions.php:1408
+#: include/theme-options/theme_options_fields.php:1818
+#: include/theme-options/theme_options_fields.php:1995
+msgid "Please select Banner Link Target"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:98
+msgid "Please select blog view."
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:79
+msgid ""
+"Please select category to show posts. If you dont select category it will "
+"display all posts."
+msgstr ""
+
+#: include/admin_functions.php:943
+msgid "Please select Image link where it will go"
+msgstr ""
+
+#: include/admin_functions.php:870
+msgid "Please select image target"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:157
+#: include/metaboxes/page_meta.php:111
+#: include/theme-options/theme_options.php:638
+msgid ""
+"Please select Revolution Slider if already included in package. Otherwise "
+"buy Sliders from Code canyon But its optional"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:119
+msgid "Please Set Twitter API"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:1121
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: functions.php:295
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:387
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: functions.php:298
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: cs-templates/blog-styles/blog_element.php:120
+msgid "Post Description"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1320
+msgid "post layout"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:13
+msgid "Post Options"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:105
+msgid "Post Order"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:31
+msgid "Post Settings"
+msgstr ""
+
+#: include/shortcodes/frontend/sitemap.php:47
+msgid "Posts"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions.php:955
+msgid "Prev"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2621
+#: include/shortcodes/admin/deals.php:154
+#: include/shortcodes/admin/multi-deals.php:155
+#: include/shortcodes/admin/price-table.php:167
+msgid "Price"
+msgstr ""
+
+#: include/theme-options/theme_options.php:184
+msgid "Price Plan"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1311
+msgid "Price Table"
+msgstr ""
+
+#: include/shortcodes/config.php:67
+msgid "Price table"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:278
+msgid "Pricing Feature"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:245
+msgid "Pricing Features"
+msgstr ""
+
+#: functions.php:1895
+msgid "Primary Sidebar"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1299
+msgid "Progress Bars"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2728 include/shortcodes/config.php:69
+msgid "Progress bars"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2746
+#: include/shortcodes/admin/progressbar.php:132
+msgid "Progress Bars Color"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:75
+msgid "Progress Bars Style"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2732
+msgid "Progress Bars Title"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:110
+msgid "ProgressBar"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:114
+msgid "ProgressBars Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1305 include/shortcodes/config.php:68
+msgid "Promo box"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:93
+msgid "Promo Box Background image here"
+msgstr ""
+
+#: include/shortcodes/admin/infobox.php:99
+msgid "Provide a hex background colour code here (with #)"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:115
+#: include/shortcodes/admin/call-to-action.php:148
+#: include/shortcodes/admin/counters.php:166
+#: include/shortcodes/admin/counters.php:176
+#: include/shortcodes/admin/infobox.php:111
+#: include/shortcodes/admin/quote.php:105
+msgid ""
+"Provide a hex colour code here (with #) if you want to override the default"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:104
+msgid "Provide height in cs, if you want to override the default"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:97
+msgid "Put the title for action element"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1317
+msgid "Quote"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:124
+msgid "Quote Content"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:549
+msgid "Read More"
+msgstr ""
+
+#: include/shortcodes/admin/slider.php:164
+msgid "Read More Link"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1936
+msgid "Register"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1968
+msgid "Register Text:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1940
+msgid "Register Title:"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:295
+msgid "Related Post"
+msgstr ""
+
+#: single.php:93 include/metaboxes/post_meta.php:287
+msgid "Related Posts"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:293
+msgid "related_post"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1694
+#: include/shortcodes/admin_functions.php:1844
+#: include/shortcodes/admin_functions.php:1897
+#: include/shortcodes/admin_functions.php:1937
+#: include/shortcodes/admin_functions.php:1983
+#: include/shortcodes/admin_functions.php:2035
+#: include/shortcodes/admin_functions.php:2086
+#: include/shortcodes/admin_functions.php:2217
+#: include/shortcodes/admin_functions.php:2241
+#: include/shortcodes/admin_functions.php:2288
+#: include/shortcodes/admin_functions.php:2313
+#: include/shortcodes/admin_functions.php:2369
+#: include/shortcodes/admin_functions.php:2576
+#: include/shortcodes/admin_functions.php:2660
+#: include/shortcodes/admin_functions.php:2729
+#: include/shortcodes/admin_functions.php:2759
+#: include/shortcodes/admin/accordion.php:170
+#: include/shortcodes/admin/clients.php:141
+#: include/shortcodes/admin/faq.php:122
+#: include/shortcodes/admin/infobox.php:145
+#: include/shortcodes/admin/list.php:133
+#: include/shortcodes/admin/multi-deals.php:111
+#: include/shortcodes/admin/multi-services.php:140
+#: include/shortcodes/admin/progressbar.php:111
+#: include/shortcodes/admin/slider.php:122
+#: include/shortcodes/admin/tabs.php:108
+#: include/shortcodes/admin/testimonial.php:122
+msgid "Remove"
+msgstr ""
+
+#: include/admin_functions.php:414
+msgid "Repeat"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: comments.php:42
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: include/theme-options/theme_options.php:46
+msgid "Reset All Options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:410
+msgid "Responsive"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:358
+msgid "Restore"
+msgstr ""
+
+#: functions.php:294
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:386
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:827
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2533
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions.php:213 include/metaboxes/general-settings.php:39
+#: include/theme-options/theme_options.php:194
+#: include/theme-options/theme_options.php:636
+msgid "Revolution Slider"
+msgstr ""
+
+#: include/admin_functions.php:399 include/shortcodes/admin_functions.php:1731
+#: include/shortcodes/admin/button.php:150
+#: include/shortcodes/admin/heading.php:144
+#: include/shortcodes/admin/promobox.php:169
+msgid "Right"
+msgstr ""
+
+#: include/shortcodes/admin/quote.php:116
+msgid "right"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:139
+msgid "ROADMAP"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:162
+msgid "Rounded"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:141
+msgid "SATELLITE"
+msgstr ""
+
+#: include/admin_functions.php:685
+#: cs-templates/blog-styles/blog_element.php:183
+#: include/shortcodes/admin/accordion.php:250
+#: include/shortcodes/admin/button.php:191
+#: include/shortcodes/admin/call-to-action.php:190
+#: include/shortcodes/admin/clients.php:218
+#: include/shortcodes/admin/contactus.php:137
+#: include/shortcodes/admin/counters.php:217
+#: include/shortcodes/admin/deals.php:192
+#: include/shortcodes/admin/divider.php:138
+#: include/shortcodes/admin/faq.php:189
+#: include/shortcodes/admin/flex-column.php:161
+#: include/shortcodes/admin/heading.php:197
+#: include/shortcodes/admin/image-frame.php:142
+#: include/shortcodes/admin/infobox.php:209
+#: include/shortcodes/admin/list.php:183
+#: include/shortcodes/admin/mailchimp.php:137
+#: include/shortcodes/admin/map.php:280
+#: include/shortcodes/admin/multi-deals.php:211
+#: include/shortcodes/admin/multi-services.php:376
+#: include/shortcodes/admin/price-table.php:313
+#: include/shortcodes/admin/progressbar.php:164
+#: include/shortcodes/admin/promobox.php:185
+#: include/shortcodes/admin/quote.php:144
+#: include/shortcodes/admin/revolution-slider.php:123
+#: include/shortcodes/admin/services.php:211
+#: include/shortcodes/admin/sitemap.php:72
+#: include/shortcodes/admin/slider.php:207
+#: include/shortcodes/admin/spacer.php:73
+#: include/shortcodes/admin/table.php:145 include/shortcodes/admin/tabs.php:184
+#: include/shortcodes/admin/team.php:176
+#: include/shortcodes/admin/testimonial.php:204
+#: include/shortcodes/admin/tweets.php:95
+msgid "Save"
+msgstr ""
+
+#: include/theme-options/theme_options.php:44
+msgid "Save All Settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:18
+msgid "Saving changes..."
+msgstr ""
+
+#: include/shortcodes/admin/map.php:233
+msgid "Scroll Wheel"
+msgstr ""
+
+#: searchform.php:11 include/admin_functions.php:226
+#: include/shortcodes/admin_functions.php:1488
+msgid "Search"
+msgstr ""
+
+#: functions.php:828
+#, php-format
+msgid "Search Results : %s"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1171
+msgid "Section Heading"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:60
+#: include/shortcodes/admin/accordion.php:82
+#: include/shortcodes/admin/call-to-action.php:83
+#: include/shortcodes/admin/clients.php:77
+#: include/shortcodes/admin/contactus.php:69
+#: include/shortcodes/admin/faq.php:81
+#: include/shortcodes/admin/flex-column.php:131
+#: include/shortcodes/admin/image-frame.php:76
+#: include/shortcodes/admin/infobox.php:77 include/shortcodes/admin/list.php:78
+#: include/shortcodes/admin/mailchimp.php:78
+#: include/shortcodes/admin/map.php:82
+#: include/shortcodes/admin/multi-deals.php:68
+#: include/shortcodes/admin/multi-services.php:72
+#: include/shortcodes/admin/promobox.php:78
+#: include/shortcodes/admin/quote.php:73
+#: include/shortcodes/admin/sitemap.php:55
+#: include/shortcodes/admin/slider.php:92
+#: include/shortcodes/admin/table.php:101 include/shortcodes/admin/tabs.php:76
+#: include/shortcodes/admin/team.php:69
+#: include/shortcodes/admin/testimonial.php:74
+#: include/shortcodes/admin/video.php:67
+msgid "Section Title"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:131
+msgid "select a color which you want on the buttons"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:160
+msgid "select a font style from the drop down"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1313
+msgid ""
+"Select a sidebar from the list already given. (Nine pre-made sidebars are "
+"given)"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:122
+msgid "Select a table style"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1654
+#: include/shortcodes/admin_functions.php:1823
+#: include/shortcodes/admin/accordion.php:126
+msgid "Select Animation"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:914
+msgid "Select Attribute"
+msgstr ""
+
+#: include/theme-components/cs-widgets/recentposts.php:42
+msgid "Select Category:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1566
+#: include/shortcodes/admin/button.php:78
+#: include/shortcodes/admin/slider.php:84
+msgid "Select column width. This width will be calculated depend page width"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1596
+msgid "Select date time formate for every tweet."
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1627
+#: include/shortcodes/admin_functions.php:1669
+#: include/shortcodes/admin/accordion.php:142
+msgid "Select Entrance animation type from the dropdown"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1053
+msgid "Select font for Headings. It will apply on all posts and pages headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:458
+msgid "Select Header"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2484
+#: include/shortcodes/admin/counters.php:134
+#: include/shortcodes/admin/multi-services.php:258
+msgid "Select Icon Size"
+msgstr ""
+
+#: include/theme-options/theme_options.php:442
+msgid "Select Language"
+msgstr ""
+
+#: include/theme-options/theme_options.php:429
+msgid "Select Language File"
+msgstr ""
+
+#: include/admin_functions.php:620
+msgid "Select Layout"
+msgstr ""
+
+#: include/admin_functions.php:643 include/metaboxes/general-settings.php:312
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2875
+msgid "Select Media"
+msgstr ""
+
+#: include/admin_functions.php:397
+msgid "Select position"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1368
+msgid ""
+"Select pre-made sidebars for default pages on sidebar layout. Full width "
+"layout cannot have sidebars"
+msgstr ""
+
+#: include/admin_functions.php:664 include/metaboxes/general-settings.php:337
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1341
+msgid ""
+"Select Single Post Layout of your choice for sidebar layout. You cannot "
+"select it for full width layout"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:151
+#: include/metaboxes/page_meta.php:105
+msgid "Select Slider"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:126
+#: include/shortcodes/admin/deals.php:125
+#: include/shortcodes/admin/price-table.php:148
+msgid "Select the background image for action element"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:165
+msgid "Select the display type for the button"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1874
+#: include/shortcodes/admin_functions.php:2012
+msgid "Select the font awsome Icons you would like to add to your menu items"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2460
+#: include/shortcodes/admin/accordion.php:207
+#: include/shortcodes/admin/button.php:140
+#: include/shortcodes/admin/counters.php:108
+#: include/shortcodes/admin/multi-services.php:226
+#: include/shortcodes/admin/price-table.php:137
+#: include/shortcodes/admin/tabs.php:142
+msgid "select the fontawsome Icons you would like to add to your menu items"
+msgstr ""
+
+#: include/admin_functions.php:502
+msgid "Select View"
+msgstr ""
+
+#: include/admin_functions.php:1405
+#: include/theme-options/theme_options_fields.php:1822
+#: include/theme-options/theme_options_fields.php:1992
+#: include/shortcodes/admin/button.php:175
+msgid "Self"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:146
+msgid "Send"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:99
+msgid "Send To"
+msgstr ""
+
+#: include/theme-options/theme_options.php:302
+#: include/theme-options/theme_options.php:1383
+msgid "SEO"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:242
+msgid "Seo Description"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:252
+msgid "Seo Keywords"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:28 include/metaboxes/post_meta.php:30
+msgid "Seo Options"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:232
+msgid "Seo Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1692
+msgid "Service"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1748
+msgid "Service background  Image"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1772
+msgid "Service Link Url"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1770
+msgid "Service Link Url:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1785
+msgid "Service Text:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1703
+msgid "Service Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1709
+msgid "Service View:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1329
+msgid "Services"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:118
+#: include/shortcodes/admin/flex-column.php:114
+#: include/shortcodes/admin/flex-column.php:125
+msgid "set a color for the counter icon"
+msgstr ""
+
+#: include/shortcodes/admin/heading.php:181
+msgid "set a content color for the heading element"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:100
+msgid "set a list style from the dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:113
+msgid "set a margin bottom for the divider in px"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:121
+msgid "set a message for error message"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:112
+msgid "set a message if your email sent successfully"
+msgstr ""
+
+#: include/shortcodes/admin/button.php:152
+msgid "set a position for the button"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:93
+msgid "set back to top from the dropdown"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:252
+msgid "Set border for map"
+msgstr ""
+
+#: include/theme-options/theme_options.php:748
+msgid "Set custom Footer Background Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:726
+#: include/theme-options/theme_options.php:741
+#: include/theme-options/theme_options.php:755
+msgid "set custom footer logo link"
+msgstr ""
+
+#: include/theme-options/theme_options.php:655
+msgid "Set custom padding for sub header content bottom area."
+msgstr ""
+
+#: include/theme-options/theme_options.php:646
+msgid "Set custom padding for sub header content top area."
+msgstr ""
+
+#: include/theme-options/theme_options.php:476
+msgid "Set exact logo height otherwise logo will not display normally."
+msgstr ""
+
+#: include/theme-options/theme_options.php:485
+msgid "Set exact logo width otherwise logo will not display normally."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1376
+msgid ""
+"Set excerpt length/limit from here. It controls text limit for post's content"
+msgstr ""
+
+#: include/shortcodes/admin/price-table.php:250
+msgid "Set feature price of the product"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1029
+#: include/theme-options/theme_options.php:1045
+#: include/theme-options/theme_options.php:1061
+#: include/theme-options/theme_options.php:1077
+msgid "Set Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1037
+msgid "Set font for main Menu. It will be applied to sub menu as well"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1069
+msgid "Set font for Widget Headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1021
+msgid "Set fonts for Body text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:769
+msgid "Set footer widgets sidebar"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:103
+msgid "set margin top for the divider in px"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:205
+msgid "Set marker on/off for the map"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:170
+msgid "set max height for the google map"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:161
+msgid "set max width for the google map"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:141
+msgid "set number"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:112
+msgid "set on/off for the list bottom border"
+msgstr ""
+
+#: include/theme-options/theme_options.php:664
+msgid "Set page title On/Off in sub header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:412
+msgid "Set responsive design layout for mobile devices On/Off here"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:240
+msgid "Set scroll wheel"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1356
+msgid ""
+"Set Sidebar for all pages like Search, Author Archive, Category Archive etc"
+msgstr ""
+
+#: include/theme-options/theme_options.php:570
+msgid "Set sticky logo Image"
+msgstr ""
+
+#: include/admin_functions.php:557 include/admin_functions.php:593
+msgid "Set the Border Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:581
+msgid "Set the Border top (In px)"
+msgstr ""
+
+#: include/shortcodes/admin/divider.php:123
+msgid "set the divider height"
+msgstr ""
+
+#: include/admin_functions.php:569
+msgid "Set the Margin Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:545
+msgid "Set the Padding Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:533
+msgid "Set the Padding top (In px)"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2742
+#: include/shortcodes/admin/progressbar.php:127
+msgid "Set the Skill (In %)"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:88
+#: include/metaboxes/general-settings.php:100
+msgid ""
+"Set the top padding (In PX), It Will Only work if padding is selected as"
+msgstr ""
+
+#: include/shortcodes/admin/deals.php:101
+#: include/shortcodes/admin/deals.php:113
+#: include/shortcodes/admin/price-table.php:125
+msgid "set title for the item"
+msgstr ""
+
+#: include/theme-options/theme_options.php:553
+msgid "Set WordPress Multi Language switcher On/Off in header"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:191
+msgid "set yes/no border frame form the dropdown"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1263
+msgid "share more"
+msgstr ""
+
+#: single.php:83
+msgid "Share Post"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2268
+#: include/shortcodes/admin/infobox.php:176
+msgid "Short Description"
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:102
+msgid "Short Text"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1855
+msgid "Shortcode"
+msgstr ""
+
+#: include/admin_functions.php:230 include/shortcodes/admin_functions.php:1492
+msgid "Show all"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3509
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:95
+msgid "Show Faces"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1436
+msgid "Show Logo"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:198
+msgid "Show Marker"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1443
+msgid "Show Newsletter"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:167
+msgid "Show Pagination"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:104
+msgid "Show Posts"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1458
+msgid "Show Social"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1574
+msgid "Show Twitter"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:433
+msgid "Show Widget Settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1438
+#: include/theme-options/theme_options.php:1460
+msgid ""
+"Show/Hide logo on Maintenance. Logo can be uploaded from General > Header in "
+"CS Theme options."
+msgstr ""
+
+#: search.php:38
+#, php-format
+msgid "Showing result for %s"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1311
+#: include/theme-options/theme_options.php:1366
+msgid "Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:294
+#: include/theme-options/theme_options.php:1307
+msgid "sidebar"
+msgstr ""
+
+#: include/admin_functions.php:1348
+#: include/theme-options/theme_options_fields.php:1769
+#: include/theme-options/theme_options_fields.php:1936
+msgid "Sidebar Banner"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:265
+msgid "Sidebar Left"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1334
+#: include/theme-options/theme_options.php:1362
+msgid "sidebar left"
+msgstr ""
+
+#: include/metaboxes/classes/cs_meta_fields_render.php:256
+msgid "Sidebar Right"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1335
+#: include/theme-options/theme_options.php:1363
+msgid "sidebar right"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1520
+msgid "Sider Bar Name"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:87
+msgid "simple"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:104 include/metaboxes/post_meta.php:158
+msgid "Single Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1339
+msgid "Single Layout Sidebar"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:168
+msgid "Single Page"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1326
+msgid "Single Post Layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1322
+msgid "single post layout"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1335
+msgid "Site Map"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1532
+#: include/shortcodes/admin/button.php:70
+#: include/shortcodes/admin/slider.php:76
+msgid "Size"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2738
+#: include/shortcodes/admin/progressbar.php:122
+msgid "Skill (in percentage)"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:149
+msgid "Skype"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:104 include/metaboxes/post_meta.php:158
+#: include/shortcodes/admin_functions.php:1323
+msgid "Slider"
+msgstr ""
+
+#: include/shortcodes/admin/revolution-slider.php:72
+msgid "Slider Section Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1715
+#: include/shortcodes/admin_functions.php:2479
+#: include/shortcodes/admin/button.php:76
+#: include/shortcodes/admin/counters.php:129
+#: include/shortcodes/admin/multi-services.php:241
+msgid "Small"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:121
+msgid "Small Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:400
+msgid "Smooth Scroll"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1185
+msgid "Social Icon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:263
+#: include/theme-options/theme_options.php:1181
+msgid "social icons"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1193
+msgid "Social Network"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:267
+msgid "Social Sharing"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1203
+msgid "social Sharing"
+msgstr ""
+
+#: include/theme-options/theme_options.php:264
+msgid "social sharing"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1465
+msgid "Social Text"
+msgstr ""
+
+#: functions.php:257
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:282
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:264
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:273
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2158
+msgid "Sorry, We are down for maintenance"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1377
+msgid "Spacer"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1742
+#: include/shortcodes/admin/button.php:161
+msgid "Square"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1954
+msgid "Staff"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: include/theme-options/theme_options.php:560
+msgid "Sticky Header On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:568
+msgid "Sticky Logo"
+msgstr ""
+
+#: include/shortcodes/frontend/map(09-01-2016).php:103
+#: include/shortcodes/frontend/map(castle-carrent).php:101
+msgid "streetview"
+msgstr ""
+
+#: include/shortcodes/admin/progressbar.php:80
+msgid "Strip Progress bar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1249
+msgid "StumbleUpon"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1852
+#: include/shortcodes/admin/accordion.php:94
+#: include/shortcodes/admin/divider.php:73
+#: include/shortcodes/admin/heading.php:109
+#: include/shortcodes/admin/price-table.php:98
+#: include/shortcodes/admin/services.php:92
+msgid "Style"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:111
+msgid "Style 1"
+msgstr ""
+
+#: include/shortcodes/admin/clients.php:112
+msgid "Style 2"
+msgstr ""
+
+#: include/theme-options/theme_options.php:261
+msgid "Sub Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:614
+msgid "sub header"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:29
+msgid "Sub Header Options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:621
+msgid "Sub Header settings made here will be implemented on all pages."
+msgstr ""
+
+#: include/metaboxes/general-settings.php:61
+msgid "Sub Heading"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:153
+#: include/shortcodes/admin/video.php:74
+msgid "Sub Title"
+msgstr ""
+
+#: include/shortcodes/admin/counters.php:162
+msgid "Sub Title Color"
+msgstr ""
+
+#: include/metaboxes/page_meta.php:26
+msgid "Subheader"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:140
+msgid "Subject"
+msgstr ""
+
+#: include/theme-options/theme_options.php:852
+msgid "Submenu Background"
+msgstr ""
+
+#: include/theme-options/theme_options.php:868
+msgid "Submenu Hover Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:860
+msgid "Submenu Link Color"
+msgstr ""
+
+#: comments.php:72 functions.php:741
+msgid "Submit"
+msgstr ""
+
+#: include/shortcodes/frontend/contactus.php:130
+msgid "Submit Now"
+msgstr ""
+
+#: functions.php:2005 functions.php:2042
+msgid "SUBSCRIBE NOW"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1953
+msgid "Subscriber"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:108
+msgid "Success Message"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:49
+msgid "Success Message:"
+msgstr ""
+
+#: functions.php:874
+msgid "Suggestions:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1982
+#: include/shortcodes/admin/tabs.php:107
+msgid "Tab"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:137
+msgid "Tab Fontawsome Icon"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:148
+msgid "Tab Text"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2017
+msgid "Tab Text:"
+msgstr ""
+
+#: include/shortcodes/admin/tabs.php:127
+msgid "Tab Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2000
+msgid "Tab Title:"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1359
+msgid "Table"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:127
+msgid "Table Content"
+msgstr ""
+
+#: include/shortcodes/admin/table.php:112
+msgid "Table Style"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1347
+msgid "Tabs"
+msgstr ""
+
+#: functions.php:826 include/metaboxes/post_meta.php:277
+#: include/shortcodes/frontend/sitemap.php:72
+msgid "Tags"
+msgstr ""
+
+#: include/admin_functions.php:1401
+#: include/theme-options/theme_options_fields.php:1818
+#: include/theme-options/theme_options_fields.php:1988
+#: include/shortcodes/admin/button.php:170
+msgid "Target"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1397
+msgid "Team"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:95
+msgid "Team Profile Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:185
+msgid "Team sidebar"
+msgstr ""
+
+#: include/shortcodes/config.php:65
+msgid "Teams"
+msgstr ""
+
+#: include/theme-options/theme_options.php:183
+msgid "Term and conditions"
+msgstr ""
+
+#: include/shortcodes/admin/list.php:96
+msgid "terms"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:142
+msgid "TERRAIN"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2034
+#: include/shortcodes/admin/slider.php:122
+#: include/shortcodes/admin/testimonial.php:121
+msgid "Testimonial"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1353
+msgid "Testimonials"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2038
+#: include/shortcodes/admin_functions.php:2181
+#: include/shortcodes/admin_functions.php:2516
+#: include/shortcodes/admin_functions.php:2710
+#: include/shortcodes/admin/deals.php:108
+#: include/shortcodes/admin/testimonial.php:126
+msgid "Text"
+msgstr ""
+
+#: include/shortcodes/admin/promobox.php:164
+msgid "Text Align"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:107
+#: include/shortcodes/admin_functions.php:2389
+#: include/shortcodes/admin_functions.php:2680
+#: include/theme-options/theme_options.php:678
+#: include/shortcodes/admin/call-to-action.php:111
+#: include/shortcodes/admin/infobox.php:105
+#: include/shortcodes/admin/mailchimp.php:110
+#: include/shortcodes/admin/multi-services.php:160
+#: include/shortcodes/admin/quote.php:100
+#: include/shortcodes/admin/testimonial.php:95
+#: include/shortcodes/admin/tweets.php:68
+msgid "Text Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1491
+msgid ""
+"Text for Maintenance page. Insert some basic HTML or use shortcodes here."
+msgstr ""
+
+#: include/shortcodes/admin/call-to-action.php:157
+msgid "Text on the button"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2588
+#: include/shortcodes/admin/multi-deals.php:123
+#: include/shortcodes/admin/multi-services.php:297
+msgid "Text:"
+msgstr ""
+
+#. %s: version number
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: functions.php:267
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:296
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:388
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions.php:279
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:276
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: include/shortcodes/admin/map.php:112 include/shortcodes/admin/map.php:121
+msgid "The map will appear only if this field is filled correctly"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1663
+#: include/theme-options/theme_options.php:1664
+msgid "Theme Backup Options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:781
+msgid "Theme Color"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: functions.php:270
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/shortcodes/admin/accordion.php:87
+#: include/shortcodes/admin/call-to-action.php:87
+#: include/shortcodes/admin/contactus.php:73
+#: include/shortcodes/admin/flex-column.php:135
+#: include/shortcodes/admin/image-frame.php:79
+#: include/shortcodes/admin/infobox.php:81 include/shortcodes/admin/list.php:82
+#: include/shortcodes/admin/map.php:86 include/shortcodes/admin/promobox.php:81
+#: include/shortcodes/admin/quote.php:77 include/shortcodes/admin/slider.php:96
+#: include/shortcodes/admin/table.php:106 include/shortcodes/admin/tabs.php:81
+#: include/shortcodes/admin/testimonial.php:78
+#: include/shortcodes/admin/video.php:70
+msgid ""
+"This is used for the one page navigation, to identify the section below. "
+"Give a title"
+msgstr ""
+
+#: include/shortcodes/admin/contactus.php:82
+msgid ""
+"This is used for the one page navigation, to identify, Enter some content"
+msgstr ""
+
+#: include/theme-options/theme_options.php:365
+msgid "This option can be used only with Boxed Layout."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: functions.php:740
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: functions.php:261
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:258
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1911
+msgid "This Widget Show the Content in Footer Area."
+msgstr ""
+
+#: functions.php:1884
+msgid "This widget will be displayed on right/left side of the page."
+msgstr ""
+
+#: include/shortcodes/admin/testimonial.php:90
+msgid "This will not apply in Slider View"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1564
+#: include/shortcodes/admin/slider.php:82
+msgid "Three fourth"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:239
+msgid "Thumbnail Video Url"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:97
+msgid "Thumbnail View"
+msgstr ""
+
+#: include/admin_functions.php:1080 include/admin_functions.php:1335
+#: include/metaboxes/general-settings.php:51
+#: include/shortcodes/admin_functions.php:2260
+#: include/shortcodes/admin_functions.php:2317
+#: include/shortcodes/admin_functions.php:2373
+#: include/shortcodes/admin_functions.php:2580
+#: include/shortcodes/admin_functions.php:2664
+#: include/shortcodes/admin_functions.php:2788
+#: include/theme-options/theme_options_fields.php:1568
+#: include/theme-options/theme_options_fields.php:1660
+#: include/theme-options/theme_options_fields.php:1756
+#: include/theme-options/theme_options_fields.php:1851
+#: include/theme-options/theme_options_fields.php:1922
+#: include/shortcodes/admin/call-to-action.php:93
+#: include/shortcodes/admin/clients.php:144
+#: include/shortcodes/admin/deals.php:96
+#: include/shortcodes/admin/heading.php:82
+#: include/shortcodes/admin/image-frame.php:115
+#: include/shortcodes/admin/infobox.php:86
+#: include/shortcodes/admin/infobox.php:166 include/shortcodes/admin/map.php:91
+#: include/shortcodes/admin/multi-deals.php:115
+#: include/shortcodes/admin/multi-services.php:144
+#: include/shortcodes/admin/price-table.php:120
+#: include/shortcodes/admin/promobox.php:123
+#: include/shortcodes/admin/services.php:137
+#: include/shortcodes/admin/slider.php:147
+#: include/theme-components/cs-widgets/cs_flickr.php:43
+#: include/theme-components/cs-widgets/facebook.php:50
+#: include/theme-components/cs-widgets/social_network.php:41
+msgid "Title"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2381
+#: include/shortcodes/admin_functions.php:2672
+#: include/shortcodes/admin/multi-services.php:152
+#: include/shortcodes/admin/promobox.php:131
+#: include/shortcodes/admin/services.php:147
+msgid "Title Color"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:202
+#: include/shortcodes/admin/faq.php:147
+#: include/shortcodes/admin/price-table.php:132
+msgid "Title Fontawsome Icon"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1705
+msgid "Title of the Service"
+msgstr ""
+
+#: include/theme-components/cs-widgets/cs_contact.php:37
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:42
+#: include/theme-components/cs-widgets/recentposts.php:37
+msgid "Title:"
+msgstr ""
+
+#. 1: number of plugins.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: cs-templates/blog-styles/blog_element.php:157
+msgid "To display all the records, leave this field blank."
+msgstr ""
+
+#. 1: number of plugins.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/shortcodes/admin_functions.php:1732
+msgid "Top"
+msgstr ""
+
+#: include/admin_functions.php:1346
+#: include/theme-options/theme_options_fields.php:1767
+#: include/theme-options/theme_options_fields.php:1934
+msgid "Top Banner"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2298
+msgid "Track MP3 Url"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2291
+msgid "Track Title"
+msgstr ""
+
+#: include/shortcodes/frontend/map(09-01-2016).php:117
+#: include/shortcodes/frontend/map(castle-carrent).php:115
+#: include/shortcodes/frontend/map.php:111
+msgid "Transit"
+msgstr ""
+
+#: functions.php:884
+msgid "Try more general keywords, especially if you are attempting a name"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1228
+msgid "Tumblr"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1395
+msgid "Turn Seo options On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1576
+msgid "Turn Twitter option On/Off"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1371
+msgid "Tweets"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1214
+#: include/theme-options/theme_options.php:1568
+#: include/theme-options/theme_options.php:1570
+msgid "Twitter"
+msgstr ""
+
+#: include/shortcodes/admin/team.php:125
+msgid "Twitter Url"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1554
+#: include/shortcodes/admin/slider.php:81
+msgid "Two third"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2092
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1717
+msgid "Type of the Service"
+msgstr ""
+
+#: include/admin_functions.php:81
+msgid "Typography"
+msgstr ""
+
+#: include/theme-options/theme_options.php:282
+msgid "typography / fonts"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: include/theme-options/theme_options.php:469
+msgid "Upload your custom logo in .png .jpg .gif formats only."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1475
+#: include/theme-options/theme_options.php:1483
+msgid "Upload your maintenance page logo in .png .jpg .gif formats only."
+msgstr ""
+
+#: include/admin_functions.php:941 include/admin_functions.php:957
+#: include/admin_functions.php:1087 include/admin_functions.php:1393
+#: include/theme-options/theme_options_fields.php:1575
+#: include/theme-options/theme_options_fields.php:1630
+#: include/theme-options/theme_options_fields.php:1668
+#: include/theme-options/theme_options_fields.php:1811
+#: include/theme-options/theme_options_fields.php:1980
+msgid "Url"
+msgstr ""
+
+#: include/metaboxes/post_meta.php:119 include/metaboxes/post_meta.php:174
+msgid "Use Featured Image as Thumbnail"
+msgstr ""
+
+#: include/admin_functions.php:935
+msgid "Use Image As"
+msgstr ""
+
+#: include/shortcodes/admin/accordion.php:115
+msgid "Use this option if you want to use specified  id for this element"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1604
+msgid "Use this option if you want to use specified Class for this element"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1646
+#: include/shortcodes/admin/call-to-action.php:175
+#: include/shortcodes/admin/counters.php:202
+#: include/shortcodes/admin/infobox.php:122
+#: include/shortcodes/admin/progressbar.php:92
+#: include/shortcodes/admin/services.php:195
+msgid "Use this option if you want to use specified id for this element"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1328
+msgid "Use this option to set default layout. It will be applied to all posts"
+msgstr ""
+
+#: include/shortcodes/admin/tweets.php:61
+#: include/theme-components/cs-widgets/cs_twitter_widget.php:45
+msgid "User Name"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1949
+msgid "User Role:"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1431
+msgid "Users will see Maintenance page & logged in Admin will see normal site."
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1425
+msgid "Vehicle Search"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1432
+msgid "Vehicles Listing"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: include/admin_functions.php:1349
+#: include/theme-options/theme_options_fields.php:1770
+#: include/theme-options/theme_options_fields.php:1937
+msgid "Vertical Banner"
+msgstr ""
+
+#: include/admin_functions.php:360 include/metaboxes/post_meta.php:158
+#: include/shortcodes/admin_functions.php:1365
+msgid "Video"
+msgstr ""
+
+#: include/admin_functions.php:471
+msgid "Video Auto Play"
+msgstr ""
+
+#: include/admin_functions.php:948
+msgid "Video URL"
+msgstr ""
+
+#: include/admin_functions.php:440 include/shortcodes/admin/video.php:82
+msgid "Video Url"
+msgstr ""
+
+#: include/shortcodes/admin/multi-services.php:79
+msgid "View"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:310
+msgid "View All Posts"
+msgstr ""
+
+#: include/shortcodes/frontend/map(09-01-2016).php:115
+#: include/shortcodes/frontend/map(castle-carrent).php:113
+#: include/shortcodes/frontend/map.php:109
+msgid "Walking"
+msgstr ""
+
+#: 404.php:20
+msgid "We're sorry, but the page you were looking for doesn't exist."
+msgstr ""
+
+#: comments.php:56
+msgid "Website"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:2330
+#: include/shortcodes/admin/clients.php:160
+msgid "Website Url"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1454
+msgid "Weekly Newsletter"
+msgstr ""
+
+#: include/admin_functions.php:509
+msgid "Wide"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1162
+msgid "Widget Heading"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1067
+msgid "Widget Headings Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1075
+msgid "Widget Headings Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:180
+msgid "Widgets"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1684
+msgid "Widgets Backup"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1678
+#: include/theme-options/theme_options.php:1679
+msgid "Widgets Backup Options"
+msgstr ""
+
+#: include/shortcodes/admin/video.php:91
+msgid "Width"
+msgstr ""
+
+#: include/theme-components/cs-widgets/facebook.php:74
+msgid "width"
+msgstr ""
+
+#: functions.php:881
+msgid "Wildcard searches (using the asterisk *) are not supported"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions.php:203
+msgid "WP Car Rental"
+msgstr ""
+
+#: include/theme-options/theme_options.php:551
+msgid "WPML"
+msgstr ""
+
+#: include/metaboxes/general-settings.php:44
+#: include/metaboxes/general-settings.php:127
+#: include/metaboxes/general-settings.php:134
+#: include/metaboxes/general-settings.php:169
+#: include/metaboxes/general-settings.php:175
+#: include/metaboxes/general-settings.php:192
+#: include/metaboxes/general-settings.php:198
+#: include/metaboxes/general-settings.php:215
+#: include/metaboxes/general-settings.php:305
+#: include/metaboxes/general-settings.php:324
+#: include/metaboxes/general-settings.php:330
+#: include/metaboxes/general-settings.php:349
+#: include/metaboxes/page_meta.php:88 include/metaboxes/page_meta.php:117
+#: include/metaboxes/page_meta.php:123 include/metaboxes/page_meta.php:149
+#: include/metaboxes/post_meta.php:109 include/metaboxes/post_meta.php:124
+#: include/metaboxes/post_meta.php:130 include/metaboxes/post_meta.php:145
+#: include/metaboxes/post_meta.php:164 include/metaboxes/post_meta.php:179
+#: include/metaboxes/post_meta.php:186 include/metaboxes/post_meta.php:201
+#: include/metaboxes/post_meta.php:208 include/metaboxes/post_meta.php:225
+#: include/metaboxes/post_meta.php:232 include/metaboxes/post_meta.php:249
+msgid "Wrapper"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1277
+msgid "write you custom css without style tag"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1285
+msgid "write you custom js without script tag"
+msgstr ""
+
+#: include/theme-options/theme_options.php:762
+msgid "write your own copyright text"
+msgstr ""
+
+#: functions.php:834
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:834
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: include/admin_functions.php:462 include/admin_functions.php:477
+#: include/admin_functions.php:494
+#: cs-templates/blog-styles/blog_element.php:126
+#: include/shortcodes/admin_functions.php:1779
+#: include/shortcodes/admin_functions.php:1796
+#: include/shortcodes/admin_functions.php:1850
+#: include/shortcodes/admin_functions.php:1903
+#: include/shortcodes/admin_functions.php:1991
+#: include/shortcodes/admin/accordion.php:179
+#: include/shortcodes/admin/button.php:104
+#: include/shortcodes/admin/clients.php:89
+#: include/shortcodes/admin/clients.php:100
+#: include/shortcodes/admin/counters.php:188
+#: include/shortcodes/admin/divider.php:90 include/shortcodes/admin/faq.php:131
+#: include/shortcodes/admin/list.php:109 include/shortcodes/admin/map.php:249
+#: include/shortcodes/admin/price-table.php:186
+#: include/shortcodes/admin/promobox.php:116
+#: include/shortcodes/admin/tabs.php:117
+msgid "Yes"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:217
+msgid "You can set map control disable/enable"
+msgstr ""
+
+#: include/shortcodes/admin_functions.php:1853
+#: include/shortcodes/admin_functions.php:1995
+#: include/shortcodes/admin/accordion.php:183
+#: include/shortcodes/admin/tabs.php:120
+msgid "You can set the section that is active here by select dropdown"
+msgstr ""
+
+#: comments.php:39 functions.php:6
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: comments.php:40
+msgid "You must be  to post a comment."
+msgstr ""
+
+#: functions.php:1999 functions.php:2000 functions.php:2001 functions.php:2036
+#: functions.php:2037 functions.php:2038
+msgid "Your Email"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1256
+msgid "youtube"
+msgstr ""
+
+#: include/shortcodes/admin/map.php:126
+msgid "Zoom"
+msgstr ""
