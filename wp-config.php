@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'group_carrental');
+define('DB_NAME', 'u312518386_carrental');
 
 /** MySQL database username */
-define('DB_USER', 'group_wptheme');
+define('DB_USER', 'u312518386_carrental');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'database(@)+_t5Username');
+define( 'DB_PASSWORD', 'Ah2o@[dDzTG=' );
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -66,7 +66,7 @@ define('NONCE_SALT',       '8HS*1t08q_=`#.}InQqE0!HQbzH[uea^?p1b!T8S3opQ98Msy5WJ
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'carrental_';
+$table_prefix  = 'wpcarrental_';
 
 /**
  * For developers: WordPress debugging mode.

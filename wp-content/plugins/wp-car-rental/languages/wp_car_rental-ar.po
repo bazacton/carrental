@@ -1,0 +1,2110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP CAR RENTAL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jul 29 2015 18:23:35 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: Wed Aug 05 2015 13:11:52 GMT+0500 (Pakistan Standard Time)\n"
+"Last-Translator: admin <test@gmail.com>\n"
+"Language-Team: \n"
+"Language: Arabic\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../wp-car-rental.php:96
+msgid "This Widget Show the Vehicle Search area."
+msgstr "هذه القطعة أظهر مجال البحث عن مركبة ."
+
+#: ../wp-car-rental.php:113
+msgid "Car Rental"
+msgstr "تاجير سيارة"
+
+#: ../helpers/emails/email-helper.php:46
+msgid "Booking Order"
+msgstr "الحجز بالدفع"
+
+#: ../helpers/emails/email-helper.php:57
+msgid "Invoice"
+msgstr "فاتورة"
+
+#: ../helpers/emails/email-helper.php:58 ../include/transactions_meta.php:180 ..
+#: /include/transactions_meta.php:192
+msgid "Payment Date"
+msgstr "تاريخ الدفع"
+
+#: ../helpers/emails/email-helper.php:59 ../include/form_fields.php:1580
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: ../helpers/emails/email-helper.php:66
+msgid "Dear"
+msgstr "العزيز"
+
+#: ../helpers/emails/email-helper.php:70 ../include/types_meta.php:56 ..
+#: /include/types_meta.php:62 ../include/types_meta.php:128 ..
+#: /include/vahicles_meta.php:104 ../post-types/vehicles.php:61 ..
+#: /vehicles/vehicles_element.php:79
+msgid "Vehicle Type"
+msgstr "نوع السيارة"
+
+#: ../helpers/emails/email-helper.php:71 ../include/booking_meta.php:139 ..
+#: /include/transactions_meta.php:175 ../include/transactions_meta.php:187 ..
+#: /include/transactions_meta.php:384 ../payments/gateways/class-bank-transfer.
+#: php:145 ../post-types/booking.php:78 ../templates/confirmation.php:29
+msgid "Booking Id"
+msgstr "حجز رقم"
+
+#: ../helpers/emails/email-helper.php:72
+msgid "Check In Date"
+msgstr "تحقق في التسجيل"
+
+#: ../helpers/emails/email-helper.php:73
+msgid "Check Out Date"
+msgstr "تاريخ المغادرة"
+
+#: ../helpers/emails/email-helper.php:89 ../settings/plugin_settings.php:138 ..
+#: /settings/plugin_settings.php:268 ../settings/plugin_settings.php:377 ..
+#: /settings/plugin_settings.php:460 ../settings/plugin_settings.php:558 ..
+#: /settings/plugin_settings.php:627
+msgid "Description"
+msgstr "وصف"
+
+#: ../helpers/emails/email-helper.php:151 ../templates/templates_functions.php:1279
+msgid "Deposit Amount"
+msgstr "قيمة الايداع"
+
+#: ../helpers/emails/email-helper.php:151
+msgid "Remaining Amount"
+msgstr "المبلغ المتبقي"
+
+#: ../helpers/emails/email-helper.php:151
+msgid "*Pay the rest on arrival"
+msgstr "* دفع بقية لدى وصوله"
+
+#: ../helpers/emails/email-helper.php:154
+msgid "All Payment done."
+msgstr "جميع الدفع به."
+
+#: ../helpers/emails/email-helper.php:158
+msgid "Total"
+msgstr "مجموع"
+
+#: ../helpers/emails/email-helper.php:162 ../include/booking_meta.php:531 ..
+#: /payments/gateways/class-bank-transfer.php:157 ../templates/confirmation.php:58
+msgid "VAT"
+msgstr "ضريبة"
+
+#: ../helpers/emails/email-helper.php:166 ../include/pricing_meta.php:1148
+msgid "Discount"
+msgstr "خصم"
+
+#: ../helpers/emails/email-helper.php:170
+msgid "Net Paid"
+msgstr "شبكة المدفوعة"
+
+#: ../helpers/emails/email-helper.php:174 ../payments/gateways/class-bank-
+#: transfer.php:159 ../templates/confirmation.php:62
+msgid "Balance"
+msgstr "الرصيد"
+
+#: ../include/block_meta.php:19 ../include/block_meta.php:19 ..
+#: /include/block_meta.php:33
+msgid "Block Vehicles"
+msgstr "كتلة المركبات"
+
+#: ../include/block_meta.php:38 ../include/pricing_meta.php:142 ..
+#: /include/pricing_meta.php:180 ../include/pricing_meta.php:1119 ..
+#: /include/pricing_meta.php:1229 ../include/reviews_meta.php:205 ..
+#: /include/reviews_meta.php:206 ../templates/templates_functions.php:568 ..
+#: /templates/templates_functions.php:789 ../templates/templates_functions.php:813
+msgid "Select Vehicle"
+msgstr "اختر سيارة"
+
+#: ../include/block_meta.php:75 ../include/block_meta.php:127
+msgid "Id"
+msgstr "الهوية"
+
+#: ../include/block_meta.php:76 ../include/block_meta.php:128
+msgid "Vehicle Reference No"
+msgstr "سيارة مرجع رقم"
+
+#: ../include/block_meta.php:77 ../include/block_meta.php:129
+msgid "Reason"
+msgstr "سبب"
+
+#: ../include/block_meta.php:78 ../include/block_meta.php:130 ..
+#: /include/types_meta.php:57 ../include/types_meta.php:63
+msgid "Action"
+msgstr "عمل"
+
+#: ../include/block_meta.php:163
+msgid "No Vehicles Found."
+msgstr "لا العثور على المركبات ."
+
+#: ../include/block_meta.php:186
+msgid "Some error occur, please try again later."
+msgstr "بعض الأخطاء تحدث ، يرجى المحاولة مرة أخرى في وقت لاحق ."
+
+#: ../include/block_meta.php:198
+msgid "Vehicle is de-activated."
+msgstr "تم إلغاء تنشيط السيارة."
+
+#: ../include/block_meta.php:201
+msgid "Vehicle is activated."
+msgstr "يتم تنشيط السيارة."
+
+#: ../include/block_meta.php:215 ../include/booking_meta.php:817
+msgid "success"
+msgstr "نجاح"
+
+#: ../include/block_meta.php:220 ../include/block_meta.php:226 ..
+#: /include/reviews_meta.php:55 ../include/reviews_meta.php:67 ..
+#: /include/reviews_meta.php:87 ../include/reviews_meta.php:173
+msgid "error"
+msgstr "خطأ"
+
+#: ../include/block_meta.php:221 ../include/block_meta.php:227 ..
+#: /include/booking_meta.php:664
+msgid "Some error occur, pleae try again later."
+msgstr "بعض الأخطاء تحدث ، [بل] حاول مرة أخرى في وقت لاحق ."
+
+#: ../include/booking_meta.php:9
+msgid "Booking Options"
+msgstr "خيارات الحجز"
+
+#: ../include/booking_meta.php:163 ../include/vahicles_meta.php:68 ..
+#: /shortcodes/vehicle_search.php:63 ../shortcodes/vehicle_search.php:82 ..
+#: /templates/templates_functions.php:2237 ../templates/templates_functions.php:
+#: 2254 ../widgets/vehicle_search.php:117 ../widgets/vehicle_search.php:134
+msgid "Select Location"
+msgstr "حدد الموقع"
+
+#: ../include/booking_meta.php:188 ../include/vahicles_meta.php:78 ..
+#: /vehicles/vehicles_element.php:83
+msgid "Select Vehicle Type"
+msgstr "حدد نوع المركبة"
+
+#: ../include/booking_meta.php:199 ../include/vahicles_meta.php:115
+msgid "Pickup Location"
+msgstr "اختر موقعا"
+
+#: ../include/booking_meta.php:211
+msgid "Drop up Location"
+msgstr "إسقاط ما يصل الموقع"
+
+#: ../include/booking_meta.php:223 ../shortcodes/vehicle_search.php:96 ..
+#: /templates/templates_functions.php:2268 ../widgets/vehicle_search.php:148
+msgid "Return car to the same station"
+msgstr "إعادة السيارة إلى نفس المحطة"
+
+#: ../include/booking_meta.php:234 ../include/booking_meta.php:265 ..
+#: /include/booking_meta.php:297 ../include/booking_meta.php:305 ..
+#: /include/booking_meta.php:315 ../include/booking_meta.php:332 ..
+#: /include/booking_meta.php:351 ../include/booking_meta.php:359 ..
+#: /include/booking_meta.php:366 ../include/booking_meta.php:374 ..
+#: /include/booking_meta.php:381 ../include/booking_meta.php:401 ..
+#: /include/location_meta.php:89 ../include/location_meta.php:109
+msgid "Wrapper"
+msgstr "إزار"
+
+#: ../include/booking_meta.php:241
+msgid "Check-in Date"
+msgstr "تاريخ الوصول"
+
+#: ../include/booking_meta.php:252
+msgid "Check-out Date"
+msgstr "تاريخ المغادرة"
+
+#: ../include/booking_meta.php:272
+msgid "Pickup Time"
+msgstr "الوقت بيك اب"
+
+#: ../include/booking_meta.php:283
+msgid "Drop up Time"
+msgstr "إسقاط ما يصل الوقت"
+
+#: ../include/booking_meta.php:322
+msgid "Booking Detail"
+msgstr "حجز التفاصيل"
+
+#: ../include/booking_meta.php:340 ../include/booking_meta.php:343
+msgid "Search Vehicle"
+msgstr "البحث عن مركبة"
+
+#: ../include/booking_meta.php:390 ../include/booking_meta.php:1310 ..
+#: /settings/includes/plugin_options.php:186 ../templates/templates_functions.php:
+#: 1146
+msgid "Extras"
+msgstr "إضافات"
+
+#: ../include/booking_meta.php:425
+msgid "Guest Detail"
+msgstr "التفاصيل يهمنا"
+
+#: ../include/booking_meta.php:435
+msgid "Select a customer"
+msgstr "اختيار العملاء"
+
+#: ../include/booking_meta.php:450
+msgid "Select Guest"
+msgstr "حدد الزوار"
+
+#: ../include/booking_meta.php:471
+msgid "Booking Status"
+msgstr "مركز الحجز"
+
+#: ../include/booking_meta.php:480
+msgid "Select Booking Status"
+msgstr "حدد الحجز الحالة"
+
+#: ../include/booking_meta.php:485 ../include/form_fields.php:1573 ..
+#: /include/transactions_meta.php:223 ../include/transactions_meta.php:320 ..
+#: /include/transactions_meta.php:462
+msgid "Pending"
+msgstr "ريثما"
+
+#: ../include/booking_meta.php:485
+msgid "Confirmed"
+msgstr "مؤكد"
+
+#: ../include/booking_meta.php:509
+msgid "Payment Detail"
+msgstr "دفع التفاصيل"
+
+#: ../include/booking_meta.php:518 ../payments/gateways/class-bank-transfer.php:
+#: 155 ../templates/confirmation.php:55
+msgid "Gross Total"
+msgstr "الإجمالي إجمالي"
+
+#: ../include/booking_meta.php:543 ../payments/gateways/class-bank-transfer.php:
+#: 158 ../post-types/booking.php:81 ../templates/confirmation.php:59 ..
+#: /templates/vehicle_search.php:63
+msgid "Grand Total"
+msgstr "المجموع الإجمالي"
+
+#: ../include/booking_meta.php:554
+msgid "Advance Payment"
+msgstr "مسبق الدفع"
+
+#: ../include/booking_meta.php:565 ../post-types/booking.php:83
+msgid "Remaining"
+msgstr "المتبقية"
+
+#: ../include/booking_meta.php:800 ../include/booking_meta.php:1253 ..
+#: /include/form_fields.php:1139 ../include/vahicles_meta.php:137 ../post-
+#: types/vehicles.php:63 ../settings/plugin_settings.php:103 ..
+#: /settings/plugin_settings.php:230 ../templates/templates_functions.php:336 ..
+#: /templates/templates_functions.php:339 ../templates/templates_functions.php:
+#: 1758 ../templates/templates_functions.php:1760 ../templates/vehicle_search.php:
+#: 327 ../vehicles/vehicles-slider-view.php:90 ../vehicles/vehicles_template.php:
+#: 157
+msgid "Price"
+msgstr "السعر"
+
+#: ../include/booking_meta.php:806 ../templates/vehicle_search.php:337 ..
+#: /vehicles/vehicles-default.php:108 ../vehicles/vehicles-detailed.php:120 ..
+#: /vehicles/vehicles-listing.php:93
+msgid "Book Now"
+msgstr "كتاب الان"
+
+#: ../include/booking_meta.php:818
+msgid "Vehicle Found"
+msgstr "سيارة وجدت"
+
+#: ../include/booking_meta.php:1359
+msgid "Some error occur,please try again later."
+msgstr "بعض الأخطاء تحدث ، يرجى المحاولة مرة أخرى في وقت لاحق ."
+
+#: ../include/customers.php:20 ../include/customers.php:20 ../include/customers.
+#: php:53
+msgid "Customers"
+msgstr "الزبائن"
+
+#: ../include/customers.php:34
+msgid "Saving customers..."
+msgstr "إنقاذ العملاء ..."
+
+#: ../include/customers.php:54
+msgid "+ Add New Customers"
+msgstr "+ اضافة زبائن الجدد"
+
+#: ../include/customers.php:59 ../include/customers.php:72 ../include/customers.
+#: php:162 ../include/customers.php:264 ../include/form_fields.php:1598 ..
+#: /include/transactions_meta.php:405
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: ../include/customers.php:60 ../include/customers.php:73 ../include/customers.
+#: php:166 ../include/customers.php:268 ../include/form_fields.php:1608 ..
+#: /include/transactions_meta.php:415
+msgid "Last Name"
+msgstr "اسم العائلة"
+
+#: ../include/customers.php:61 ../include/customers.php:74
+msgid "User"
+msgstr "المستخدم"
+
+#: ../include/customers.php:62 ../include/customers.php:75 ../include/customers.
+#: php:197 ../include/customers.php:294
+msgid "Telephone"
+msgstr "هاتف"
+
+#: ../include/customers.php:63 ../include/customers.php:76 ../include/customers.
+#: php:190 ../include/customers.php:287 ../include/form_fields.php:1588 ..
+#: /include/transactions_meta.php:394 ../post-types/locations.php:70 ..
+#: /settings/includes/plugin_options.php:292 ../templates/templates_functions.php:
+#: 2156
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../include/customers.php:64 ../include/customers.php:77 ../include/customers.
+#: php:213 ../include/customers.php:310 ../include/form_fields.php:1628 ..
+#: /include/transactions_meta.php:181 ../include/transactions_meta.php:193 ..
+#: /include/transactions_meta.php:425 ../post-types/locations.php:71 ..
+#: /templates/templates_functions.php:1246
+msgid "Address"
+msgstr "عنوان"
+
+#: ../include/customers.php:65 ../include/customers.php:78 ../include/customers.
+#: php:201 ../include/customers.php:298 ../templates/templates_functions.php:1221
+msgid "City"
+msgstr "مدينة"
+
+#: ../include/customers.php:66 ../include/customers.php:79 ../include/customers.
+#: php:208 ../include/customers.php:305 ../templates/templates_functions.php:1228
+msgid "Country"
+msgstr "بلد"
+
+#: ../include/customers.php:67 ../include/customers.php:80 ..
+#: /settings/plugin_settings.php:62 ../settings/plugin_settings.php:328 ..
+#: /settings/plugin_settings.php:521 ../settings/plugin_settings.php:688
+msgid "Actions"
+msgstr "تطبيقات"
+
+#: ../include/customers.php:127 ../include/types_meta.php:89
+msgid "No records found."
+msgstr "لا توجد سجلات ."
+
+#: ../include/customers.php:155
+msgid "Edit Customer"
+msgstr "تحرير العملاء"
+
+#: ../include/customers.php:172 ../include/customers.php:274
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: ../include/customers.php:218
+msgid "Update Customer"
+msgstr "تحديث العملاء"
+
+#: ../include/customers.php:254
+msgid "Add Customer"
+msgstr "إضافة العملاء"
+
+#: ../include/customers.php:362
+msgid "Customer Id already exist."
+msgstr "رقم تعريف العميل موجود بالفعل ."
+
+#: ../include/customers.php:409
+msgid "Customer Added."
+msgstr "أضيف العملاء ."
+
+#: ../include/customers.php:414 ../include/transactions_meta.php:71 ..
+#: /include/transactions_meta.php:334 ../include/types_meta.php:290 ..
+#: /include/types_meta.php:320
+msgid "Please fill all the fields."
+msgstr "يرجى تعبئة جميع الحقول."
+
+#: ../include/customers.php:453 ../include/transactions_meta.php:484
+msgid "All Customer Saved"
+msgstr "حفظ جميع العملاء"
+
+#: ../include/form_fields.php:698 ../include/form_fields.php:762 ..
+#: /include/reviews_meta.php:303 ../settings/plugin_settings.php:1013 ..
+#: /settings/includes/plugin_options_fields.php:575 ..
+#: /settings/includes/plugin_options_fields.php:614
+msgid "Browse"
+msgstr "تصفح"
+
+#: ../include/form_fields.php:1163 ../include/vahicles_meta.php:178
+msgid "File Attachments"
+msgstr "ملف المرفقات"
+
+#: ../include/form_fields.php:1192
+msgid "Delete Attachment"
+msgstr "حذف المرفقات"
+
+#: ../include/form_fields.php:1203 ../include/form_fields.php:1203 ..
+#: /include/form_fields.php:1300 ../include/form_fields.php:1300 ..
+#: /include/pricing_meta.php:681 ../include/pricing_meta.php:875
+msgid "Delete"
+msgstr "حذف"
+
+#: ../include/form_fields.php:1289
+msgid "Delete image"
+msgstr "حذف صورة"
+
+#: ../include/form_fields.php:1437 ../locations/single-lcoations.php:120
+msgid "Closed"
+msgstr "مغلق"
+
+#: ../include/form_fields.php:1480 ../include/functions.php:110
+msgid "Off"
+msgstr "بعيدا"
+
+#: ../include/form_fields.php:1584 ../include/transactions_meta.php:179 ..
+#: /include/transactions_meta.php:191 ../include/transactions_meta.php:457 ..
+#: /post-types/booking.php:84
+msgid "Status"
+msgstr "الحالة"
+
+#: ../include/form_fields.php:1618
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#: ../include/functions.php:429
+msgid "Location Address"
+msgstr "موقع العنوان            "
+
+#: ../include/functions.php:437
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: ../include/functions.php:445
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: ../include/functions.php:456
+msgid "Search This Location on Map"
+msgstr "ابحث في هذا الموقع على الخريطة"
+
+#: ../include/location_meta.php:9
+msgid "Location Options"
+msgstr "خيارات الموقع"
+
+#: ../include/location_meta.php:42
+msgid "Phone No"
+msgstr "رقم الهاتف"
+
+#: ../include/location_meta.php:53
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: ../include/location_meta.php:64
+msgid "Contact Form"
+msgstr "نموذج الاتصال"
+
+#: ../include/location_meta.php:98
+msgid "Schedule"
+msgstr "جدول"
+
+#: ../include/location_meta.php:116
+msgid "Day Off"
+msgstr "يوم عطلة"
+
+#: ../include/pricing_meta.php:22 ../include/pricing_meta.php:22
+msgid "Price Plans & Offers"
+msgstr "خطط الأسعار والعروض"
+
+#: ../include/pricing_meta.php:41
+msgid "Saving prices..."
+msgstr "إنقاذ الأسعار ..."
+
+#: ../include/pricing_meta.php:51
+msgid "Vehicle Pricing"
+msgstr "التسعير مركبة"
+
+#: ../include/pricing_meta.php:70
+msgid "Price Plans"
+msgstr "خطط الأسعار"
+
+#: ../include/pricing_meta.php:71
+msgid "Special Offers"
+msgstr "عروض خاصة"
+
+#: ../include/pricing_meta.php:79
+msgid "Add New Offer"
+msgstr "إضافة عرض جديد"
+
+#: ../include/pricing_meta.php:89
+msgid "Offer Duration"
+msgstr "عرض المدة"
+
+#: ../include/pricing_meta.php:90 ../templates/templates_functions.php:2152
+msgid "Name"
+msgstr "اسم"
+
+#: ../include/pricing_meta.php:91
+msgid "Discount (%)"
+msgstr "الخصم (٪ )"
+
+#: ../include/pricing_meta.php:92 ../include/pricing_meta.php:162 ..
+#: /include/pricing_meta.php:1144 ../include/pricing_meta.php:1253
+msgid "Require Days"
+msgstr "تتطلب أيام"
+
+#: ../include/pricing_meta.php:102
+msgid "Save Offers"
+msgstr "عروض إنقاذ"
+
+#: ../include/pricing_meta.php:109
+msgid "New Offer"
+msgstr "عرض الجديد"
+
+#: ../include/pricing_meta.php:138 ../include/pricing_meta.php:1115 ..
+#: /include/pricing_meta.php:1225
+msgid "Offer Name"
+msgstr "اسم العرض"
+
+#: ../include/pricing_meta.php:144 ../include/pricing_meta.php:1121 ..
+#: /include/pricing_meta.php:1231
+msgid "All Vehicle"
+msgstr "جميع المركبات"
+
+#: ../include/pricing_meta.php:153 ../include/pricing_meta.php:488 ..
+#: /include/pricing_meta.php:765 ../include/pricing_meta.php:957 ..
+#: /include/pricing_meta.php:1134 ../include/pricing_meta.php:1244
+msgid "Starts From"
+msgstr "يبدأ من"
+
+#: ../include/pricing_meta.php:157 ../include/pricing_meta.php:492 ..
+#: /include/pricing_meta.php:769 ../include/pricing_meta.php:961 ..
+#: /include/pricing_meta.php:1138 ../include/pricing_meta.php:1248
+msgid "Valid Then"
+msgstr "صالحة ثم"
+
+#: ../include/pricing_meta.php:166
+msgid "Add Offer"
+msgstr "أضف عرض"
+
+#: ../include/pricing_meta.php:194
+msgid "No Vehicle Found."
+msgstr "لم المركبة التي عثر عليها ."
+
+#: ../include/pricing_meta.php:348
+msgid "All Prices Saved"
+msgstr "جميع الأسعار التي تم حفظها"
+
+#: ../include/pricing_meta.php:397 ../include/pricing_meta.php:423 ..
+#: /include/pricing_meta.php:504 ../include/pricing_meta.php:689 ..
+#: /include/pricing_meta.php:780 ../include/pricing_meta.php:883 ..
+#: /include/pricing_meta.php:971
+msgid "Monday"
+msgstr "الإثنين"
+
+#: ../include/pricing_meta.php:398 ../include/pricing_meta.php:424 ..
+#: /include/pricing_meta.php:505 ../include/pricing_meta.php:690 ..
+#: /include/pricing_meta.php:781 ../include/pricing_meta.php:884 ..
+#: /include/pricing_meta.php:972
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: ../include/pricing_meta.php:399 ../include/pricing_meta.php:425 ..
+#: /include/pricing_meta.php:506 ../include/pricing_meta.php:691 ..
+#: /include/pricing_meta.php:782 ../include/pricing_meta.php:885 ..
+#: /include/pricing_meta.php:973
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: ../include/pricing_meta.php:400 ../include/pricing_meta.php:426 ..
+#: /include/pricing_meta.php:507 ../include/pricing_meta.php:692 ..
+#: /include/pricing_meta.php:783 ../include/pricing_meta.php:886 ..
+#: /include/pricing_meta.php:974
+msgid "Thursday"
+msgstr "الخميس"
+
+#: ../include/pricing_meta.php:401 ../include/pricing_meta.php:427 ..
+#: /include/pricing_meta.php:508 ../include/pricing_meta.php:693 ..
+#: /include/pricing_meta.php:784 ../include/pricing_meta.php:887 ..
+#: /include/pricing_meta.php:975
+msgid "Friday"
+msgstr "الجمعة"
+
+#: ../include/pricing_meta.php:402 ../include/pricing_meta.php:428 ..
+#: /include/pricing_meta.php:509 ../include/pricing_meta.php:694 ..
+#: /include/pricing_meta.php:785 ../include/pricing_meta.php:888 ..
+#: /include/pricing_meta.php:976
+msgid "Saturday"
+msgstr "السبت"
+
+#: ../include/pricing_meta.php:403 ../include/pricing_meta.php:429 ..
+#: /include/pricing_meta.php:510 ../include/pricing_meta.php:695 ..
+#: /include/pricing_meta.php:786 ../include/pricing_meta.php:889 ..
+#: /include/pricing_meta.php:977
+msgid "Sunday"
+msgstr "الأحد"
+
+#: ../include/pricing_meta.php:437 ../include/pricing_meta.php:822 ..
+#: /include/pricing_meta.php:1012
+msgid "Update"
+msgstr "التحديث"
+
+#: ../include/pricing_meta.php:482 ../include/pricing_meta.php:759 ..
+#: /include/pricing_meta.php:951 ../settings/plugin_settings.php:61 ..
+#: /settings/plugin_settings.php:92 ../settings/plugin_settings.php:95 ..
+#: /settings/plugin_settings.php:327 ../settings/plugin_settings.php:357 ..
+#: /settings/plugin_settings.php:360 ../settings/plugin_settings.php:520 ..
+#: /settings/plugin_settings.php:548 ../settings/plugin_settings.php:551 ..
+#: /settings/plugin_settings.php:687 ../settings/plugin_settings.php:715 ..
+#: /settings/plugin_settings.php:718 ../settings/includes/plugin_options.php:268 .
+#: ./widgets/vehicle_search.php:38
+msgid "Title"
+msgstr "عنوان"
+
+#: ../include/pricing_meta.php:521 ../include/pricing_meta.php:577 ..
+#: /include/pricing_meta.php:619 ../include/pricing_meta.php:714 ..
+#: /include/pricing_meta.php:909
+#, php-format
+msgid "Prices(%s)"
+msgstr "الأسعار ( ٪ ق )"
+
+#: ../include/pricing_meta.php:540
+#, php-format
+msgid "Add %s"
+msgstr "إضافة٪ الصورة"
+
+#: ../include/pricing_meta.php:546
+msgid "Add new Price Plan"
+msgstr "إضافة خطة الأسعار الجديدة"
+
+#: ../include/pricing_meta.php:679 ../include/pricing_meta.php:873 ..
+#: /include/pricing_meta.php:1072 ../include/pricing_meta.php:1182
+msgid "To"
+msgstr "إلى"
+
+#: ../include/pricing_meta.php:682 ../include/pricing_meta.php:876
+msgid "Edit Prices"
+msgstr "تحرير الأسعار"
+
+#: ../include/pricing_meta.php:807 ../include/pricing_meta.php:997
+#, php-format
+msgid "Adult %s"
+msgstr "الكبار ٪ الصورة"
+
+#: ../include/pricing_meta.php:1081 ../include/pricing_meta.php:1191
+msgid "Days"
+msgstr "أيام"
+
+#: ../include/pricing_meta.php:1088 ../include/pricing_meta.php:1150 ..
+#: /include/pricing_meta.php:1198 ../include/pricing_meta.php:1257
+msgid "Edit Offer"
+msgstr "تحرير عرض"
+
+#: ../include/reviews_meta.php:36 ../include/reviews_meta.php:188
+msgid "Reviews Options"
+msgstr "استعراض الخيارات"
+
+#: ../include/reviews_meta.php:56
+msgid "Please enter a Booking Id"
+msgstr "الرجاء إدخال رقم الحجز"
+
+#: ../include/reviews_meta.php:68
+msgid "Please enter valid Booking Id"
+msgstr "الرجاء إدخال صحيح رقم الحجز"
+
+#: ../include/reviews_meta.php:110 ../include/reviews_meta.php:161
+msgid "pending"
+msgstr "ريثما"
+
+#: ../include/reviews_meta.php:111
+msgid "You have Already Submit a Review."
+msgstr "لديك بالفعل إرسال تعليق ."
+
+#: ../include/reviews_meta.php:162
+msgid ""
+"Your Given Review will be Sent to Administrators. Once your Review has been "
+"Approved. Review Will be Posted publicly on the web"
+msgstr ""
+"سيتم إرسال مراجعتك بالنظر إلى المسؤولين . مرة واحدة وقد تمت الموافقة على "
+"مراجعة الخاص بك . مراجعة وسيتم نشر علنا على شبكة الإنترنت"
+
+#: ../include/reviews_meta.php:165
+msgid "Your Given Review has been Approved and Will be Posted publicly on the web"
+msgstr "وقد تمت الموافقة مراجعتك معين و سوف يتم نشر علنا على شبكة الإنترنت"
+
+#: ../include/reviews_meta.php:174
+msgid "Some error occur please try again later."
+msgstr "بعض الأخطاء تحدث يرجى المحاولة مرة أخرى في وقت لاحق ."
+
+#: ../include/reviews_meta.php:196
+msgid "Select User"
+msgstr "حدد المستخدم"
+
+#: ../include/reviews_meta.php:197
+msgid "Select The User."
+msgstr "حدد المستخدم ."
+
+#: ../include/reviews_meta.php:242
+msgid "Select The Rating"
+msgstr "تحديد و تقييم"
+
+#: ../include/transactions_meta.php:23 ../include/transactions_meta.php:23 ..
+#: /include/transactions_meta.php:168
+msgid "Transactions"
+msgstr "المعاملات"
+
+#: ../include/transactions_meta.php:47 ../include/transactions_meta.php:283
+msgid "Transaction Id already exist."
+msgstr "وجود عملية معرف بالفعل ."
+
+#: ../include/transactions_meta.php:97
+msgid "Some error occur, please try again later"
+msgstr "بعض الأخطاء تحدث ، يرجى المحاولة مرة أخرى في وقت لاحق"
+
+#: ../include/transactions_meta.php:122
+msgid "Status Updated."
+msgstr "تم تحديث الحالة ."
+
+#: ../include/transactions_meta.php:127
+msgid "Please status"
+msgstr "مركز الرجاء"
+
+#: ../include/transactions_meta.php:169
+msgid "+ Add New Transaction"
+msgstr "+ إضافة عملية جديدة"
+
+#: ../include/transactions_meta.php:174 ../include/transactions_meta.php:186 ..
+#: /include/transactions_meta.php:373
+msgid "Transaction Id"
+msgstr "عملية معرف"
+
+#: ../include/transactions_meta.php:176 ../include/transactions_meta.php:188
+msgid "Customer"
+msgstr "زبون"
+
+#: ../include/transactions_meta.php:177 ../include/transactions_meta.php:189
+msgid "Payment Type"
+msgstr "نوع الدفع"
+
+#: ../include/transactions_meta.php:178 ../include/transactions_meta.php:190
+msgid "Amount"
+msgstr "كمية"
+
+#: ../include/transactions_meta.php:220 ../include/transactions_meta.php:319 ..
+#: /include/transactions_meta.php:462
+msgid "Approved"
+msgstr "وافق"
+
+#: ../include/transactions_meta.php:329
+msgid "Transaction Added."
+msgstr "واضاف المعاملة."
+
+#: ../include/transactions_meta.php:350
+msgid "Select Payment Gateway"
+msgstr "اختر بوابة الدفع"
+
+#: ../include/transactions_meta.php:363 ../include/transactions_meta.php:467 ..
+#: /include/transactions_meta.php:470
+msgid "Add Transaction"
+msgstr "إضافة عملية"
+
+#: ../include/transactions_meta.php:436
+msgid "Gross Amount"
+msgstr "المبلغ الإجمالي"
+
+#: ../include/transactions_meta.php:446
+msgid "Payment Gateway"
+msgstr "بوابة الدفع"
+
+#: ../include/types_meta.php:19 ../include/types_meta.php:19
+msgid "Vehicle Types"
+msgstr "أنواع السيارات"
+
+#: ../include/types_meta.php:50
+msgid "Manage Types"
+msgstr "إدارة أنواع"
+
+#: ../include/types_meta.php:51
+msgid "+ Add New Type"
+msgstr "+ إضافة نوع جديد"
+
+#: ../include/types_meta.php:118
+msgid "Edit Type"
+msgstr "تحرير النوع"
+
+#: ../include/types_meta.php:152
+msgid "Update Type"
+msgstr "تحديث النوع"
+
+#: ../include/types_meta.php:171
+msgid "Add New Vehicle Type"
+msgstr "إضافة نوع مركبة جديدة"
+
+#: ../include/types_meta.php:181
+msgid "Vehicle Type Name"
+msgstr "نوع السيارة اسم"
+
+#: ../include/types_meta.php:206
+msgid "Add Type"
+msgstr "إضافة نوع"
+
+#: ../include/types_meta.php:250
+msgid "Vehicle Type already exist."
+msgstr "نوع السيارة موجودة بالفعل ."
+
+#: ../include/types_meta.php:260
+msgid "Vehicle Type Updated."
+msgstr "نوع السيارة المحدثة."
+
+#: ../include/types_meta.php:285
+msgid "Vehicle Type Added."
+msgstr "نوع السيارة أضيف ."
+
+#: ../include/types_meta.php:316
+msgid "Vehicle Type Deleted."
+msgstr "نوع السيارة المحذوفة ."
+
+#: ../include/vahicles_meta.php:10
+msgid "Vehicles Options"
+msgstr "سيارات الخيارات"
+
+#: ../include/vahicles_meta.php:11
+msgid "Vehicle Gallery"
+msgstr "معرض السيارات"
+
+#: ../include/vahicles_meta.php:18
+msgid "Add Vehicle Gallery"
+msgstr "إضافة معرض سيارات"
+
+#: ../include/vahicles_meta.php:89
+msgid "select No of Vehicles"
+msgstr "تحديد عدد المركبات"
+
+#: ../include/vahicles_meta.php:126
+msgid "Drop up Locations"
+msgstr "إسقاط ما يصل المواقع"
+
+#: ../include/vahicles_meta.php:147
+msgid "Vehicles Prefix"
+msgstr "سيارات البادئة"
+
+#: ../include/vahicles_meta.php:157
+msgid "Number of Vehicles"
+msgstr "عدد من المركبات"
+
+#: ../include/vahicles_meta.php:168
+msgid "Number of Passengers"
+msgstr "عدد الركاب"
+
+#: ../include/vahicles_meta.php:188
+msgid "Features List"
+msgstr "قائمة الميزات"
+
+#: ../include/vahicles_meta.php:198
+msgid "Extra Features List"
+msgstr "قائمة ميزات اضافية"
+
+#: ../locations/functions.php:39 ../templates/templates_functions.php:563 ..
+#: /templates/templates_functions.php:784 ../vehicles/functions.php:39 ..
+#: /vehicles/single-vehicles.php:88
+msgid "Starts from"
+msgstr "يبدأ من"
+
+#: ../locations/functions.php:41 ../vehicles/functions.php:41
+msgid "Vehicle Detail"
+msgstr "تفاصيل السيارة"
+
+#: ../locations/functions.php:63 ../locations/functions.php:87 ..
+#: /vehicles/functions.php:63 ../vehicles/functions.php:87
+msgid "reviews"
+msgstr "استعراض"
+
+#: ../locations/locations-default.php:40 ../locations/locations-listing.php:48 ..
+#: /templates/templates_functions.php:820 ../templates/vehicle_search.php:350
+msgid "No Vehicle found"
+msgstr "لم يتم العثور على المركبات"
+
+#: ../locations/locations_element.php:54
+msgid "Edit Locations Options"
+msgstr "خيارات تحرير المواقع"
+
+#: ../locations/locations_element.php:61 ../shortcodes/admin/vehicle_search.php:
+#: 55 ../vehicles/vehicles_element.php:61
+msgid "Section Title"
+msgstr "القسم عنوان"
+
+#: ../locations/locations_element.php:68 ../locations/locations_element.php:74
+msgid "Style"
+msgstr "أسلوب"
+
+#: ../locations/locations_element.php:73
+msgid "default"
+msgstr "الافتراضي"
+
+#: ../locations/locations_element.php:78
+msgid "choose a style type for accordion element"
+msgstr "اختيار نوع أسلوب ل عنصر الأكورديون"
+
+#: ../locations/locations_element.php:84 ../vehicles/vehicles_element.php:114
+msgid "Post Order"
+msgstr "مشاركة ترتيب"
+
+#: ../locations/locations_element.php:90 ../vehicles/vehicles_element.php:120
+msgid "Asc"
+msgstr "تصاعدي"
+
+#: ../locations/locations_element.php:91 ../vehicles/vehicles_element.php:121
+msgid "DESC"
+msgstr "تنازلي"
+
+#: ../locations/locations_element.php:99 ../locations/locations_element.php:103 ..
+#: /vehicles/vehicles_element.php:142 ../vehicles/vehicles_element.php:146
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: ../locations/locations_element.php:104 ../vehicles/vehicles_element.php:147
+msgid "Single Page"
+msgstr "صفحة واحدة"
+
+#: ../locations/locations_element.php:110 ../vehicles/vehicles_element.php:156
+msgid "No. of Post Per Page"
+msgstr "رقم البريد لكل صفحة"
+
+#: ../locations/locations_element.php:117 ../vehicles/vehicles_element.php:163
+msgid "To display all the records, leave this field blank"
+msgstr "لعرض كافة السجلات ، اترك هذا الحقل فارغا"
+
+#: ../locations/locations_element.php:123 ../shortcodes/admin/vehicle_search.php:
+#: 64 ../vehicles/vehicles_element.php:169
+msgid "Insert"
+msgstr "أدخل"
+
+#: ../locations/single-lcoations.php:94
+msgid "Monthly Promotions"
+msgstr "الترقيات الشهرية"
+
+#: ../payments/class-payments.php:31 ../payments/class-payments.php:33
+msgid "Select Currency"
+msgstr "اختر العملة"
+
+#: ../payments/class-payments.php:40
+msgid "Currency Sign"
+msgstr "العملة تسجيل"
+
+#: ../payments/class-payments.php:42
+msgid "Use Currency Sign eg: &pound;,&yen;"
+msgstr "استخدام العملات توقع على سبيل المثال : & باوند؛ ، & ين ."
+
+#: ../payments/gateways/class-2checkout.php:23 ../payments/gateways/class-
+#: authorize.net.php:53 ../payments/gateways/class-bank-transfer.php:43 ..
+#: /payments/gateways/class-paypal.php:52 ../payments/gateways/class-skrill.php:44
+msgid "Custom Logo"
+msgstr "شعار مخصص"
+
+#: ../payments/gateways/class-2checkout.php:32 ../payments/gateways/class-
+#: authorize.net.php:62 ../payments/gateways/class-bank-transfer.php:52 ..
+#: /payments/gateways/class-paypal.php:61 ../payments/gateways/class-skrill.php:53
+msgid "Default Status"
+msgstr "الحالة الافتراضية"
+
+#: ../payments/gateways/class-2checkout.php:34 ../payments/gateways/class-
+#: authorize.net.php:64 ../payments/gateways/class-bank-transfer.php:54 ..
+#: /payments/gateways/class-paypal.php:63 ../payments/gateways/class-skrill.php:55
+msgid "Show/Hide Gateway On Front End."
+msgstr "إظهار / إخفاء العبارة على الأمامية ."
+
+#: ../payments/gateways/class-2checkout.php:41
+msgid "2CheckOut Sandbox"
+msgstr ""
+
+#: ../payments/gateways/class-2checkout.php:43 ../payments/gateways/class-
+#: authorize.net.php:73 ../payments/gateways/class-paypal.php:72
+msgid "Only for Developer use."
+msgstr "فقط للاستخدام المطور."
+
+#: ../payments/gateways/class-2checkout.php:50
+msgid "2CheckOut Business Email"
+msgstr ""
+
+#: ../payments/gateways/class-2checkout.php:59
+msgid "2CheckOut Ipn Url"
+msgstr ""
+
+#: ../payments/gateways/class-2checkout.php:61 ../payments/gateways/class-paypal.
+#: php:90 ../payments/gateways/class-skrill.php:73
+msgid "Do not edit this Url"
+msgstr "لا تعديل هذه رابط"
+
+#: ../payments/gateways/class-authorize.net.php:37 ../payments/gateways/class-
+#: authorize.net.php:39
+msgid "Authorize.net Settings"
+msgstr "إعدادات Authorize.net"
+
+#: ../payments/gateways/class-authorize.net.php:71
+msgid "Authorize.net Sandbox"
+msgstr "Authorize.net رمل"
+
+#: ../payments/gateways/class-authorize.net.php:80
+msgid "Login Id"
+msgstr "معرف تسجيل الدخول"
+
+#: ../payments/gateways/class-authorize.net.php:82
+msgid "This is API Login Id"
+msgstr "هذا هو API معرف تسجيل الدخول"
+
+#: ../payments/gateways/class-authorize.net.php:88
+msgid "Transaction Key"
+msgstr "عملية مفتاح"
+
+#: ../payments/gateways/class-authorize.net.php:90
+msgid "API Transaction Key"
+msgstr "عملية API مفتاح"
+
+#: ../payments/gateways/class-authorize.net.php:97
+msgid "Authorize.net Ipn Url"
+msgstr "Authorize.net معهد البوليتكنيك الوطني رابط"
+
+#: ../payments/gateways/class-authorize.net.php:99
+msgid "Do not edit this url"
+msgstr "لا تعديل هذا الرابط"
+
+#: ../payments/gateways/class-bank-transfer.php:27 ../payments/gateways/class-
+#: bank-transfer.php:29
+msgid "Bank Transfer Settings"
+msgstr "إعدادات التحويل المصرفي"
+
+#: ../payments/gateways/class-bank-transfer.php:60 ../payments/gateways/class-
+#: bank-transfer.php:123
+msgid "Bank Information"
+msgstr "المعلومات المصرفية"
+
+#: ../payments/gateways/class-bank-transfer.php:62
+msgid "Enter the bank name to which you want to transfer payment"
+msgstr "أدخل اسم البنك الذي تريد نقل الدفع"
+
+#: ../payments/gateways/class-bank-transfer.php:67
+msgid "Account Number"
+msgstr "رقم الحساب"
+
+#: ../payments/gateways/class-bank-transfer.php:69
+msgid "Enter your bank Account Id"
+msgstr "دخول البنك الذي تتعامل معه رقم الحساب"
+
+#: ../payments/gateways/class-bank-transfer.php:74 ../payments/gateways/class-
+#: bank-transfer.php:137
+msgid "Other Information"
+msgstr "معلومات اخرى"
+
+#: ../payments/gateways/class-bank-transfer.php:76
+msgid "Enter your bank Other Information."
+msgstr "دخول البنك الذي تتعامل معه معلومات أخرى ."
+
+#: ../payments/gateways/class-bank-transfer.php:119 ../templates/confirmation.php:
+#: 27
+msgid "Order detail"
+msgstr "ترتيب التفاصيل"
+
+#: ../payments/gateways/class-bank-transfer.php:130
+msgid "Account No"
+msgstr "رقم الحساب"
+
+#: ../payments/gateways/class-bank-transfer.php:151 ../templates/confirmation.php:
+#: 53
+msgid "Booked Vehicle"
+msgstr "سيارة إنذار"
+
+#: ../payments/gateways/class-paypal.php:36 ../payments/gateways/class-paypal.php:
+#: 38
+msgid "Paypal Settings"
+msgstr "إعدادات باي بال"
+
+#: ../payments/gateways/class-paypal.php:70
+msgid "Paypal Sandbox"
+msgstr "باي بال رمل"
+
+#: ../payments/gateways/class-paypal.php:79
+msgid "Paypal Business Email"
+msgstr "باي بال الأعمال البريد الالكتروني"
+
+#: ../payments/gateways/class-paypal.php:88
+msgid "Paypal Ipn Url"
+msgstr "باي بال معهد البوليتكنيك الوطني رابط"
+
+#: ../payments/gateways/class-skrill.php:28 ../payments/gateways/class-skrill.php:
+#: 30
+msgid "Skrill-Money Booker Settings"
+msgstr "سكريل الأموال إعدادات بوكر"
+
+#: ../payments/gateways/class-skrill.php:62
+msgid "Skrill-Money Booker Business Email"
+msgstr "سكريل - المال بوكير الأعمال البريد الالكتروني"
+
+#: ../payments/gateways/class-skrill.php:71
+msgid "Skrill-Money Booker Ipn Url"
+msgstr "سكريل - المال بوكير معهد البوليتكنيك الوطني رابط"
+
+#: ../post-types/booking.php:40 ../post-types/booking.php:41 ../post-
+#: types/booking.php:42 ../settings/includes/plugin_options.php:147
+msgid "Bookings"
+msgstr "الحجوزات"
+
+#: ../post-types/booking.php:43
+msgid "Add Booking"
+msgstr "إضافة الحجز"
+
+#: ../post-types/booking.php:44
+msgid "Add New Booking"
+msgstr "إضافة جديد الحجز"
+
+#: ../post-types/booking.php:45 ../post-types/locations.php:36
+msgid "Edit"
+msgstr "تحرير"
+
+#: ../post-types/booking.php:46
+msgid "Edit Booking"
+msgstr "تحرير الحجز"
+
+#: ../post-types/booking.php:47
+msgid "New Booking"
+msgstr "الحجز الجديد"
+
+#: ../post-types/booking.php:48 ../post-types/booking.php:49
+msgid "View Booking"
+msgstr "عرض الحجز"
+
+#: ../post-types/booking.php:50
+msgid "Search Booking"
+msgstr "بحث الحجز"
+
+#: ../post-types/booking.php:51
+msgid "No Booking found"
+msgstr "لا توجد الحجز"
+
+#: ../post-types/booking.php:52
+msgid "No Booking found in trash"
+msgstr "لا توجد في سلة المهملات الحجز"
+
+#: ../post-types/booking.php:53
+msgid "Parent Booking"
+msgstr "الحجز الأم"
+
+#: ../post-types/booking.php:57
+msgid "This is where you can add new booking"
+msgstr "هذا هو المكان الذي يمكنك إضافة حجز جديد"
+
+#: ../post-types/booking.php:79
+msgid "Guest"
+msgstr "ضيف"
+
+#: ../post-types/booking.php:80
+msgid "Check-in /Check-out"
+msgstr "تسجيل إجراءات الوصول / تاريخ المغادرة"
+
+#: ../post-types/booking.php:82
+msgid "Paid"
+msgstr "دفع"
+
+#: ../post-types/locations.php:31 ../post-types/locations.php:32 ../post-
+#: types/locations.php:33 ../settings/includes/plugin_options.php:148
+msgid "Locations"
+msgstr "المواقع"
+
+#: ../post-types/locations.php:34
+msgid "Add Location"
+msgstr "اضف مكان"
+
+#: ../post-types/locations.php:35
+msgid "Add New Location"
+msgstr "إضافة موقع جديد"
+
+#: ../post-types/locations.php:37
+msgid "Edit Location"
+msgstr "تحرير الموقع"
+
+#: ../post-types/locations.php:38
+msgid "New Location"
+msgstr "جديد الموقع"
+
+#: ../post-types/locations.php:39 ../post-types/locations.php:40
+msgid "View Location"
+msgstr "عرض الموقع"
+
+#: ../post-types/locations.php:41
+msgid "Search Location"
+msgstr "البحث عن موقع"
+
+#: ../post-types/locations.php:42
+msgid "No Location found"
+msgstr "الموقع غير جدت"
+
+#: ../post-types/locations.php:43
+msgid "No Location found in trash"
+msgstr "الموقع غير موجودة في سلة المهملات"
+
+#: ../post-types/locations.php:44
+msgid "Parent Location"
+msgstr "الموقع الوالد"
+
+#: ../post-types/locations.php:48
+msgid "This is where you can add new Location"
+msgstr "هذا هو المكان الذي يمكنك إضافة مكان جديد"
+
+#: ../post-types/locations.php:69 ../settings/includes/plugin_options.php:276
+msgid "Phone"
+msgstr "هاتف"
+
+#: ../post-types/reviews.php:9
+msgid "Users"
+msgstr "المستخدمين"
+
+#: ../post-types/reviews.php:10
+msgid "Vehicle"
+msgstr "مركبة"
+
+#: ../post-types/reviews.php:11
+msgid "Rating"
+msgstr "تصنيف"
+
+#: ../post-types/reviews.php:86
+msgid "Reviews"
+msgstr "التعليقات"
+
+#: ../post-types/reviews.php:87 ../post-types/reviews.php:90
+msgid "Add New Review"
+msgstr "أضف تقييم جديد"
+
+#: ../post-types/reviews.php:88
+msgid "Edit Review"
+msgstr "تحرير مراجعة"
+
+#: ../post-types/reviews.php:89
+msgid "New Review Item"
+msgstr "جديدة مراجعة البند"
+
+#: ../post-types/reviews.php:91
+msgid "View Reviews Item"
+msgstr "عرض آراء البند"
+
+#: ../post-types/reviews.php:92
+msgid "Search Reviews"
+msgstr "إبحث عن التعليقات"
+
+#: ../post-types/reviews.php:93 ../post-types/vehicles.php:38
+msgid "Nothing found"
+msgstr "وجدت شيئا"
+
+#: ../post-types/reviews.php:94 ../post-types/vehicles.php:39
+msgid "Nothing found in Trash"
+msgstr "وجدت شيئا في سلة المهملات"
+
+#: ../post-types/vehicles.php:30 ../post-types/vehicles.php:31 ..
+#: /settings/includes/plugin_options.php:149
+msgid "Vehicles"
+msgstr "سيارات"
+
+#: ../post-types/vehicles.php:32 ../post-types/vehicles.php:35
+msgid "Add New Vehicle"
+msgstr "إضافة مركبة جديدة"
+
+#: ../post-types/vehicles.php:33
+msgid "Edit Vehicle"
+msgstr "تحرير المركبات"
+
+#: ../post-types/vehicles.php:34
+msgid "New Vehicle Item"
+msgstr "مركبة جديدة البند"
+
+#: ../post-types/vehicles.php:36
+msgid "View Vehicle Item"
+msgstr "عرض سيارة البند"
+
+#: ../post-types/vehicles.php:37
+msgid "Search"
+msgstr "بحث"
+
+#: ../post-types/vehicles.php:62
+msgid "No of Passengers"
+msgstr "عدد الركاب"
+
+#: ../post-types/vehicles.php:64
+msgid "Gallery"
+msgstr "رواق"
+
+#: ../settings/plugin_settings.php:23 ../settings/plugin_settings.php:23
+msgid "Settings"
+msgstr "إعدادات"
+
+#: ../settings/plugin_settings.php:54
+msgid "Add Extra Facility"
+msgstr "إضافة مرفق إضافي"
+
+#: ../settings/plugin_settings.php:55 ../settings/plugin_settings.php:320 ..
+#: /settings/plugin_settings.php:321 ../settings/plugin_settings.php:513 ..
+#: /settings/plugin_settings.php:514
+msgid "Add Facility"
+msgstr "إضافة مرفق"
+
+#: ../settings/plugin_settings.php:88 ../settings/plugin_settings.php:213 ..
+#: /settings/plugin_settings.php:353 ../settings/plugin_settings.php:432 ..
+#: /settings/plugin_settings.php:544 ../settings/plugin_settings.php:610
+msgid "Facility Settings"
+msgstr "إعدادات منشأة"
+
+#: ../settings/plugin_settings.php:114 ../settings/plugin_settings.php:242
+msgid "Type"
+msgstr "اكتب"
+
+#: ../settings/plugin_settings.php:121 ../settings/plugin_settings.php:250
+msgid "None"
+msgstr "لا شيء"
+
+#: ../settings/plugin_settings.php:121 ../settings/plugin_settings.php:250
+msgid "One Time"
+msgstr "مرة واحدة"
+
+#: ../settings/plugin_settings.php:121 ../settings/plugin_settings.php:250
+msgid "Daily"
+msgstr "يوميا"
+
+#: ../settings/plugin_settings.php:127 ../settings/plugin_settings.php:256
+msgid "Frontend Changeable"
+msgstr "الواجهة للتغيير"
+
+#: ../settings/plugin_settings.php:195
+#, php-format
+msgid "This feature \"%s\" is already exist. Please create with another Title."
+msgstr "هذه الميزة \"٪ ق \" غير موجودة بالفعل . يرجى خلق مع عنوان آخر."
+
+#: ../settings/plugin_settings.php:218 ../settings/plugin_settings.php:437 ..
+#: /settings/plugin_settings.php:615
+msgid "Facility Title"
+msgstr "مرفق عنوان"
+
+#: ../settings/plugin_settings.php:285 ../settings/plugin_settings.php:478 ..
+#: /settings/plugin_settings.php:645
+msgid "Update Facility"
+msgstr "تحديث مرفق"
+
+#: ../settings/plugin_settings.php:367 ../settings/plugin_settings.php:448
+msgid "Image"
+msgstr "صورة"
+
+#: ../settings/plugin_settings.php:680 ../settings/plugin_settings.php:681 ..
+#: /vehicles/single-vehicles.php:347
+msgid "Add Review"
+msgstr "إضافة تعليق"
+
+#: ../settings/plugin_settings.php:711 ../settings/plugin_settings.php:770
+msgid "Review Settings"
+msgstr "إعدادات مراجعة"
+
+#: ../settings/plugin_settings.php:775
+msgid "Review Title"
+msgstr "عنوان المراجعة"
+
+#: ../settings/plugin_settings.php:792
+msgid "Update Review"
+msgstr "مراجعة التحديث"
+
+#: ../settings/includes/plugin_options.php:16
+msgid "Saving changes..."
+msgstr "حفظ التغييرات ..."
+
+#: ../settings/includes/plugin_options.php:38
+msgid "Save All Settings"
+msgstr "حفظ جميع إعدادات"
+
+#: ../settings/includes/plugin_options.php:41 ..
+#: /settings/includes/plugin_options_functions.php:33
+msgid "Reset All Options"
+msgstr "إعادة تعيين جميع الخيارات"
+
+#: ../settings/includes/plugin_options.php:42
+msgid "Demo Options"
+msgstr "خيارات العرض"
+
+#: ../settings/includes/plugin_options.php:159 ..
+#: /settings/includes/plugin_options.php:214
+msgid "General Options"
+msgstr "خيارات عامة"
+
+#: ../settings/includes/plugin_options.php:168 ..
+#: /settings/includes/plugin_options.php:356
+msgid "Payment Settings"
+msgstr "إعدادات الدفع"
+
+#: ../settings/includes/plugin_options.php:177
+msgid "Payment Gateways"
+msgstr "بوابات الدفع"
+
+#: ../settings/includes/plugin_options.php:195 ..
+#: /settings/includes/plugin_options.php:452
+msgid "Features"
+msgstr "ميزات"
+
+#: ../settings/includes/plugin_options.php:204 ..
+#: /settings/includes/plugin_options.php:474
+msgid "Facilities"
+msgstr "مرافق"
+
+#: ../settings/includes/plugin_options.php:221
+msgid "Booking Settings"
+msgstr "إعدادات الحجز"
+
+#: ../settings/includes/plugin_options.php:226
+msgid "Reservation Page"
+msgstr "تحفظ الصفحة"
+
+#: ../settings/includes/plugin_options.php:228
+msgid ""
+"Go to Pages and create New Page, Assign User Reservation Template and then "
+"choose that New Page here"
+msgstr ""
+"انتقل إلى صفحات و إنشاء صفحة جديدة ، تعيين قالب الحجز المستخدم و ثم اختيار "
+"صفحة جديدة هنا"
+
+#: ../settings/includes/plugin_options.php:234
+msgid "Allow Booking"
+msgstr "السماح الحجز"
+
+#: ../settings/includes/plugin_options.php:244
+msgid "Advance Deposit"
+msgstr "مقدما الإيداع"
+
+#: ../settings/includes/plugin_options.php:246
+msgid "Allow advance deposit %"
+msgstr "السماح مسبقة ٪ ودائع"
+
+#: ../settings/includes/plugin_options.php:252
+msgid "Full Payment"
+msgstr "دفع كامل"
+
+#: ../settings/includes/plugin_options.php:261 ..
+#: /settings/includes/plugin_options.php:263
+msgid "Booking Thank you Message"
+msgstr "حجز شكرا لك رسالة"
+
+#: ../settings/includes/plugin_options.php:272
+msgid "Thank you for booking with us."
+msgstr "شكرا ل حجز معنا ."
+
+#: ../settings/includes/plugin_options.php:284
+msgid "Fax"
+msgstr "فاكس"
+
+#: ../settings/includes/plugin_options.php:300 ../vehicles/single-vehicles.php:343
+msgid "Message"
+msgstr "رسالة"
+
+#: ../settings/includes/plugin_options.php:308 ..
+#: /settings/includes/plugin_options.php:310
+msgid "Vehicles Settings"
+msgstr "سيارات إعدادات"
+
+#: ../settings/includes/plugin_options.php:316
+msgid "Total No of Vehicles"
+msgstr "لا الكلي لل مركبات"
+
+#: ../settings/includes/plugin_options.php:318
+msgid "Add total no of vehicles eg: 100"
+msgstr "يضيف مجموع عدد المركبات على سبيل المثال : 100"
+
+#: ../settings/includes/plugin_options.php:325
+msgid "Language Settings"
+msgstr "اعدادات اللغة"
+
+#: ../settings/includes/plugin_options.php:333
+msgid "Select Language File"
+msgstr "حدد ملف اللغة"
+
+#: ../settings/includes/plugin_options.php:346
+msgid "Select Plugin Language"
+msgstr "حدد البرنامج المساعد اللغة"
+
+#: ../settings/includes/plugin_options.php:361 ..
+#: /settings/includes/plugin_options.php:363
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+#: ../settings/includes/plugin_options.php:368
+msgid "VAT On/Off"
+msgstr "VAT تشغيل / إيقاف"
+
+#: ../settings/includes/plugin_options.php:377
+msgid "VAT(Value Added Tax) in %"
+msgstr ""
+
+#: ../settings/includes/plugin_options.php:379
+msgid "Add Numeric value eg:14"
+msgstr "إضافة قيمة رقمية على سبيل المثال : 14"
+
+#: ../settings/includes/plugin_options.php:387 ..
+#: /settings/includes/plugin_options.php:389
+msgid "Currency Settings"
+msgstr "إعدادات العملة"
+
+#: ../settings/includes/plugin_options.php:403
+msgid "Gateways Settings"
+msgstr "إعدادات بوابات"
+
+#: ../settings/includes/plugin_options.php:431 ..
+#: /settings/includes/plugin_options.php:444
+msgid "Extras Settings"
+msgstr "إعدادات الإضافات"
+
+#: ../settings/includes/plugin_options.php:435
+msgid "Extras On/Off"
+msgstr "إضافات تشغيل / إيقاف"
+
+#: ../settings/includes/plugin_options.php:446
+msgid "Add/Edit Extras"
+msgstr "إضافة / تحرير إضافات"
+
+#: ../settings/includes/plugin_options.php:456
+msgid "Features On/Off"
+msgstr "ميزات تشغيل / إيقاف"
+
+#: ../settings/includes/plugin_options.php:464
+msgid "Add Features"
+msgstr "إضافة ميزات"
+
+#: ../settings/includes/plugin_options.php:478
+msgid "Facilities On/Off"
+msgstr "مرافق تشغيل / إيقاف"
+
+#: ../settings/includes/plugin_options.php:486
+msgid "Add Facilities"
+msgstr "إضافة المرافق"
+
+#: ../settings/includes/plugin_options.php:496 ..
+#: /settings/includes/plugin_options.php:504
+msgid "import & export"
+msgstr "استيراد وتصدير"
+
+#: ../settings/includes/plugin_options.php:508
+msgid "Export"
+msgstr "تصدير"
+
+#: ../settings/includes/plugin_options.php:510
+msgid ""
+"If you want to make changes in your site or want to preserve your current "
+"settings, Export them code by saving this code with you. You can restore "
+"your settings by pasting this code in Import section below"
+msgstr ""
+"إذا كنت ترغب في إجراء تغييرات في موقعك أو ترغب في الحفاظ على الإعدادات "
+"الحالية ، تصديرها التعليمات البرمجية عن طريق توفير هذا الرمز معك . يمكنك "
+"استعادة الإعدادات الخاصة بك عن طريق لصق هذا الرمز في استيراد أدناه"
+
+#: ../settings/includes/plugin_options.php:516
+msgid "Import"
+msgstr "استيراد"
+
+#: ../settings/includes/plugin_options.php:518
+msgid ""
+"To Import your settings, paste the code that you got in above area and saved "
+"it with you"
+msgstr ""
+"استيراد الإعدادات الخاصة بك ، قم بلصق التعليمة البرمجية التي حصلت في المنطقة "
+"المذكورة أعلاه، و حفظه معك"
+
+#: ../settings/includes/plugin_options_fields.php:630
+msgid "Please select a page"
+msgstr "الرجاء اختيار الصفحة"
+
+#: ../settings/includes/plugin_options_functions.php:19
+msgid "All Settings Saved"
+msgstr "جميع الإعدادات المحفوظة"
+
+#: ../settings/includes/plugin_options_functions.php:56
+msgid "Need to rent a car?"
+msgstr "تحتاج إلى استئجار سيارة ؟"
+
+#: ../settings/includes/plugin_options_functions.php:60
+msgid "Yes, I’m interested in renting a car for this trip."
+msgstr "نعم ، أنا مهتم في استئجار سيارة لهذه الرحلة ."
+
+#: ../settings/includes/plugin_options_functions.php:65
+msgid "Breakfast"
+msgstr "الإفطار"
+
+#: ../settings/includes/plugin_options_functions.php:69
+msgid "Breakfast costs £24.50 per person per night."
+msgstr "الإفطار تكلف 24،50 £ للشخص الواحد في الليلة الواحدة."
+
+#: ../settings/includes/plugin_options_functions.php:74
+msgid "Parking Space"
+msgstr "وقوف السيارات الفضاء"
+
+#: ../settings/includes/plugin_options_functions.php:78
+msgid "Private Parking is possible on Site and Costs 10£ per Day"
+msgstr "مواقف خاصة للسيارات في الموقع و تكاليف 10 £ لكل يوم"
+
+#: ../settings/includes/plugin_options_functions.php:86
+msgid "Balcony with view"
+msgstr "شرفة مطلة"
+
+#: ../settings/includes/plugin_options_functions.php:88 ..
+#: /settings/includes/plugin_options_functions.php:95 ..
+#: /settings/includes/plugin_options_functions.php:102 ..
+#: /settings/includes/plugin_options_functions.php:109 ..
+#: /settings/includes/plugin_options_functions.php:116 ..
+#: /settings/includes/plugin_options_functions.php:123
+msgid "Lorem ipsum dolor sit amet, consetetur sadipscing elitr."
+msgstr ""
+
+#: ../settings/includes/plugin_options_functions.php:93
+msgid "Flat-screen TV"
+msgstr "تلفاز بشاشة مسطحة"
+
+#: ../settings/includes/plugin_options_functions.php:100
+msgid "Air Conditioning"
+msgstr "تكييف الهواء"
+
+#: ../settings/includes/plugin_options_functions.php:107
+msgid "Private Pool"
+msgstr "بركة خاصة"
+
+#: ../settings/includes/plugin_options_functions.php:114
+msgid "Free WiFi"
+msgstr "واى فاى مجانى"
+
+#: ../settings/includes/plugin_options_functions.php:121
+msgid "Bath / Shower"
+msgstr "حمام / دش"
+
+#: ../settings/includes/plugin_options_functions.php:131
+msgid "Vehicle service"
+msgstr "خدمة السيارة"
+
+#: ../settings/includes/plugin_options_functions.php:136
+msgid "Cleanliness"
+msgstr "نظافة"
+
+#: ../settings/includes/plugin_options_functions.php:141
+msgid "Vehicle comfort"
+msgstr "راحة السيارة"
+
+#: ../settings/includes/plugin_options_functions.php:153
+msgid "Demo Options Saved"
+msgstr "عرض الخيارات المحفوظة"
+
+#: ../shortcodes/vehicle_search.php:57 ../templates/templates_functions.php:2232 .
+#: ./widgets/vehicle_search.php:112
+msgid "Select PickUp Location"
+msgstr "حدد التقاط الموقع"
+
+#: ../shortcodes/vehicle_search.php:76 ../templates/templates_functions.php:2249 .
+#: ./widgets/vehicle_search.php:129
+msgid "Please Drop Up Location"
+msgstr "يرجى قطرة حتى الموقع"
+
+#: ../shortcodes/vehicle_search.php:101 ../templates/templates_functions.php:2271 
+#: ../widgets/vehicle_search.php:151
+msgid "Pick up date & time"
+msgstr "إختيار التاريخ والوقت"
+
+#: ../shortcodes/vehicle_search.php:114 ../templates/templates_functions.php:2282 
+#: ../widgets/vehicle_search.php:162
+msgid "Drop date & time"
+msgstr "التاريخ والوقت قطرة"
+
+#: ../shortcodes/vehicle_search.php:130 ../templates/templates_functions.php:2296 
+#: ../widgets/vehicle_search.php:176
+msgid "Driver aged between 25 – 70?"
+msgstr "سائق تتراوح أعمارهم بين 25-70 ؟"
+
+#: ../shortcodes/vehicle_search.php:133 ../templates/templates_functions.php:2299 
+#: ../widgets/vehicle_search.php:179
+msgid "Search Car"
+msgstr "البحث عن سيارة"
+
+#: ../shortcodes/admin/vehicle_search.php:49
+msgid "Edit Vehicle Search"
+msgstr "تحرير البحث المركبات"
+
+#: ../shortcodes/admin/vehicle_search.php:72
+msgid "Save"
+msgstr "حفظ"
+
+#: ../templates/class_reservation_templates.php:29
+msgid "Reservation"
+msgstr "حجز"
+
+#: ../templates/confirmation.php:75
+msgid "Step 1"
+msgstr "الخطوة 1"
+
+#: ../templates/confirmation.php:75 ../templates/vehicle_search.php:129
+msgid "Add Essential"
+msgstr "إضافة الأساسية"
+
+#: ../templates/confirmation.php:78
+msgid "Step 2"
+msgstr "الخطوة 2"
+
+#: ../templates/confirmation.php:78 ../templates/vehicle_search.php:134
+msgid "Reservation and Payments"
+msgstr "الحجز و الدفع"
+
+#: ../templates/confirmation.php:81 ../templates/vehicle_search.php:139
+msgid "Step 3"
+msgstr "الخطوة 3"
+
+#: ../templates/confirmation.php:81 ../templates/vehicle_search.php:139
+msgid "Confirmation"
+msgstr "تأكيد"
+
+#: ../templates/confirmation.php:111 ../templates/templates_functions.php:1422
+msgid "For Cancellation or more information Please Contact us"
+msgstr "ل إلغاء أو مزيد من المعلومات يرجى الاتصال بنا"
+
+#: ../templates/confirmation.php:116 ../templates/templates_functions.php:1426
+msgid "Phone: "
+msgstr "الهاتف :"
+
+#: ../templates/confirmation.php:120
+msgid "Fax: "
+msgstr "الفاكس :"
+
+#: ../templates/confirmation.php:124 ../templates/templates_functions.php:1434
+msgid "Email: "
+msgstr "البريد الإلكتروني :"
+
+#: ../templates/confirmation.php:142 ../templates/page_reservation.php:94
+msgid "Oops! direct access is not allowed."
+msgstr "عفوا! غير مسموح الوصول المباشر."
+
+#: ../templates/page_reservation.php:92
+msgid "Oops! please select a vehicle type first."
+msgstr "عفوا! الرجاء اختيار نوع السيارة أولا."
+
+#: ../templates/page_reservation.php:110
+msgid "Booking is disabled."
+msgstr "تم تعطيل الحجز."
+
+#: ../templates/templates_functions.php:553 ../templates/templates_functions.php:
+#: 774 ../vehicles/single-vehicles.php:108
+msgid "Vehicle Features"
+msgstr "ميزات السيارة"
+
+#: ../templates/templates_functions.php:621
+msgid "Removed"
+msgstr "إزالة"
+
+#: ../templates/templates_functions.php:815
+msgid "Guests"
+msgstr "الضيوف"
+
+#: ../templates/templates_functions.php:815
+msgid " Adult(s)"
+msgstr "الكبار (ق )"
+
+#: ../templates/templates_functions.php:815
+msgid " Child(s)"
+msgstr "طفل ( الصورة )"
+
+#: ../templates/templates_functions.php:896
+msgid "Please fill required fileds"
+msgstr "يرجى ملء فيليدس المطلوبة"
+
+#: ../templates/templates_functions.php:900
+msgid "Booking Processing...."
+msgstr "الحجز تجهييز ...."
+
+#: ../templates/templates_functions.php:1155
+msgid "Continue"
+msgstr "استمر"
+
+#: ../templates/templates_functions.php:1186
+msgid "Your Detail"
+msgstr "التفاصيل الخاصة بك"
+
+#: ../templates/templates_functions.php:1192
+msgid "First Name *"
+msgstr "الاسم الأول *"
+
+#: ../templates/templates_functions.php:1199
+msgid "Last Name *"
+msgstr "اسم العائلة *"
+
+#: ../templates/templates_functions.php:1206
+msgid "Email *"
+msgstr "البريد الإلكتروني *"
+
+#: ../templates/templates_functions.php:1213
+msgid "Telephone Number"
+msgstr "رقم الهاتف"
+
+#: ../templates/templates_functions.php:1280
+msgid "Pay the rest on arrival"
+msgstr "دفع الباقي عند الوصول"
+
+#: ../templates/templates_functions.php:1299 ../templates/vehicle_search.php:58
+msgid "Total Amount"
+msgstr "المبلغ الإجمالي"
+
+#: ../templates/templates_functions.php:1300
+msgid "Including VAT"
+msgstr "بما في ذلك ضريبة القيمة المضافة"
+
+#: ../templates/templates_functions.php:1311
+msgid "Select Payment Method"
+msgstr "اختر طريقة الدفع"
+
+#: ../templates/templates_functions.php:1390
+msgid "Pay Now"
+msgstr "ادفع الآن"
+
+#: ../templates/templates_functions.php:1430
+msgid "Fax :"
+msgstr "الفاكس :"
+
+#: ../templates/templates_functions.php:1715
+msgid "Rented Car Features"
+msgstr "استأجر سيارة الميزات"
+
+#: ../templates/templates_functions.php:1745
+msgid "Quick Enquiry"
+msgstr "استفسار سريع"
+
+#: ../templates/templates_functions.php:1745
+msgid "Email to a Friend"
+msgstr "أرسل إلى صديق"
+
+#: ../templates/templates_functions.php:1966
+msgid "Vehicle:"
+msgstr "السيارة:"
+
+#: ../templates/templates_functions.php:1970 ../vehicles/vehicles-detailed.php:113
+msgid "Price Start From"
+msgstr "السعر تبدأ من"
+
+#: ../templates/templates_functions.php:1974
+msgid "Features:"
+msgstr "الميزات:"
+
+#: ../templates/templates_functions.php:1978
+msgid "Name:"
+msgstr "اسم:"
+
+#: ../templates/templates_functions.php:1982
+msgid "Email:"
+msgstr "البريد الإلكتروني :"
+
+#: ../templates/templates_functions.php:1990
+msgid "Message:"
+msgstr "الرسالة:"
+
+#: ../templates/templates_functions.php:2004 ../templates/templates_functions.php:
+#: 2055
+msgid "Email Sent Successfully"
+msgstr "البريد الإلكتروني المرسلة بنجاح"
+
+#: ../templates/templates_functions.php:2007
+msgid "Some error occur,please try again later"
+msgstr "بعض الأخطاء تحدث ، يرجى المحاولة مرة أخرى في وقت لاحق"
+
+#: ../templates/templates_functions.php:2146 ../templates/templates_functions.php:
+#: 2323
+msgid "Write your Report"
+msgstr "إرسال التقرير الخاص بك"
+
+#: ../templates/templates_functions.php:2160
+msgid "Subject"
+msgstr "موضوع"
+
+#: ../templates/templates_functions.php:2164 ../templates/templates_functions.php:
+#: 2334
+msgid "Write Description"
+msgstr "الكتابة الوصف"
+
+#: ../templates/templates_functions.php:2168 ../templates/templates_functions.php:
+#: 2338
+msgid "Send"
+msgstr "إرسال"
+
+#: ../templates/templates_functions.php:2196 ../templates/vehicle_search.php:152
+msgid "Booking"
+msgstr "الحجز"
+
+#: ../templates/templates_functions.php:2329
+msgid "Emails"
+msgstr "رسائل البريد الإلكتروني"
+
+#: ../templates/templates_functions.php:2331
+msgid "Write Email address,and hit Enter to add email in list."
+msgstr "كتابة عنوان البريد الإلكتروني، وهاهنا لإضافة البريد الإلكتروني في القائمة."
+
+#: ../templates/vehicle_search.php:24
+msgid "Your Booking"
+msgstr "الحجز الخاص بك"
+
+#: ../templates/vehicle_search.php:28
+msgid "PICKUP"
+msgstr "امسك"
+
+#: ../templates/vehicle_search.php:34 ../templates/vehicle_search.php:50
+msgid "Call"
+msgstr "مكالمة"
+
+#: ../templates/vehicle_search.php:44
+msgid "Return"
+msgstr "عودة"
+
+#: ../templates/vehicle_search.php:59
+msgid "Vat"
+msgstr "ضريبة"
+
+#: ../templates/vehicle_search.php:129
+msgid "STEP 1"
+msgstr "الخطوة 1"
+
+#: ../templates/vehicle_search.php:134
+msgid "STEP 2"
+msgstr "الخطوة 2"
+
+#: ../templates/vehicle_search.php:148
+msgid "We've found"
+msgstr "لقد وجدنا"
+
+#: ../templates/vehicle_search.php:151
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: ../vehicles/single-vehicles.php:79
+msgid "Vehicle Overview"
+msgstr "نظرة عامة على السيارة"
+
+#: ../vehicles/single-vehicles.php:95
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: ../vehicles/single-vehicles.php:139
+msgid "Complete Overview"
+msgstr "لمحة كاملة"
+
+#: ../vehicles/single-vehicles.php:146
+msgid "Share"
+msgstr "حصة"
+
+#: ../vehicles/single-vehicles.php:165
+#, php-format
+msgid "%s Reviews by guests"
+msgstr "٪ ق التعليقات مقدمة من نزلاء"
+
+#: ../vehicles/single-vehicles.php:246
+msgid "Looking for review? There is no review here!"
+msgstr "أبحث عن الاستعراض ؟ لا يوجد استعراض هنا !"
+
+#: ../vehicles/single-vehicles.php:259
+msgid "Leave a Review"
+msgstr "ترك تعليق"
+
+#: ../vehicles/single-vehicles.php:320
+msgid "Enter Name"
+msgstr "ادخل الاسم"
+
+#: ../vehicles/single-vehicles.php:325
+msgid "Enter Email"
+msgstr "أدخل البريد الإلكتروني"
+
+#: ../vehicles/single-vehicles.php:330
+msgid "Enter Subject"
+msgstr "أدخل الموضوع"
+
+#: ../vehicles/single-vehicles.php:336
+msgid "Enter Booking Id"
+msgstr "أدخل رقم الحجز"
+
+#: ../vehicles/vehicles-default.php:101 ../vehicles/vehicles-listing.php:90
+msgid "Price Starts From"
+msgstr "السعر يبدأ من"
+
+#: ../vehicles/vehicles-default.php:103 ../vehicles/vehicles-default.php:104
+msgid "Price for 3 day"
+msgstr "السعر لمدة 3 أيام"
+
+#: ../vehicles/vehicles-default.php:114 ../vehicles/vehicles-detailed.php:136 ..
+#: /vehicles/vehicles-listing.php:135 ../vehicles/vehicles-slider-view.php:103
+msgid "No Vehicles found"
+msgstr "لم يتم العثور على المركبات"
+
+#: ../vehicles/vehicles-listing.php:119
+msgid "Email me a quote"
+msgstr "البريد الالكتروني لي الاقتباس"
+
+#: ../vehicles/vehicles-slider-view.php:19
+msgid "Car Rental London West"
+msgstr "تأجير سيارة في لندن الغربية"
+
+#: ../vehicles/vehicles_element.php:54
+msgid "Edit Vehicles Options"
+msgstr "تحرير المركبات الخيارات"
+
+#: ../vehicles/vehicles_element.php:68
+msgid "View"
+msgstr "عرض"
+
+#: ../vehicles/vehicles_element.php:72
+msgid "Default"
+msgstr "افتراضي"
+
+#: ../vehicles/vehicles_element.php:73
+msgid "Detailed"
+msgstr "مفصل"
+
+#: ../vehicles/vehicles_element.php:103
+msgid "Filterable"
+msgstr "ترشيح"
+
+#: ../vehicles/vehicles_element.php:107
+msgid "Show"
+msgstr "عرض"
+
+#: ../vehicles/vehicles_element.php:108
+msgid "Hide"
+msgstr "إخفاء"
+
+#: ../vehicles/vehicles_element.php:129
+msgid "Length of Excerpt"
+msgstr "طول مقتطف"
+
+#: ../vehicles/vehicles_element.php:136
+msgid "Enter number of character for short description text"
+msgstr "أدخل عدد من الأحرف ل وصف النص القصير"
+
+#: ../vehicles/vehicles_element.php:150
+msgid "Pagination will not work in slider view."
+msgstr "سوف ترقيم الصفحات لا تعمل في عرض التمرير."
+
+#: ../vehicles/vehicles_template.php:146
+msgid "Sort by"
+msgstr "ترتيب حسب"
+
+#: ../vehicles/vehicles_template.php:149 ../vehicles/vehicles_template.php:160 ..
+#: /vehicles/vehicles_template.php:170
+msgid "Select Type"
+msgstr "حدد نوع"
+
+#: ../vehicles/vehicles_template.php:150
+msgid "Date"
+msgstr "تاريخ"
+
+#: ../vehicles/vehicles_template.php:151
+msgid "Alphabetical"
+msgstr "أبجدي"
+
+#: ../vehicles/vehicles_template.php:161
+msgid "Low"
+msgstr "منخفض"
+
+#: ../vehicles/vehicles_template.php:162
+msgid "High"
+msgstr "ارتفاع"
+
+#: ../vehicles/vehicles_template.php:167
+msgid "Type:"
+msgstr "اكتب:"

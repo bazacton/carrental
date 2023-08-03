@@ -1,0 +1,195 @@
+<?php
+
+/**
+ * @ Vehicle Search widget Class
+ *
+ *
+ */
+class vehicle_search extends WP_Widget {
+    /**
+     * Outputs the content of the widget
+     *
+     * @param array $args
+     * @param array $instance
+     */
+
+    /**
+     * @init Vehicle Search Module
+     *
+     *
+     */
+    public function __construct() {
+
+        parent::__construct(
+                'vehicle_search', // Base ID
+                __('CS : Vehicle Search', 'rental'), // Name
+                array('classname' => 'widget_text', 'description' => 'Footer Contact Information',) // Args
+        );
+    }
+
+    /**
+     * @Vehicle Search html form
+     *
+     *
+     */
+    function form($instance) {
+        $instance = wp_parse_args((array) $instance);
+        $title = isset($instance['title']) ? esc_attr($instance['title']) : '';
+
+        $randomID = rand(40, 9999999);
+        ?>    
+        <div style="margin-top:0px; float:left; width:100%;">
+            <p>
+                <label for="<?php echo cs_allow_special_char($this->get_field_id('title')); ?>"> <span><?php _e('Title', 'rental'); ?></span>
+                    <input class="upcoming" id="<?php echo cs_allow_special_char($this->get_field_id('title')); ?>" size="40" name="<?php echo cs_allow_special_char($this->get_field_name('title')); ?>" type="text" value="<?php echo esc_attr($title); ?>" />
+                </label>
+            </p>
+        </div>
+        <?php
+    }
+
+    /**
+     * @Update Info html form
+     *
+     *
+     */
+    function update($new_instance, $old_instance) {
+        $instance = $old_instance;
+        $instance['title'] = $new_instance['title'];
+        return $instance;
+    }
+
+    /**
+     * @Widget Info html form
+     *
+     *
+     */
+    function widget($args, $instance) {
+        global $cs_plugin_options;
+        extract($args, EXTR_SKIP);
+        $title = empty($instance['title']) ? '' : apply_filters('widget_title', $instance['title']);
+        $title = htmlspecialchars_decode(stripslashes($title));
+        if (!empty($title) && $title <> ' ') {
+            $title = cs_allow_special_char($before_title) . $title . $after_title;
+        }
+
+        $cs_page_id = isset($cs_plugin_options['cs_reservation']) && $cs_plugin_options['cs_reservation'] != '' && absint($cs_plugin_options['cs_reservation']) ? $cs_plugin_options['cs_reservation'] : '';
+
+        $search_link = add_query_arg(array('action' => 'booking'), esc_url(get_permalink($cs_page_id)));
+        $cs_types = get_option('cs_type_options');
+
+        wp_car_rental::cs_enqueue_datepicker_script();
+        ?>
+        <div class="vehicle-search widget-searchform">
+            <script>
+                jQuery(document).ready(function ($) {
+                    cs_widget_script();
+                });
+            </script>
+            <div class="profile-setting tab-content">
+                <form class="form-reviews" method="post" action="<?php echo esc_url($search_link); ?>" id="vehicle-seach">
+                    <div class="tab-area tab-pane fade active in" id="cs-tab-education3520">
+                        <div class="vehicle-type-wrap">
+                            <ul class="tab-list">
+        <?php
+        $cs_type_data = get_option("cs_type_options");
+        if (isset($cs_type_data) && is_array($cs_type_data) && !empty($cs_type_data)) {
+            $counter = 0;
+            foreach ($cs_type_data as $key => $type) {
+                $counter++;
+                $checked = $counter == 1 ? 'checked="checked"' : '';
+                $active = $counter == 1 ? 'active' : '';
+                if (isset($type['cs_type_image']) && !empty($type['cs_type_image'])) {
+                    $image = '<img src="' . esc_url($type['cs_type_image']) . '" alt="" />';
+                } else {
+                    $image = '';
+                }
+
+                echo '<li class="' . $active . '">' . $image . '<input name="vehicle-type" ' . $checked . ' type="radio" id="type_' . $key . '" value="' . $key . '" /><label for="type_' . $key . '">' . $type['cs_type_name'] . '</label></li>';
+            }
+        }
+        ?>
+                            </ul>
+                        </div>
+                        <div class="select-holder dp-margin">
+                            <select name="pickup_location" class="pickup_location">
+                                <option value=""><?php _e('Select PickUp Location', 'rental') ?></option>
+        <?php
+        $cs_args = array('posts_per_page' => '-1', 'post_type' => 'locations', 'orderby' => 'ID', 'post_status' => 'publish');
+        $cust_query = get_posts($cs_args);
+
+        $cs_locations[''] = __('Select Location', 'rental');
+
+        if (isset($cust_query) && is_array($cust_query) && !empty($cust_query)) {
+            foreach ($cust_query as $key => $location) {
+                echo '<option value="' . $location->ID . '">' . get_the_title($location->ID) . '</option>';
+            }
+        }
+        ?>
+                            </select>
+                        </div>
+                        <div class="select-holder dropup-wrap" style="display:none">
+                            <select class="dropup_location" name="dropup_location">
+                                <option value=""><?php _e('Please Drop Up Location', 'rental') ?></option>
+        <?php
+        $cs_args = array('posts_per_page' => '-1', 'post_type' => 'locations', 'orderby' => 'ID', 'post_status' => 'publish');
+        $cust_query = get_posts($cs_args);
+
+        $cs_locations[''] = __('Select Location', 'rental');
+
+        if (isset($cust_query) && is_array($cust_query) && !empty($cust_query)) {
+            foreach ($cust_query as $key => $location) {
+                echo '<option value="' . $location->ID . '">' . get_the_title($location->ID) . '</option>';
+            }
+        }
+        ?>
+                            </select>
+
+                        </div>
+                        <div class=" check-box">
+                            <input type="hidden" value="off" name="station">
+                            <input type="checkbox" checked="checked" value="on" class="station" name="station" id="station">
+                            <label for="station"><?php _e('Return car to the same station', 'rental') ?></label>
+                        </div>
+                        <div class="pick-date">
+                            <h6><?php _e('Pick up date & time', 'rental') ?></h6>
+                            <div class="date-holder">
+                                <div class="date cs-calendar-combo">
+                                    <input type="text" class="pickup_date" name="pickup_date" value="<?php echo date('d.m.Y'); ?>" placeholder="<?php echo date('d.m.Y'); ?>">
+                                </div>
+                                <div class="time">
+                                    <input type="text" class="pickup_time" name="pickup_time" value="<?php echo date('H:i A'); ?>" placeholder="<?php echo date('H:i A'); ?>">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pick-date">
+                            <h6><?php _e('Drop date & time', 'rental') ?></h6>
+                            <div class="date-holder">
+                                <div class="date cs-calendar-combo">
+                                    <input type="text" class="dropup_date" name="dropup_date"  value="<?php echo date('d.m.Y'); ?>" placeholder="<?php echo date('d.m.Y'); ?>">
+                                </div>
+                                <div class="time">
+                                    <input type="text" class="dropup_time" name="dropup_time" value="<?php echo date('H:i A'); ?>" placeholder="<?php echo date('H:i A'); ?>">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="check-box">
+                            <div  class="pull-left" style="padding-top:5px;">
+                                <input type="hidden" value="off" name="aged">
+                                <input type="checkbox" value="on" name="aged"  class="aged" id="aged">
+                                <label for="aged"><?php _e('Driver aged between 25 – 70?', 'rental') ?></label>
+                            </div>
+        <?php /* ?>                <a href="javascript:;" class="btn-search seach_vehicle_btn"><i class="icon-arrow-right9"></i><?php _e('Search Car','rental')?></a><?php */ ?>
+                            <input type="submit" class="btn-search seach_vehicle_btn" value="<?php _e('Search Car', 'rental') ?>" /> 
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <?php
+    }
+
+}
+
+add_action('widgets_init', create_function('', 'return register_widget("vehicle_search");'));
+?>
